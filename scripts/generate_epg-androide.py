@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Androide_EPG
+Androide_EPG - Genera 2 JSON separati (Sky e DAZN)
 
 """
 
@@ -89,10 +89,32 @@ def parse_epg_xml(xml_file: str):
         'next_programmes': next_programmes
     }
 
-def generate_androide_epg(epg_data):
-    """Genera JSON semplice - solo EPG"""
+def categorize_channel(channel_name):
+    """Categorizza il canale in base al nome"""
     
-    print("\n Generazione Androide_epg...")
+    name_lower = channel_name.lower()
+    
+    # SPORT
+    if any(keyword in name_lower for keyword in ['sport', 'calcio', 'f1', 'motogp', 'tennis', 'golf']):
+        return 'SPORT'
+    
+    # CINEMA
+    if 'cinema' in name_lower:
+        return 'CINEMA'
+    
+    # BAMBINI
+    if any(keyword in name_lower for keyword in ['cartoon', 'kids', 'junior', 'bambini', 'boing', 'cartoonito']):
+        return 'BAMBINI'
+    
+    # INTRATTENIMENTO (tutto il resto)
+    return 'INTRATTENIMENTO'
+
+def is_dazn_channel(channel_name):
+    """Verifica se è un canale DAZN"""
+    return 'dazn' in channel_name.lower()
+
+def generate_json(epg_data, include_dazn=True, only_dazn=False):
+    """Genera JSON filtrato"""
     
     androide = {
         "SetViewMode": "51",
@@ -100,29 +122,51 @@ def generate_androide_epg(epg_data):
         "items": []
     }
     
-    # Header semplice
+    # Header
     now = datetime.now()
-    androide['items'].append({
-        "title": "Androide - EPG",
-        "link": "ignoreme",
-        "info": f"Aggiornato: {now.strftime('%d/%m/%Y %H:%M')}"
-    })
+    if only_dazn:
+        androide['items'].append({
+            "title": "DAZN - EPG",
+            "link": "ignoreme",
+            "info": f"Aggiornato: {now.strftime('%d/%m/%Y %H:%M')}"
+        })
+    else:
+        androide['items'].append({
+            "title": "Sky - EPG",
+            "link": "ignoreme",
+            "info": f"Aggiornato: {now.strftime('%d/%m/%Y %H:%M')}"
+        })
     
-    # Canali in ordine alfabetico
-    channels_list = list(epg_data['channels'].items())
-    channels_list.sort(key=lambda x: x[1]['name'])
+    # Raggruppa canali per categoria
+    categories = {
+        'CINEMA': [],
+        'INTRATTENIMENTO': [],
+        'SPORT': [],
+        'BAMBINI': []
+    }
     
-    for channel_id, channel_info in channels_list:
+    for channel_id, channel_info in epg_data['channels'].items():
         current_prog = epg_data['current_programmes'].get(channel_id)
-        next_prog = epg_data['next_programmes'].get(channel_id)
         
         if not current_prog:
             continue
         
-        # Titolo: Nome canale - Orario Programma
+        # Filtra in base a DAZN
+        is_dazn = is_dazn_channel(channel_info['name'])
+        
+        if only_dazn and not is_dazn:
+            continue  # Skip canali non-DAZN se vogliamo solo DAZN
+        
+        if not include_dazn and is_dazn:
+            continue  # Skip DAZN se vogliamo solo Sky
+        
+        category = categorize_channel(channel_info['name'])
+        
+        # Titolo
         title = f"{channel_info['name']} - {current_prog['start_str']} {current_prog['title']}"
         
-        # Info: orario + descrizione + prossimo
+        # Info
+        next_prog = epg_data['next_programmes'].get(channel_id)
         info_parts = [
             f"In onda: {current_prog['start_str']} - {current_prog['stop_str']}"
         ]
@@ -139,20 +183,43 @@ def generate_androide_epg(epg_data):
             "info": '\n'.join(info_parts)
         }
         
-        # Aggiungi icona se disponibile
         if channel_info.get('icon'):
             item["thumbnail"] = channel_info['icon']
         
-        androide['items'].append(item)
+        categories[category].append(item)
     
-    print(f" Generati {len(androide['items'])} items")
+    # Aggiungi le categorie
+    category_order = ['CINEMA', 'INTRATTENIMENTO', 'SPORT', 'BAMBINI']
+    
+    for category in category_order:
+        if not categories[category]:
+            continue
+        
+        # Header categoria
+        if only_dazn:
+            link = "https://raw.githubusercontent.com/aandroide/Epg/main/json/dazn_epg.json"
+        else:
+            link = "https://raw.githubusercontent.com/aandroide/Epg/main/json/sky_epg.json"
+        
+        androide['items'].append({
+            "title": category,
+            "externallink": link,
+            "info": f"{len(categories[category])} canali"
+        })
+        
+        # Ordina alfabeticamente
+        categories[category].sort(key=lambda x: x['title'])
+        
+        # Aggiungi i canali
+        for item in categories[category]:
+            androide['items'].append(item)
     
     return androide
 
 def main():
     """Main"""
     
-    print(" Androide - Solo EPG\n")
+    print(" Androide - Generazione 2 JSON separati\n")
     
     epg_xml = os.path.join(CACHE_DIR, 'epg_raw.xml')
     
@@ -162,17 +229,32 @@ def main():
     
     epg_data = parse_epg_xml(epg_xml)
     
-    # Genera JSON
+    # Crea directory output
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     
-    androide_epg_json = generate_androide_epg(epg_data)
+    # 1. Genera JSON SKY (senza DAZN)
+    print("\n Generazione Sky EPG...")
+    sky_json = generate_json(epg_data, include_dazn=False, only_dazn=False)
     
-    output_file = os.path.join(OUTPUT_DIR, 'androide_epg.json')
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(androide_epg_json, f, ensure_ascii=False, indent=2)
+    sky_file = os.path.join(OUTPUT_DIR, 'sky_epg.json')
+    with open(sky_file, 'w', encoding='utf-8') as f:
+        json.dump(sky_json, f, ensure_ascii=False, indent=2)
     
-    print(f"\n Output: {output_file}")
-    print(" Completato!\n")
+    print(f" Generati {len(sky_json['items'])} items per Sky")
+    print(f" Output: {sky_file}")
+    
+    # 2. Genera JSON DAZN (solo DAZN)
+    print("\n Generazione DAZN EPG...")
+    dazn_json = generate_json(epg_data, include_dazn=True, only_dazn=True)
+    
+    dazn_file = os.path.join(OUTPUT_DIR, 'dazn_epg.json')
+    with open(dazn_file, 'w', encoding='utf-8') as f:
+        json.dump(dazn_json, f, ensure_ascii=False, indent=2)
+    
+    print(f" Generati {len(dazn_json['items'])} items per DAZN")
+    print(f" Output: {dazn_file}")
+    
+    print("\n Completato! 2 JSON generati\n")
 
 if __name__ == '__main__':
     main()
