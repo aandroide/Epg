@@ -57,7 +57,7 @@ jobs:
           head -30 json/dazn_epg.json || echo "File non esiste!"
       
       - name: ✅ Upload artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: json-files
           path: json/*.json
