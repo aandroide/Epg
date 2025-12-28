@@ -41,7 +41,7 @@ jobs:
         env:
           TZ: Europe/Rome
         run: |
-          git config user.name "Androide Update Bot"
+          git config user.name " 🤖 Androide Update Bot"
           git config user.email "bot@androide_epg.com"
           git add cache/ json/
           git commit -m " Update $(date +'%Y-%m-%d %H:%M')" || exit 0
