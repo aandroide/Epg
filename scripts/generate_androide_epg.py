@@ -197,9 +197,9 @@ def generate_json(epg_data, include_dazn=True, only_dazn=False):
         
         # Header categoria
         if only_dazn:
-            link = "https://raw.githubusercontent.com/aandroide/Epg/main/json/dazn_epg.json"
+            link = "https://raw.githubusercontent.com/aandroide/Epg/test/json/dazn_epg.json"
         else:
-            link = "https://raw.githubusercontent.com/aandroide/Epg/main/json/sky_epg.json"
+            link = "https://raw.githubusercontent.com/aandroide/Epg/test/json/sky_epg.json"
         
         androide['items'].append({
             "title": category,
