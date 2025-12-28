@@ -1,4 +1,4 @@
-name: Androide_epg
+name: Androide EPG - Auto Update (TEST)
 
 on:
   schedule:
@@ -6,43 +6,46 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-androide_epg:
+  update-androide-epg:
     runs-on: ubuntu-latest
     
     steps:
-      - name: Checkout
+      - name:  Checkout branch test
         uses: actions/checkout@v3
+        with:
+          ref: test  # Checkout del branch test
       
-      - name: Setup Python
+      - name:  Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
       
-      - name: Install dependencies
+      - name:  Install dependencies
         run: pip install requests lxml
       
-      - name: Download EPG
+      - name:  Download EPG
         id: download
         run: |
           python scripts/fetch_openepg.py
           
-          if git diff --quiet cache/epg_raw.xml.gz 2>/dev/null; then
+          if git diff --quiet cache/epg_raw.xml 2>/dev/null; then
             echo "changed=false" >> $GITHUB_OUTPUT
           else
             echo "changed=true" >> $GITHUB_OUTPUT
           fi
       
-      - name: Generate JSON
+      - name:  Generate JSON
         if: steps.download.outputs.changed == 'true'
-        run: python scripts/generate_epg-androide.py
+        run: python scripts/generate_androide_epg.py
       
-      - name: Commit
+      - name:  Commit su branch test
         if: steps.download.outputs.changed == 'true'
-        env:
-          TZ: Europe/Rome
         run: |
-          git config user.name " 🤖 Androide Update Bot"
-          git config user.email "bot@androide_epg.com"
+          git config user.name "Androide Update Bot"
+          git config user.email "bot@androide.epg"
           git add cache/ json/
-          git commit -m " Update $(date +'%Y-%m-%d %H:%M')" || exit 0
-          git push
+          
+          # Usa fuso orario italiano
+          export TZ='Europe/Rome'
+          git commit -m "📺 EPG Update $(date +'%Y-%m-%d %H:%M') [TEST]" || exit 0
+          git push origin test  # Push sul branch test
