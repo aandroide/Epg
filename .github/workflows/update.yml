@@ -1,63 +1,52 @@
-name: DEBUG - Test Script
+name: Androide EPG - Auto Update
 
 on:
+  schedule:
+    - cron: '0 */3 * * *'  # Ogni 3 ore
   workflow_dispatch:
 
 jobs:
-  test-script:
+  update-androide-epg:
     runs-on: ubuntu-latest
     
     steps:
-      - name: 📥 Checkout
+      - name:  Checkout branch test
         uses: actions/checkout@v3
         with:
           ref: test
+          fetch-depth: 1
       
-      - name: 🐍 Setup Python
+      - name:  Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
       
-      - name: 📦 Install dependencies
+      - name:  Install dependencies
         run: pip install requests lxml
       
-      - name: 🌐 Download EPG
-        run: python scripts/fetch_openepg.py
-      
-      - name: 🔍 Verifica file EPG
+      - name:  Download EPG
+        id: download
         run: |
-          echo "=== File scaricato ==="
-          ls -lah cache/
-          echo ""
-          echo "=== Prime righe EPG ==="
-          head -20 cache/epg_raw.xml
-      
-      - name: 🔄 Esegui script (con output completo)
-        run: |
-          echo "=== ESECUZIONE SCRIPT ==="
-          python scripts/generate_androide_epg.py
-          EXIT_CODE=$?
-          echo ""
-          echo "Exit code: $EXIT_CODE"
+          python scripts/fetch_openepg.py
           
-          if [ $EXIT_CODE -ne 0 ]; then
-            echo "❌ Script fallito!"
-            exit 1
+          if git diff --quiet cache/epg_raw.xml 2>/dev/null; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
           fi
       
-      - name: 📂 Mostra risultati
-        run: |
-          echo "=== Contenuto json/ ==="
-          ls -lah json/
-          echo ""
-          echo "=== sky_epg.json (prime righe) ==="
-          head -30 json/sky_epg.json || echo "File non esiste!"
-          echo ""
-          echo "=== dazn_epg.json (prime righe) ==="
-          head -30 json/dazn_epg.json || echo "File non esiste!"
+      - name:  Generate JSON
+        if: steps.download.outputs.changed == 'true'
+        run: python scripts/generate_androide_epg.py
       
-      - name: ✅ Upload artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: json-files
-          path: json/*.json
+      - name:  Commit su branch test
+        if: steps.download.outputs.changed == 'true'
+        run: |
+          git config user.name "Androide Update Bot"
+          git config user.email "bot@androide.epg"
+          git add cache/ json/
+          
+          # Usa fuso orario italiano
+          export TZ='Europe/Rome'
+          git commit -m " EPG Update $(date +'%Y-%m-%d %H:%M') [TEST]" || exit 0
+          git push origin HEAD:test
