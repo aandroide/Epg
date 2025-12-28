@@ -1,0 +1,28 @@
+{
+  "SetViewMode": "51",
+  "RefreshList": "10800",
+  "items": [
+    {
+      "title": "DAZN - EPG",
+      "link": "ignoreme",
+      "info": "Aggiornato: 28/12/2025 21:51"
+    },
+    {
+      "title": "INTRATTENIMENTO",
+      "externallink": "https://raw.githubusercontent.com/aandroide/Epg/test/json/dazn_epg.json",
+      "info": "2 canali"
+    },
+    {
+      "title": "DAZN 1.it - 18:30 Atalanta - Inter",
+      "link": "ignoreme",
+      "info": "In onda: 18:30 - 00:00\n\nSerie A - 17a g. Ambizione, tattica e personalita: la stagione riparte con gli allenatori protagonisti, tra ritorni, rivoluzioni e conferme.\n\nA seguire (00:00): DAZN 1",
+      "thumbnail": "https://images.open-epg.com/19310.png"
+    },
+    {
+      "title": "DAZN 2.it - 17:00 Nessun evento in onda",
+      "link": "ignoreme",
+      "info": "In onda: 17:00 - 23:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (23:00): Nessun evento in onda",
+      "thumbnail": "https://images.open-epg.com/19311.png"
+    }
+  ]
+}
