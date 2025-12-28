@@ -35,8 +35,7 @@ jobs:
             echo "changed=true" >> $GITHUB_OUTPUT
           fi
       
-      - name:  Generate JSON
-        if: steps.download.outputs.changed == 'true'
+      - name:  Generate JSON (sempre)
         run: python scripts/generate_androide_epg.py
       
       - name:  Commit su branch test
