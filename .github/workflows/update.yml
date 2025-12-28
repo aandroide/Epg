@@ -13,7 +13,8 @@ jobs:
       - name:  Checkout branch test
         uses: actions/checkout@v3
         with:
-          ref: test  # Checkout del branch test
+          ref: test
+          fetch-depth: 1
       
       - name:  Setup Python
         uses: actions/setup-python@v4
@@ -47,5 +48,5 @@ jobs:
           
           # Usa fuso orario italiano
           export TZ='Europe/Rome'
-          git commit -m "📺 EPG Update $(date +'%Y-%m-%d %H:%M') [TEST]" || exit 0
-          git push origin test  # Push sul branch test
+          git commit -m " EPG Update $(date +'%Y-%m-%d %H:%M') [TEST]" || exit 0
+          git push origin HEAD:test
