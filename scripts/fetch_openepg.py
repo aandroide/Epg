@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Scarica EPG da Open-EPG
-URL: https://www.open-epg.com/generate/56jVbhRGv6.xml
+URL: https://www.open-epg.com/generate/EDanRWx8Pp.xml
 
 """
 
@@ -11,7 +11,7 @@ import requests
 from datetime import datetime
 
 # CONFIGURAZIONE - Il tuo EPG xml
-OPENEPG_URL = "https://www.open-epg.com/generate/56jVbhRGv6.xml"
+OPENEPG_URL = "https://www.open-epg.com/generate/EDanRWx8Pp.xml"
 
 CACHE_DIR = 'cache'
 OUTPUT_FILE = os.path.join(CACHE_DIR, 'epg_raw.xml')
