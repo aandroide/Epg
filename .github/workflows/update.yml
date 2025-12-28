@@ -25,21 +25,12 @@ jobs:
         run: pip install requests lxml
       
       - name:  Download EPG
-        id: download
-        run: |
-          python scripts/fetch_openepg.py
-          
-          if git diff --quiet cache/epg_raw.xml 2>/dev/null; then
-            echo "changed=false" >> $GITHUB_OUTPUT
-          else
-            echo "changed=true" >> $GITHUB_OUTPUT
-          fi
+        run: python scripts/fetch_openepg.py
       
-      - name:  Generate JSON (sempre)
+      - name:  Generate JSON
         run: python scripts/generate_androide_epg.py
       
-      - name:  Commit su branch test
-        if: steps.download.outputs.changed == 'true'
+      - name:  Commit and Push
         run: |
           git config user.name "Androide Update Bot"
           git config user.email "bot@androide.epg"
@@ -47,5 +38,11 @@ jobs:
           
           # Usa fuso orario italiano
           export TZ='Europe/Rome'
-          git commit -m " EPG Update $(date +'%Y-%m-%d %H:%M') [TEST]" || exit 0
-          git push origin HEAD:test
+          
+          # Commit solo se ci sono cambiamenti
+          if git diff --staged --quiet; then
+            echo "Nessun cambiamento da committare"
+          else
+            git commit -m " EPG Update $(date +'%Y-%m-%d %H:%M') [TEST]"
+            git push origin HEAD:test
+          fi
