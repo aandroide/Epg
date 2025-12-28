@@ -1,4 +1,4 @@
-name: Androide_epg
+name: Androide_epg_test
 
 on:
   schedule:
