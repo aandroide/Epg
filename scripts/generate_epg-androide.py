@@ -95,7 +95,7 @@ def generate_androide_epg(epg_data):
     print("\n Generazione Androide_epg...")
     
     androide = {
-        "SetViewMode": "51",
+        "SetViewMode": "503",
         "RefreshList": "10800",
         "items": []
     }
