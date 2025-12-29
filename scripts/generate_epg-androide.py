@@ -97,6 +97,7 @@ def generate_androide_epg(epg_data):
     androide = {
         "SetViewMode": "503",
         "RefreshList": "10800",
+        "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
         "items": []
     }
     
