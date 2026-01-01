@@ -1,104 +1,47 @@
-{
-  "SetViewMode": "51",
-  "channels": [
-    {
-      "name": "[COLOR lime]TEST DMAX - EPG STILE ORIGINALE[/COLOR]",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/512px-DMAX_-_Logo_2016.svg.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "items": [
-        {
-          "title": "[COLOR gold]DMAX[/COLOR] [COLOR blue](ITA)[/COLOR]",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/512px-DMAX_-_Logo_2016.svg.png",
-          "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-          "SetViewMode": "503",
-          "items": [
-            {
-              "title": "[COLOR lime]▶ DIRETTA DMAX[/COLOR]",
-              "myresolve": "amstaff@@aHR0cHM6Ly9hbWcxNjE0Ni13YmRpLWFtZzE2MTQ2Yzgtc2Ftc3VuZy1pdC0xODQxLnBsYXlvdXRzLm5vdy5hbWFnaS50di9wbGF5bGlzdC9hbWcxNjE0Ni13YXJuZXJicm9zZGlzY292ZXJ5aXRhbGlhLWRtYXgtc2Ftc3VuZ2l0L3BsYXlsaXN0Lm0zdTh8MDAwMA==",
-              "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/512px-DMAX_-_Logo_2016.svg.png",
-              "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-              "info": "Guarda DMAX in diretta streaming"
-            },
-            {
-              "title": "[COLOR yellow]═══════ PROGRAMMAZIONE DI OGGI ═══════[/COLOR]",
-              "myresolve": "showMsg@@Guida TV DMAX - Programmi di oggi",
-              "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/512px-DMAX_-_Logo_2016.svg.png",
-              "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-              "info": "Programmazione completa del canale DMAX"
-            },
-            {
-              "title": "[COLOR blue]14:00[/COLOR] [COLOR gold]Affari a quattro ruote[/COLOR] [COLOR lime](60 min)[/COLOR]",
-              "myresolve": "showMsg@@Il link va cercato nelle liste disponibili",
-              "thumbnail": "https://image.tmdb.org/t/p/w780/wBjKEzW5xEEDzkWG5EpTUxnEsRg.jpg",
-              "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-              "info": "Mike Brewer e Ant Anstead cercano auto d'epoca da ristrutturare e rivendere con profitto."
-            },
-            {
-              "title": "[COLOR blue]15:00[/COLOR] [COLOR gold]Affari di famiglia[/COLOR] [COLOR lime](60 min)[/COLOR]",
-              "myresolve": "showMsg@@Il link va cercato nelle liste disponibili",
-              "thumbnail": "https://image.tmdb.org/t/p/w780/38QTIFMRijfGJCBDpFj0X9GDi0y.jpg",
-              "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-              "info": "La famiglia Harrison gestisce un banco dei pegni a Las Vegas, dove ogni giorno arrivano oggetti straordinari."
-            },
-            {
-              "title": "[COLOR blue]16:00[/COLOR] [COLOR gold]Nudi e crudi[/COLOR] [COLOR lime](60 min)[/COLOR]",
-              "myresolve": "showMsg@@Il link va cercato nelle liste disponibili",
-              "thumbnail": "https://image.tmdb.org/t/p/w780/xSKSKKEcLXcJXhEWJVYWANPDFhP.jpg",
-              "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-              "info": "Due sconosciuti vengono lasciati nudi in un ambiente estremo per sopravvivere 21 giorni."
-            },
-            {
-              "title": "[COLOR blue]17:00[/COLOR] [COLOR gold]Marchio di fabbrica[/COLOR] [COLOR lime](60 min)[/COLOR]",
-              "myresolve": "showMsg@@Il link va cercato nelle liste disponibili",
-              "thumbnail": "https://image.tmdb.org/t/p/w780/pTqCWKuhlE7GRhLAB8V0q3OmGrJ.jpg",
-              "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-              "info": "Uno sguardo dietro le quinte della produzione di oggetti e prodotti che usiamo quotidianamente."
-            },
-            {
-              "title": "[COLOR blue]18:00[/COLOR] [COLOR gold]Border Security[/COLOR] [COLOR lime](60 min)[/COLOR]",
-              "myresolve": "showMsg@@Il link va cercato nelle liste disponibili",
-              "thumbnail": "https://image.tmdb.org/t/p/w780/dGdqPcDN9UcbxXJnP9VJ4K3E1oq.jpg",
-              "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-              "info": "Le forze dell'ordine australiane controllano aeroporti e frontiere per fermare contrabbandieri e immigrati illegali."
-            },
-            {
-              "title": "[COLOR blue]19:00[/COLOR] [COLOR gold]Ingegneria perduta[/COLOR] [COLOR lime](60 min)[/COLOR]",
-              "myresolve": "showMsg@@Il link va cercato nelle liste disponibili",
-              "thumbnail": "https://image.tmdb.org/t/p/w780/kFxGNkTzPJRhZ0e7o1rVhCqV5wX.jpg",
-              "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-              "info": "Un'esplorazione di tecnologie e costruzioni antiche che hanno cambiato il mondo."
-            },
-            {
-              "title": "[COLOR blue]20:00[/COLOR] [COLOR gold]Gli eroi del ghiaccio[/COLOR] [COLOR lime](60 min)[/COLOR]",
-              "myresolve": "showMsg@@Il link va cercato nelle liste disponibili",
-              "thumbnail": "https://image.tmdb.org/t/p/w780/gqQGPV9k2ky9ByJcXLWjNaFP6ml.jpg",
-              "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-              "info": "Autotrasportatori affrontano le strade ghiacciate del Canada per consegnare merci in condizioni estreme."
-            },
-            {
-              "title": "[COLOR blue]21:00[/COLOR] [COLOR gold]Cacciatori di relitti[/COLOR] [COLOR lime](90 min)[/COLOR]",
-              "myresolve": "showMsg@@Il link va cercato nelle liste disponibili",
-              "thumbnail": "https://image.tmdb.org/t/p/w780/t6UuLEJFGlB9gPKNqzV8r5kQPCz.jpg",
-              "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-              "info": "Drew Pritchard viaggia per il Regno Unito alla ricerca di oggetti antichi da restaurare e rivendere."
-            },
-            {
-              "title": "[COLOR blue]22:30[/COLOR] [COLOR gold]Mega navi[/COLOR] [COLOR lime](60 min)[/COLOR]",
-              "myresolve": "showMsg@@Il link va cercato nelle liste disponibili",
-              "thumbnail": "https://image.tmdb.org/t/p/w780/7kGHYIiGLW9AqYrr5D0K7d6f8kD.jpg",
-              "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-              "info": "Un viaggio a bordo delle navi piu' grandi e tecnologicamente avanzate del mondo."
-            },
-            {
-              "title": "[COLOR blue]23:30[/COLOR] [COLOR gold]Misteri dal sottosuolo[/COLOR] [COLOR lime](60 min)[/COLOR]",
-              "myresolve": "showMsg@@Il link va cercato nelle liste disponibili",
-              "thumbnail": "https://image.tmdb.org/t/p/w780/3QbkVE1nRv91BVdg5zqKb5zKP5L.jpg",
-              "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-              "info": "Esplorazioni di luoghi sotterranei nascosti che raccontano storie dimenticate della storia."
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv generator-info-name="MandraKodi EPG Generator" generator-info-url="https://mandrakodi.com">
+  <channel id="DMAX.it">
+    <display-name>DMAX Italia</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/512px-DMAX_-_Logo_2016.svg.png"/>
+  </channel>
+  <programme start="20260101140000 +0100" stop="20260101150000 +0100" channel="DMAX.it">
+    <title>Affari a quattro ruote</title>
+    <desc>Mike Brewer e Ant Anstead cercano auto d'epoca da ristrutturare e rivendere con profitto.</desc>
+  </programme>
+  <programme start="20260101150000 +0100" stop="20260101160000 +0100" channel="DMAX.it">
+    <title>Affari di famiglia</title>
+    <desc>La famiglia Harrison gestisce un banco dei pegni a Las Vegas, dove ogni giorno arrivano oggetti straordinari.</desc>
+  </programme>
+  <programme start="20260101160000 +0100" stop="20260101170000 +0100" channel="DMAX.it">
+    <title>Nudi e crudi</title>
+    <desc>Due sconosciuti vengono lasciati nudi in un ambiente estremo per sopravvivere 21 giorni.</desc>
+  </programme>
+  <programme start="20260101170000 +0100" stop="20260101180000 +0100" channel="DMAX.it">
+    <title>Marchio di fabbrica</title>
+    <desc>Uno sguardo dietro le quinte della produzione di oggetti e prodotti che usiamo quotidianamente.</desc>
+  </programme>
+  <programme start="20260101180000 +0100" stop="20260101190000 +0100" channel="DMAX.it">
+    <title>Border Security</title>
+    <desc>Le forze dell'ordine australiane controllano aeroporti e frontiere per fermare contrabbandieri.</desc>
+  </programme>
+  <programme start="20260101190000 +0100" stop="20260101200000 +0100" channel="DMAX.it">
+    <title>Ingegneria perduta</title>
+    <desc>Un'esplorazione di tecnologie e costruzioni antiche che hanno cambiato il mondo.</desc>
+  </programme>
+  <programme start="20260101200000 +0100" stop="20260101210000 +0100" channel="DMAX.it">
+    <title>Gli eroi del ghiaccio</title>
+    <desc>Autotrasportatori affrontano le strade ghiacciate del Canada per consegnare merci.</desc>
+  </programme>
+  <programme start="20260101210000 +0100" stop="20260101223000 +0100" channel="DMAX.it">
+    <title>Cacciatori di relitti</title>
+    <desc>Drew Pritchard viaggia per il Regno Unito alla ricerca di oggetti antichi da restaurare.</desc>
+  </programme>
+  <programme start="20260101223000 +0100" stop="20260101233000 +0100" channel="DMAX.it">
+    <title>Mega navi</title>
+    <desc>Un viaggio a bordo delle navi piu' grandi e tecnologicamente avanzate del mondo.</desc>
+  </programme>
+  <programme start="20260101233000 +0100" stop="20260102003000 +0100" channel="DMAX.it">
+    <title>Misteri dal sottosuolo</title>
+    <desc>Esplorazioni di luoghi sotterranei nascosti che raccontano storie dimenticate.</desc>
+  </programme>
+</tv>
