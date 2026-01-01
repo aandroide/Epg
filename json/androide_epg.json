@@ -1,94 +1,216 @@
 {
-  "SetViewMode": "51",
-  "channels": [
+  "SetViewMode": "503",
+  "RefreshList": "10800",
+  "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+  "items": [
     {
-      "name": "[COLOR lime]TEST - DMAX CON EPG[/COLOR]",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/512px-DMAX_-_Logo_2016.svg.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "items": [
-        {
-          "title": "[COLOR gold]DMAX[/COLOR] [COLOR blue](ITA)[/COLOR]",
-          "myresolve": "amstaff@@aHR0cHM6Ly9hbWcxNjE0Ni13YmRpLWFtZzE2MTQ2Yzgtc2Ftc3VuZy1pdC0xODQxLnBsYXlvdXRzLm5vdy5hbWFnaS50di9wbGF5bGlzdC9hbWcxNjE0Ni13YXJuZXJicm9zZGlzY292ZXJ5aXRhbGlhLWRtYXgtc2Ftc3VuZ2l0L3BsYXlsaXN0Lm0zdTh8MDAwMA==",
-          "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/512px-DMAX_-_Logo_2016.svg.png",
-          "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-          "info": "DMAX",
-          "epg": {
-            "SetViewMode": "503",
-            "items": [
-              {
-                "title": "[COLOR blue]14:00[/COLOR] [COLOR gold]Affari a quattro ruote[/COLOR] [COLOR lime](60 min)[/COLOR]",
-                "myresolve": "showMsg@@Il link va cercato nelle liste disponibili",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/wBjKEzW5xEEDzkWG5EpTUxnEsRg.jpg",
-                "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-                "info": "Mike Brewer e Ant Anstead cercano auto d'epoca da ristrutturare e rivendere con profitto."
-              },
-              {
-                "title": "[COLOR blue]15:00[/COLOR] [COLOR gold]Affari di famiglia[/COLOR] [COLOR lime](60 min)[/COLOR]",
-                "myresolve": "showMsg@@Il link va cercato nelle liste disponibili",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/38QTIFMRijfGJCBDpFj0X9GDi0y.jpg",
-                "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-                "info": "La famiglia Harrison gestisce un banco dei pegni a Las Vegas, dove ogni giorno arrivano oggetti straordinari."
-              },
-              {
-                "title": "[COLOR blue]16:00[/COLOR] [COLOR gold]Nudi e crudi[/COLOR] [COLOR lime](60 min)[/COLOR]",
-                "myresolve": "showMsg@@Il link va cercato nelle liste disponibili",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/xSKSKKEcLXcJXhEWJVYWANPDFhP.jpg",
-                "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-                "info": "Due sconosciuti vengono lasciati nudi in un ambiente estremo per sopravvivere 21 giorni."
-              },
-              {
-                "title": "[COLOR blue]17:00[/COLOR] [COLOR gold]Marchio di fabbrica[/COLOR] [COLOR lime](60 min)[/COLOR]",
-                "myresolve": "showMsg@@Il link va cercato nelle liste disponibili",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/pTqCWKuhlE7GRhLAB8V0q3OmGrJ.jpg",
-                "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-                "info": "Uno sguardo dietro le quinte della produzione di oggetti e prodotti che usiamo quotidianamente."
-              },
-              {
-                "title": "[COLOR blue]18:00[/COLOR] [COLOR gold]Border Security[/COLOR] [COLOR lime](60 min)[/COLOR]",
-                "myresolve": "showMsg@@Il link va cercato nelle liste disponibili",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/dGdqPcDN9UcbxXJnP9VJ4K3E1oq.jpg",
-                "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-                "info": "Le forze dell'ordine australiane controllano aeroporti e frontiere per fermare contrabbandieri e immigrati illegali."
-              },
-              {
-                "title": "[COLOR blue]19:00[/COLOR] [COLOR gold]Ingegneria perduta[/COLOR] [COLOR lime](60 min)[/COLOR]",
-                "myresolve": "showMsg@@Il link va cercato nelle liste disponibili",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/kFxGNkTzPJRhZ0e7o1rVhCqV5wX.jpg",
-                "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-                "info": "Un'esplorazione di tecnologie e costruzioni antiche che hanno cambiato il mondo."
-              },
-              {
-                "title": "[COLOR blue]20:00[/COLOR] [COLOR gold]Gli eroi del ghiaccio[/COLOR] [COLOR lime](60 min)[/COLOR]",
-                "myresolve": "showMsg@@Il link va cercato nelle liste disponibili",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/gqQGPV9k2ky9ByJcXLWjNaFP6ml.jpg",
-                "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-                "info": "Autotrasportatori affrontano le strade ghiacciate del Canada per consegnare merci in condizioni estreme."
-              },
-              {
-                "title": "[COLOR blue]21:00[/COLOR] [COLOR gold]Cacciatori di relitti[/COLOR] [COLOR lime](90 min)[/COLOR]",
-                "myresolve": "showMsg@@Il link va cercato nelle liste disponibili",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/t6UuLEJFGlB9gPKNqzV8r5kQPCz.jpg",
-                "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-                "info": "Drew Pritchard viaggia per il Regno Unito alla ricerca di oggetti antichi da restaurare e rivendere."
-              },
-              {
-                "title": "[COLOR blue]22:30[/COLOR] [COLOR gold]Mega navi[/COLOR] [COLOR lime](60 min)[/COLOR]",
-                "myresolve": "showMsg@@Il link va cercato nelle liste disponibili",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/7kGHYIiGLW9AqYrr5D0K7d6f8kD.jpg",
-                "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-                "info": "Un viaggio a bordo delle navi piu' grandi e tecnologicamente avanzate del mondo."
-              },
-              {
-                "title": "[COLOR blue]23:30[/COLOR] [COLOR gold]Misteri dal sottosuolo[/COLOR] [COLOR lime](60 min)[/COLOR]",
-                "myresolve": "showMsg@@Il link va cercato nelle liste disponibili",
-                "thumbnail": "https://image.tmdb.org/t/p/w780/3QbkVE1nRv91BVdg5zqKb5zKP5L.jpg",
-                "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-                "info": "Esplorazioni di luoghi sotterranei nascosti che raccontano storie dimenticate della storia."
-              }
-            ]
-          }
-        }
-      ]
+      "title": "Androide - EPG",
+      "link": "ignoreme",
+      "info": "Aggiornato: 01/01/2026 12:25"
+    },
+    {
+      "title": "DAZN 1.it - 11:52 Bordocam Inter - Milan 2025/26",
+      "link": "ignoreme",
+      "info": "In onda: 11:52 - 12:30\n\nLe emozioni di Inter-Milan. Dallingresso nel tunnel al triplice fischio finale: rivivi le immagini piu belle del derby di Milano da una posizione privilegiata con il Bordocam di Davide Bernardi.\n\nA seguire (12:30): Quarti Session 1",
+      "thumbnail": "https://images.open-epg.com/19310.png"
+    },
+    {
+      "title": "DAZN 2.it - 11:00 Nessun evento in onda",
+      "link": "ignoreme",
+      "info": "In onda: 11:00 - 17:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (17:00): Nessun evento in onda",
+      "thumbnail": "https://images.open-epg.com/19311.png"
+    },
+    {
+      "title": "DAZN.it - 17:00 Ohio State @ Purdue",
+      "link": "ignoreme",
+      "info": "In onda: 17:00 - 17:00\n\nSegui tutta la stagione dellNCAA su DAZN\n\nA seguire (17:00): ReliaQuest Bowl: Vanderbilt vs. Iowa",
+      "thumbnail": "https://images.open-epg.com/1531.png"
+    },
+    {
+      "title": "Sky Arte.it - 12:10 Picasso - Un ribelle a Parigi. Storia di una vita e di un museo",
+      "link": "ignoreme",
+      "info": "In onda: 12:10 - 13:50\n\n... di una vita e di un museo. - La storia di un giovane emigrato, destinato a diventare unicona: quando Picasso arriva a Parigi nel 1901, il suo futuro ha inizio.\n\nA seguire (13:50): Hopper: una storia damore americana",
+      "thumbnail": "https://images.open-epg.com/19379.png"
+    },
+    {
+      "title": "Sky Atlantic.it - 12:15 The Pitt",
+      "link": "ignoreme",
+      "info": "In onda: 12:15 - 13:00\n\nS1 Ep12 18:00 - Quando decine di pazienti critici invadono il pronto soccorso, Robby e il suo team faticano a tenere il passo con le scorte rapidamente esaurite.\n\nA seguire (13:00): The Rainmaker",
+      "thumbnail": "https://images.open-epg.com/19381.png"
+    },
+    {
+      "title": "Sky Cinema Action.it - 11:45 Secret Team 355",
+      "link": "ignoreme",
+      "info": "In onda: 11:45 - 13:45\n\nSpy-action al femminile con Jessica Chastain, Lupita Nyongo, Penelope Cruz e Diane Kruger. Un team di agenti si allea per recuperare un dispositivo top secret finito nelle mani sbagliate (USA/CHN 2021)\n\nA seguire (13:45): Way Down - Rapina alla Banca di Spagna",
+      "thumbnail": "https://images.open-epg.com/19383.png"
+    },
+    {
+      "title": "Sky Cinema Comedy.it - 11:45 I delitti del BarLume - E allora zumba!",
+      "link": "ignoreme",
+      "info": "In onda: 11:45 - 13:25\n\nUn nuovo caso a Pineta nella 21esima storia della produzione Sky Original. Mentre tutti sono occupati, lomicidio della pediatra getta nel panico un papa iper ansioso come Beppe (ITA 2023)\n\nA seguire (13:25): I delitti del BarLume - Il pozzo dei desideri",
+      "thumbnail": "https://images.open-epg.com/19384.png"
+    },
+    {
+      "title": "Sky Cinema Drama.it - 12:00 Lultimo giorno sulla Terra",
+      "link": "ignoreme",
+      "info": "In onda: 12:00 - 13:30\n\nSci-fi movie con Jean Reno e Hugo Becker, opera prima di Romain Quirot. 2050: un planetoide ha desertificato il globo e ora sta per distruggerlo. Paul e lunico astronauta che puo fermarlo (FRA 2020)\n\nA seguire (13:30): Il posto dellanima",
+      "thumbnail": "https://images.open-epg.com/19385.png"
+    },
+    {
+      "title": "Sky Cinema Due.it - 11:30 Dunkirk",
+      "link": "ignoreme",
+      "info": "In onda: 11:30 - 13:20\n\n3 Oscar al War Movie di Christopher Nolan che ripercorre la storica Operazione Dynamo. 1940: la difesa degli inglesi, attaccati dai nazisti, viene narrata da un triplice punto di vista (USA/GBR 2017)\n\nA seguire (13:20): Cera una volta a... Hollywood",
+      "thumbnail": "https://images.open-epg.com/19387.png"
+    },
+    {
+      "title": "Sky Cinema Family.it - 10:55 La fabbrica di cioccolato",
+      "link": "ignoreme",
+      "info": "In onda: 10:55 - 12:50\n\nTim Burton dirige Johnny Depp nel remake di un classico degli anni 70. Un bambino vince un ambito premio che gli apre le porte del variopinto regno delleccentrico Willy Wonka (USA/GBR 2005)\n\nA seguire (12:50): Biancaneve e il cacciatore",
+      "thumbnail": "https://images.open-epg.com/19388.png"
+    },
+    {
+      "title": "Sky Cinema Romance.it - 11:50 Bianco Natale",
+      "link": "ignoreme",
+      "info": "In onda: 11:50 - 13:55\n\nBing Crosby e Danny Kaye in un classico irrinunciabile. Due artisti di varieta vengono scritturati per un musical natalizio dal loro vecchio comandante sullorlo del fallimento (USA 1954)\n\nA seguire (13:55): Appuntamento con lamore",
+      "thumbnail": "https://images.open-epg.com/19389.png"
+    },
+    {
+      "title": "Sky Cinema Suspense.it - 12:00 Speak No Evil - Non parlare con gli sconosciuti",
+      "link": "ignoreme",
+      "info": "In onda: 12:00 - 13:55\n\n... sconosciuti. - James McAvoy in un thriller psicologico targato Blumhouse. Una coppia viene invitata a trascorrere un weekend in una fattoria, ma la situazione degenera (USA 2024)\n\nA seguire (13:55): Trap",
+      "thumbnail": "https://images.open-epg.com/19390.png"
+    },
+    {
+      "title": "Sky Cinema Uno +24.it - 12:20 Speciale - I Delitti Del Barlume - Le Nuove Storie",
+      "link": "ignoreme",
+      "info": "In onda: 12:20 - 12:40\n\n... Le Nuove Storie. Speciale - I Delitti Del Barlume - Le Nuove Storie - Un racconto corale tra costumi e scenografie, intrighi amorosi, minacce balneari e i preparativi del matrimonio di Pasquali.\n\nA seguire (12:40): Il professor Cenerentolo",
+      "thumbnail": "https://images.open-epg.com/19391.png"
+    },
+    {
+      "title": "Sky Cinema Uno.it - 12:25 Dragon Trainer",
+      "link": "ignoreme",
+      "info": "In onda: 12:25 - 14:35\n\nGrande successo in sala per la versione live-action con Gerard Butler della saga DreamWorks. Il giovane Hiccup sfida secoli di tradizione vichinga stringendo amicizia con un drago (USA 2025)\n\nA seguire (14:35): The Beekeeper",
+      "thumbnail": "https://images.open-epg.com/19392.png"
+    },
+    {
+      "title": "Sky Classica.it - 12:00 Almanacco di Bellezza",
+      "link": "ignoreme",
+      "info": "In onda: 12:00 - 12:40\n\nPiero Maranghi, direttore di Sky Classica, passa in rassegna, anniversari e ricorrenze legati la mondo dellarte, della cultura, della storia e dello sport. In studio con lui, il collezionista ed esperto darte Leonardo Piccinini\n\nA seguire (12:40): Goldberg Variations",
+      "thumbnail": "https://images.open-epg.com/4100139.png"
+    },
+    {
+      "title": "Sky Crime.it - 12:00 Ai confini della gelosia",
+      "link": "ignoreme",
+      "info": "In onda: 12:00 - 12:50\n\nS4 Ep12 Rachel Burkheimer - 27 settembre 2002: Rachel Burkheimer, 18 anni, scompare dopo aver incontrato degli amici. La famiglia teme il peggio e denuncia la sua misteriosa sparizione.\n\nA seguire (12:50): Ai confini della gelosia",
+      "thumbnail": "https://images.open-epg.com/19394.png"
+    },
+    {
+      "title": "Sky Documentaries +1.it - 11:35 Bruce Springsteen - In His Own Words",
+      "link": "ignoreme",
+      "info": "In onda: 11:35 - 12:45\n\nUn racconto intimo di Bruce Springsteen, che attraverso la lettura della sua autobiografia si mette a nudo davanti alla telecamera raccontando aneddoti e ricordi.\n\nA seguire (13:45): Food Markets. Profumi e sapori a km zero",
+      "thumbnail": "https://images.open-epg.com/nologo.png"
+    },
+    {
+      "title": "Sky Investigation.it - 12:10 The Blacklist",
+      "link": "ignoreme",
+      "info": "In onda: 12:10 - 13:00\n\nS6 Ep8 Marko Jankowics - La ricerca di Liz e Jennifer su qualche indizio del passato di Red le mette di fronte ad un pericolo inatteso. Red intanto fa da mediatore in una guerra tra gang.\n\nA seguire (13:00): The Blacklist",
+      "thumbnail": "https://images.open-epg.com/19398.png"
+    },
+    {
+      "title": "Sky Nature.it - 12:10 Un anno di natura sulla Terra",
+      "link": "ignoreme",
+      "info": "In onda: 12:10 - 13:00\n\nS1 Ep5 Tempo di passioni - Nel Kalahari, la pioggia accoglie i piccoli suricati. In Cina, la raccolta del riso inaugura lautunno. In Australia Orientale, la primavera accende la passione negli animali.\n\nA seguire (13:00): Un anno di natura sulla Terra",
+      "thumbnail": "https://images.open-epg.com/19393.png"
+    },
+    {
+      "title": "Sky News.it - 12:00 Sky News Today with Gareth Barlow",
+      "link": "ignoreme",
+      "info": "In onda: 12:00 - 12:30\n\nBreaking news, developing stories and live events from Sky News correspondents in the UK and around the world.\n\nA seguire (12:30): Sky News Today with Gareth Barlow",
+      "thumbnail": "https://images.open-epg.com/19400.png"
+    },
+    {
+      "title": "Sky Serie.it - 12:20 Chicago Med",
+      "link": "ignoreme",
+      "info": "In onda: 12:20 - 13:05\n\nS11 Ep5 Cosa Si Nasconde Nel Buio - Uno scontro personale tra Asher e Archer raggiunge il punto di rottura. Charles e Ripley scoprono una rara malattia neurologica in un paziente.\n\nA seguire (13:05): Chicago Fire",
+      "thumbnail": "https://images.open-epg.com/19402.png"
+    },
+    {
+      "title": "Sky Sport 4K.it - 12:15 Torino - Milan",
+      "link": "ignoreme",
+      "info": "In onda: 12:15 - 12:45\n\nTorino - Milan - Granata senza vittorie da 5 turni, 3 pari e 2 ko. A Torino hanno vinto gli ultimi 3 precedenti. Milan a quota 28 punti con una sola sconfitta (1-2 Cremonese). TC: Compagnoni-Gobbi\n\nA seguire (12:45): Inter - Liverpool",
+      "thumbnail": "https://images.open-epg.com/19403.png"
+    },
+    {
+      "title": "Sky Sport Calcio.it - 12:15 Golden Boy",
+      "link": "ignoreme",
+      "info": "In onda: 12:15 - 12:45\n\nGolden Boy\n\nA seguire (12:45): Ajax - Juventus 1996",
+      "thumbnail": "https://images.open-epg.com/19405.png"
+    },
+    {
+      "title": "Sky Sport F1.it - 12:15 In pista con Jannik",
+      "link": "ignoreme",
+      "info": "In onda: 12:15 - 12:30\n\nIn pista con Jannik - Tutta la passione di Jannik Sinner per la F1 nellintervista con Stefano Domenicali e nel giro in macchina con Kimi Antonelli\n\nA seguire (12:30): Luomo Contro La Macchina",
+      "thumbnail": "https://images.open-epg.com/19406.png"
+    },
+    {
+      "title": "Sky Sport Golf.it - 12:00 Irish Challenge",
+      "link": "ignoreme",
+      "info": "In onda: 12:00 - 12:30\n\nIrish Challenge - Challenge Series\n\nA seguire (12:30): Abu Dhabi Championship: Giorno 4",
+      "thumbnail": "https://images.open-epg.com/19407.png"
+    },
+    {
+      "title": "Sky Sport Max.it - 11:00 Zebre Parma - Benetton",
+      "link": "ignoreme",
+      "info": "In onda: 11:00 - 13:05\n\nZebre Parma - Benetton - 8a giornata del campionato italo-celtico-sudafricano. Derby di ritorno a Parma tra le 2 franchigie italiane. Sette giorni fa successo del Benetton. Telecronaca Pierantozzi-De Rossi\n\nA seguire (14:55): Luomo Contro La Macchina",
+      "thumbnail": "https://images.open-epg.com/19408.png"
+    },
+    {
+      "title": "Sky Sport MotoGP.it - 12:00 Speciale Eicma 2025 - Dietro Le",
+      "link": "ignoreme",
+      "info": "In onda: 12:00 - 12:30\n\n... quinte Di Motolive. - Motolive e stata il cuore pulsante di Eicma 2025. Eventi, gare, lo spazio dedicato alla Dakar e molto altro da rivedere in questo speciale che ci porta dietro le quinte della manifestazione.\n\nA seguire (12:30): Un Anno Di Moto2 2025",
+      "thumbnail": "https://images.open-epg.com/19409.png"
+    },
+    {
+      "title": "Sky Sport Tennis.it - 09:00 Sinner - Alcaraz",
+      "link": "ignoreme",
+      "info": "In onda: 09:00 - 12:45\n\nFinale Uomini: Sinner - Alcaraz - Sinner - Alcaraz\n\nA seguire (12:45): Wimbledon Official Film",
+      "thumbnail": "https://images.open-epg.com/19404.png"
+    },
+    {
+      "title": "Sky Sport Uno.it - 11:05 The Lost Dreamteam",
+      "link": "ignoreme",
+      "info": "In onda: 11:05 - 12:30\n\nTra fine anni 80 e inizio 90 la Jugoslavia del basket domina il mondo, ma la guerra spezza squadra e Paese. Il regista Jure Pavlovic racconta quel sogno interrotto.\n\nA seguire (12:30): Sofia Goggia",
+      "thumbnail": "https://images.open-epg.com/19410.png"
+    },
+    {
+      "title": "Sky TG24.it - 12:00 Ore 13",
+      "link": "ignoreme",
+      "info": "In onda: 12:00 - 12:30\n\nLe notizie della giornata raccontate con collegamenti live e approfondimenti. Con una finestra sul nostro Paese. E, sempre, il fatto principale del giorno analizzato e commentato da un esperto.\n\nA seguire (12:30): Ore 13",
+      "thumbnail": "https://images.open-epg.com/19411.png"
+    },
+    {
+      "title": "Sky Uno.it - 11:50 Alessandro Borghese - 4 Ristoranti",
+      "link": "ignoreme",
+      "info": "In onda: 11:50 - 13:15\n\nChioggia, citta lagunare, ha da offrire una squisita proposta culinaria. Alessandro Borghese e alla ricerca del miglior ristorante di pesce della citta.\n\nA seguire (13:15): Alessandro Borghese - 4 Ristoranti",
+      "thumbnail": "https://images.open-epg.com/19413.png"
+    },
+    {
+      "title": "ZONA DAZN.it - 11:52 Bordocam Inter - Milan 2025/26",
+      "link": "ignoreme",
+      "info": "In onda: 11:52 - 12:30\n\nMilan 2025/26 - Le emozioni di...\n\nA seguire (12:30): Quarti Session 1",
+      "thumbnail": "https://images.open-epg.com/1700.png"
+    },
+    {
+      "title": "Zona Dazn 2.it - 11:00 Nessun evento in onda",
+      "link": "ignoreme",
+      "info": "In onda: 11:00 - 17:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (17:00): Nessun evento in onda",
+      "thumbnail": "https://images.open-epg.com/7515553.png"
+    },
+    {
+      "title": "Zona Dazn.it - 11:52 Bordocam Inter - Milan 2025/26",
+      "link": "ignoreme",
+      "info": "In onda: 11:52 - 12:30\n\nLe emozioni di Inter-Milan. Dallingresso nel tunnel al triplice fischio finale: rivivi le immagini piu belle del derby di Milano da una posizione privilegiata con il Bordocam di Davide Bernardi.\n\nA seguire (12:30): Quarti Session 1",
+      "thumbnail": "https://images.open-epg.com/7515557.png"
     }
   ]
 }
