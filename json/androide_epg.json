@@ -2,7 +2,7 @@
   "SetViewMode": "51",
   "channels": [
     {
-      "name": "[COLOR lime]SOLUZIONE 1 - EPG COME CARTELLA[/COLOR]",
+      "name": "[COLOR lime]TEST DMAX - EPG STILE ORIGINALE[/COLOR]",
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/512px-DMAX_-_Logo_2016.svg.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "items": [
@@ -10,20 +10,21 @@
           "title": "[COLOR gold]DMAX[/COLOR] [COLOR blue](ITA)[/COLOR]",
           "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/512px-DMAX_-_Logo_2016.svg.png",
           "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+          "SetViewMode": "503",
           "items": [
             {
-              "title": "[COLOR lime]▶ LIVE STREAM[/COLOR]",
+              "title": "[COLOR lime]▶ DIRETTA DMAX[/COLOR]",
               "myresolve": "amstaff@@aHR0cHM6Ly9hbWcxNjE0Ni13YmRpLWFtZzE2MTQ2Yzgtc2Ftc3VuZy1pdC0xODQxLnBsYXlvdXRzLm5vdy5hbWFnaS50di9wbGF5bGlzdC9hbWcxNjE0Ni13YXJuZXJicm9zZGlzY292ZXJ5aXRhbGlhLWRtYXgtc2Ftc3VuZ2l0L3BsYXlsaXN0Lm0zdTh8MDAwMA==",
               "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/512px-DMAX_-_Logo_2016.svg.png",
               "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-              "info": "Guarda il canale DMAX in diretta"
+              "info": "Guarda DMAX in diretta streaming"
             },
             {
-              "title": "[COLOR yellow]═══════ PROGRAMMAZIONE ═══════[/COLOR]",
-              "myresolve": "showMsg@@Programmazione di oggi",
+              "title": "[COLOR yellow]═══════ PROGRAMMAZIONE DI OGGI ═══════[/COLOR]",
+              "myresolve": "showMsg@@Guida TV DMAX - Programmi di oggi",
               "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/512px-DMAX_-_Logo_2016.svg.png",
               "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-              "info": "Guida TV DMAX"
+              "info": "Programmazione completa del canale DMAX"
             },
             {
               "title": "[COLOR blue]14:00[/COLOR] [COLOR gold]Affari a quattro ruote[/COLOR] [COLOR lime](60 min)[/COLOR]",
@@ -59,6 +60,41 @@
               "thumbnail": "https://image.tmdb.org/t/p/w780/dGdqPcDN9UcbxXJnP9VJ4K3E1oq.jpg",
               "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
               "info": "Le forze dell'ordine australiane controllano aeroporti e frontiere per fermare contrabbandieri e immigrati illegali."
+            },
+            {
+              "title": "[COLOR blue]19:00[/COLOR] [COLOR gold]Ingegneria perduta[/COLOR] [COLOR lime](60 min)[/COLOR]",
+              "myresolve": "showMsg@@Il link va cercato nelle liste disponibili",
+              "thumbnail": "https://image.tmdb.org/t/p/w780/kFxGNkTzPJRhZ0e7o1rVhCqV5wX.jpg",
+              "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+              "info": "Un'esplorazione di tecnologie e costruzioni antiche che hanno cambiato il mondo."
+            },
+            {
+              "title": "[COLOR blue]20:00[/COLOR] [COLOR gold]Gli eroi del ghiaccio[/COLOR] [COLOR lime](60 min)[/COLOR]",
+              "myresolve": "showMsg@@Il link va cercato nelle liste disponibili",
+              "thumbnail": "https://image.tmdb.org/t/p/w780/gqQGPV9k2ky9ByJcXLWjNaFP6ml.jpg",
+              "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+              "info": "Autotrasportatori affrontano le strade ghiacciate del Canada per consegnare merci in condizioni estreme."
+            },
+            {
+              "title": "[COLOR blue]21:00[/COLOR] [COLOR gold]Cacciatori di relitti[/COLOR] [COLOR lime](90 min)[/COLOR]",
+              "myresolve": "showMsg@@Il link va cercato nelle liste disponibili",
+              "thumbnail": "https://image.tmdb.org/t/p/w780/t6UuLEJFGlB9gPKNqzV8r5kQPCz.jpg",
+              "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+              "info": "Drew Pritchard viaggia per il Regno Unito alla ricerca di oggetti antichi da restaurare e rivendere."
+            },
+            {
+              "title": "[COLOR blue]22:30[/COLOR] [COLOR gold]Mega navi[/COLOR] [COLOR lime](60 min)[/COLOR]",
+              "myresolve": "showMsg@@Il link va cercato nelle liste disponibili",
+              "thumbnail": "https://image.tmdb.org/t/p/w780/7kGHYIiGLW9AqYrr5D0K7d6f8kD.jpg",
+              "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+              "info": "Un viaggio a bordo delle navi piu' grandi e tecnologicamente avanzate del mondo."
+            },
+            {
+              "title": "[COLOR blue]23:30[/COLOR] [COLOR gold]Misteri dal sottosuolo[/COLOR] [COLOR lime](60 min)[/COLOR]",
+              "myresolve": "showMsg@@Il link va cercato nelle liste disponibili",
+              "thumbnail": "https://image.tmdb.org/t/p/w780/3QbkVE1nRv91BVdg5zqKb5zKP5L.jpg",
+              "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+              "info": "Esplorazioni di luoghi sotterranei nascosti che raccontano storie dimenticate della storia."
             }
           ]
         }
