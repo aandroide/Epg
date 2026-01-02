@@ -1,1538 +1,222 @@
 {
-  "SetViewMode": "55",
+  "SetViewMode": "503",
+  "RefreshList": "10800",
+  "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
   "items": [
     {
-      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]BC Neptunas Klaipeda vs Umana Reyer Venice[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 16:00 - Eurocup"
+      "title": "Androide - EPG",
+      "link": "ignoreme",
+      "info": "Aggiornato: 02/01/2026 15:13"
     },
     {
-      "title": "[COLOR cyan][16:30][/COLOR] [COLOR gold]Vitkovice vs Ocelari Trinec[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 16:30 - Czech Republic Extraliga"
+      "title": "DAZN 1.it - 14:46 Sassuolo - Napoli",
+      "link": "ignoreme",
+      "info": "In onda: 14:46 - 16:31\n\nSerie A - 1a g. Ambizione, tattica e personalita: la stagione riparte con gli allenatori protagonisti, tra ritorni, rivoluzioni e conferme.\n\nA seguire (16:31): Adrien Rabiot: sto tornando",
+      "thumbnail": "https://images.open-epg.com/19310.png"
     },
     {
-      "title": "[COLOR cyan][16:30][/COLOR] [COLOR gold]Litvinov vs Plzen[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 16:30 - Czech Republic Extraliga"
+      "title": "DAZN 2.it - 11:00 Nessun evento in onda",
+      "link": "ignoreme",
+      "info": "In onda: 11:00 - 17:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (17:00): Nessun evento in onda",
+      "thumbnail": "https://images.open-epg.com/19311.png"
     },
     {
-      "title": "[COLOR cyan][16:30][/COLOR] [COLOR gold]Mlada-Boleslav vs Ceske Budejovice[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 16:30 - Czech Republic Extraliga"
+      "title": "DAZN.it - 14:00 College GameDay",
+      "link": "ignoreme",
+      "info": "In onda: 14:00 - 14:00\n\nSegui tutta la stagione dellNCAA su DAZN\n\nA seguire (14:00): Social Corner",
+      "thumbnail": "https://images.open-epg.com/1531.png"
     },
     {
-      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Anadolu Efes vs Roter Stern Belgrad[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 17:00 - Euroleague"
+      "title": "Sky Arte.it - 14:45 Il racconto di Milano. Dai borghi alla città dalla città ai quartieri",
+      "link": "ignoreme",
+      "info": "In onda: 14:45 - 16:20\n\n... alla citta dalla citta ai quartieri. - Scopriamo levoluzione dei quartieri di Milano: un tempo realta autonome, sono oggi perfettamente integrati nella metropoli.\n\nA seguire (16:20): Oliviero Toscani - Professione Fotografo",
+      "thumbnail": "https://images.open-epg.com/19379.png"
     },
     {
-      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Olomouc vs Bili Tygri Liberec[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 17:00 - Czech Republic Extraliga"
+      "title": "Sky Atlantic.it - 15:10 Gomorra - La serie",
+      "link": "ignoreme",
+      "info": "In onda: 15:10 - 16:00\n\nFinale di stagione. - Genny non ha scelta: deve fare quello che Ciro gli sta ordinando. E cosi parte con lui per un ultimo viaggio. Chiusi da soli nellabitacolo, saranno costretti ad affrontare i loro demoni.\n\nA seguire (16:00): Black Sails",
+      "thumbnail": "https://images.open-epg.com/19381.png"
     },
     {
-      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Karlovy Vary vs Dynamo Pardubice[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 17:00 - Czech Republic Extraliga"
+      "title": "Sky Cinema Action.it - 14:05 The Foreigner",
+      "link": "ignoreme",
+      "info": "In onda: 14:05 - 16:00\n\nAction di Martin Campbell con Jackie Chan e Pierce Brosnan. Chinatown, Londra: il titolare di un ristorante vuole vendicare sua figlia, morta in un attacco terroristico dellIRA (USA/GBR 2017)\n\nA seguire (16:00): Fast and Furious 6",
+      "thumbnail": "https://images.open-epg.com/19383.png"
     },
     {
-      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Kometa Brno vs Rytiri Kladno[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 17:00 - Czech Republic Extraliga"
+      "title": "Sky Cinema Comedy.it - 14:45 I delitti del BarLume - La loggia del cinghiale",
+      "link": "ignoreme",
+      "info": "In onda: 14:45 - 16:15\n\n... del cinghiale. - Ottavo film Sky Cinema tratto dai bestseller di Marco Malvaldi. Gli allegri vecchietti trascinano Massimo a una festa di addio al celibato dove pero ci scappa il morto (ITA 2016)\n\nA seguire (16:15): Speciale - I Delitti Del Barlume - Le Nuove Storie",
+      "thumbnail": "https://images.open-epg.com/19384.png"
     },
     {
-      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Almtuna IS vs Ostersunds IK[/COLOR] - [COLOR gold]STARZPLAY 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://sps1.starzplayarabia.com/out/v1/56d8b44c7b9a4eaeae45bd9f5f509af5/index.mpd|b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Starzplay-logo.svg/640px-Starzplay-logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png",
-      "info": "02-Jan 17:00 - Sweden Allsvenskan"
+      "title": "Sky Cinema Drama.it - 14:25 La vita accanto",
+      "link": "ignoreme",
+      "info": "In onda: 14:25 - 16:25\n\nMarco Tullio Giordana dirige Sonia Bergamasco, Paolo Pierobon, Beatrice Barison e Valentina Belle. Una macchia rossa sul viso della figlia getta nello sconforto una ricca famiglia (ITA 2024)\n\nA seguire (16:25): Ogni cosa è illuminata",
+      "thumbnail": "https://images.open-epg.com/19385.png"
     },
     {
-      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]Denmark U20 vs Germany U20[/COLOR] - [COLOR gold]TSN 3[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://abm5x5xaaaaaaaamfnzlkys25m7a5.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd|d9097a1b7d04b7786b29f2b0e155316d:279695ebe0fb1bc5787422b6b59ce8a8",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
-      "info": "02-Jan 17:30 - World Junior Championship"
+      "title": "Sky Cinema Due.it - 14:05 Prova a prendermi",
+      "link": "ignoreme",
+      "info": "In onda: 14:05 - 16:25\n\nLeonardo DiCaprio e Tom Hanks in un biopic diretto da Steven Spielberg. La vera storia di Frank Abagnale, geniale truffatore sulle cui tracce si mette un caparbio agente dellFBI (USA 2002)\n\nA seguire (16:25): November - I cinque giorni dopo il Bataclan",
+      "thumbnail": "https://images.open-epg.com/19387.png"
     },
     {
-      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]Ratiopharm Ulm vs Lietkabelis[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 18:00 - Eurocup"
+      "title": "Sky Cinema Family.it - 13:35 Shrek 2",
+      "link": "ignoreme",
+      "info": "In onda: 13:35 - 15:15\n\nIl divertimento continua in compagnia dellorco piu simpatico del grande schermo. Shrek e Fiona dovranno affrontare i genitori di lei, poco propensi ad accettare un\n\nA seguire (15:15): Shrek Terzo",
+      "thumbnail": "https://images.open-epg.com/19388.png"
     },
     {
-      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]Kalmar HC vs IF Troja/Ljungby[/COLOR] - [COLOR gold]TV4 Sport Live 2[/COLOR] [COLOR blue](SWE)[/COLOR]",
-      "myresolve": "amstaff@@https://live.streaming.a2d.tv/asset/20465730.isml/.mpd|729e43e22f86327ea9cbfd859b6e50e9:bbd3b6b123a10cb4cdfd79751f56b0af",
-      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/6qU6aJGG9kgAECw6c3xpEm/79fde1c03151b9bcee3a276eb4e23d55/tv4_sport_live_2.png?fit=scale&w=256&fm=webp&q=75&h=256",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
-      "info": "02-Jan 18:00 - Sweden Allsvenskan"
+      "title": "Sky Cinema Romance.it - 14:15 Autumn in New York",
+      "link": "ignoreme",
+      "info": "In onda: 14:15 - 16:05\n\nRichard Gere e Winona Ryder in una struggente love story. Sullo sfondo della Grande Mela, un uomo maturo si innamora di una ragazza affetta da una malattia incurabile (USA 2000)\n\nA seguire (16:05): Promises",
+      "thumbnail": "https://images.open-epg.com/19389.png"
     },
     {
-      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]Mora IK vs Vasteras IK[/COLOR] - [COLOR gold]TV4 Sport Live 3[/COLOR] [COLOR blue](SWE)[/COLOR]",
-      "myresolve": "amstaff@@https://live.streaming.a2d.tv/asset/20465731.isml/.mpd|4e30426a0a5c36359b1606dd7bc90937:508fb8a6038bf24a216c27e3efe3d9cf",
-      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/3y0AxGHgQlHMF8nZSoDB8M/2b2e3e69b49597b0c04d072b400e3e4d/tv4_sport_live_3.png?fit=scale&w=256&fm=webp&q=75&h=256",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
-      "info": "02-Jan 18:00 - Sweden Allsvenskan"
+      "title": "Sky Cinema Suspense.it - 13:50 La memoria dellassassino",
+      "link": "ignoreme",
+      "info": "In onda: 13:50 - 15:50\n\nThriller-noir di e con Michael Keaton e con James Marsden e Al Pacino. Affetto da una malattia incurabile, un killer decide di mettere ordine nella sua vita prima di ritirarsi (USA 2023)\n\nA seguire (15:50): Out of Sight",
+      "thumbnail": "https://images.open-epg.com/19390.png"
     },
     {
-      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]IK Oskarshamn vs Nybro Vikings IF[/COLOR] - [COLOR gold]TV4 Sport Live 4[/COLOR] [COLOR blue](SWE)[/COLOR]",
-      "myresolve": "amstaff@@https://live.streaming.a2d.tv/asset/20465732.isml/.mpd|08c544c527b93252a34932c4890903a1:86a3d7e41bd51161039cfc80d880c746",
-      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/013pZkYwWwVUvuHrzPJ45U/c518446ab64f2926bd54441ded66de66/tv4_sport_live_4.png?fit=scale&w=256&fm=webp&q=75&h=256",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
-      "info": "02-Jan 18:00 - Sweden Allsvenskan"
+      "title": "Sky Cinema Uno +24.it - 14:40 The Beekeeper",
+      "link": "ignoreme",
+      "info": "In onda: 14:40 - 16:30\n\nJason Statham in un action-thriller sulla vendetta con Josh Hutcherson e Jeremy Irons. Dopo aver subito una truffa, Eloise si suicida, ma il suo vicino Clay decide di vendicarla (USA/GBR 2024)\n\nA seguire (16:30): Bad Boys: Ride or Die",
+      "thumbnail": "https://images.open-epg.com/19391.png"
     },
     {
-      "title": "[COLOR cyan][18:30][/COLOR] [COLOR gold]Iserlohn Roosters vs Nurnberg Ice Tigers[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 18:30 - Germany DEL"
+      "title": "Sky Cinema Uno.it - 14:10 The Accountant",
+      "link": "ignoreme",
+      "info": "In onda: 14:10 - 16:20\n\nBen Affleck nei panni di un personaggio con la sindrome di Asperger. Chris Wolff lavora come contabile forense ma segretamente cura le finanze di alcune organizzazioni criminali (USA 2016)\n\nA seguire (16:20): Che bella giornata",
+      "thumbnail": "https://images.open-epg.com/19392.png"
     },
     {
-      "title": "[COLOR cyan][18:30][/COLOR] [COLOR gold]Grizzly Wolfsburg vs EHC Red Bull Munchen[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 18:30 - Germany DEL"
+      "title": "Sky Classica.it - 12:40 Verdi - Il trovatore",
+      "link": "ignoreme",
+      "info": "In onda: 12:40 - 15:20\n\nOpera in quattro parti (1853) su libretto di Salvadore Cammarano - con A.Netrebko, F.Meli, P.Domingo, M.N.Lemieux, A.Haller - Wiener Philharmoniker - D.Gatti, dir. - A.Hermanis, reg. (Salisburgo, 2014)\n\nA seguire (15:20): Mestiere Teatro",
+      "thumbnail": "https://images.open-epg.com/4100139.png"
     },
     {
-      "title": "[COLOR cyan][18:30][/COLOR] [COLOR gold]ERC Ingolstadt vs Bremerhaven[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 18:30 - Germany DEL"
+      "title": "Sky Crime.it - 14:05 Murder Case",
+      "link": "ignoreme",
+      "info": "In onda: 14:05 - 15:15\n\nS1 Ep3 Chi ha ucciso Stephen? - Stephen Wallace, 46 anni, viene trovato morto nella sua casa di Paisley con diverse ferite.\n\nA seguire (15:15): Diana: morte di una principessa",
+      "thumbnail": "https://images.open-epg.com/19394.png"
     },
     {
-      "title": "[COLOR cyan][18:30][/COLOR] [COLOR gold]Augsburger Panther vs Schwenninger[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 18:30 - Germany DEL"
+      "title": "Sky Documentaries +1.it - 14:40 Natural Born Driver - Lincredibile storia di Ivan Capelli",
+      "link": "ignoreme",
+      "info": "In onda: 14:40 - 15:40\n\n... storia di Ivan Capelli. - Un nuovo linguaggio documentaristico, che unisce immagini di repertorio e illustrazioni, racconta lincredibile carriera agonistica di Ivan Capelli.\n\nA seguire (15:40): Benetton Formula",
+      "thumbnail": "https://images.open-epg.com/nologo.png"
     },
     {
-      "title": "[COLOR cyan][18:30][/COLOR] [COLOR gold]Adler Mannheim vs Dresdner Eislowen[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 18:30 - Germany DEL"
+      "title": "Sky Documentaries.it - 14:40 Benetton Formula",
+      "link": "ignoreme",
+      "info": "In onda: 14:40 - 16:20\n\nIn occasione del trentennale delle storiche vittorie mondiali, il documentario realizzato da Slim Dogs ripercorre la storia della blasonata scuderia italiana che innovo il mondo della Formula 1.\n\nA seguire (16:20): The Rescue: Il salvataggio dei ragazzi",
+      "thumbnail": "https://images.open-epg.com/19396.png"
     },
     {
-      "title": "[COLOR cyan][18:30][/COLOR] [COLOR gold]Eisbaren Berlin vs Lowen Frankfurt[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 18:30 - Germany DEL"
+      "title": "Sky Investigation.it - 14:35 La signora in giallo",
+      "link": "ignoreme",
+      "info": "In onda: 14:35 - 15:25\n\nS3 Ep8 Realta e fantasia - Guest star: Tom Selleck. In vacanza alle Hawaii, Jessica si trova a dover dare una mano allinvestigatore privato Thomas Magnum, implicato in un caso di doppio omicidio.\n\nA seguire (15:25): NCIS",
+      "thumbnail": "https://images.open-epg.com/19398.png"
     },
     {
-      "title": "[COLOR cyan][18:30][/COLOR] [COLOR gold]Kolner Haie vs Straubing Tigers[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 18:30 - Germany DEL"
+      "title": "Sky Nature.it - 14:20 Linci delle nevi: Il richiamo della...",
+      "link": "ignoreme",
+      "info": "In onda: 14:20 - 15:20\n\n... foresta. S1 Ep2 A scuola di sopravvivenza - Gordon Buchanan torna in Russia per aiutare il dottor Victor Lukarevskiy a preparare le linci per il rilascio in natura. Il progetto sta andando bene e i felini stanno diventando piu forti, ma ce ancora tanto lavoro da fare.\n\nA seguire (15:20): I segreti delle acque incantate",
+      "thumbnail": "https://images.open-epg.com/19393.png"
     },
     {
-      "title": "[COLOR cyan][18:45][/COLOR] [COLOR gold]Gil Vicente vs Sporting CP[/COLOR] - [COLOR gold]Sport TV 1[/COLOR] [COLOR blue](PT)[/COLOR]",
-      "myresolve": "amstaff@@https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD|c2bac9c393f145fc924ce572ca99156f:45f6637eef80eafbe7e630231139df5b",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "02-Jan 18:45 - Portugal Primeira Liga"
+      "title": "Sky News.it - 15:00 Sky News Today",
+      "link": "ignoreme",
+      "info": "In onda: 15:00 - 15:30\n\nBreaking news, developing stories and live events from Sky News correspondents in the UK and around the world.\n\nA seguire (15:30): Sky News Today",
+      "thumbnail": "https://images.open-epg.com/19400.png"
     },
     {
-      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]Saski Baskonia vs Fenerbahce[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 19:00 - Euroleague"
+      "title": "Sky Serie.it - 15:05 Friends",
+      "link": "ignoreme",
+      "info": "In onda: 15:05 - 15:25\n\nS6 Ep13 Una visita inattesa - Joey finisce nei guai per aver dato del cibo gratis a delle clienti al Central Perk. Monica e malata ma cerca di convincere Chandler che puo fare sesso con lui.\n\nA seguire (15:25): Friends",
+      "thumbnail": "https://images.open-epg.com/19402.png"
     },
     {
-      "title": "[COLOR cyan][19:15][/COLOR] [COLOR gold]Panathinaikos vs Olympiakos Piraus[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 19:15 - Euroleague"
+      "title": "Sky Sport 4K.it - 14:30 Juventus - Pafos",
+      "link": "ignoreme",
+      "info": "In onda: 14:30 - 16:25\n\nJuventus - Pafos - Bianconeri a quota 6 dopo la prima vittoria (2-3 sul campo del Bodoe Glimt). Anche il Pafos a quota 6 dopo il 2-2 interno contro il Monaco. Nessun precedente. TC: Gentile-Marocchi\n\nA seguire (16:25): Calcio Uefa Champions League - Ep. 102 - Calcio Ucl 6ga Atalanta/ Chelsea 09/12/2025",
+      "thumbnail": "https://images.open-epg.com/19403.png"
     },
     {
-      "title": "[COLOR cyan][19:15][/COLOR] [COLOR gold]Panathinaikos vs Olympiakos Piraus[/COLOR] - [COLOR gold]Fox Sports 1[/COLOR] [COLOR blue](AR)[/COLOR]",
-      "myresolve": "amstaff@@https://csc-axs-edge01.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd|1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "02-Jan 19:15 - Euroleague"
+      "title": "Sky Sport Calcio.it - 15:10 Liverpool - Leeds United",
+      "link": "ignoreme",
+      "info": "In onda: 15:10 - 16:55\n\nLiverpool - Leeds United - DallAnfield di Liverpool, Inghilterra.\n\nA seguire (16:55): Chelsea vs Arsenal - Inside a London derby",
+      "thumbnail": "https://images.open-epg.com/19405.png"
     },
     {
-      "title": "[COLOR cyan][19:30][/COLOR] [COLOR gold]Latvia U20 vs Sweden U20[/COLOR] - [COLOR gold]TSN 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://abkf7g7aaaaaaaamcmmhhhyli5fwh.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd|7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
-      "info": "02-Jan 19:30 - World Junior Championship"
+      "title": "Sky Sport F1.it - 15:00 Austria: Feature Race",
+      "link": "ignoreme",
+      "info": "In onda: 15:00 - 16:00\n\nAustria: Feature Race - From Red Bull Ring in Austria.\n\nA seguire (16:00): Gara: GP Monaco",
+      "thumbnail": "https://images.open-epg.com/19406.png"
     },
     {
-      "title": "[COLOR cyan][19:30][/COLOR] [COLOR gold]Virtus Bologna vs Olimpia Milano[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 19:30 - Euroleague"
+      "title": "Sky Sport Golf.it - 12:25 1a giornata",
+      "link": "ignoreme",
+      "info": "In onda: 12:25 - 15:25\n\n1a giornata - Dal Bethpage Black Course di Farmingdale, Stati Uniti.\n\nA seguire (15:25): US Open",
+      "thumbnail": "https://images.open-epg.com/19407.png"
     },
     {
-      "title": "[COLOR cyan][19:30][/COLOR] [COLOR gold]Luke Littler vs Ryan Searle[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 19:30 - World Darts Championship"
+      "title": "Sky Sport Max.it - 14:50 Ep.9",
+      "link": "ignoreme",
+      "info": "In onda: 14:50 - 15:20\n\nEp.9 - Avventure, sfide, storie, imprese e tante curiosita dal mondo degli sport allaperto: dopo 15 anni alla ricerca del limite, Icarus si spinge oltre per trasformarsi in Icarus Ultra.\n\nA seguire (15:20): Globe Soccer Awards 2025",
+      "thumbnail": "https://images.open-epg.com/19408.png"
     },
     {
-      "title": "[COLOR cyan][19:30][/COLOR] [COLOR gold]Luke Littler vs Ryan Searle[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 19:30 - World Darts Championship"
+      "title": "Sky Sport MotoGP.it - 14:45 4a giornata",
+      "link": "ignoreme",
+      "info": "In onda: 14:45 - 16:30\n\n4a giornata - La Champions Charity Race mette in sella vere e proprie leggende del motorsport, attraverso lentusiasmante format che prevede duelli ad inseguimento. Telecronaca Vercellesi-Gualdani.\n\nA seguire (16:30): Ep. 7",
+      "thumbnail": "https://images.open-epg.com/19409.png"
     },
     {
-      "title": "[COLOR cyan][19:30][/COLOR] [COLOR gold]Eibar vs Mirandes[/COLOR] - [COLOR gold]Sky Sports La Liga[/COLOR] [COLOR blue](ESP)[/COLOR]",
-      "myresolve": "amstaff@@https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd|c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/512?cb=2023112014424",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
-      "info": "02-Jan 19:30 - Spain Segunda Division"
+      "title": "Sky Sport Tennis.it - 12:45 2a Semifinale, Alcaraz - Sinner",
+      "link": "ignoreme",
+      "info": "In onda: 12:45 - 16:00\n\nUomini: Semifinale 2: Carlos Alcaraz (ESP) - Jannik Sinner (ITA) - Da Miami, Stati Uniti.\n\nA seguire (16:00): Tennis ATP Season Review Show 2025",
+      "thumbnail": "https://images.open-epg.com/19404.png"
     },
     {
-      "title": "[COLOR cyan][19:45][/COLOR] [COLOR gold]Real Madrid vs Dubai[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 19:45 - Euroleague"
+      "title": "Sky Sport Uno.it - 14:15 The Lost Dreamteam",
+      "link": "ignoreme",
+      "info": "In onda: 14:15 - 15:40\n\nTra fine anni 80 e inizio 90 la Jugoslavia del basket domina il mondo, ma la guerra spezza squadra e Paese. Il regista Jure Pavlovic racconta quel sogno interrotto.\n\nA seguire (15:40): Ep.15",
+      "thumbnail": "https://images.open-epg.com/19410.png"
     },
     {
-      "title": "[COLOR cyan][19:45][/COLOR] [COLOR gold]Cagliari vs Milan[/COLOR] - [COLOR gold]DAZN 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9tcGRzLm53czAueHl6OjIwODMvRG0ubXBkP2Fzc2V0SWQ9NGhxY2p4NXp2OTFmMWJkeDcxaW80Ym5ybC5tcGR8NjE2NGEwYWJhYTdjNTNjNjg3NWZhMWU3ZmUwYmI0NjM6MjcxNTEwZDNlMTI1OTU3MWRjYzU2OGEyMzJlMzk3ZWI=",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 19:45 - Italy Serie A"
+      "title": "Sky TG24.it - 15:00 Seven 1/2 ora",
+      "link": "ignoreme",
+      "info": "In onda: 15:00 - 15:30\n\nS3 Ep52 Gli scenari del 2026 - Le principali notizie della settimana, raccontate in 30 minuti, a cura della redazione della rete. Aggiornamenti riguardanti politica, cronaca, esteri, economia, sport e attualita.\n\nA seguire (15:30): TG24 mezzora",
+      "thumbnail": "https://images.open-epg.com/19411.png"
     },
     {
-      "title": "[COLOR cyan][19:45][/COLOR] [COLOR gold]Cagliari vs Milan[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 19:45 - Italy Serie A"
+      "title": "Sky Uno.it - 14:20 Cucine da incubo",
+      "link": "ignoreme",
+      "info": "In onda: 14:20 - 15:30\n\nS10 Ep3 Il laghetto - Al ristorante\n\nA seguire (15:30): Bruno Barbieri - 4 Hotel",
+      "thumbnail": "https://images.open-epg.com/19413.png"
     },
     {
-      "title": "[COLOR cyan][19:45][/COLOR] [COLOR gold]Toulouse vs Lens[/COLOR] - [COLOR gold]BEIN SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/512px-Logo_bein_sports_1.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
-      "info": "02-Jan 19:45 - France Ligue 1"
+      "title": "ZONA DAZN.it - 14:46 Sassuolo - Napoli - Stag. 2025 Ep. 1a g. - Sassuolo - Napoli",
+      "link": "ignoreme",
+      "info": "In onda: 14:46 - 16:31\n\nNapoli - Stag. 2025 Ep. 1a g. - Sassuolo...\n\nA seguire (16:31): Adrien Rabiot: sto tornando",
+      "thumbnail": "https://images.open-epg.com/1700.png"
     },
     {
-      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Rayo Vallecano vs Getafe[/COLOR] - [COLOR gold]Fox Sports 1[/COLOR] [COLOR blue](AR)[/COLOR]",
-      "myresolve": "amstaff@@https://csc-axs-edge01.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd|1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "02-Jan 20:00 - Spain La Liga"
+      "title": "Zona Dazn 2.it - 11:00 Nessun evento in onda",
+      "link": "ignoreme",
+      "info": "In onda: 11:00 - 17:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (17:00): Nessun evento in onda",
+      "thumbnail": "https://images.open-epg.com/7515553.png"
     },
     {
-      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Rayo Vallecano vs Getafe[/COLOR] - [COLOR gold]ESPN 1[/COLOR] [COLOR blue](BR)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9ub2ctbGl2ZTEtb3R0Lml6emlnby50di82L291dC91L2Rhc2gvRVNQTkhESDI2NS9kZWZhdWx0Lm1wZHwzZmI4MTY3OTU3NjkyODM2ZWNhMTQ2NGI3Zjk1MmI0NTpmMzEwNDJlODE2N2ViNGI0OWNlODExN2M5ZTVmMWU4NQ==",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "02-Jan 20:00 - Spain La Liga"
-    },
-    {
-      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Vegas Golden Knights vs St. Louis Blues[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 20:00 - NHL"
-    },
-    {
-      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]FC Bayern Munchen vs Maccabi Tel Aviv[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 20:00 - Euroleague"
-    },
-    {
-      "title": "[COLOR cyan][20:45][/COLOR] [COLOR gold]Vitoria Guimaraes vs Nacional[/COLOR] - [COLOR gold]Sport TV 2[/COLOR] [COLOR blue](PT)[/COLOR]",
-      "myresolve": "amstaff@@https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD|0d28edf4f055409bb12d6d0260b26b6b:bf69f8a33c39c31f5ff06ab52012e27c",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "02-Jan 20:45 - Portugal Primeira Liga"
-    },
-    {
-      "title": "[COLOR cyan][21:30][/COLOR] [COLOR gold]Switzerland U20 vs Czech Republic U20[/COLOR] - [COLOR gold]TSN 3[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://abm5x5xaaaaaaaamfnzlkys25m7a5.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd|d9097a1b7d04b7786b29f2b0e155316d:279695ebe0fb1bc5787422b6b59ce8a8",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
-      "info": "02-Jan 21:30 - World Junior Championship"
-    },
-    {
-      "title": "[COLOR cyan][21:30][/COLOR] [COLOR gold]Gian van Veen vs Gary Anderson[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 21:30 - World Darts Championship"
-    },
-    {
-      "title": "[COLOR cyan][23:00][/COLOR] [COLOR gold]TBD vs TBD[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 23:00 - World Junior Championship"
-    },
-    {
-      "title": "[COLOR cyan][23:00][/COLOR] [COLOR gold]TBD vs TBD[/COLOR] - [COLOR gold]TSN 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://abkf7g7aaaaaaaamcmmhhhyli5fwh.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd|7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
-      "info": "02-Jan 23:00 - World Junior Championship"
-    },
-    {
-      "title": "[COLOR cyan][01:00][/COLOR] [COLOR gold]New York Rangers vs Florida Panthers[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "03-Jan 01:00 - NHL"
-    },
-    {
-      "title": "[COLOR cyan][01:30][/COLOR] [COLOR gold]TBD vs TBD[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "03-Jan 01:30 - World Junior Championship"
-    },
-    {
-      "title": "[COLOR cyan][01:30][/COLOR] [COLOR gold]TBD vs TBD[/COLOR] - [COLOR gold]TSN 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://abkf7g7aaaaaaaamcmmhhhyli5fwh.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd|7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
-      "info": "03-Jan 01:30 - World Junior Championship"
-    },
-    {
-      "title": "[COLOR cyan][03:30][/COLOR] [COLOR gold]Seattle Kraken vs Vancouver Canucks[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "03-Jan 03:30 - NHL"
-    },
-    {
-      "title": "[COLOR cyan][03:30][/COLOR] [COLOR gold]Minnesota Wild vs Anaheim Ducks[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "03-Jan 03:30 - NHL"
-    },
-    {
-      "title": "[COLOR cyan][06:00][/COLOR] [COLOR gold]Brisbane Roar vs Wellington Phoenix[/COLOR] - [COLOR gold]Fox Sports 1[/COLOR] [COLOR blue](AR)[/COLOR]",
-      "myresolve": "amstaff@@https://csc-axs-edge01.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd|1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "03-Jan 06:00 - Australia A-League"
-    },
-    {
-      "title": "[COLOR cyan][06:00][/COLOR] [COLOR gold]Brisbane Roar vs Wellington Phoenix[/COLOR] - [COLOR gold]SKY SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9za3ktbnouYi1jZG4ubmV0L3NreXNwb3J0MS9tYXN0ZXIubXBkfGFlZmMyYzhkMWM4ODQwZjFiNjk4MWY4NTZjOTI2OWJhOmNmOGVhMTE0YzQ1YjRkNjU5NmIyNzQ4MjU4YWI3NGQ2",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/2/27/Sky_Sport_1_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830144011",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
-      "info": "03-Jan 06:00 - Australia A-League"
-    },
-    {
-      "title": "[COLOR cyan][08:35][/COLOR] [COLOR gold]Melbourne City vs Sydney FC[/COLOR] - [COLOR gold]SKY SPORT 4[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://sky-nz.b-cdn.net/skysport4/master.mpd|278b8746b7c7410e901af0aa3774f037:15e1142d647b474ebbd49e41efa2a9d7",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/9/90/Sky_Sport_4_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143941",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
-      "info": "03-Jan 08:35 - Australia A-League"
-    },
-    {
-      "title": "[COLOR cyan][11:00][/COLOR] [COLOR gold]Feirense vs Uniao de Leiria[/COLOR] - [COLOR gold]Sport TV 1[/COLOR] [COLOR blue](PT)[/COLOR]",
-      "myresolve": "amstaff@@https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD|c2bac9c393f145fc924ce572ca99156f:45f6637eef80eafbe7e630231139df5b",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "03-Jan 11:00 - Portugal Segunda liga"
-    },
-    {
-      "title": "[COLOR cyan][11:30][/COLOR] [COLOR gold]Como vs Udinese[/COLOR] - [COLOR gold]DAZN 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9tcGRzLm53czAueHl6OjIwODMvRG0ubXBkP2Fzc2V0SWQ9NGhxY2p4NXp2OTFmMWJkeDcxaW80Ym5ybC5tcGR8NjE2NGEwYWJhYTdjNTNjNjg3NWZhMWU3ZmUwYmI0NjM6MjcxNTEwZDNlMTI1OTU3MWRjYzU2OGEyMzJlMzk3ZWI=",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "03-Jan 11:30 - Italy Serie A"
-    },
-    {
-      "title": "[COLOR cyan][11:30][/COLOR] [COLOR gold]Como vs Udinese[/COLOR] - [COLOR gold]Eleven Sport 1 4K[/COLOR] [COLOR blue](PL)[/COLOR]",
-      "myresolve": "amstaff@@https://lb2.pluscdn.pl/ch/1522637/357/dash/b929c9fb/live.mpd|ef5e40e00d43450bbeeb40c6849e0309:614c349de0e08585c7b503568cacd5a1",
-      "thumbnail": "https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pl-circle-01.png",
-      "info": "03-Jan 11:30 - Italy Serie A"
-    },
-    {
-      "title": "[COLOR cyan][12:30][/COLOR] [COLOR gold]Celtic vs Rangers[/COLOR] - [COLOR gold]CBS SPORT[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-      "thumbnail": "https://d3g9pb5nvr3u7.cloudfront.net/sites/55520d5de45dba1b5e10ac70/1189012733/256.jpg",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png",
-      "info": "03-Jan 12:30 - Scotland Scottish Premiership"
-    },
-    {
-      "title": "[COLOR cyan][12:30][/COLOR] [COLOR gold]Aston Villa vs Nottingham Forest[/COLOR] - [COLOR gold]USA[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9ha2FtLnN0cmVhbS5wZWFjb2NrdHYuY29tL0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzLXYyL0xpdmUvY2hhbm5lbCh1c2EtZWFzdCkvbWFzdGVyLm1wZHwwNDNiYTFiNGEyODIzZmM0YTYwMzMxNzhmMzU2MDQzMTo2ODQzNThkODA4NzRiNTVmOTMzNWM3MzEyNmU0ZDQ0ZQ==",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png",
-      "info": "03-Jan 12:30 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][12:30][/COLOR] [COLOR gold]Aston Villa vs Nottingham Forest[/COLOR] - [COLOR gold]Sky Sport TOP EVENT[/COLOR] [COLOR blue](GER)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9saW5lYXIyMDItZGUtZGFzaDEtcHJkLWFrLmNkbjEyLnNreWNkcC5jb20vMDM1MTExLTUwL2luZGV4X3N0ZXJlby5tcGR8MDAwYjMyNjVlMWY5ZDUyMzc0YzZjNDcwNWEyNThmN2E6ZDIyM2UwZmVjNTVlMGEyMjM0NGQxY2FjYjhjZDI4NTU=",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/r14o5i1658662835.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
-      "info": "03-Jan 12:30 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][12:30][/COLOR] [COLOR gold]Aston Villa vs Nottingham Forest[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "03-Jan 12:30 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][13:00][/COLOR] [COLOR gold]Celta de Vigo vs Valencia[/COLOR] - [COLOR gold]Fox Sports 1[/COLOR] [COLOR blue](AR)[/COLOR]",
-      "myresolve": "amstaff@@https://csc-axs-edge01.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd|1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "03-Jan 13:00 - Spain La Liga"
-    },
-    {
-      "title": "[COLOR cyan][13:00][/COLOR] [COLOR gold]Celta de Vigo vs Valencia[/COLOR] - [COLOR gold]ESPN 1[/COLOR] [COLOR blue](BR)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9ub2ctbGl2ZTEtb3R0Lml6emlnby50di82L291dC91L2Rhc2gvRVNQTkhESDI2NS9kZWZhdWx0Lm1wZHwzZmI4MTY3OTU3NjkyODM2ZWNhMTQ2NGI3Zjk1MmI0NTpmMzEwNDJlODE2N2ViNGI0OWNlODExN2M5ZTVmMWU4NQ==",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "03-Jan 13:00 - Spain La Liga"
-    },
-    {
-      "title": "[COLOR cyan][13:00][/COLOR] [COLOR gold]Cultural Leonesa vs Real Sociedad II[/COLOR] - [COLOR gold]Sky Sports La Liga[/COLOR] [COLOR blue](ESP)[/COLOR]",
-      "myresolve": "amstaff@@https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd|c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/512?cb=2023112014424",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
-      "info": "03-Jan 13:00 - Spain Segunda Division"
-    },
-    {
-      "title": "[COLOR cyan][13:00][/COLOR] [COLOR gold]Troyes vs Red Star[/COLOR] - [COLOR gold]BEIN SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/512px-Logo_bein_sports_1.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
-      "info": "03-Jan 13:00 - France Ligue 2"
-    },
-    {
-      "title": "[COLOR cyan][14:00][/COLOR] [COLOR gold]Sassuolo vs Parma[/COLOR] - [COLOR gold]DAZN 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9tcGRzLm53czAueHl6OjIwODMvRG0ubXBkP2Fzc2V0SWQ9NGhxY2p4NXp2OTFmMWJkeDcxaW80Ym5ybC5tcGR8NjE2NGEwYWJhYTdjNTNjNjg3NWZhMWU3ZmUwYmI0NjM6MjcxNTEwZDNlMTI1OTU3MWRjYzU2OGEyMzJlMzk3ZWI=",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "03-Jan 14:00 - Italy Serie A"
-    },
-    {
-      "title": "[COLOR cyan][14:00][/COLOR] [COLOR gold]Sassuolo vs Parma[/COLOR] - [COLOR gold]DAZN 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9tcGRzLm53czAueHl6OjIwODMvRG0ubXBkP2Fzc2V0SWQ9NGhxY2p4NXp2OTFmMWJkeDcxaW80Ym5ybC5tcGR8NjE2NGEwYWJhYTdjNTNjNjg3NWZhMWU3ZmUwYmI0NjM6MjcxNTEwZDNlMTI1OTU3MWRjYzU2OGEyMzJlMzk3ZWI=",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "03-Jan 14:00 - Italy Serie A"
-    },
-    {
-      "title": "[COLOR cyan][14:00][/COLOR] [COLOR gold]Sassuolo vs Parma[/COLOR] - [COLOR gold]Eleven Sport 1 4K[/COLOR] [COLOR blue](PL)[/COLOR]",
-      "myresolve": "amstaff@@https://lb2.pluscdn.pl/ch/1522637/357/dash/b929c9fb/live.mpd|ef5e40e00d43450bbeeb40c6849e0309:614c349de0e08585c7b503568cacd5a1",
-      "thumbnail": "https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pl-circle-01.png",
-      "info": "03-Jan 14:00 - Italy Serie A"
-    },
-    {
-      "title": "[COLOR cyan][14:00][/COLOR] [COLOR gold]Genoa vs Pisa[/COLOR] - [COLOR gold]DAZN 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9tcGRzLm53czAueHl6OjIwODMvRG0ubXBkP2Fzc2V0SWQ9NGhxY2p4NXp2OTFmMWJkeDcxaW80Ym5ybC5tcGR8NjE2NGEwYWJhYTdjNTNjNjg3NWZhMWU3ZmUwYmI0NjM6MjcxNTEwZDNlMTI1OTU3MWRjYzU2OGEyMzJlMzk3ZWI=",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "03-Jan 14:00 - Italy Serie A"
-    },
-    {
-      "title": "[COLOR cyan][14:00][/COLOR] [COLOR gold]Genoa vs Pisa[/COLOR] - [COLOR gold]TV4 Sport Live 1[/COLOR] [COLOR blue](SWE)[/COLOR]",
-      "myresolve": "amstaff@@https://live.streaming.a2d.tv/asset/20465729.isml/.mpd|6c2908a6d85d35fd9a33db46d6b157b2:2327be90af966a52a164cc46e18b35f5",
-      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
-      "info": "03-Jan 14:00 - Italy Serie A"
-    },
-    {
-      "title": "[COLOR cyan][14:15][/COLOR] [COLOR gold]Orebro Hockey vs Rogle BK[/COLOR] - [COLOR gold]TV4 Sport Live 2[/COLOR] [COLOR blue](SWE)[/COLOR]",
-      "myresolve": "amstaff@@https://live.streaming.a2d.tv/asset/20465730.isml/.mpd|729e43e22f86327ea9cbfd859b6e50e9:bbd3b6b123a10cb4cdfd79751f56b0af",
-      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/6qU6aJGG9kgAECw6c3xpEm/79fde1c03151b9bcee3a276eb4e23d55/tv4_sport_live_2.png?fit=scale&w=256&fm=webp&q=75&h=256",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
-      "info": "03-Jan 14:15 - Sweden SHL"
-    },
-    {
-      "title": "[COLOR cyan][14:15][/COLOR] [COLOR gold]Leksands IF vs HV71[/COLOR] - [COLOR gold]TV4 Sport Live 3[/COLOR] [COLOR blue](SWE)[/COLOR]",
-      "myresolve": "amstaff@@https://live.streaming.a2d.tv/asset/20465731.isml/.mpd|4e30426a0a5c36359b1606dd7bc90937:508fb8a6038bf24a216c27e3efe3d9cf",
-      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/3y0AxGHgQlHMF8nZSoDB8M/2b2e3e69b49597b0c04d072b400e3e4d/tv4_sport_live_3.png?fit=scale&w=256&fm=webp&q=75&h=256",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
-      "info": "03-Jan 14:15 - Sweden SHL"
-    },
-    {
-      "title": "[COLOR cyan][14:15][/COLOR] [COLOR gold]Vaxjo Lakers vs Frolunda HC[/COLOR] - [COLOR gold]TV4 Sport Live 4[/COLOR] [COLOR blue](SWE)[/COLOR]",
-      "myresolve": "amstaff@@https://live.streaming.a2d.tv/asset/20465732.isml/.mpd|08c544c527b93252a34932c4890903a1:86a3d7e41bd51161039cfc80d880c746",
-      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/013pZkYwWwVUvuHrzPJ45U/c518446ab64f2926bd54441ded66de66/tv4_sport_live_4.png?fit=scale&w=256&fm=webp&q=75&h=256",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
-      "info": "03-Jan 14:15 - Sweden SHL"
-    },
-    {
-      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Wolverhampton Wanderers vs West Ham United[/COLOR] - [COLOR gold]PREMIERE SPORT 1[/COLOR] [COLOR blue](BR)[/COLOR]",
-      "myresolve": "amstaff@@https://abc3orwaaaaaaaamhpui7wlnmfqgh.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-      "thumbnail": "https://static.wikia.nocookie.net/logo-timeline/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/512",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "03-Jan 15:00 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Wolverhampton Wanderers vs West Ham United[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "03-Jan 15:00 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Wolverhampton Wanderers vs West Ham United[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "03-Jan 15:00 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Dundee United vs Dundee[/COLOR] - [COLOR gold]CBS SPORT[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-      "thumbnail": "https://d3g9pb5nvr3u7.cloudfront.net/sites/55520d5de45dba1b5e10ac70/1189012733/256.jpg",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png",
-      "info": "03-Jan 15:00 - Scotland Scottish Premiership"
-    },
-    {
-      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Brighton & Hove Albion vs Burnley[/COLOR] - [COLOR gold]Sky Sport TOP EVENT[/COLOR] [COLOR blue](GER)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9saW5lYXIyMDItZGUtZGFzaDEtcHJkLWFrLmNkbjEyLnNreWNkcC5jb20vMDM1MTExLTUwL2luZGV4X3N0ZXJlby5tcGR8MDAwYjMyNjVlMWY5ZDUyMzc0YzZjNDcwNWEyNThmN2E6ZDIyM2UwZmVjNTVlMGEyMjM0NGQxY2FjYjhjZDI4NTU=",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/r14o5i1658662835.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
-      "info": "03-Jan 15:00 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][15:15][/COLOR] [COLOR gold]Osasuna vs Athletic Club[/COLOR] - [COLOR gold]Fox Sports 1[/COLOR] [COLOR blue](AR)[/COLOR]",
-      "myresolve": "amstaff@@https://csc-axs-edge01.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd|1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "03-Jan 15:15 - Spain La Liga"
-    },
-    {
-      "title": "[COLOR cyan][15:15][/COLOR] [COLOR gold]Osasuna vs Athletic Club[/COLOR] - [COLOR gold]ESPN 1[/COLOR] [COLOR blue](BR)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9ub2ctbGl2ZTEtb3R0Lml6emlnby50di82L291dC91L2Rhc2gvRVNQTkhESDI2NS9kZWZhdWx0Lm1wZHwzZmI4MTY3OTU3NjkyODM2ZWNhMTQ2NGI3Zjk1MmI0NTpmMzEwNDJlODE2N2ViNGI0OWNlODExN2M5ZTVmMWU4NQ==",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "03-Jan 15:15 - Spain La Liga"
-    },
-    {
-      "title": "[COLOR cyan][15:15][/COLOR] [COLOR gold]Almeria vs Granada[/COLOR] - [COLOR gold]Sky Sports La Liga[/COLOR] [COLOR blue](ESP)[/COLOR]",
-      "myresolve": "amstaff@@https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd|c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/512?cb=2023112014424",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
-      "info": "03-Jan 15:15 - Spain Segunda Division"
-    },
-    {
-      "title": "[COLOR cyan][15:15][/COLOR] [COLOR gold]CD Castellon vs Huesca[/COLOR] - [COLOR gold]Sky Sports La Liga[/COLOR] [COLOR blue](ESP)[/COLOR]",
-      "myresolve": "amstaff@@https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd|c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/512?cb=2023112014424",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
-      "info": "03-Jan 15:15 - Spain Segunda Division"
-    },
-    {
-      "title": "[COLOR cyan][15:30][/COLOR] [COLOR gold]Tondela vs Arouca[/COLOR] - [COLOR gold]Sport TV 1[/COLOR] [COLOR blue](PT)[/COLOR]",
-      "myresolve": "amstaff@@https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD|c2bac9c393f145fc924ce572ca99156f:45f6637eef80eafbe7e630231139df5b",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "03-Jan 15:30 - Portugal Primeira Liga"
-    },
-    {
-      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]TBD vs TBD[/COLOR] - [COLOR gold]BEIN SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/512px-Logo_bein_sports_1.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
-      "info": "03-Jan 16:00 - Africa Africa Cup of Nations"
-    },
-    {
-      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]Nice vs Strasbourg[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "03-Jan 16:00 - France Ligue 1"
-    },
-    {
-      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]Monaco vs Olympique Lyonnais[/COLOR] - [COLOR gold]BEIN SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/512px-Logo_bein_sports_1.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
-      "info": "03-Jan 16:00 - France Ligue 1"
-    },
-    {
-      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]Monaco vs Olympique Lyonnais[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "03-Jan 16:00 - France Ligue 1"
-    },
-    {
-      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Juventus vs Lecce[/COLOR] - [COLOR gold]DAZN 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9tcGRzLm53czAueHl6OjIwODMvRG0ubXBkP2Fzc2V0SWQ9NGhxY2p4NXp2OTFmMWJkeDcxaW80Ym5ybC5tcGR8NjE2NGEwYWJhYTdjNTNjNjg3NWZhMWU3ZmUwYmI0NjM6MjcxNTEwZDNlMTI1OTU3MWRjYzU2OGEyMzJlMzk3ZWI=",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "03-Jan 17:00 - Italy Serie A"
-    },
-    {
-      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Juventus vs Lecce[/COLOR] - [COLOR gold]CBS SPORT[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-      "thumbnail": "https://d3g9pb5nvr3u7.cloudfront.net/sites/55520d5de45dba1b5e10ac70/1189012733/256.jpg",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png",
-      "info": "03-Jan 17:00 - Italy Serie A"
-    },
-    {
-      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Juventus vs Lecce[/COLOR] - [COLOR gold]DAZN 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9tcGRzLm53czAueHl6OjIwODMvRG0ubXBkP2Fzc2V0SWQ9NGhxY2p4NXp2OTFmMWJkeDcxaW80Ym5ybC5tcGR8NjE2NGEwYWJhYTdjNTNjNjg3NWZhMWU3ZmUwYmI0NjM6MjcxNTEwZDNlMTI1OTU3MWRjYzU2OGEyMzJlMzk3ZWI=",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "03-Jan 17:00 - Italy Serie A"
-    },
-    {
-      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Juventus vs Lecce[/COLOR] - [COLOR gold]Eleven Sport 1 4K[/COLOR] [COLOR blue](PL)[/COLOR]",
-      "myresolve": "amstaff@@https://lb2.pluscdn.pl/ch/1522637/357/dash/b929c9fb/live.mpd|ef5e40e00d43450bbeeb40c6849e0309:614c349de0e08585c7b503568cacd5a1",
-      "thumbnail": "https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pl-circle-01.png",
-      "info": "03-Jan 17:00 - Italy Serie A"
-    },
-    {
-      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Pittsburgh Penguins vs Detroit Red Wings[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "03-Jan 17:00 - NHL"
-    },
-    {
-      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Malmo Redhawks vs Linkoping HC[/COLOR] - [COLOR gold]TV4 Sport Live 2[/COLOR] [COLOR blue](SWE)[/COLOR]",
-      "myresolve": "amstaff@@https://live.streaming.a2d.tv/asset/20465730.isml/.mpd|729e43e22f86327ea9cbfd859b6e50e9:bbd3b6b123a10cb4cdfd79751f56b0af",
-      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/6qU6aJGG9kgAECw6c3xpEm/79fde1c03151b9bcee3a276eb4e23d55/tv4_sport_live_2.png?fit=scale&w=256&fm=webp&q=75&h=256",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
-      "info": "03-Jan 17:00 - Sweden SHL"
-    },
-    {
-      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Timra IK vs Djurgardens IF[/COLOR] - [COLOR gold]TV4 Sport Live 3[/COLOR] [COLOR blue](SWE)[/COLOR]",
-      "myresolve": "amstaff@@https://live.streaming.a2d.tv/asset/20465731.isml/.mpd|4e30426a0a5c36359b1606dd7bc90937:508fb8a6038bf24a216c27e3efe3d9cf",
-      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/3y0AxGHgQlHMF8nZSoDB8M/2b2e3e69b49597b0c04d072b400e3e4d/tv4_sport_live_3.png?fit=scale&w=256&fm=webp&q=75&h=256",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
-      "info": "03-Jan 17:00 - Sweden Allsvenskan"
-    },
-    {
-      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]IF Troja/Ljungby vs Ostersunds IK[/COLOR] - [COLOR gold]TV4 Sport Live 4[/COLOR] [COLOR blue](SWE)[/COLOR]",
-      "myresolve": "amstaff@@https://live.streaming.a2d.tv/asset/20465732.isml/.mpd|08c544c527b93252a34932c4890903a1:86a3d7e41bd51161039cfc80d880c746",
-      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/013pZkYwWwVUvuHrzPJ45U/c518446ab64f2926bd54441ded66de66/tv4_sport_live_4.png?fit=scale&w=256&fm=webp&q=75&h=256",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
-      "info": "03-Jan 17:00 - Sweden SHL"
-    },
-    {
-      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]AFC Bournemouth vs Arsenal[/COLOR] - [COLOR gold]PREMIERE SPORT 1[/COLOR] [COLOR blue](BR)[/COLOR]",
-      "myresolve": "amstaff@@https://abc3orwaaaaaaaamhpui7wlnmfqgh.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-      "thumbnail": "https://static.wikia.nocookie.net/logo-timeline/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/512",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "03-Jan 17:30 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]AFC Bournemouth vs Arsenal[/COLOR] - [COLOR gold]Sky Sport TOP EVENT[/COLOR] [COLOR blue](GER)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9saW5lYXIyMDItZGUtZGFzaDEtcHJkLWFrLmNkbjEyLnNreWNkcC5jb20vMDM1MTExLTUwL2luZGV4X3N0ZXJlby5tcGR8MDAwYjMyNjVlMWY5ZDUyMzc0YzZjNDcwNWEyNThmN2E6ZDIyM2UwZmVjNTVlMGEyMjM0NGQxY2FjYjhjZDI4NTU=",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/r14o5i1658662835.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
-      "info": "03-Jan 17:30 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]AFC Bournemouth vs Arsenal[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "03-Jan 17:30 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]Elche vs Villarreal[/COLOR] - [COLOR gold]Fox Sports 1[/COLOR] [COLOR blue](AR)[/COLOR]",
-      "myresolve": "amstaff@@https://csc-axs-edge01.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd|1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "03-Jan 17:30 - Spain La Liga"
-    },
-    {
-      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]Elche vs Villarreal[/COLOR] - [COLOR gold]ESPN 1[/COLOR] [COLOR blue](BR)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9ub2ctbGl2ZTEtb3R0Lml6emlnby50di82L291dC91L2Rhc2gvRVNQTkhESDI2NS9kZWZhdWx0Lm1wZHwzZmI4MTY3OTU3NjkyODM2ZWNhMTQ2NGI3Zjk1MmI0NTpmMzEwNDJlODE2N2ViNGI0OWNlODExN2M5ZTVmMWU4NQ==",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "03-Jan 17:30 - Spain La Liga"
-    },
-    {
-      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]Real Valladolid vs Racing Santander[/COLOR] - [COLOR gold]Sky Sports La Liga[/COLOR] [COLOR blue](ESP)[/COLOR]",
-      "myresolve": "amstaff@@https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd|c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/512?cb=2023112014424",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
-      "info": "03-Jan 17:30 - Spain Segunda Division"
-    },
-    {
-      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]Estrela vs Sporting Braga[/COLOR] - [COLOR gold]Sport TV 1[/COLOR] [COLOR blue](PT)[/COLOR]",
-      "myresolve": "amstaff@@https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD|c2bac9c393f145fc924ce572ca99156f:45f6637eef80eafbe7e630231139df5b",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "03-Jan 18:00 - Portugal Primeira Liga"
-    },
-    {
-      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]Mali vs Tunisia[/COLOR] - [COLOR gold]BEIN SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/512px-Logo_bein_sports_1.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
-      "info": "03-Jan 19:00 - Africa Africa Cup of Nations"
-    },
-    {
-      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]Le Mans vs Saint-Etienne[/COLOR] - [COLOR gold]BEIN SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/512px-Logo_bein_sports_1.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
-      "info": "03-Jan 19:00 - France Ligue 2"
-    },
-    {
-      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]Clermont vs Laval[/COLOR] - [COLOR gold]BEIN SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/512px-Logo_bein_sports_1.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
-      "info": "03-Jan 19:00 - France Ligue 2"
-    },
-    {
-      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]Reims vs Annecy[/COLOR] - [COLOR gold]BEIN SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/512px-Logo_bein_sports_1.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
-      "info": "03-Jan 19:00 - France Ligue 2"
-    },
-    {
-      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]Guingamp vs Boulogne[/COLOR] - [COLOR gold]BEIN SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/512px-Logo_bein_sports_1.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
-      "info": "03-Jan 19:00 - France Ligue 2"
-    },
-    {
-      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]Amiens SC vs Nancy[/COLOR] - [COLOR gold]BEIN SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/512px-Logo_bein_sports_1.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
-      "info": "03-Jan 19:00 - France Ligue 2"
-    },
-    {
-      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]Pau vs Rodez[/COLOR] - [COLOR gold]BEIN SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/512px-Logo_bein_sports_1.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
-      "info": "03-Jan 19:00 - France Ligue 2"
-    },
-    {
-      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]Bastia vs Grenoble Foot 38[/COLOR] - [COLOR gold]BEIN SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/512px-Logo_bein_sports_1.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
-      "info": "03-Jan 19:00 - France Ligue 2"
-    },
-    {
-      "title": "[COLOR cyan][19:45][/COLOR] [COLOR gold]Atalanta vs Roma[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "03-Jan 19:45 - Italy Serie A"
-    },
-    {
-      "title": "[COLOR cyan][19:45][/COLOR] [COLOR gold]Atalanta vs Roma[/COLOR] - [COLOR gold]Eleven Sport 1 4K[/COLOR] [COLOR blue](PL)[/COLOR]",
-      "myresolve": "amstaff@@https://lb2.pluscdn.pl/ch/1522637/357/dash/b929c9fb/live.mpd|ef5e40e00d43450bbeeb40c6849e0309:614c349de0e08585c7b503568cacd5a1",
-      "thumbnail": "https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pl-circle-01.png",
-      "info": "03-Jan 19:45 - Italy Serie A"
-    },
-    {
-      "title": "[COLOR cyan][19:45][/COLOR] [COLOR gold]Atalanta vs Roma[/COLOR] - [COLOR gold]TV4 Sport Live 1[/COLOR] [COLOR blue](SWE)[/COLOR]",
-      "myresolve": "amstaff@@https://live.streaming.a2d.tv/asset/20465729.isml/.mpd|6c2908a6d85d35fd9a33db46d6b157b2:2327be90af966a52a164cc46e18b35f5",
-      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
-      "info": "03-Jan 19:45 - Italy Serie A"
-    },
-    {
-      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Espanyol vs Barcelona[/COLOR] - [COLOR gold]Fox Sports 1[/COLOR] [COLOR blue](AR)[/COLOR]",
-      "myresolve": "amstaff@@https://csc-axs-edge01.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd|1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "03-Jan 20:00 - Spain La Liga"
-    },
-    {
-      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Espanyol vs Barcelona[/COLOR] - [COLOR gold]ESPN 1[/COLOR] [COLOR blue](BR)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9ub2ctbGl2ZTEtb3R0Lml6emlnby50di82L291dC91L2Rhc2gvRVNQTkhESDI2NS9kZWZhdWx0Lm1wZHwzZmI4MTY3OTU3NjkyODM2ZWNhMTQ2NGI3Zjk1MmI0NTpmMzEwNDJlODE2N2ViNGI0OWNlODExN2M5ZTVmMWU4NQ==",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "03-Jan 20:00 - Spain La Liga"
-    },
-    {
-      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Cordoba vs Burgos[/COLOR] - [COLOR gold]Sky Sports La Liga[/COLOR] [COLOR blue](ESP)[/COLOR]",
-      "myresolve": "amstaff@@https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd|c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/512?cb=2023112014424",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
-      "info": "03-Jan 20:00 - Spain Segunda Division"
-    },
-    {
-      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Buffalo Sabres vs Columbus Blue Jackets[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "03-Jan 20:00 - NHL"
-    },
-    {
-      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Utah Mammoth vs New Jersey Devils[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "03-Jan 20:00 - NHL"
-    },
-    {
-      "title": "[COLOR cyan][20:05][/COLOR] [COLOR gold]Lille vs Rennes[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "03-Jan 20:05 - France Ligue 1"
-    },
-    {
-      "title": "[COLOR cyan][20:30][/COLOR] [COLOR gold]AVS vs Moreirense[/COLOR] - [COLOR gold]Sport TV 1[/COLOR] [COLOR blue](PT)[/COLOR]",
-      "myresolve": "amstaff@@https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD|c2bac9c393f145fc924ce572ca99156f:45f6637eef80eafbe7e630231139df5b",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "03-Jan 20:30 - Portugal Primeira Liga"
-    },
-    {
-      "title": "[COLOR cyan][20:30][/COLOR] [COLOR gold]Farense vs Portimonense[/COLOR] - [COLOR gold]Sport TV 2[/COLOR] [COLOR blue](PT)[/COLOR]",
-      "myresolve": "amstaff@@https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD|0d28edf4f055409bb12d6d0260b26b6b:bf69f8a33c39c31f5ff06ab52012e27c",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "03-Jan 20:30 - Portugal Segunda liga"
-    },
-    {
-      "title": "[COLOR cyan][20:30][/COLOR] [COLOR gold]Philadelphia Flyers vs Edmonton Oilers[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "03-Jan 20:30 - NHL"
-    },
-    {
-      "title": "[COLOR cyan][21:00][/COLOR] [COLOR gold]Montreal Canadiens vs St. Louis Blues[/COLOR] - [COLOR gold]TSN 2[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://abm5x5xaaaaaaaampie4zrlukq55o.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd|362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
-      "info": "03-Jan 21:00 - NHL"
-    },
-    {
-      "title": "[COLOR cyan][21:00][/COLOR] [COLOR gold]Montreal Canadiens vs St. Louis Blues[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "03-Jan 21:00 - NHL"
-    },
-    {
-      "title": "[COLOR cyan][21:00][/COLOR] [COLOR gold]Tampa Bay Lightning vs San Jose Sharks[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "03-Jan 21:00 - NHL"
-    },
-    {
-      "title": "[COLOR cyan][21:30][/COLOR] [COLOR gold]Carolina Panthers vs Tampa Bay Buccaneers[/COLOR] - [COLOR gold]ESPN 1[/COLOR] [COLOR blue](BR)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9ub2ctbGl2ZTEtb3R0Lml6emlnby50di82L291dC91L2Rhc2gvRVNQTkhESDI2NS9kZWZhdWx0Lm1wZHwzZmI4MTY3OTU3NjkyODM2ZWNhMTQ2NGI3Zjk1MmI0NTpmMzEwNDJlODE2N2ViNGI0OWNlODExN2M5ZTVmMWU4NQ==",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "03-Jan 21:30 - NFL"
-    },
-    {
-      "title": "[COLOR cyan][22:00][/COLOR] [COLOR gold]Minnesota Timberwolves vs Miami Heat[/COLOR] - [COLOR gold]Sky Sport TOP EVENT[/COLOR] [COLOR blue](GER)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9saW5lYXIyMDItZGUtZGFzaDEtcHJkLWFrLmNkbjEyLnNreWNkcC5jb20vMDM1MTExLTUwL2luZGV4X3N0ZXJlby5tcGR8MDAwYjMyNjVlMWY5ZDUyMzc0YzZjNDcwNWEyNThmN2E6ZDIyM2UwZmVjNTVlMGEyMjM0NGQxY2FjYjhjZDI4NTU=",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/r14o5i1658662835.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
-      "info": "03-Jan 22:00 - NBA"
-    },
-    {
-      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]Chicago Blackhawks vs Washington Capitals[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 00:00 - NHL"
-    },
-    {
-      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]Chicago Blackhawks vs Washington Capitals[/COLOR] - [COLOR gold]Fox Sports 1[/COLOR] [COLOR blue](AR)[/COLOR]",
-      "myresolve": "amstaff@@https://csc-axs-edge01.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd|1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "04-Jan 00:00 - NHL"
-    },
-    {
-      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]Chicago Blackhawks vs Washington Capitals[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 00:00 - NHL"
-    },
-    {
-      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]Winnipeg Jets vs Ottawa Senators[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 00:00 - NHL"
-    },
-    {
-      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]Toronto Maple Leafs vs New York Islanders[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 00:00 - NHL"
-    },
-    {
-      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]Colorado Avalanche vs Carolina Hurricanes[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 00:00 - NHL"
-    },
-    {
-      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]Nashville Predators vs Calgary Flames[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 00:00 - NHL"
-    },
-    {
-      "title": "[COLOR cyan][01:00][/COLOR] [COLOR gold]San Francisco vs Seattle[/COLOR] - [COLOR gold]ESPN 1[/COLOR] [COLOR blue](BR)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9ub2ctbGl2ZTEtb3R0Lml6emlnby50di82L291dC91L2Rhc2gvRVNQTkhESDI2NS9kZWZhdWx0Lm1wZHwzZmI4MTY3OTU3NjkyODM2ZWNhMTQ2NGI3Zjk1MmI0NTpmMzEwNDJlODE2N2ViNGI0OWNlODExN2M5ZTVmMWU4NQ==",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "04-Jan 01:00 - NFL"
-    },
-    {
-      "title": "[COLOR cyan][02:00][/COLOR] [COLOR gold]Minnesota Wild vs Los Angeles Kings[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 02:00 - NHL"
-    },
-    {
-      "title": "[COLOR cyan][03:00][/COLOR] [COLOR gold]Boston Bruins vs Vancouver Canucks[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 03:00 - NHL"
-    },
-    {
-      "title": "[COLOR cyan][08:35][/COLOR] [COLOR gold]Adelaide United vs Central Coast Mariners[/COLOR] - [COLOR gold]Fox Sports 1[/COLOR] [COLOR blue](AR)[/COLOR]",
-      "myresolve": "amstaff@@https://csc-axs-edge01.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd|1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "04-Jan 08:35 - Australia A-League"
-    },
-    {
-      "title": "[COLOR cyan][11:00][/COLOR] [COLOR gold]Penafiel vs Pacos de Ferreira[/COLOR] - [COLOR gold]Sport TV 1[/COLOR] [COLOR blue](PT)[/COLOR]",
-      "myresolve": "amstaff@@https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD|c2bac9c393f145fc924ce572ca99156f:45f6637eef80eafbe7e630231139df5b",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "04-Jan 11:00 - Portugal Segunda liga"
-    },
-    {
-      "title": "[COLOR cyan][11:30][/COLOR] [COLOR gold]Lazio vs Napoli[/COLOR] - [COLOR gold]CBS SPORT[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-      "thumbnail": "https://d3g9pb5nvr3u7.cloudfront.net/sites/55520d5de45dba1b5e10ac70/1189012733/256.jpg",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png",
-      "info": "04-Jan 11:30 - Italy Serie A"
-    },
-    {
-      "title": "[COLOR cyan][11:30][/COLOR] [COLOR gold]Lazio vs Napoli[/COLOR] - [COLOR gold]DAZN 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9tcGRzLm53czAueHl6OjIwODMvRG0ubXBkP2Fzc2V0SWQ9NGhxY2p4NXp2OTFmMWJkeDcxaW80Ym5ybC5tcGR8NjE2NGEwYWJhYTdjNTNjNjg3NWZhMWU3ZmUwYmI0NjM6MjcxNTEwZDNlMTI1OTU3MWRjYzU2OGEyMzJlMzk3ZWI=",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 11:30 - Italy Serie A"
-    },
-    {
-      "title": "[COLOR cyan][12:00][/COLOR] [COLOR gold]Birmingham City vs Coventry City[/COLOR] - [COLOR gold]Fox Sports 1[/COLOR] [COLOR blue](AR)[/COLOR]",
-      "myresolve": "amstaff@@https://csc-axs-edge01.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd|1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "04-Jan 12:00 - England Championship"
-    },
-    {
-      "title": "[COLOR cyan][12:00][/COLOR] [COLOR gold]Birmingham City vs Coventry City[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 12:00 - England Championship"
-    },
-    {
-      "title": "[COLOR cyan][12:30][/COLOR] [COLOR gold]Leeds United vs Manchester United[/COLOR] - [COLOR gold]Fox Sports 1[/COLOR] [COLOR blue](AR)[/COLOR]",
-      "myresolve": "amstaff@@https://csc-axs-edge01.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd|1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "04-Jan 12:30 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][12:30][/COLOR] [COLOR gold]Leeds United vs Manchester United[/COLOR] - [COLOR gold]USA[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9ha2FtLnN0cmVhbS5wZWFjb2NrdHYuY29tL0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzLXYyL0xpdmUvY2hhbm5lbCh1c2EtZWFzdCkvbWFzdGVyLm1wZHwwNDNiYTFiNGEyODIzZmM0YTYwMzMxNzhmMzU2MDQzMTo2ODQzNThkODA4NzRiNTVmOTMzNWM3MzEyNmU0ZDQ0ZQ==",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png",
-      "info": "04-Jan 12:30 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][12:30][/COLOR] [COLOR gold]Leeds United vs Manchester United[/COLOR] - [COLOR gold]Sky Sport TOP EVENT[/COLOR] [COLOR blue](GER)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9saW5lYXIyMDItZGUtZGFzaDEtcHJkLWFrLmNkbjEyLnNreWNkcC5jb20vMDM1MTExLTUwL2luZGV4X3N0ZXJlby5tcGR8MDAwYjMyNjVlMWY5ZDUyMzc0YzZjNDcwNWEyNThmN2E6ZDIyM2UwZmVjNTVlMGEyMjM0NGQxY2FjYjhjZDI4NTU=",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/r14o5i1658662835.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
-      "info": "04-Jan 12:30 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][12:30][/COLOR] [COLOR gold]Leeds United vs Manchester United[/COLOR] - [COLOR gold]DAZN 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9tcGRzLm53czAueHl6OjIwODMvRG0ubXBkP2Fzc2V0SWQ9NGhxY2p4NXp2OTFmMWJkeDcxaW80Ym5ybC5tcGR8NjE2NGEwYWJhYTdjNTNjNjg3NWZhMWU3ZmUwYmI0NjM6MjcxNTEwZDNlMTI1OTU3MWRjYzU2OGEyMzJlMzk3ZWI=",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 12:30 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][12:30][/COLOR] [COLOR gold]Leeds United vs Manchester United[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 12:30 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][13:00][/COLOR] [COLOR gold]Sevilla vs Levante[/COLOR] - [COLOR gold]Fox Sports 1[/COLOR] [COLOR blue](AR)[/COLOR]",
-      "myresolve": "amstaff@@https://csc-axs-edge01.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd|1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "04-Jan 13:00 - Spain La Liga"
-    },
-    {
-      "title": "[COLOR cyan][13:00][/COLOR] [COLOR gold]Sevilla vs Levante[/COLOR] - [COLOR gold]ESPN 1[/COLOR] [COLOR blue](BR)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9ub2ctbGl2ZTEtb3R0Lml6emlnby50di82L291dC91L2Rhc2gvRVNQTkhESDI2NS9kZWZhdWx0Lm1wZHwzZmI4MTY3OTU3NjkyODM2ZWNhMTQ2NGI3Zjk1MmI0NTpmMzEwNDJlODE2N2ViNGI0OWNlODExN2M5ZTVmMWU4NQ==",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "04-Jan 13:00 - Spain La Liga"
-    },
-    {
-      "title": "[COLOR cyan][13:00][/COLOR] [COLOR gold]Sporting Gijon vs Malaga[/COLOR] - [COLOR gold]Sky Sports La Liga[/COLOR] [COLOR blue](ESP)[/COLOR]",
-      "myresolve": "amstaff@@https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd|c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/512?cb=2023112014424",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
-      "info": "04-Jan 13:00 - Spain Segunda Division"
-    },
-    {
-      "title": "[COLOR cyan][13:00][/COLOR] [COLOR gold]Lowen Frankfurt vs Schwenninger[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 13:00 - Germany DEL"
-    },
-    {
-      "title": "[COLOR cyan][13:00][/COLOR] [COLOR gold]Eisbaren Berlin vs Augsburger Panther[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 13:00 - Germany DEL"
-    },
-    {
-      "title": "[COLOR cyan][13:00][/COLOR] [COLOR gold]Bremerhaven vs Iserlohn Roosters[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 13:00 - Germany DEL"
-    },
-    {
-      "title": "[COLOR cyan][14:00][/COLOR] [COLOR gold]Ocelari Trinec vs Litvinov[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 14:00 - Czech Republic Extraliga"
-    },
-    {
-      "title": "[COLOR cyan][14:00][/COLOR] [COLOR gold]Rytiri Kladno vs Sparta Praha[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 14:00 - Czech Republic Extraliga"
-    },
-    {
-      "title": "[COLOR cyan][14:00][/COLOR] [COLOR gold]Fiorentina vs Cremonese[/COLOR] - [COLOR gold]DAZN 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9tcGRzLm53czAueHl6OjIwODMvRG0ubXBkP2Fzc2V0SWQ9NGhxY2p4NXp2OTFmMWJkeDcxaW80Ym5ybC5tcGR8NjE2NGEwYWJhYTdjNTNjNjg3NWZhMWU3ZmUwYmI0NjM6MjcxNTEwZDNlMTI1OTU3MWRjYzU2OGEyMzJlMzk3ZWI=",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 14:00 - Italy Serie A"
-    },
-    {
-      "title": "[COLOR cyan][14:00][/COLOR] [COLOR gold]Fiorentina vs Cremonese[/COLOR] - [COLOR gold]TV4 Sport Live 1[/COLOR] [COLOR blue](SWE)[/COLOR]",
-      "myresolve": "amstaff@@https://live.streaming.a2d.tv/asset/20465729.isml/.mpd|6c2908a6d85d35fd9a33db46d6b157b2:2327be90af966a52a164cc46e18b35f5",
-      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
-      "info": "04-Jan 14:00 - Italy Serie A"
-    },
-    {
-      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Fulham vs Liverpool[/COLOR] - [COLOR gold]PREMIERE SPORT 1[/COLOR] [COLOR blue](BR)[/COLOR]",
-      "myresolve": "amstaff@@https://abc3orwaaaaaaaamhpui7wlnmfqgh.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-      "thumbnail": "https://static.wikia.nocookie.net/logo-timeline/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/512",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "04-Jan 15:00 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Fulham vs Liverpool[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 15:00 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Fulham vs Liverpool[/COLOR] - [COLOR gold]DAZN 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9tcGRzLm53czAueHl6OjIwODMvRG0ubXBkP2Fzc2V0SWQ9NGhxY2p4NXp2OTFmMWJkeDcxaW80Ym5ybC5tcGR8NjE2NGEwYWJhYTdjNTNjNjg3NWZhMWU3ZmUwYmI0NjM6MjcxNTEwZDNlMTI1OTU3MWRjYzU2OGEyMzJlMzk3ZWI=",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 15:00 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Fulham vs Liverpool[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 15:00 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Tottenham Hotspur vs Sunderland[/COLOR] - [COLOR gold]PREMIERE SPORT 1[/COLOR] [COLOR blue](BR)[/COLOR]",
-      "myresolve": "amstaff@@https://abc3orwaaaaaaaamhpui7wlnmfqgh.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-      "thumbnail": "https://static.wikia.nocookie.net/logo-timeline/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/512",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "04-Jan 15:00 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Tottenham Hotspur vs Sunderland[/COLOR] - [COLOR gold]SKY SPORT 2[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://sky-nz.b-cdn.net/skysport2/master.mpd|708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/8/88/Sky_Sport_2_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830144002",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
-      "info": "04-Jan 15:00 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Tottenham Hotspur vs Sunderland[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 15:00 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Newcastle United vs Crystal Palace[/COLOR] - [COLOR gold]PREMIERE SPORT 1[/COLOR] [COLOR blue](BR)[/COLOR]",
-      "myresolve": "amstaff@@https://abc3orwaaaaaaaamhpui7wlnmfqgh.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-      "thumbnail": "https://static.wikia.nocookie.net/logo-timeline/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/512",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "04-Jan 15:00 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Newcastle United vs Crystal Palace[/COLOR] - [COLOR gold]SKY SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9za3ktbnouYi1jZG4ubmV0L3NreXNwb3J0MS9tYXN0ZXIubXBkfGFlZmMyYzhkMWM4ODQwZjFiNjk4MWY4NTZjOTI2OWJhOmNmOGVhMTE0YzQ1YjRkNjU5NmIyNzQ4MjU4YWI3NGQ2",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/2/27/Sky_Sport_1_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830144011",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
-      "info": "04-Jan 15:00 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Newcastle United vs Crystal Palace[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 15:00 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Newcastle United vs Crystal Palace[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 15:00 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Everton vs Brentford[/COLOR] - [COLOR gold]PREMIERE SPORT 1[/COLOR] [COLOR blue](BR)[/COLOR]",
-      "myresolve": "amstaff@@https://abc3orwaaaaaaaamhpui7wlnmfqgh.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-      "thumbnail": "https://static.wikia.nocookie.net/logo-timeline/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/512",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "04-Jan 15:00 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Everton vs Brentford[/COLOR] - [COLOR gold]SKY SPORT 3[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://sky-nz.b-cdn.net/skysport3/master.mpd|2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c9d82b3c9",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/5/5d/Sky_Sport_3_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143951",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
-      "info": "04-Jan 15:00 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Everton vs Brentford[/COLOR] - [COLOR gold]DAZN 4[/COLOR] [COLOR blue](PT)[/COLOR]",
-      "myresolve": "amstaff@@https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$524/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD|0b6e5fe5b1d140b092e22cc662088276:6bdd76adbc5bb25089983b2500dde7ca",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/df/DAZN_4_FHD.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "04-Jan 15:00 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Everton vs Brentford[/COLOR] - [COLOR gold]TV4 Sport Live 1[/COLOR] [COLOR blue](SWE)[/COLOR]",
-      "myresolve": "amstaff@@https://live.streaming.a2d.tv/asset/20465729.isml/.mpd|6c2908a6d85d35fd9a33db46d6b157b2:2327be90af966a52a164cc46e18b35f5",
-      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
-      "info": "04-Jan 15:00 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Derby County vs Wrexham[/COLOR] - [COLOR gold]CBS SPORT[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-      "thumbnail": "https://d3g9pb5nvr3u7.cloudfront.net/sites/55520d5de45dba1b5e10ac70/1189012733/256.jpg",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png",
-      "info": "04-Jan 15:00 - England Championship"
-    },
-    {
-      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Middlesbrough vs Southampton[/COLOR] - [COLOR gold]CBS SPORT[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-      "thumbnail": "https://d3g9pb5nvr3u7.cloudfront.net/sites/55520d5de45dba1b5e10ac70/1189012733/256.jpg",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png",
-      "info": "04-Jan 15:00 - England Championship"
-    },
-    {
-      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Sparta Praha vs Rytiri Kladno[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 15:00 - Czech Republic Extraliga"
-    },
-    {
-      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Mountfield vs Bili Tygri Liberec[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 15:00 - Czech Republic Extraliga"
-    },
-    {
-      "title": "[COLOR cyan][15:15][/COLOR] [COLOR gold]Real Madrid vs Real Betis[/COLOR] - [COLOR gold]Fox Sports 1[/COLOR] [COLOR blue](AR)[/COLOR]",
-      "myresolve": "amstaff@@https://csc-axs-edge01.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd|1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "04-Jan 15:15 - Spain La Liga"
-    },
-    {
-      "title": "[COLOR cyan][15:15][/COLOR] [COLOR gold]Real Madrid vs Real Betis[/COLOR] - [COLOR gold]ESPN 1[/COLOR] [COLOR blue](BR)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9ub2ctbGl2ZTEtb3R0Lml6emlnby50di82L291dC91L2Rhc2gvRVNQTkhESDI2NS9kZWZhdWx0Lm1wZHwzZmI4MTY3OTU3NjkyODM2ZWNhMTQ2NGI3Zjk1MmI0NTpmMzEwNDJlODE2N2ViNGI0OWNlODExN2M5ZTVmMWU4NQ==",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "04-Jan 15:15 - Spain La Liga"
-    },
-    {
-      "title": "[COLOR cyan][15:15][/COLOR] [COLOR gold]Ceuta vs FC Andorra[/COLOR] - [COLOR gold]Sky Sports La Liga[/COLOR] [COLOR blue](ESP)[/COLOR]",
-      "myresolve": "amstaff@@https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd|c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/512?cb=2023112014424",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
-      "info": "04-Jan 15:15 - Spain Segunda Division"
-    },
-    {
-      "title": "[COLOR cyan][15:30][/COLOR] [COLOR gold]Rio Ave vs Casa Pia[/COLOR] - [COLOR gold]Sport TV 2[/COLOR] [COLOR blue](PT)[/COLOR]",
-      "myresolve": "amstaff@@https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD|0d28edf4f055409bb12d6d0260b26b6b:bf69f8a33c39c31f5ff06ab52012e27c",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "04-Jan 15:30 - Portugal Primeira Liga"
-    },
-    {
-      "title": "[COLOR cyan][15:30][/COLOR] [COLOR gold]Plzen vs Mlada-Boleslav[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 15:30 - Czech Republic Extraliga"
-    },
-    {
-      "title": "[COLOR cyan][15:30][/COLOR] [COLOR gold]Straubing Tigers vs ERC Ingolstadt[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 15:30 - Germany DEL"
-    },
-    {
-      "title": "[COLOR cyan][15:30][/COLOR] [COLOR gold]EHC Red Bull Munchen vs Adler Mannheim[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 15:30 - Germany DEL"
-    },
-    {
-      "title": "[COLOR cyan][15:30][/COLOR] [COLOR gold]Dresdner Eislowen vs Kolner Haie[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 15:30 - Germany DEL"
-    },
-    {
-      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]Morocco vs Tanzania[/COLOR] - [COLOR gold]BEIN SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/512px-Logo_bein_sports_1.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
-      "info": "04-Jan 16:00 - Africa Africa Cup of Nations"
-    },
-    {
-      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]Morocco vs Tanzania[/COLOR] - [COLOR gold]BEIN SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/512px-Logo_bein_sports_1.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
-      "info": "04-Jan 16:00 - Africa Africa Cup of Nations"
-    },
-    {
-      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]Ceske Budejovice vs Olomouc[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 16:00 - Czech Republic Extraliga"
-    },
-    {
-      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]Dynamo Pardubice vs Vitkovice[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 16:00 - Czech Republic Extraliga"
-    },
-    {
-      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]Kometa Brno vs Karlovy Vary[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 16:00 - Czech Republic Extraliga"
-    },
-    {
-      "title": "[COLOR cyan][16:15][/COLOR] [COLOR gold]Brest vs Auxerre[/COLOR] - [COLOR gold]DAZN 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9tcGRzLm53czAueHl6OjIwODMvRG0ubXBkP2Fzc2V0SWQ9NGhxY2p4NXp2OTFmMWJkeDcxaW80Ym5ybC5tcGR8NjE2NGEwYWJhYTdjNTNjNjg3NWZhMWU3ZmUwYmI0NjM6MjcxNTEwZDNlMTI1OTU3MWRjYzU2OGEyMzJlMzk3ZWI=",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 16:15 - France Ligue 1"
-    },
-    {
-      "title": "[COLOR cyan][16:15][/COLOR] [COLOR gold]Le Havre vs Angers SCO[/COLOR] - [COLOR gold]BEIN SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/512px-Logo_bein_sports_1.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
-      "info": "04-Jan 16:15 - France Ligue 1"
-    },
-    {
-      "title": "[COLOR cyan][16:15][/COLOR] [COLOR gold]Lorient vs Metz[/COLOR] - [COLOR gold]BEIN SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/512px-Logo_bein_sports_1.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
-      "info": "04-Jan 16:15 - France Ligue 1"
-    },
-    {
-      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Verona vs Torino[/COLOR] - [COLOR gold]CBS SPORT[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-      "thumbnail": "https://d3g9pb5nvr3u7.cloudfront.net/sites/55520d5de45dba1b5e10ac70/1189012733/256.jpg",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png",
-      "info": "04-Jan 17:00 - Italy Serie A"
-    },
-    {
-      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Verona vs Torino[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 17:00 - Italy Serie A"
-    },
-    {
-      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]Manchester City vs Chelsea[/COLOR] - [COLOR gold]PREMIERE SPORT 1[/COLOR] [COLOR blue](BR)[/COLOR]",
-      "myresolve": "amstaff@@https://abc3orwaaaaaaaamhpui7wlnmfqgh.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-      "thumbnail": "https://static.wikia.nocookie.net/logo-timeline/images/0/04/Premiere_2017.png/revision/latest/scale-to-width-down/512",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "04-Jan 17:30 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]Manchester City vs Chelsea[/COLOR] - [COLOR gold]Sky Sport TOP EVENT[/COLOR] [COLOR blue](GER)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9saW5lYXIyMDItZGUtZGFzaDEtcHJkLWFrLmNkbjEyLnNreWNkcC5jb20vMDM1MTExLTUwL2luZGV4X3N0ZXJlby5tcGR8MDAwYjMyNjVlMWY5ZDUyMzc0YzZjNDcwNWEyNThmN2E6ZDIyM2UwZmVjNTVlMGEyMjM0NGQxY2FjYjhjZDI4NTU=",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/r14o5i1658662835.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
-      "info": "04-Jan 17:30 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]Manchester City vs Chelsea[/COLOR] - [COLOR gold]DAZN 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9tcGRzLm53czAueHl6OjIwODMvRG0ubXBkP2Fzc2V0SWQ9NGhxY2p4NXp2OTFmMWJkeDcxaW80Ym5ybC5tcGR8NjE2NGEwYWJhYTdjNTNjNjg3NWZhMWU3ZmUwYmI0NjM6MjcxNTEwZDNlMTI1OTU3MWRjYzU2OGEyMzJlMzk3ZWI=",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 17:30 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]Manchester City vs Chelsea[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 17:30 - England Premier League"
-    },
-    {
-      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]Mallorca vs Girona[/COLOR] - [COLOR gold]Fox Sports 1[/COLOR] [COLOR blue](AR)[/COLOR]",
-      "myresolve": "amstaff@@https://csc-axs-edge01.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd|1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "04-Jan 17:30 - Spain La Liga"
-    },
-    {
-      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]Mallorca vs Girona[/COLOR] - [COLOR gold]ESPN 1[/COLOR] [COLOR blue](BR)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9ub2ctbGl2ZTEtb3R0Lml6emlnby50di82L291dC91L2Rhc2gvRVNQTkhESDI2NS9kZWZhdWx0Lm1wZHwzZmI4MTY3OTU3NjkyODM2ZWNhMTQ2NGI3Zjk1MmI0NTpmMzEwNDJlODE2N2ViNGI0OWNlODExN2M5ZTVmMWU4NQ==",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "04-Jan 17:30 - Spain La Liga"
-    },
-    {
-      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]Deportivo Alaves vs Real Oviedo[/COLOR] - [COLOR gold]Fox Sports 1[/COLOR] [COLOR blue](AR)[/COLOR]",
-      "myresolve": "amstaff@@https://csc-axs-edge01.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd|1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "04-Jan 17:30 - Spain La Liga"
-    },
-    {
-      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]Deportivo Alaves vs Real Oviedo[/COLOR] - [COLOR gold]DAZN 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9tcGRzLm53czAueHl6OjIwODMvRG0ubXBkP2Fzc2V0SWQ9NGhxY2p4NXp2OTFmMWJkeDcxaW80Ym5ybC5tcGR8NjE2NGEwYWJhYTdjNTNjNjg3NWZhMWU3ZmUwYmI0NjM6MjcxNTEwZDNlMTI1OTU3MWRjYzU2OGEyMzJlMzk3ZWI=",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 17:30 - Spain La Liga"
-    },
-    {
-      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]Real Zaragoza vs Las Palmas[/COLOR] - [COLOR gold]Sky Sports La Liga[/COLOR] [COLOR blue](ESP)[/COLOR]",
-      "myresolve": "amstaff@@https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd|c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/512?cb=2023112014424",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
-      "info": "04-Jan 17:30 - Spain Segunda Division"
-    },
-    {
-      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]Albacete vs Leganes[/COLOR] - [COLOR gold]Sky Sports La Liga[/COLOR] [COLOR blue](ESP)[/COLOR]",
-      "myresolve": "amstaff@@https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd|c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/512?cb=2023112014424",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
-      "info": "04-Jan 17:30 - Spain Segunda Division"
-    },
-    {
-      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]Jacksonville vs Tennessee[/COLOR] - [COLOR gold]RTL 1[/COLOR] [COLOR blue](HU)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9vcmlnaW4tMThjZDYwZGVhODE5MDUyOC1ydGxodS5saXZlLjZjbG91ZC5mci9vdXQvdjEvMGM1YzdmYjM4OGM2NDlmNzhhMWJlMzZmYzRiZDM2NWUvZGFzaF9sb25nX2NlbmMxMF91Y2wxX2hkX2luZGV4Lm1wZHxiOThiN2UwZjI4MDYzMzJhYjYyN2MwMTc3ZTU3MDhmNjo2MjI0MDcwNWQ2OWZiZjNiNjg1MGJmZGZhYjJhNzg3YSw3NzBjZjc5NmNiZjUzMjEwYTdkN2M0MTRkZGNlZWI5YTo5MDNkZWEzMjkzMmUxMDE2MTAzNGUwZmRiOGIyZmJhOA==",
-      "thumbnail": "https://static.wikia.nocookie.net/logosfake/images/c/c5/RTL_1_1991.png/revision/latest/scale-to-width-down/512?cb=20150929185306",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/hu-circle-01.png",
-      "info": "04-Jan 18:00 - NFL"
-    },
-    {
-      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]Santa Clara vs Porto[/COLOR] - [COLOR gold]Sport TV 1[/COLOR] [COLOR blue](PT)[/COLOR]",
-      "myresolve": "amstaff@@https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD|c2bac9c393f145fc924ce572ca99156f:45f6637eef80eafbe7e630231139df5b",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "04-Jan 18:00 - Portugal Primeira Liga"
-    },
-    {
-      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]Nurnberg Ice Tigers vs Grizzly Wolfsburg[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 18:00 - Germany DEL"
-    },
-    {
-      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]Montreal Canadiens vs Dallas Stars[/COLOR] - [COLOR gold]TSN 2[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://abm5x5xaaaaaaaampie4zrlukq55o.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd|362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
-      "info": "04-Jan 19:00 - NHL"
-    },
-    {
-      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]Montreal Canadiens vs Dallas Stars[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 19:00 - NHL"
-    },
-    {
-      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]South Africa vs Camerun[/COLOR] - [COLOR gold]BEIN SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/512px-Logo_bein_sports_1.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
-      "info": "04-Jan 19:00 - Africa Africa Cup of Nations"
-    },
-    {
-      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]South Africa vs Camerun[/COLOR] - [COLOR gold]BEIN SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/512px-Logo_bein_sports_1.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
-      "info": "04-Jan 19:00 - Africa Africa Cup of Nations"
-    },
-    {
-      "title": "[COLOR cyan][19:45][/COLOR] [COLOR gold]Internazionale vs Bologna[/COLOR] - [COLOR gold]Fox Sports 1[/COLOR] [COLOR blue](AR)[/COLOR]",
-      "myresolve": "amstaff@@https://csc-axs-edge01.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd|1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "04-Jan 19:45 - Italy Serie A"
-    },
-    {
-      "title": "[COLOR cyan][19:45][/COLOR] [COLOR gold]Internazionale vs Bologna[/COLOR] - [COLOR gold]CBS SPORT[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-      "thumbnail": "https://d3g9pb5nvr3u7.cloudfront.net/sites/55520d5de45dba1b5e10ac70/1189012733/256.jpg",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png",
-      "info": "04-Jan 19:45 - Italy Serie A"
-    },
-    {
-      "title": "[COLOR cyan][19:45][/COLOR] [COLOR gold]Internazionale vs Bologna[/COLOR] - [COLOR gold]DAZN 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9tcGRzLm53czAueHl6OjIwODMvRG0ubXBkP2Fzc2V0SWQ9NGhxY2p4NXp2OTFmMWJkeDcxaW80Ym5ybC5tcGR8NjE2NGEwYWJhYTdjNTNjNjg3NWZhMWU3ZmUwYmI0NjM6MjcxNTEwZDNlMTI1OTU3MWRjYzU2OGEyMzJlMzk3ZWI=",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 19:45 - Italy Serie A"
-    },
-    {
-      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Real Sociedad vs Atletico Madrid[/COLOR] - [COLOR gold]Fox Sports 1[/COLOR] [COLOR blue](AR)[/COLOR]",
-      "myresolve": "amstaff@@https://csc-axs-edge01.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd|1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "04-Jan 20:00 - Spain La Liga"
-    },
-    {
-      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Real Sociedad vs Atletico Madrid[/COLOR] - [COLOR gold]ESPN 1[/COLOR] [COLOR blue](BR)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9ub2ctbGl2ZTEtb3R0Lml6emlnby50di82L291dC91L2Rhc2gvRVNQTkhESDI2NS9kZWZhdWx0Lm1wZHwzZmI4MTY3OTU3NjkyODM2ZWNhMTQ2NGI3Zjk1MmI0NTpmMzEwNDJlODE2N2ViNGI0OWNlODExN2M5ZTVmMWU4NQ==",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "04-Jan 20:00 - Spain La Liga"
-    },
-    {
-      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Pittsburgh Penguins vs Columbus Blue Jackets[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 20:00 - NHL"
-    },
-    {
-      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Deportivo La Coruna vs Cadiz[/COLOR] - [COLOR gold]Sky Sports La Liga[/COLOR] [COLOR blue](ESP)[/COLOR]",
-      "myresolve": "amstaff@@https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd|c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/512?cb=2023112014424",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
-      "info": "04-Jan 20:00 - Spain Segunda Division"
-    },
-    {
-      "title": "[COLOR cyan][20:30][/COLOR] [COLOR gold]Alverca vs Famalicao[/COLOR] - [COLOR gold]Sport TV 2[/COLOR] [COLOR blue](PT)[/COLOR]",
-      "myresolve": "amstaff@@https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD|0d28edf4f055409bb12d6d0260b26b6b:bf69f8a33c39c31f5ff06ab52012e27c",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "04-Jan 20:30 - Portugal Primeira Liga"
-    },
-    {
-      "title": "[COLOR cyan][21:25][/COLOR] [COLOR gold]Denver vs Los Angeles Chargers[/COLOR] - [COLOR gold]RTL 1[/COLOR] [COLOR blue](HU)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9vcmlnaW4tMThjZDYwZGVhODE5MDUyOC1ydGxodS5saXZlLjZjbG91ZC5mci9vdXQvdjEvMGM1YzdmYjM4OGM2NDlmNzhhMWJlMzZmYzRiZDM2NWUvZGFzaF9sb25nX2NlbmMxMF91Y2wxX2hkX2luZGV4Lm1wZHxiOThiN2UwZjI4MDYzMzJhYjYyN2MwMTc3ZTU3MDhmNjo2MjI0MDcwNWQ2OWZiZjNiNjg1MGJmZGZhYjJhNzg3YSw3NzBjZjc5NmNiZjUzMjEwYTdkN2M0MTRkZGNlZWI5YTo5MDNkZWEzMjkzMmUxMDE2MTAzNGUwZmRiOGIyZmJhOA==",
-      "thumbnail": "https://static.wikia.nocookie.net/logosfake/images/c/c5/RTL_1_1991.png/revision/latest/scale-to-width-down/512?cb=20150929185306",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/hu-circle-01.png",
-      "info": "04-Jan 21:25 - NFL"
-    },
-    {
-      "title": "[COLOR cyan][21:30][/COLOR] [COLOR gold]TBD vs TBD[/COLOR] - [COLOR gold]TSN 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://abkf7g7aaaaaaaamcmmhhhyli5fwh.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd|7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
-      "info": "04-Jan 21:30 - World Junior Championship"
+      "title": "Zona Dazn.it - 14:46 Sassuolo - Napoli - Stag. 2025 Ep. 1a g. - Sassuolo - Napoli",
+      "link": "ignoreme",
+      "info": "In onda: 14:46 - 16:31\n\nSerie A - 1a g. Ambizione, tattica e personalita: la stagione riparte con gli allenatori protagonisti, tra ritorni, rivoluzioni e conferme.\n\nA seguire (16:31): Adrien Rabiot: sto tornando",
+      "thumbnail": "https://images.open-epg.com/7515557.png"
     }
   ]
 }
