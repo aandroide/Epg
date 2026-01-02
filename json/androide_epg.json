@@ -191,32 +191,88 @@
       "info": "Eventi Altri"
     },
     {
+      "title": "[COLOR cyan][06:00][/COLOR] [COLOR gold]Brisbane Roar vs Wellington Phoenix[/COLOR] - [COLOR gold]Fox Sports 1[/COLOR] [COLOR blue](AR)[/COLOR]",
+      "myresolve": "amstaff@@https://csc-axs-edge01.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd|1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
+      "info": "03-Jan 06:00 - Australia A-League"
+    },
+    {
+      "title": "[COLOR cyan][06:00][/COLOR] [COLOR gold]Brisbane Roar vs Wellington Phoenix[/COLOR] - [COLOR gold]SKY SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
+      "myresolve": "amstaff@@aHR0cHM6Ly9za3ktbnouYi1jZG4ubmV0L3NreXNwb3J0MS9tYXN0ZXIubXBkfGFlZmMyYzhkMWM4ODQwZjFiNjk4MWY4NTZjOTI2OWJhOmNmOGVhMTE0YzQ1YjRkNjU5NmIyNzQ4MjU4YWI3NGQ2",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/2/27/Sky_Sport_1_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830144011",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "03-Jan 06:00 - Australia A-League"
+    },
+    {
+      "title": "[COLOR cyan][08:35][/COLOR] [COLOR gold]Melbourne City vs Sydney FC[/COLOR] - [COLOR gold]SKY SPORT 4[/COLOR] [COLOR blue](ENG)[/COLOR]",
+      "myresolve": "amstaff@@https://sky-nz.b-cdn.net/skysport4/master.mpd|278b8746b7c7410e901af0aa3774f037:15e1142d647b474ebbd49e41efa2a9d7",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/9/90/Sky_Sport_4_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143941",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "03-Jan 08:35 - Australia A-League"
+    },
+    {
+      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]TBD vs TBD[/COLOR] - [COLOR gold]BEIN SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
+      "myresolve": "amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/512px-Logo_bein_sports_1.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
+      "info": "03-Jan 16:00 - Africa Africa Cup of Nations"
+    },
+    {
+      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]Mali vs Tunisia[/COLOR] - [COLOR gold]BEIN SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
+      "myresolve": "amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/512px-Logo_bein_sports_1.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
+      "info": "03-Jan 19:00 - Africa Africa Cup of Nations"
+    },
+    {
+      "title": "[COLOR cyan][08:35][/COLOR] [COLOR gold]Adelaide United vs Central Coast Mariners[/COLOR] - [COLOR gold]Fox Sports 1[/COLOR] [COLOR blue](AR)[/COLOR]",
+      "myresolve": "amstaff@@https://csc-axs-edge01.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd|1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
+      "info": "04-Jan 08:35 - Australia A-League"
+    },
+    {
+      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]Morocco vs Tanzania[/COLOR] - [COLOR gold]BEIN SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
+      "myresolve": "amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/512px-Logo_bein_sports_1.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
+      "info": "04-Jan 16:00 - Africa Africa Cup of Nations"
+    },
+    {
+      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]Morocco vs Tanzania[/COLOR] - [COLOR gold]BEIN SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
+      "myresolve": "amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/512px-Logo_bein_sports_1.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
+      "info": "04-Jan 16:00 - Africa Africa Cup of Nations"
+    },
+    {
+      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]South Africa vs Camerun[/COLOR] - [COLOR gold]BEIN SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
+      "myresolve": "amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/512px-Logo_bein_sports_1.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
+      "info": "04-Jan 19:00 - Africa Africa Cup of Nations"
+    },
+    {
+      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]South Africa vs Camerun[/COLOR] - [COLOR gold]BEIN SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
+      "myresolve": "amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/512px-Logo_bein_sports_1.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
+      "info": "04-Jan 19:00 - Africa Africa Cup of Nations"
+    },
+    {
+      "title": "[B][COLOR yellow]═══ 🇪🇺 EUROPA ═══[/COLOR][/B]",
+      "link": "ignoreme",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/814/814346.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "Eventi Europa"
+    },
+    {
       "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]BC Neptunas Klaipeda vs Umana Reyer Venice[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
       "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
       "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
       "info": "02-Jan 16:00 - Eurocup"
-    },
-    {
-      "title": "[COLOR cyan][16:30][/COLOR] [COLOR gold]Vitkovice vs Ocelari Trinec[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 16:30 - Czech Republic Extraliga"
-    },
-    {
-      "title": "[COLOR cyan][16:30][/COLOR] [COLOR gold]Litvinov vs Plzen[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 16:30 - Czech Republic Extraliga"
-    },
-    {
-      "title": "[COLOR cyan][16:30][/COLOR] [COLOR gold]Mlada-Boleslav vs Ceske Budejovice[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 16:30 - Czech Republic Extraliga"
     },
     {
       "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Anadolu Efes vs Roter Stern Belgrad[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
@@ -226,60 +282,11 @@
       "info": "02-Jan 17:00 - Euroleague"
     },
     {
-      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Olomouc vs Bili Tygri Liberec[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 17:00 - Czech Republic Extraliga"
-    },
-    {
-      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Karlovy Vary vs Dynamo Pardubice[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 17:00 - Czech Republic Extraliga"
-    },
-    {
-      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Kometa Brno vs Rytiri Kladno[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 17:00 - Czech Republic Extraliga"
-    },
-    {
-      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Almtuna IS vs Ostersunds IK[/COLOR] - [COLOR gold]STARZPLAY 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://sps1.starzplayarabia.com/out/v1/56d8b44c7b9a4eaeae45bd9f5f509af5/index.mpd|b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Starzplay-logo.svg/640px-Starzplay-logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png",
-      "info": "02-Jan 17:00 - Sweden Allsvenskan"
-    },
-    {
       "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]Ratiopharm Ulm vs Lietkabelis[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
       "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
       "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
       "info": "02-Jan 18:00 - Eurocup"
-    },
-    {
-      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]Kalmar HC vs IF Troja/Ljungby[/COLOR] - [COLOR gold]TV4 Sport Live 2[/COLOR] [COLOR blue](SWE)[/COLOR]",
-      "myresolve": "amstaff@@https://live.streaming.a2d.tv/asset/20465730.isml/.mpd|729e43e22f86327ea9cbfd859b6e50e9:bbd3b6b123a10cb4cdfd79751f56b0af",
-      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/6qU6aJGG9kgAECw6c3xpEm/79fde1c03151b9bcee3a276eb4e23d55/tv4_sport_live_2.png?fit=scale&w=256&fm=webp&q=75&h=256",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
-      "info": "02-Jan 18:00 - Sweden Allsvenskan"
-    },
-    {
-      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]Mora IK vs Vasteras IK[/COLOR] - [COLOR gold]TV4 Sport Live 3[/COLOR] [COLOR blue](SWE)[/COLOR]",
-      "myresolve": "amstaff@@https://live.streaming.a2d.tv/asset/20465731.isml/.mpd|4e30426a0a5c36359b1606dd7bc90937:508fb8a6038bf24a216c27e3efe3d9cf",
-      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/3y0AxGHgQlHMF8nZSoDB8M/2b2e3e69b49597b0c04d072b400e3e4d/tv4_sport_live_3.png?fit=scale&w=256&fm=webp&q=75&h=256",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
-      "info": "02-Jan 18:00 - Sweden Allsvenskan"
-    },
-    {
-      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]IK Oskarshamn vs Nybro Vikings IF[/COLOR] - [COLOR gold]TV4 Sport Live 4[/COLOR] [COLOR blue](SWE)[/COLOR]",
-      "myresolve": "amstaff@@https://live.streaming.a2d.tv/asset/20465732.isml/.mpd|08c544c527b93252a34932c4890903a1:86a3d7e41bd51161039cfc80d880c746",
-      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/013pZkYwWwVUvuHrzPJ45U/c518446ab64f2926bd54441ded66de66/tv4_sport_live_4.png?fit=scale&w=256&fm=webp&q=75&h=256",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
-      "info": "02-Jan 18:00 - Sweden Allsvenskan"
     },
     {
       "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]Saski Baskonia vs Fenerbahce[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
@@ -322,188 +329,6 @@
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
       "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
       "info": "02-Jan 20:00 - Euroleague"
-    },
-    {
-      "title": "[COLOR cyan][06:00][/COLOR] [COLOR gold]Brisbane Roar vs Wellington Phoenix[/COLOR] - [COLOR gold]Fox Sports 1[/COLOR] [COLOR blue](AR)[/COLOR]",
-      "myresolve": "amstaff@@https://csc-axs-edge01.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd|1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "03-Jan 06:00 - Australia A-League"
-    },
-    {
-      "title": "[COLOR cyan][06:00][/COLOR] [COLOR gold]Brisbane Roar vs Wellington Phoenix[/COLOR] - [COLOR gold]SKY SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly9za3ktbnouYi1jZG4ubmV0L3NreXNwb3J0MS9tYXN0ZXIubXBkfGFlZmMyYzhkMWM4ODQwZjFiNjk4MWY4NTZjOTI2OWJhOmNmOGVhMTE0YzQ1YjRkNjU5NmIyNzQ4MjU4YWI3NGQ2",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/2/27/Sky_Sport_1_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830144011",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
-      "info": "03-Jan 06:00 - Australia A-League"
-    },
-    {
-      "title": "[COLOR cyan][08:35][/COLOR] [COLOR gold]Melbourne City vs Sydney FC[/COLOR] - [COLOR gold]SKY SPORT 4[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://sky-nz.b-cdn.net/skysport4/master.mpd|278b8746b7c7410e901af0aa3774f037:15e1142d647b474ebbd49e41efa2a9d7",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/9/90/Sky_Sport_4_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143941",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
-      "info": "03-Jan 08:35 - Australia A-League"
-    },
-    {
-      "title": "[COLOR cyan][12:30][/COLOR] [COLOR gold]Celtic vs Rangers[/COLOR] - [COLOR gold]CBS SPORT[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-      "thumbnail": "https://d3g9pb5nvr3u7.cloudfront.net/sites/55520d5de45dba1b5e10ac70/1189012733/256.jpg",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png",
-      "info": "03-Jan 12:30 - Scotland Scottish Premiership"
-    },
-    {
-      "title": "[COLOR cyan][14:15][/COLOR] [COLOR gold]Orebro Hockey vs Rogle BK[/COLOR] - [COLOR gold]TV4 Sport Live 2[/COLOR] [COLOR blue](SWE)[/COLOR]",
-      "myresolve": "amstaff@@https://live.streaming.a2d.tv/asset/20465730.isml/.mpd|729e43e22f86327ea9cbfd859b6e50e9:bbd3b6b123a10cb4cdfd79751f56b0af",
-      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/6qU6aJGG9kgAECw6c3xpEm/79fde1c03151b9bcee3a276eb4e23d55/tv4_sport_live_2.png?fit=scale&w=256&fm=webp&q=75&h=256",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
-      "info": "03-Jan 14:15 - Sweden SHL"
-    },
-    {
-      "title": "[COLOR cyan][14:15][/COLOR] [COLOR gold]Leksands IF vs HV71[/COLOR] - [COLOR gold]TV4 Sport Live 3[/COLOR] [COLOR blue](SWE)[/COLOR]",
-      "myresolve": "amstaff@@https://live.streaming.a2d.tv/asset/20465731.isml/.mpd|4e30426a0a5c36359b1606dd7bc90937:508fb8a6038bf24a216c27e3efe3d9cf",
-      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/3y0AxGHgQlHMF8nZSoDB8M/2b2e3e69b49597b0c04d072b400e3e4d/tv4_sport_live_3.png?fit=scale&w=256&fm=webp&q=75&h=256",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
-      "info": "03-Jan 14:15 - Sweden SHL"
-    },
-    {
-      "title": "[COLOR cyan][14:15][/COLOR] [COLOR gold]Vaxjo Lakers vs Frolunda HC[/COLOR] - [COLOR gold]TV4 Sport Live 4[/COLOR] [COLOR blue](SWE)[/COLOR]",
-      "myresolve": "amstaff@@https://live.streaming.a2d.tv/asset/20465732.isml/.mpd|08c544c527b93252a34932c4890903a1:86a3d7e41bd51161039cfc80d880c746",
-      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/013pZkYwWwVUvuHrzPJ45U/c518446ab64f2926bd54441ded66de66/tv4_sport_live_4.png?fit=scale&w=256&fm=webp&q=75&h=256",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
-      "info": "03-Jan 14:15 - Sweden SHL"
-    },
-    {
-      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Dundee United vs Dundee[/COLOR] - [COLOR gold]CBS SPORT[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-      "thumbnail": "https://d3g9pb5nvr3u7.cloudfront.net/sites/55520d5de45dba1b5e10ac70/1189012733/256.jpg",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png",
-      "info": "03-Jan 15:00 - Scotland Scottish Premiership"
-    },
-    {
-      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]TBD vs TBD[/COLOR] - [COLOR gold]BEIN SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/512px-Logo_bein_sports_1.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
-      "info": "03-Jan 16:00 - Africa Africa Cup of Nations"
-    },
-    {
-      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Malmo Redhawks vs Linkoping HC[/COLOR] - [COLOR gold]TV4 Sport Live 2[/COLOR] [COLOR blue](SWE)[/COLOR]",
-      "myresolve": "amstaff@@https://live.streaming.a2d.tv/asset/20465730.isml/.mpd|729e43e22f86327ea9cbfd859b6e50e9:bbd3b6b123a10cb4cdfd79751f56b0af",
-      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/6qU6aJGG9kgAECw6c3xpEm/79fde1c03151b9bcee3a276eb4e23d55/tv4_sport_live_2.png?fit=scale&w=256&fm=webp&q=75&h=256",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
-      "info": "03-Jan 17:00 - Sweden SHL"
-    },
-    {
-      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Timra IK vs Djurgardens IF[/COLOR] - [COLOR gold]TV4 Sport Live 3[/COLOR] [COLOR blue](SWE)[/COLOR]",
-      "myresolve": "amstaff@@https://live.streaming.a2d.tv/asset/20465731.isml/.mpd|4e30426a0a5c36359b1606dd7bc90937:508fb8a6038bf24a216c27e3efe3d9cf",
-      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/3y0AxGHgQlHMF8nZSoDB8M/2b2e3e69b49597b0c04d072b400e3e4d/tv4_sport_live_3.png?fit=scale&w=256&fm=webp&q=75&h=256",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
-      "info": "03-Jan 17:00 - Sweden Allsvenskan"
-    },
-    {
-      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]IF Troja/Ljungby vs Ostersunds IK[/COLOR] - [COLOR gold]TV4 Sport Live 4[/COLOR] [COLOR blue](SWE)[/COLOR]",
-      "myresolve": "amstaff@@https://live.streaming.a2d.tv/asset/20465732.isml/.mpd|08c544c527b93252a34932c4890903a1:86a3d7e41bd51161039cfc80d880c746",
-      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/013pZkYwWwVUvuHrzPJ45U/c518446ab64f2926bd54441ded66de66/tv4_sport_live_4.png?fit=scale&w=256&fm=webp&q=75&h=256",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
-      "info": "03-Jan 17:00 - Sweden SHL"
-    },
-    {
-      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]Mali vs Tunisia[/COLOR] - [COLOR gold]BEIN SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/512px-Logo_bein_sports_1.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
-      "info": "03-Jan 19:00 - Africa Africa Cup of Nations"
-    },
-    {
-      "title": "[COLOR cyan][08:35][/COLOR] [COLOR gold]Adelaide United vs Central Coast Mariners[/COLOR] - [COLOR gold]Fox Sports 1[/COLOR] [COLOR blue](AR)[/COLOR]",
-      "myresolve": "amstaff@@https://csc-axs-edge01.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd|1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "04-Jan 08:35 - Australia A-League"
-    },
-    {
-      "title": "[COLOR cyan][14:00][/COLOR] [COLOR gold]Ocelari Trinec vs Litvinov[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 14:00 - Czech Republic Extraliga"
-    },
-    {
-      "title": "[COLOR cyan][14:00][/COLOR] [COLOR gold]Rytiri Kladno vs Sparta Praha[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 14:00 - Czech Republic Extraliga"
-    },
-    {
-      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Sparta Praha vs Rytiri Kladno[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 15:00 - Czech Republic Extraliga"
-    },
-    {
-      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Mountfield vs Bili Tygri Liberec[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 15:00 - Czech Republic Extraliga"
-    },
-    {
-      "title": "[COLOR cyan][15:30][/COLOR] [COLOR gold]Plzen vs Mlada-Boleslav[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 15:30 - Czech Republic Extraliga"
-    },
-    {
-      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]Morocco vs Tanzania[/COLOR] - [COLOR gold]BEIN SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/512px-Logo_bein_sports_1.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
-      "info": "04-Jan 16:00 - Africa Africa Cup of Nations"
-    },
-    {
-      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]Morocco vs Tanzania[/COLOR] - [COLOR gold]BEIN SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/512px-Logo_bein_sports_1.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
-      "info": "04-Jan 16:00 - Africa Africa Cup of Nations"
-    },
-    {
-      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]Ceske Budejovice vs Olomouc[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 16:00 - Czech Republic Extraliga"
-    },
-    {
-      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]Dynamo Pardubice vs Vitkovice[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 16:00 - Czech Republic Extraliga"
-    },
-    {
-      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]Kometa Brno vs Karlovy Vary[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
-      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "04-Jan 16:00 - Czech Republic Extraliga"
-    },
-    {
-      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]South Africa vs Camerun[/COLOR] - [COLOR gold]BEIN SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/512px-Logo_bein_sports_1.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
-      "info": "04-Jan 19:00 - Africa Africa Cup of Nations"
-    },
-    {
-      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]South Africa vs Camerun[/COLOR] - [COLOR gold]BEIN SPORT 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
-      "myresolve": "amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/512px-Logo_bein_sports_1.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
-      "info": "04-Jan 19:00 - Africa Africa Cup of Nations"
     },
     {
       "title": "[B][COLOR yellow]═══ 🇫🇷 FRANCIA ═══[/COLOR][/B]",
@@ -730,7 +555,7 @@
       "info": "04-Jan 18:00 - Germany DEL"
     },
     {
-      "title": "[B][COLOR yellow]═══ Eng INGHILTERRA ═══[/COLOR][/B]",
+      "title": "[B][COLOR yellow]═══ eng INGHILTERRA ═══[/COLOR][/B]",
       "link": "ignoreme",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/814/814346.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
@@ -807,6 +632,13 @@
       "info": "03-Jan 01:30 - World Junior Championship"
     },
     {
+      "title": "[COLOR cyan][12:30][/COLOR] [COLOR gold]Celtic vs Rangers[/COLOR] - [COLOR gold]CBS SPORT[/COLOR] [COLOR blue](ENG)[/COLOR]",
+      "myresolve": "amstaff@@https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+      "thumbnail": "https://d3g9pb5nvr3u7.cloudfront.net/sites/55520d5de45dba1b5e10ac70/1189012733/256.jpg",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png",
+      "info": "03-Jan 12:30 - Scotland Scottish Premiership"
+    },
+    {
       "title": "[COLOR cyan][12:30][/COLOR] [COLOR gold]Aston Villa vs Nottingham Forest[/COLOR] - [COLOR gold]USA[/COLOR] [COLOR blue](ENG)[/COLOR]",
       "myresolve": "amstaff@@aHR0cHM6Ly9ha2FtLnN0cmVhbS5wZWFjb2NrdHYuY29tL0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzLXYyL0xpdmUvY2hhbm5lbCh1c2EtZWFzdCkvbWFzdGVyLm1wZHwwNDNiYTFiNGEyODIzZmM0YTYwMzMxNzhmMzU2MDQzMTo2ODQzNThkODA4NzRiNTVmOTMzNWM3MzEyNmU0ZDQ0ZQ==",
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png",
@@ -847,6 +679,13 @@
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
       "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
       "info": "03-Jan 15:00 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Dundee United vs Dundee[/COLOR] - [COLOR gold]CBS SPORT[/COLOR] [COLOR blue](ENG)[/COLOR]",
+      "myresolve": "amstaff@@https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+      "thumbnail": "https://d3g9pb5nvr3u7.cloudfront.net/sites/55520d5de45dba1b5e10ac70/1189012733/256.jpg",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png",
+      "info": "03-Jan 15:00 - Scotland Scottish Premiership"
     },
     {
       "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Brighton & Hove Albion vs Burnley[/COLOR] - [COLOR gold]Sky Sport TOP EVENT[/COLOR] [COLOR blue](GER)[/COLOR]",
@@ -1164,6 +1003,111 @@
       "info": "04-Jan 20:30 - Portugal Primeira Liga"
     },
     {
+      "title": "[B][COLOR yellow]═══ 🇨🇿 REPUBBLICA CECA ═══[/COLOR][/B]",
+      "link": "ignoreme",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/814/814346.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "Eventi Repubblica Ceca"
+    },
+    {
+      "title": "[COLOR cyan][16:30][/COLOR] [COLOR gold]Vitkovice vs Ocelari Trinec[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
+      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "02-Jan 16:30 - Czech Republic Extraliga"
+    },
+    {
+      "title": "[COLOR cyan][16:30][/COLOR] [COLOR gold]Litvinov vs Plzen[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
+      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "02-Jan 16:30 - Czech Republic Extraliga"
+    },
+    {
+      "title": "[COLOR cyan][16:30][/COLOR] [COLOR gold]Mlada-Boleslav vs Ceske Budejovice[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
+      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "02-Jan 16:30 - Czech Republic Extraliga"
+    },
+    {
+      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Olomouc vs Bili Tygri Liberec[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
+      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "02-Jan 17:00 - Czech Republic Extraliga"
+    },
+    {
+      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Karlovy Vary vs Dynamo Pardubice[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
+      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "02-Jan 17:00 - Czech Republic Extraliga"
+    },
+    {
+      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Kometa Brno vs Rytiri Kladno[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
+      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "02-Jan 17:00 - Czech Republic Extraliga"
+    },
+    {
+      "title": "[COLOR cyan][14:00][/COLOR] [COLOR gold]Ocelari Trinec vs Litvinov[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
+      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "04-Jan 14:00 - Czech Republic Extraliga"
+    },
+    {
+      "title": "[COLOR cyan][14:00][/COLOR] [COLOR gold]Rytiri Kladno vs Sparta Praha[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
+      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "04-Jan 14:00 - Czech Republic Extraliga"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Sparta Praha vs Rytiri Kladno[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
+      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "04-Jan 15:00 - Czech Republic Extraliga"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Mountfield vs Bili Tygri Liberec[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
+      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "04-Jan 15:00 - Czech Republic Extraliga"
+    },
+    {
+      "title": "[COLOR cyan][15:30][/COLOR] [COLOR gold]Plzen vs Mlada-Boleslav[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
+      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "04-Jan 15:30 - Czech Republic Extraliga"
+    },
+    {
+      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]Ceske Budejovice vs Olomouc[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
+      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "04-Jan 16:00 - Czech Republic Extraliga"
+    },
+    {
+      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]Dynamo Pardubice vs Vitkovice[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
+      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "04-Jan 16:00 - Czech Republic Extraliga"
+    },
+    {
+      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]Kometa Brno vs Karlovy Vary[/COLOR] - [COLOR gold]EuroSport 1[/COLOR] [COLOR blue](ITA)[/COLOR]",
+      "myresolve": "amstaff@@aHR0cHM6Ly90aW1saXZldHUwLmNiLnRpY2RuLml0L0NvbnRlbnQvREFTSC9MaXZlL2NoYW5uZWwoZXVyb3Nwb3J0MSkvbWFuaWZlc3QubXBkfDQ2ZTU1OWMyZjlmNjQ1Y2U4ZDgwYzdmYTIwNDQ2YmRiOjU5N2QyMTRkNjYzNDJlZTA0MmJjY2ZmZWIxNjVlNzUw",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "04-Jan 16:00 - Czech Republic Extraliga"
+    },
+    {
       "title": "[B][COLOR yellow]═══ 🇪🇸 SPAGNA ═══[/COLOR][/B]",
       "link": "ignoreme",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/814/814346.png",
@@ -1386,6 +1330,83 @@
       "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/512?cb=2023112014424",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
       "info": "04-Jan 20:00 - Spain Segunda Division"
+    },
+    {
+      "title": "[B][COLOR yellow]═══ 🇸🇪 SVEZIA ═══[/COLOR][/B]",
+      "link": "ignoreme",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/814/814346.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "Eventi Svezia"
+    },
+    {
+      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Almtuna IS vs Ostersunds IK[/COLOR] - [COLOR gold]STARZPLAY 1[/COLOR] [COLOR blue](ENG)[/COLOR]",
+      "myresolve": "amstaff@@https://sps1.starzplayarabia.com/out/v1/56d8b44c7b9a4eaeae45bd9f5f509af5/index.mpd|b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Starzplay-logo.svg/640px-Starzplay-logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png",
+      "info": "02-Jan 17:00 - Sweden Allsvenskan"
+    },
+    {
+      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]Kalmar HC vs IF Troja/Ljungby[/COLOR] - [COLOR gold]TV4 Sport Live 2[/COLOR] [COLOR blue](SWE)[/COLOR]",
+      "myresolve": "amstaff@@https://live.streaming.a2d.tv/asset/20465730.isml/.mpd|729e43e22f86327ea9cbfd859b6e50e9:bbd3b6b123a10cb4cdfd79751f56b0af",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/6qU6aJGG9kgAECw6c3xpEm/79fde1c03151b9bcee3a276eb4e23d55/tv4_sport_live_2.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "02-Jan 18:00 - Sweden Allsvenskan"
+    },
+    {
+      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]Mora IK vs Vasteras IK[/COLOR] - [COLOR gold]TV4 Sport Live 3[/COLOR] [COLOR blue](SWE)[/COLOR]",
+      "myresolve": "amstaff@@https://live.streaming.a2d.tv/asset/20465731.isml/.mpd|4e30426a0a5c36359b1606dd7bc90937:508fb8a6038bf24a216c27e3efe3d9cf",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/3y0AxGHgQlHMF8nZSoDB8M/2b2e3e69b49597b0c04d072b400e3e4d/tv4_sport_live_3.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "02-Jan 18:00 - Sweden Allsvenskan"
+    },
+    {
+      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]IK Oskarshamn vs Nybro Vikings IF[/COLOR] - [COLOR gold]TV4 Sport Live 4[/COLOR] [COLOR blue](SWE)[/COLOR]",
+      "myresolve": "amstaff@@https://live.streaming.a2d.tv/asset/20465732.isml/.mpd|08c544c527b93252a34932c4890903a1:86a3d7e41bd51161039cfc80d880c746",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/013pZkYwWwVUvuHrzPJ45U/c518446ab64f2926bd54441ded66de66/tv4_sport_live_4.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "02-Jan 18:00 - Sweden Allsvenskan"
+    },
+    {
+      "title": "[COLOR cyan][14:15][/COLOR] [COLOR gold]Orebro Hockey vs Rogle BK[/COLOR] - [COLOR gold]TV4 Sport Live 2[/COLOR] [COLOR blue](SWE)[/COLOR]",
+      "myresolve": "amstaff@@https://live.streaming.a2d.tv/asset/20465730.isml/.mpd|729e43e22f86327ea9cbfd859b6e50e9:bbd3b6b123a10cb4cdfd79751f56b0af",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/6qU6aJGG9kgAECw6c3xpEm/79fde1c03151b9bcee3a276eb4e23d55/tv4_sport_live_2.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "03-Jan 14:15 - Sweden SHL"
+    },
+    {
+      "title": "[COLOR cyan][14:15][/COLOR] [COLOR gold]Leksands IF vs HV71[/COLOR] - [COLOR gold]TV4 Sport Live 3[/COLOR] [COLOR blue](SWE)[/COLOR]",
+      "myresolve": "amstaff@@https://live.streaming.a2d.tv/asset/20465731.isml/.mpd|4e30426a0a5c36359b1606dd7bc90937:508fb8a6038bf24a216c27e3efe3d9cf",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/3y0AxGHgQlHMF8nZSoDB8M/2b2e3e69b49597b0c04d072b400e3e4d/tv4_sport_live_3.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "03-Jan 14:15 - Sweden SHL"
+    },
+    {
+      "title": "[COLOR cyan][14:15][/COLOR] [COLOR gold]Vaxjo Lakers vs Frolunda HC[/COLOR] - [COLOR gold]TV4 Sport Live 4[/COLOR] [COLOR blue](SWE)[/COLOR]",
+      "myresolve": "amstaff@@https://live.streaming.a2d.tv/asset/20465732.isml/.mpd|08c544c527b93252a34932c4890903a1:86a3d7e41bd51161039cfc80d880c746",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/013pZkYwWwVUvuHrzPJ45U/c518446ab64f2926bd54441ded66de66/tv4_sport_live_4.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "03-Jan 14:15 - Sweden SHL"
+    },
+    {
+      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Malmo Redhawks vs Linkoping HC[/COLOR] - [COLOR gold]TV4 Sport Live 2[/COLOR] [COLOR blue](SWE)[/COLOR]",
+      "myresolve": "amstaff@@https://live.streaming.a2d.tv/asset/20465730.isml/.mpd|729e43e22f86327ea9cbfd859b6e50e9:bbd3b6b123a10cb4cdfd79751f56b0af",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/6qU6aJGG9kgAECw6c3xpEm/79fde1c03151b9bcee3a276eb4e23d55/tv4_sport_live_2.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "03-Jan 17:00 - Sweden SHL"
+    },
+    {
+      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Timra IK vs Djurgardens IF[/COLOR] - [COLOR gold]TV4 Sport Live 3[/COLOR] [COLOR blue](SWE)[/COLOR]",
+      "myresolve": "amstaff@@https://live.streaming.a2d.tv/asset/20465731.isml/.mpd|4e30426a0a5c36359b1606dd7bc90937:508fb8a6038bf24a216c27e3efe3d9cf",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/3y0AxGHgQlHMF8nZSoDB8M/2b2e3e69b49597b0c04d072b400e3e4d/tv4_sport_live_3.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "03-Jan 17:00 - Sweden Allsvenskan"
+    },
+    {
+      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]IF Troja/Ljungby vs Ostersunds IK[/COLOR] - [COLOR gold]TV4 Sport Live 4[/COLOR] [COLOR blue](SWE)[/COLOR]",
+      "myresolve": "amstaff@@https://live.streaming.a2d.tv/asset/20465732.isml/.mpd|08c544c527b93252a34932c4890903a1:86a3d7e41bd51161039cfc80d880c746",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/013pZkYwWwVUvuHrzPJ45U/c518446ab64f2926bd54441ded66de66/tv4_sport_live_4.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "03-Jan 17:00 - Sweden SHL"
     },
     {
       "title": "[B][COLOR yellow]═══ 🇺🇸 USA ═══[/COLOR][/B]",
