@@ -1,222 +1,2406 @@
 {
-  "SetViewMode": "503",
-  "RefreshList": "10800",
-  "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+  "SetViewMode": "55",
   "items": [
     {
-      "title": "Androide - EPG",
+      "title": "[B][COLOR yellow]=== ITALIA ===[/COLOR][/B]",
       "link": "ignoreme",
-      "info": "Aggiornato: 02/01/2026 18:19"
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/814/814346.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "Eventi Italia"
     },
     {
-      "title": "DAZN 1.it - 17:19 Bologna - Pisa",
-      "link": "ignoreme",
-      "info": "In onda: 17:19 - 18:53\n\nSerie A - 6a g. Ambizione, tattica e personalita: la stagione riparte con gli allenatori protagonisti, tra ritorni, rivoluzioni e conferme.\n\nA seguire (18:53): Christian Pulisic: The Italian Dream",
-      "thumbnail": "https://images.open-epg.com/19310.png"
+      "title": "[COLOR cyan][19:45][/COLOR] [COLOR gold]Cagliari vs Milan[/COLOR] - DAZN1 (DE)",
+      "myresolve": "sansat@@17",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 19:45 - Italy Serie A"
     },
     {
-      "title": "DAZN 2.it - 17:00 Nessun evento in onda",
-      "link": "ignoreme",
-      "info": "In onda: 17:00 - 23:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (23:00): Nessun evento in onda",
-      "thumbnail": "https://images.open-epg.com/19311.png"
+      "title": "[COLOR cyan][19:45][/COLOR] [COLOR gold]Cagliari vs Milan[/COLOR] - Sky Sport Calcio (IT)",
+      "myresolve": "sansat@@47",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 19:45 - Italy Serie A"
     },
     {
-      "title": "DAZN.it - 14:00 College GameDay",
-      "link": "ignoreme",
-      "info": "In onda: 14:00 - 14:00\n\nSegui tutta la stagione dellNCAA su DAZN\n\nA seguire (14:00): Social Corner",
-      "thumbnail": "https://images.open-epg.com/1531.png"
+      "title": "[COLOR cyan][19:45][/COLOR] [COLOR gold]Cagliari vs Milan[/COLOR] - TV4 Fotball (SE)",
+      "myresolve": "sansat@@69",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 19:45 - Italy Serie A"
     },
     {
-      "title": "Sky Arte.it - 17:45 33 giri Italian masters",
-      "link": "ignoreme",
-      "info": "In onda: 17:45 - 18:35\n\nS1 Ep7 Franco Battiato: La voce del padrone - Ci sono album che hanno segnato la storia della musica italiana. Andiamo alla scoperta dei loro segreti. Davanti ai mixer ospiti deccezione commenteranno le tracce.\n\nA seguire (18:35): Uno, nessuno, cento Nino",
-      "thumbnail": "https://images.open-epg.com/19379.png"
+      "title": "[COLOR cyan][19:45][/COLOR] [COLOR gold]Cagliari vs Milan[/COLOR] - Fox Deportes (ES)",
+      "myresolve": "sansat@@87",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 19:45 - Italy Serie A"
     },
     {
-      "title": "Sky Atlantic.it - 18:15 The Pitt",
-      "link": "ignoreme",
-      "info": "In onda: 18:15 - 19:10\n\nS1 Ep14 20.00 - Mentre Robby affronta una perdita, Abbott guida Samira durante una procedura rischiosa, e Mel cura unadolescente con uno strano sfogo cutaneo.\n\nA seguire (19:10): The Pitt",
-      "thumbnail": "https://images.open-epg.com/19381.png"
+      "title": "[COLOR cyan][11:30][/COLOR] [COLOR gold]Como vs Udinese[/COLOR] - DAZN Zona (IT)",
+      "myresolve": "sansat@@47",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 11:30 - Italy Serie A"
     },
     {
-      "title": "Sky Cinema Action.it - 18:15 Primal",
-      "link": "ignoreme",
-      "info": "In onda: 18:15 - 20:00\n\nNicolas Cage e Famke Janssen in un action tra bestie feroci e un killer spietato. Su una nave carica di animali selvaggi si scatena il terrore quando un criminale apre le gabbie (USA 2019)\n\nA seguire (20:00): Nella tana dei lupi 2 - Pantera",
-      "thumbnail": "https://images.open-epg.com/19383.png"
+      "title": "[COLOR cyan][11:30][/COLOR] [COLOR gold]Como vs Udinese[/COLOR] - Eleven Sports 1 (PL)",
+      "myresolve": "sansat@@61",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 11:30 - Italy Serie A"
     },
     {
-      "title": "Sky Cinema Comedy.it - 18:15 I delitti del BarLume - La battaglia navale",
-      "link": "ignoreme",
-      "info": "In onda: 18:15 - 20:00\n\n... Navale. - La decima storia tratta dal romanzo di Marco Malvaldi ci riporta a Pineta. Il ritrovamento del cadavere di una donna al largo della baia di Calaluna da il via alle indagini (ITA 2017)\n\nA seguire (20:00): I delitti del BarLume - Il battesimo di Ampelio",
-      "thumbnail": "https://images.open-epg.com/19384.png"
+      "title": "[COLOR cyan][11:30][/COLOR] [COLOR gold]Como vs Udinese[/COLOR] - TV4 Fotball (SE)",
+      "myresolve": "sansat@@64",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 11:30 - Italy Serie A"
     },
     {
-      "title": "Sky Cinema Drama.it - 18:15 Cosa sarà",
-      "link": "ignoreme",
-      "info": "In onda: 18:15 - 20:00\n\nFrancesco Bruni dirige Kim Rossi Stuart in un racconto autobiografico sul tema della fragilita. La diagnosi di una malattia costringe un regista a rivalutare i suoi legami personali (ITA 2020)\n\nA seguire (20:00): La pazza gioia",
-      "thumbnail": "https://images.open-epg.com/19385.png"
+      "title": "[COLOR cyan][11:30][/COLOR] [COLOR gold]Como vs Udinese[/COLOR] - Fox Deportes (ES)",
+      "myresolve": "sansat@@87",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 11:30 - Italy Serie A"
     },
     {
-      "title": "Sky Cinema Due.it - 16:25 November - I cinque giorni dopo il Bataclan",
-      "link": "ignoreme",
-      "info": "In onda: 16:25 - 18:20\n\n... Bataclan. - Jean Dujardin nella pellicola che ricostruisce le indagini sugli attentati del 2015. Fred, un poliziotto dellantiterrorismo, deve trovare i fuggitivi piu ricercati di Francia (FRA 2022)\n\nA seguire (18:20): Radioactive",
-      "thumbnail": "https://images.open-epg.com/19387.png"
+      "title": "[COLOR cyan][14:00][/COLOR] [COLOR gold]Sassuolo vs Parma[/COLOR] - DAZN1 (DE)",
+      "myresolve": "sansat@@17",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 14:00 - Italy Serie A"
     },
     {
-      "title": "Sky Cinema Family.it - 16:50 Shrek e vissero felici e contenti",
-      "link": "ignoreme",
-      "info": "In onda: 16:50 - 18:25\n\nQuarto capitolo della saga danimazione con lorco piu famoso di Hollywood. Diventato padre, Shrek sente la nostalgia dei vecchi tempi e cade nella trappola del malefico Tremotino (USA 2010)\n\nA seguire (18:25): Il gatto con gli stivali",
-      "thumbnail": "https://images.open-epg.com/19388.png"
+      "title": "[COLOR cyan][14:00][/COLOR] [COLOR gold]Sassuolo vs Parma[/COLOR] - DAZN Zona (IT)",
+      "myresolve": "sansat@@47",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 14:00 - Italy Serie A"
     },
     {
-      "title": "Sky Cinema Romance.it - 18:05 Sai che cè di nuovo?",
-      "link": "ignoreme",
-      "info": "In onda: 18:05 - 20:00\n\nMadonna e Rupert Everett in una commedia di John Schlesinger. Una maestra di yoga e un giardiniere, amici per la pelle, fanno sesso dopo una notte di euforia e lei rimane incinta (USA 2000)\n\nA seguire (20:00): Vi presento Joe Black",
-      "thumbnail": "https://images.open-epg.com/19389.png"
+      "title": "[COLOR cyan][14:00][/COLOR] [COLOR gold]Sassuolo vs Parma[/COLOR] - Eleven Sports 1 (PL)",
+      "myresolve": "sansat@@61",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 14:00 - Italy Serie A"
     },
     {
-      "title": "Sky Cinema Suspense.it - 17:55 Attrazione fatale",
-      "link": "ignoreme",
-      "info": "In onda: 17:55 - 20:00\n\nAdrian Lyne dirige Glenn Close e Michael Douglas in un cult degli anni 80. Un avvocato di New York tradisce sua moglie con una donna che si rivelera una stalker (USA 1987)\n\nA seguire (20:00): A Quiet Place - Un posto tranquillo",
-      "thumbnail": "https://images.open-epg.com/19390.png"
+      "title": "[COLOR cyan][14:00][/COLOR] [COLOR gold]Genoa vs Pisa[/COLOR] - DAZN Zona (IT)",
+      "myresolve": "sansat@@46",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 14:00 - Italy Serie A"
     },
     {
-      "title": "Sky Cinema Uno +24.it - 16:30 Bad Boys: Ride or Die",
-      "link": "ignoreme",
-      "info": "In onda: 16:30 - 18:30\n\nWill Smith e Martin Lawrence nel quarto capitolo della saga action-comedy. Quando la memoria del capitano Howard viene infangata, i due agenti devono chiedere aiuto a un sicario (USA 2024)\n\nA seguire (18:30): Cado dalle nubi",
-      "thumbnail": "https://images.open-epg.com/19391.png"
+      "title": "[COLOR cyan][14:00][/COLOR] [COLOR gold]Genoa vs Pisa[/COLOR] - TV4 Sport Live 1 (SE)",
+      "myresolve": "sansat@@71",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 14:00 - Italy Serie A"
     },
     {
-      "title": "Sky Cinema Uno.it - 18:00 Jack Reacher - La prova decisiva",
-      "link": "ignoreme",
-      "info": "In onda: 18:00 - 20:15\n\nTom Cruise in un action al di sopra della legge. Un ex ufficiale arriva in una cittadina per scoprire i mandanti di una strage di cui e stato accusato un cecchino dellesercito (USA 2012)\n\nA seguire (20:15): Il diavolo veste Prada",
-      "thumbnail": "https://images.open-epg.com/19392.png"
+      "title": "[COLOR cyan][14:00][/COLOR] [COLOR gold]Genoa vs Pisa[/COLOR] - Fox Deportes (ES)",
+      "myresolve": "sansat@@87",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 14:00 - Italy Serie A"
     },
     {
-      "title": "Sky Classica.it - 17:45 Cajkovskij - Iolanta e lo Schiaccianoci",
-      "link": "ignoreme",
-      "info": "In onda: 17:45 - 19:30\n\nLopera (1891) e il balletto (1891) uniti in una sola serata - con M.Schmidt, O.Golovneva - Wiener Staatsballett - Orchester der Volksoper Wien - O.M.Wellber, dir., A.Kaydanovskiy, cor., L.de Beer, reg. (Vienna, 2022)\n\nA seguire (19:30): Almanacco di Bellezza",
-      "thumbnail": "https://images.open-epg.com/4100139.png"
+      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Juventus vs Lecce[/COLOR] - DAZN1 (DE)",
+      "myresolve": "sansat@@17",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 17:00 - Italy Serie A"
     },
     {
-      "title": "Sky Crime.it - 17:40 Traccia criminale",
-      "link": "ignoreme",
-      "info": "In onda: 17:40 - 18:30\n\nS1 Ep9 Un suicidio sospetto - Una ragazza incinta viene trovata morta a Saginaw, nel Michigan, in quello che sembra essere suicidio.\n\nA seguire (18:30): Traccia criminale",
-      "thumbnail": "https://images.open-epg.com/19394.png"
+      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Juventus vs Lecce[/COLOR] - CBS Sports Golazo (ES)",
+      "myresolve": "sansat@@40",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 17:00 - Italy Serie A"
     },
     {
-      "title": "Sky Documentaries +1.it - 17:20 The Rescue: Il salvataggio dei ragazzi",
-      "link": "ignoreme",
-      "info": "In onda: 17:20 - 19:10\n\nIl racconto di un salvataggio, la cui notizia ha fatto il giro del mondo. In Thailandia, i 12 membri di una squadra di calcio giovanile e il loro allenatore sono rimasti intrappolati in una caverna per 16 giorni.\n\nA seguire (19:10): Jacques Cousteau: Il Figlio Delloceano",
-      "thumbnail": "https://images.open-epg.com/nologo.png"
+      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Juventus vs Lecce[/COLOR] - DAZN Zona (IT)",
+      "myresolve": "sansat@@47",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 17:00 - Italy Serie A"
     },
     {
-      "title": "Sky Documentaries.it - 18:10 Jacques Cousteau: Il Figlio Delloceano",
-      "link": "ignoreme",
-      "info": "In onda: 18:10 - 19:50\n\nUn approfondimento sulla vita di Jacques Cousteau, diretto da Liz Garbus, che mostra le esperienze che lo hanno reso la voce piu unica e rinomata nel mondo ambientalista del XX secolo.\n\nA seguire (20:50): Italia vs. Brasile 3-2 - La partita",
-      "thumbnail": "https://images.open-epg.com/19396.png"
+      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Juventus vs Lecce[/COLOR] - Eleven Sports 1 (PL)",
+      "myresolve": "sansat@@61",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 17:00 - Italy Serie A"
     },
     {
-      "title": "Sky Investigation.it - 17:55 FBI: International",
-      "link": "ignoreme",
-      "info": "In onda: 17:55 - 18:45\n\nS4 Ep16 Piccolo angelo - Un dirigente americano che vive a Praga, subisce unestorsione da parte di alcuni criminali che rapiscono anche la sua famiglia. Per risolvere il caso, lagente speciale dellFBI Ella Driscoll chiede aiuto a Mitchell e alla sua squadra.\n\nA seguire (18:45): Law and Order: Special Victims Unit",
-      "thumbnail": "https://images.open-epg.com/19398.png"
+      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Juventus vs Lecce[/COLOR] - TV4 Sportkanalen (SE)",
+      "myresolve": "sansat@@62",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 17:00 - Italy Serie A"
     },
     {
-      "title": "Sky Nature.it - 18:15 Io e gli orsi polari",
-      "link": "ignoreme",
-      "info": "In onda: 18:15 - 19:15\n\nS1 Ep2 Estate - Con uno dei cuccioli dispersi, Gordon ha paura per la sopravvivenza dei due orsi polari nellimpietoso clima artico.\n\nA seguire (20:15): Orso Bianco - Una Vita Al Polo Nord",
-      "thumbnail": "https://images.open-epg.com/19393.png"
+      "title": "[COLOR cyan][19:45][/COLOR] [COLOR gold]Atalanta vs Roma[/COLOR] - Sky Sport Calcio (IT)",
+      "myresolve": "sansat@@47",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 19:45 - Italy Serie A"
     },
     {
-      "title": "Sky News.it - 18:00 News Hour with Jonathan Samuels",
-      "link": "ignoreme",
-      "info": "In onda: 18:00 - 18:30\n\nA comprehensive round-up of the days biggest news stories, including analysis and insight from Sky News correspondents.\n\nA seguire (18:30): News Hour with Jonathan Samuels",
-      "thumbnail": "https://images.open-epg.com/19400.png"
+      "title": "[COLOR cyan][19:45][/COLOR] [COLOR gold]Atalanta vs Roma[/COLOR] - Eleven Sports 1 (PL)",
+      "myresolve": "sansat@@61",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 19:45 - Italy Serie A"
     },
     {
-      "title": "Sky Serie.it - 18:15 Suits",
-      "link": "ignoreme",
-      "info": "In onda: 18:15 - 19:00\n\nS5 Ep10 Fede - Jessica e Louis si sforzano di raccogliere lappoggio dei soci, mentre Daniel Hardman e Jack Soloff tentano unacquisizione.\n\nA seguire (19:00): Friends",
-      "thumbnail": "https://images.open-epg.com/19402.png"
+      "title": "[COLOR cyan][19:45][/COLOR] [COLOR gold]Atalanta vs Roma[/COLOR] - TV4 Sport Live 1 (SE)",
+      "myresolve": "sansat@@71",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 19:45 - Italy Serie A"
     },
     {
-      "title": "Sky Sport 4K.it - 17:10 Roma - Genoa",
-      "link": "ignoreme",
-      "info": "In onda: 17:10 - 19:00\n\nRoma - Genoa - Giallorossi reduci dal ko contro la Juventus (2-1). Il Genoa viene da 2 sconfitte (Inter e Atalanta). Non batte la Roma allOlimpico dal 1990, 4 pari e 21 ko. TC: Borghi-Minotti\n\nA seguire (19:00): Sky Friday Night Football Prepartita",
-      "thumbnail": "https://images.open-epg.com/19403.png"
+      "title": "[COLOR cyan][19:45][/COLOR] [COLOR gold]Atalanta vs Roma[/COLOR] - Fox Deportes (ES)",
+      "myresolve": "sansat@@87",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 19:45 - Italy Serie A"
     },
     {
-      "title": "Sky Sport Calcio.it - 17:45 Globe Soccer Awards 2025",
-      "link": "ignoreme",
-      "info": "In onda: 17:45 - 19:00\n\nGlobe Soccer Awards 2025 - Globe Soccer Awards 2025\n\nA seguire (19:00): Sky Friday Night Football Prepartita",
-      "thumbnail": "https://images.open-epg.com/19405.png"
+      "title": "[COLOR cyan][11:30][/COLOR] [COLOR gold]Lazio vs Napoli[/COLOR] - CBS Sports Network (US)",
+      "myresolve": "sansat@@8",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 11:30 - Italy Serie A"
     },
     {
-      "title": "Sky Sport F1.it - 18:00 Gara: GP Spagna",
-      "link": "ignoreme",
-      "info": "In onda: 18:00 - 19:00\n\nGara: GP Spagna - A Barcellona nona gara stagionale: Piastri guida la classifica con 3 punti su Norris e 25 su Verstappen. Telecronaca di Carlo Vanzini, Marc Gene e Roberto Chinchero.\n\nA seguire (20:00): Silverstone: Sprint Race",
-      "thumbnail": "https://images.open-epg.com/19406.png"
+      "title": "[COLOR cyan][11:30][/COLOR] [COLOR gold]Lazio vs Napoli[/COLOR] - DAZN Zona (IT)",
+      "myresolve": "sansat@@47",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 11:30 - Italy Serie A"
     },
     {
-      "title": "Sky Sport Golf.it - 16:00 2a giornata",
-      "link": "ignoreme",
-      "info": "In onda: 16:00 - 19:10\n\n2a giornata - Ryder Cup\n\nA seguire (20:05): 3a giornata",
-      "thumbnail": "https://images.open-epg.com/19407.png"
+      "title": "[COLOR cyan][11:30][/COLOR] [COLOR gold]Lazio vs Napoli[/COLOR] - TV4 Fotball (SE)",
+      "myresolve": "sansat@@77",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 11:30 - Italy Serie A"
     },
     {
-      "title": "Sky Sport Max.it - 18:00 Top 100 Colpi 2025",
-      "link": "ignoreme",
-      "info": "In onda: 18:00 - 18:55\n\nTop 100 Colpi 2025 Tweener spettacolari, passanti millimetrici, volee delicate e tanta Italia protagonista: riviviamo lo splendido 2025 del tennis con i 100 colpi piu belli della stagione\n\nA seguire (18:55): Chelsea vs Arsenal - Inside a London derby",
-      "thumbnail": "https://images.open-epg.com/19408.png"
+      "title": "[COLOR cyan][14:00][/COLOR] [COLOR gold]Fiorentina vs Cremonese[/COLOR] - DAZN Zona (IT)",
+      "myresolve": "sansat@@47",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 14:00 - Italy Serie A"
     },
     {
-      "title": "Sky Sport MotoGP.it - 18:00 Speciale Eicma 2025 - Dietro Le",
-      "link": "ignoreme",
-      "info": "In onda: 18:00 - 18:30\n\n... quinte Di Motolive. - Motolive e stata il cuore pulsante di Eicma 2025. Eventi, gare, lo spazio dedicato alla Dakar e molto altro da rivedere in questo speciale che ci porta dietro le quinte della manifestazione.\n\nA seguire (18:30): Un Anno Di Motogp 2025",
-      "thumbnail": "https://images.open-epg.com/19409.png"
+      "title": "[COLOR cyan][14:00][/COLOR] [COLOR gold]Fiorentina vs Cremonese[/COLOR] - TV4 Sport Live 1 (SE)",
+      "myresolve": "sansat@@71",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 14:00 - Italy Serie A"
     },
     {
-      "title": "Sky Sport Tennis.it - 17:00 Sinner - Alcaraz",
-      "link": "ignoreme",
-      "info": "In onda: 17:00 - 19:05\n\nUomini: Finale Singolare - SINNER (Ita)-ALCARAZ (Spa) - I primi due giocatori del mondo si sfidano al Foro Italico. Lultimo italiano vittorioso a Roma fu Adriano Panatta nel 1976. Tc: Pero-Bertolucci\n\nA seguire (20:00): Finale Maschile",
-      "thumbnail": "https://images.open-epg.com/19404.png"
+      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Verona vs Torino[/COLOR] - CBS Sports Golazo (ES)",
+      "myresolve": "sansat@@29",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 17:00 - Italy Serie A"
     },
     {
-      "title": "Sky Sport Uno.it - 18:00 Luomo Contro La Macchina",
-      "link": "ignoreme",
-      "info": "In onda: 18:00 - 18:30\n\nMax Verstappen nel 2025 ha perso il trono ma ha conquistato la definitiva consacrazione sfidando i piloti McLaren con un mezzo inferiore: riviviamo la sua stagione spettacolare.\n\nA seguire (18:30): 3tre, Il Numero Magico Dello Sci",
-      "thumbnail": "https://images.open-epg.com/19410.png"
+      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Verona vs Torino[/COLOR] - Sky Sport Calcio (IT)",
+      "myresolve": "sansat@@47",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 17:00 - Italy Serie A"
     },
     {
-      "title": "Sky TG24.it - 18:15 TG24 mondo",
-      "link": "ignoreme",
-      "info": "In onda: 18:15 - 18:55\n\nOgni giorno il giro del mondo. Come cambiano gli equilibri internazionali, dove stiamo andando e quali sono i problemi dei popoli che ci circondano.\n\nA seguire (18:55): TG24 Preview",
-      "thumbnail": "https://images.open-epg.com/19411.png"
+      "title": "[COLOR cyan][19:45][/COLOR] [COLOR gold]Internazionale vs Bologna[/COLOR] - TNT Sports 1 (GB)",
+      "myresolve": "sansat@@1",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 19:45 - Italy Serie A"
     },
     {
-      "title": "Sky Uno.it - 18:10 MasterChef Magazine",
-      "link": "ignoreme",
-      "info": "In onda: 18:10 - 18:35\n\nProf Bruno Barbieri testa le capacita di Niccolo, in gara a MasterChef 13.\n\nA seguire (18:35): MasterChef Magazine 1^TV",
-      "thumbnail": "https://images.open-epg.com/19413.png"
+      "title": "[COLOR cyan][19:45][/COLOR] [COLOR gold]Internazionale vs Bologna[/COLOR] - CBS Sports Golazo (ES)",
+      "myresolve": "sansat@@29",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 19:45 - Italy Serie A"
     },
     {
-      "title": "ZONA DAZN.it - 17:19 Bologna - Pisa",
-      "link": "ignoreme",
-      "info": "In onda: 17:19 - 18:53\n\nPisa - Serie A\n\nA seguire (18:53): Christian Pulisic: The Italian Dream",
-      "thumbnail": "https://images.open-epg.com/1700.png"
+      "title": "[COLOR cyan][19:45][/COLOR] [COLOR gold]Internazionale vs Bologna[/COLOR] - DAZN Zona (IT)",
+      "myresolve": "sansat@@47",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 19:45 - Italy Serie A"
     },
     {
-      "title": "Zona Dazn 2.it - 17:00 Nessun evento in onda",
+      "title": "[B][COLOR yellow]=== ALTRI ===[/COLOR][/B]",
       "link": "ignoreme",
-      "info": "In onda: 17:00 - 23:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (23:00): Nessun evento in onda",
-      "thumbnail": "https://images.open-epg.com/7515553.png"
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/814/814346.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "Eventi Altri"
     },
     {
-      "title": "Zona Dazn.it - 17:19 Bologna - Pisa",
+      "title": "[COLOR cyan][18:45][/COLOR] [COLOR gold]EHC Biel-Bienne vs Lugano[/COLOR] - MTV Urheilu 3 (FI)",
+      "myresolve": "sansat@@66",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 18:45 - Switzerland National League"
+    },
+    {
+      "title": "[COLOR cyan][19:45][/COLOR] [COLOR gold]Sale Sharks vs Bristol[/COLOR] - Sportsnet World (CA)",
+      "myresolve": "sansat@@5",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 19:45 - Premiership Rugby"
+    },
+    {
+      "title": "[COLOR cyan][06:00][/COLOR] [COLOR gold]Brisbane Roar vs Wellington Phoenix[/COLOR] - TNT Sports 1 (GB)",
+      "myresolve": "sansat@@1",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 06:00 - Australia A-League"
+    },
+    {
+      "title": "[COLOR cyan][06:00][/COLOR] [COLOR gold]Brisbane Roar vs Wellington Phoenix[/COLOR] - Sky Sport 1 (NZ)",
+      "myresolve": "sansat@@2",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 06:00 - Australia A-League"
+    },
+    {
+      "title": "[COLOR cyan][08:35][/COLOR] [COLOR gold]Melbourne City vs Sydney FC[/COLOR] - Sky Sport 4 (NZ)",
+      "myresolve": "sansat@@4",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 08:35 - Australia A-League"
+    },
+    {
+      "title": "[COLOR cyan][08:35][/COLOR] [COLOR gold]Melbourne City vs Sydney FC[/COLOR] - Sportdigital FUSSBALL (DE)",
+      "myresolve": "sansat@@19",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 08:35 - Australia A-League"
+    },
+    {
+      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]TBD vs[/COLOR] - Sportdigital FUSSBALL (DE)",
+      "myresolve": "sansat@@19",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 16:00 - Africa Africa Cup of Nations"
+    },
+    {
+      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]TBD vs TBD[/COLOR] - beIN Sports (US)",
+      "myresolve": "sansat@@39",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 16:00 - Africa Africa Cup of Nations"
+    },
+    {
+      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]Al Ittihad vs Al Taawon[/COLOR] - Fox Deportes (ES)",
+      "myresolve": "sansat@@87",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 17:30 - Saudi Arabia Pro League"
+    },
+    {
+      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]Mali vs Tunisia[/COLOR] - Sportdigital FUSSBALL (DE)",
+      "myresolve": "sansat@@19",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 19:00 - Africa Africa Cup of Nations"
+    },
+    {
+      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]Mali vs Tunisia[/COLOR] - beIN Sports (US)",
+      "myresolve": "sansat@@39",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 19:00 - Africa Africa Cup of Nations"
+    },
+    {
+      "title": "[COLOR cyan][08:35][/COLOR] [COLOR gold]Adelaide United vs Central Coast Mariners[/COLOR] - TNT Sports 2 (GB)",
+      "myresolve": "sansat@@2",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 08:35 - Australia A-League"
+    },
+    {
+      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]Morocco vs Tanzania[/COLOR] - Sportdigital FUSSBALL (DE)",
+      "myresolve": "sansat@@19",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 16:00 - Africa Africa Cup of Nations"
+    },
+    {
+      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]Morocco vs Tanzania[/COLOR] - beIN Sports (US)",
+      "myresolve": "sansat@@39",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 16:00 - Africa Africa Cup of Nations"
+    },
+    {
+      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]Morocco vs Tanzania[/COLOR] - beIN Sports 1 (FR)",
+      "myresolve": "sansat@@52",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 16:00 - Africa Africa Cup of Nations"
+    },
+    {
+      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Guadalajara vs Atletico San Luis[/COLOR] - Fox Deportes (ES)",
+      "myresolve": "sansat@@87",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 17:00 - Mexico Liga MX Femenil"
+    },
+    {
+      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]South Africa vs Camerun[/COLOR] - Sportdigital FUSSBALL (DE)",
+      "myresolve": "sansat@@19",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 19:00 - Africa Africa Cup of Nations"
+    },
+    {
+      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]South Africa vs Camerun[/COLOR] - beIN Sports (US)",
+      "myresolve": "sansat@@39",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 19:00 - Africa Africa Cup of Nations"
+    },
+    {
+      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]South Africa vs Camerun[/COLOR] - beIN Sports 1 (FR)",
+      "myresolve": "sansat@@52",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 19:00 - Africa Africa Cup of Nations"
+    },
+    {
+      "title": "[B][COLOR yellow]=== EUROPA ===[/COLOR][/B]",
       "link": "ignoreme",
-      "info": "In onda: 17:19 - 18:53\n\nSerie A - 6a g. Ambizione, tattica e personalita: la stagione riparte con gli allenatori protagonisti, tra ritorni, rivoluzioni e conferme.\n\nA seguire (18:53): Christian Pulisic: The Italian Dream",
-      "thumbnail": "https://images.open-epg.com/7515557.png"
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/814/814346.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "Eventi Europa"
+    },
+    {
+      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]Ratiopharm Ulm vs Lietkabelis[/COLOR] - Magenta Sport (DE)",
+      "myresolve": "sansat@@18",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 18:00 - Eurocup"
+    },
+    {
+      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]Saski Baskonia vs Fenerbahce[/COLOR] - Magenta Sport (DE)",
+      "myresolve": "sansat@@12",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 19:00 - Euroleague"
+    },
+    {
+      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]Saski Baskonia vs Fenerbahce[/COLOR] - M+ Deportes 2 (ES)",
+      "myresolve": "sansat@@28",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 19:00 - Euroleague"
+    },
+    {
+      "title": "[COLOR cyan][19:15][/COLOR] [COLOR gold]Panathinaikos vs Olympiakos Piraus[/COLOR] - Magenta Sport (DE)",
+      "myresolve": "sansat@@13",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 19:15 - Euroleague"
+    },
+    {
+      "title": "[COLOR cyan][19:15][/COLOR] [COLOR gold]Panathinaikos vs Olympiakos Piraus[/COLOR] - Nova Sports Prime (GR)",
+      "myresolve": "sansat@@25",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 19:15 - Euroleague"
+    },
+    {
+      "title": "[COLOR cyan][19:15][/COLOR] [COLOR gold]Panathinaikos vs Olympiakos Piraus[/COLOR] - M+ Deportes 3 (ES)",
+      "myresolve": "sansat@@29",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 19:15 - Euroleague"
+    },
+    {
+      "title": "[COLOR cyan][19:30][/COLOR] [COLOR gold]Virtus Bologna vs Olimpia Milano[/COLOR] - Magenta Sport (DE)",
+      "myresolve": "sansat@@14",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 19:30 - Euroleague"
+    },
+    {
+      "title": "[COLOR cyan][19:30][/COLOR] [COLOR gold]Virtus Bologna vs Olimpia Milano[/COLOR] - M+ Deportes 4 (ES)",
+      "myresolve": "sansat@@30",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 19:30 - Euroleague"
+    },
+    {
+      "title": "[COLOR cyan][19:45][/COLOR] [COLOR gold]Real Madrid vs Dubai[/COLOR] - Magenta Sport (DE)",
+      "myresolve": "sansat@@15",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 19:45 - Euroleague"
+    },
+    {
+      "title": "[COLOR cyan][19:45][/COLOR] [COLOR gold]Real Madrid vs Dubai[/COLOR] - M+ Deportes (ES)",
+      "myresolve": "sansat@@27",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 19:45 - Euroleague"
+    },
+    {
+      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]FC Bayern Munchen vs Maccabi Tel Aviv[/COLOR] - Magenta Sport (DE)",
+      "myresolve": "sansat@@16",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 20:00 - Euroleague"
+    },
+    {
+      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]FC Bayern Munchen vs Maccabi Tel Aviv[/COLOR] - M+ Deportes 5 (ES)",
+      "myresolve": "sansat@@40",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 20:00 - Euroleague"
+    },
+    {
+      "title": "[B][COLOR yellow]=== FINLANDIA ===[/COLOR][/B]",
+      "link": "ignoreme",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/814/814346.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "Eventi Finlandia"
+    },
+    {
+      "title": "[COLOR cyan][13:00][/COLOR] [COLOR gold]Kiekko-Espoo vs Tappara[/COLOR] - MTV Urheilu (FI)",
+      "myresolve": "sansat@@80",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 13:00 - Finland Liiga"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]RoKi vs Pyry[/COLOR] - MTV Urheilu (FI)",
+      "myresolve": "sansat@@59",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 15:00 - Finland Mestis"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]TuTo vs K-Vantaa[/COLOR] - MTV Urheilu (FI)",
+      "myresolve": "sansat@@66",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 15:00 - Finland Mestis"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]JoKP vs Jokerit[/COLOR] - MTV Urheilu (FI)",
+      "myresolve": "sansat@@67",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 15:00 - Finland Mestis"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]SaiPa vs Kookoo[/COLOR] - MTV Urheilu (FI)",
+      "myresolve": "sansat@@68",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 15:00 - Finland Liiga"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Karpat vs Sport[/COLOR] - MTV Urheilu (FI)",
+      "myresolve": "sansat@@69",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 15:00 - Finland Liiga"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]KalPa vs Pelicans[/COLOR] - MTV Urheilu (FI)",
+      "myresolve": "sansat@@75",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 15:00 - Finland Liiga"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Ilves vs TPS[/COLOR] - MTV Urheilu (FI)",
+      "myresolve": "sansat@@76",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 15:00 - Finland Liiga"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]HPK vs Jukurit[/COLOR] - MTV Urheilu (FI)",
+      "myresolve": "sansat@@78",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 15:00 - Finland Liiga"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]HIFK vs JYP[/COLOR] - MTV Urheilu 3 (FI)",
+      "myresolve": "sansat@@79",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 15:00 - Finland Liiga"
+    },
+    {
+      "title": "[B][COLOR yellow]=== FRANCIA ===[/COLOR][/B]",
+      "link": "ignoreme",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/814/814346.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "Eventi Francia"
+    },
+    {
+      "title": "[COLOR cyan][19:45][/COLOR] [COLOR gold]Toulouse vs Lens[/COLOR] - beIN Sports (US)",
+      "myresolve": "sansat@@39",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 19:45 - France Ligue 1"
+    },
+    {
+      "title": "[COLOR cyan][19:45][/COLOR] [COLOR gold]Toulouse vs Lens[/COLOR] - Ligue1+ (FR)",
+      "myresolve": "sansat@@50",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 19:45 - France Ligue 1"
+    },
+    {
+      "title": "[COLOR cyan][13:00][/COLOR] [COLOR gold]Troyes vs Red Star[/COLOR] - beIN Sports 1 (FR)",
+      "myresolve": "sansat@@54",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 13:00 - France Ligue 2"
+    },
+    {
+      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]Nice vs Strasbourg[/COLOR] - Ligue1+ (FR)",
+      "myresolve": "sansat@@51",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 16:00 - France Ligue 1"
+    },
+    {
+      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]Nice vs Strasbourg[/COLOR] - V Sport Football (SE)",
+      "myresolve": "sansat@@63",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 16:00 - France Ligue 1"
+    },
+    {
+      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]Monaco vs Olympique Lyonnais[/COLOR] - beIN Sports 2 (FR)",
+      "myresolve": "sansat@@52",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 16:00 - France Ligue 1"
+    },
+    {
+      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]Monaco vs Olympique Lyonnais[/COLOR] - V Sport 1 (SE)",
+      "myresolve": "sansat@@70",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 16:00 - France Ligue 1"
+    },
+    {
+      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]Le Mans vs Saint-Etienne[/COLOR] - beIN Sports 2 (FR)",
+      "myresolve": "sansat@@52",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 19:00 - France Ligue 2"
+    },
+    {
+      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]Clermont vs Laval[/COLOR] - beIN Sports MAX 10 (FR)",
+      "myresolve": "sansat@@54",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 19:00 - France Ligue 2"
+    },
+    {
+      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]Reims vs Annecy[/COLOR] - beIN Sports MAX 5 (FR)",
+      "myresolve": "sansat@@55",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 19:00 - France Ligue 2"
+    },
+    {
+      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]Guingamp vs Boulogne[/COLOR] - beIN Sports MAX 6 (FR)",
+      "myresolve": "sansat@@56",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 19:00 - France Ligue 2"
+    },
+    {
+      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]Amiens SC vs Nancy[/COLOR] - beIN Sports MAX 7 (FR)",
+      "myresolve": "sansat@@57",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 19:00 - France Ligue 2"
+    },
+    {
+      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]Pau vs Rodez[/COLOR] - beIN Sports MAX 8 (FR)",
+      "myresolve": "sansat@@58",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 19:00 - France Ligue 2"
+    },
+    {
+      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]Bastia vs Grenoble Foot 38[/COLOR] - beIN Sports MAX 9 (FR)",
+      "myresolve": "sansat@@59",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 19:00 - France Ligue 2"
+    },
+    {
+      "title": "[COLOR cyan][20:05][/COLOR] [COLOR gold]Lille vs Rennes[/COLOR] - Ligue1+ (FR)",
+      "myresolve": "sansat@@51",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 20:05 - France Ligue 1"
+    },
+    {
+      "title": "[COLOR cyan][20:05][/COLOR] [COLOR gold]Lille vs Rennes[/COLOR] - V Sport Football (SE)",
+      "myresolve": "sansat@@63",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 20:05 - France Ligue 1"
+    },
+    {
+      "title": "[COLOR cyan][16:15][/COLOR] [COLOR gold]Brest vs Auxerre[/COLOR] - DAZN1 (DE)",
+      "myresolve": "sansat@@17",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 16:15 - France Ligue 1"
+    },
+    {
+      "title": "[COLOR cyan][16:15][/COLOR] [COLOR gold]Brest vs Auxerre[/COLOR] - Ligue1+ 4 (FR)",
+      "myresolve": "sansat@@54",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 16:15 - France Ligue 1"
+    },
+    {
+      "title": "[COLOR cyan][16:15][/COLOR] [COLOR gold]Simulcast[/COLOR] - Ligue1+ (FR)",
+      "myresolve": "sansat@@51",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 16:15 - France Ligue 1"
+    },
+    {
+      "title": "[COLOR cyan][16:15][/COLOR] [COLOR gold]Le Havre vs Angers SCO[/COLOR] - Ligue1+ 5 (FR)",
+      "myresolve": "sansat@@55",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 16:15 - France Ligue 1"
+    },
+    {
+      "title": "[COLOR cyan][16:15][/COLOR] [COLOR gold]Le Havre vs Angers SCO[/COLOR] - beIN Sports 4 (US)",
+      "myresolve": "sansat@@84",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 16:15 - France Ligue 1"
+    },
+    {
+      "title": "[COLOR cyan][16:15][/COLOR] [COLOR gold]Lorient vs Metz[/COLOR] - Ligue1+ 6 (FR)",
+      "myresolve": "sansat@@56",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 16:15 - France Ligue 1"
+    },
+    {
+      "title": "[COLOR cyan][16:15][/COLOR] [COLOR gold]Lorient vs Metz[/COLOR] - beIN Sports Xtra (US)",
+      "myresolve": "sansat@@85",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 16:15 - France Ligue 1"
+    },
+    {
+      "title": "[B][COLOR yellow]=== GERMANIA ===[/COLOR][/B]",
+      "link": "ignoreme",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/814/814346.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "Eventi Germania"
+    },
+    {
+      "title": "[COLOR cyan][18:30][/COLOR] [COLOR gold]Iserlohn Roosters vs Nurnberg Ice Tigers[/COLOR] - Magenta Sport (DE)",
+      "myresolve": "sansat@@94",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 18:30 - Germany DEL"
+    },
+    {
+      "title": "[COLOR cyan][18:30][/COLOR] [COLOR gold]Grizzly Wolfsburg vs EHC Red Bull Munchen[/COLOR] - Magenta Sport (DE)",
+      "myresolve": "sansat@@95",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 18:30 - Germany DEL"
+    },
+    {
+      "title": "[COLOR cyan][18:30][/COLOR] [COLOR gold]ERC Ingolstadt vs Bremerhaven[/COLOR] - Magenta Sport (DE)",
+      "myresolve": "sansat@@96",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 18:30 - Germany DEL"
+    },
+    {
+      "title": "[COLOR cyan][18:30][/COLOR] [COLOR gold]Augsburger Panther vs Schwenninger[/COLOR] - Magenta Sport (DE)",
+      "myresolve": "sansat@@97",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 18:30 - Germany DEL"
+    },
+    {
+      "title": "[COLOR cyan][18:30][/COLOR] [COLOR gold]Adler Mannheim vs Dresdner Eislowen[/COLOR] - Magenta Sport (DE)",
+      "myresolve": "sansat@@98",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 18:30 - Germany DEL"
+    },
+    {
+      "title": "[COLOR cyan][18:30][/COLOR] [COLOR gold]Eisbaren Berlin vs Lowen Frankfurt[/COLOR] - Magenta Sport (DE)",
+      "myresolve": "sansat@@99",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 18:30 - Germany DEL"
+    },
+    {
+      "title": "[COLOR cyan][18:30][/COLOR] [COLOR gold]Kolner Haie vs Straubing Tigers[/COLOR] - Magenta Sport (DE)",
+      "myresolve": "sansat@@100",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 18:30 - Germany DEL"
+    },
+    {
+      "title": "[COLOR cyan][13:00][/COLOR] [COLOR gold]Lowen Frankfurt vs Schwenninger[/COLOR] - Magenta Sport (DE)",
+      "myresolve": "sansat@@98",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 13:00 - Germany DEL"
+    },
+    {
+      "title": "[COLOR cyan][13:00][/COLOR] [COLOR gold]Eisbaren Berlin vs Augsburger Panther[/COLOR] - Magenta Sport (DE)",
+      "myresolve": "sansat@@99",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 13:00 - Germany DEL"
+    },
+    {
+      "title": "[COLOR cyan][13:00][/COLOR] [COLOR gold]Bremerhaven vs Iserlohn Roosters[/COLOR] - Magenta Sport (DE)",
+      "myresolve": "sansat@@100",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 13:00 - Germany DEL"
+    },
+    {
+      "title": "[COLOR cyan][15:30][/COLOR] [COLOR gold]Straubing Tigers vs ERC Ingolstadt[/COLOR] - Magenta Sport (DE)",
+      "myresolve": "sansat@@98",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:30 - Germany DEL"
+    },
+    {
+      "title": "[COLOR cyan][15:30][/COLOR] [COLOR gold]EHC Red Bull Munchen vs Adler Mannheim[/COLOR] - Magenta Sport (DE)",
+      "myresolve": "sansat@@99",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:30 - Germany DEL"
+    },
+    {
+      "title": "[COLOR cyan][15:30][/COLOR] [COLOR gold]Dresdner Eislowen vs Kolner Haie[/COLOR] - Magenta Sport (DE)",
+      "myresolve": "sansat@@100",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:30 - Germany DEL"
+    },
+    {
+      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]Nurnberg Ice Tigers vs Grizzly Wolfsburg[/COLOR] - Magenta Sport (DE)",
+      "myresolve": "sansat@@100",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 18:00 - Germany DEL"
+    },
+    {
+      "title": "[B][COLOR yellow]=== INGHILTERRA ===[/COLOR][/B]",
+      "link": "ignoreme",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/814/814346.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "Eventi Inghilterra"
+    },
+    {
+      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]Denmark U20 vs Germany U20[/COLOR] - TSN3 (CA)",
+      "myresolve": "sansat@@10",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 17:30 - World Junior Championship"
+    },
+    {
+      "title": "[COLOR cyan][19:30][/COLOR] [COLOR gold]Latvia U20 vs Sweden U20[/COLOR] - TSN1 (CA)",
+      "myresolve": "sansat@@10",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 19:30 - World Junior Championship"
+    },
+    {
+      "title": "[COLOR cyan][19:30][/COLOR] [COLOR gold]Latvia U20 vs Sweden U20[/COLOR] - SVT1 (SE)",
+      "myresolve": "sansat@@65",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 19:30 - World Junior Championship"
+    },
+    {
+      "title": "[COLOR cyan][19:30][/COLOR] [COLOR gold]Luke Littler vs Ryan Searle[/COLOR] - Sport 1 (DE)",
+      "myresolve": "sansat@@20",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 19:30 - World Darts Championship"
+    },
+    {
+      "title": "[COLOR cyan][19:30][/COLOR] [COLOR gold]Luke Littler vs Ryan Searle[/COLOR] - Viaplay Sport (SE)",
+      "myresolve": "sansat@@64",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 19:30 - World Darts Championship"
+    },
+    {
+      "title": "[COLOR cyan][21:30][/COLOR] [COLOR gold]Switzerland U20 vs Czech Republic U20[/COLOR] - TSN3 (CA)",
+      "myresolve": "sansat@@10",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 21:30 - World Junior Championship"
+    },
+    {
+      "title": "[COLOR cyan][21:30][/COLOR] [COLOR gold]Gian van Veen vs Gary Anderson[/COLOR] - Sport 1 (DE)",
+      "myresolve": "sansat@@20",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 21:30 - World Darts Championship"
+    },
+    {
+      "title": "[COLOR cyan][23:00][/COLOR] [COLOR gold]TBD vs TBD[/COLOR] - Magenta Sport (DE)",
+      "myresolve": "sansat@@14",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 23:00 - World Junior Championship"
+    },
+    {
+      "title": "[COLOR cyan][23:00][/COLOR] [COLOR gold]TBD vs TBD[/COLOR] - TSN1 (CA)",
+      "myresolve": "sansat@@31",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 23:00 - World Junior Championship"
+    },
+    {
+      "title": "[COLOR cyan][01:30][/COLOR] [COLOR gold]TBD vs TBD[/COLOR] - Magenta Sport (DE)",
+      "myresolve": "sansat@@14",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 01:30 - World Junior Championship"
+    },
+    {
+      "title": "[COLOR cyan][01:30][/COLOR] [COLOR gold]TBD vs TBD[/COLOR] - TSN1 (CA)",
+      "myresolve": "sansat@@31",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 01:30 - World Junior Championship"
+    },
+    {
+      "title": "[COLOR cyan][12:30][/COLOR] [COLOR gold]Celtic vs Rangers[/COLOR] - CBS Sports Network (US)",
+      "myresolve": "sansat@@8",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 12:30 - Scotland Scottish Premiership"
+    },
+    {
+      "title": "[COLOR cyan][12:30][/COLOR] [COLOR gold]Celtic vs Rangers[/COLOR] - Sportdigital FUSSBALL (DE)",
+      "myresolve": "sansat@@19",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 12:30 - Scotland Scottish Premiership"
+    },
+    {
+      "title": "[COLOR cyan][12:30][/COLOR] [COLOR gold]Aston Villa vs Nottingham Forest[/COLOR] - USA Network (US)",
+      "myresolve": "sansat@@10",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 12:30 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][12:30][/COLOR] [COLOR gold]Aston Villa vs Nottingham Forest[/COLOR] - Sky Sport Top Event (DE)",
+      "myresolve": "sansat@@11",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 12:30 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][12:30][/COLOR] [COLOR gold]Aston Villa vs Nottingham Forest[/COLOR] - Canal+ Foot (FR)",
+      "myresolve": "sansat@@50",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 12:30 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][12:30][/COLOR] [COLOR gold]Aston Villa vs Nottingham Forest[/COLOR] - V Sport Football (SE)",
+      "myresolve": "sansat@@65",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 12:30 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Wolverhampton Wanderers vs West Ham United[/COLOR] - Now Premier League 1 (GB)",
+      "myresolve": "sansat@@1",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 15:00 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Wolverhampton Wanderers vs West Ham United[/COLOR] - Sky Sport Mix (DE)",
+      "myresolve": "sansat@@12",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 15:00 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Wolverhampton Wanderers vs West Ham United[/COLOR] - Canal+ Sport360 (FR)",
+      "myresolve": "sansat@@53",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 15:00 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Wolverhampton Wanderers vs West Ham United[/COLOR] - V Sport Football (SE)",
+      "myresolve": "sansat@@65",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 15:00 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Dundee United vs Dundee[/COLOR] - CBS Sports Network (US)",
+      "myresolve": "sansat@@8",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 15:00 - Scotland Scottish Premiership"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Brighton & Hove Albion vs Burnley[/COLOR] - Sky Sport Top Event (DE)",
+      "myresolve": "sansat@@11",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 15:00 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Brighton & Hove Albion vs Burnley[/COLOR] - Canal+ Foot (FR)",
+      "myresolve": "sansat@@50",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 15:00 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]AFC Bournemouth vs Arsenal[/COLOR] - Now Premier League 1 (GB)",
+      "myresolve": "sansat@@1",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 17:30 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]AFC Bournemouth vs Arsenal[/COLOR] - Sky Sport Top Event (DE)",
+      "myresolve": "sansat@@11",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 17:30 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]AFC Bournemouth vs Arsenal[/COLOR] - Canal+ Foot (FR)",
+      "myresolve": "sansat@@50",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 17:30 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]AFC Bournemouth vs Arsenal[/COLOR] - V Sport Premium (SE)",
+      "myresolve": "sansat@@65",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 17:30 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][12:00][/COLOR] [COLOR gold]Queens Park Rangers vs Sheffield Wednesday[/COLOR] - Sky Sports+ (GB)",
+      "myresolve": "sansat@@31",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 12:00 - England Championship"
+    },
+    {
+      "title": "[COLOR cyan][12:00][/COLOR] [COLOR gold]Sheffield United vs Oxford United[/COLOR] - Sky Sports+ (GB)",
+      "myresolve": "sansat@@32",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 12:00 - England Championship"
+    },
+    {
+      "title": "[COLOR cyan][12:00][/COLOR] [COLOR gold]Birmingham City vs Coventry City[/COLOR] - Sky Sports Football (GB)",
+      "myresolve": "sansat@@38",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 12:00 - England Championship"
+    },
+    {
+      "title": "[COLOR cyan][12:00][/COLOR] [COLOR gold]Birmingham City vs Coventry City[/COLOR] - V Sport Premium (SE)",
+      "myresolve": "sansat@@78",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 12:00 - England Championship"
+    },
+    {
+      "title": "[COLOR cyan][12:30][/COLOR] [COLOR gold]Leeds United vs Manchester United[/COLOR] - TNT Sports 1 (GB)",
+      "myresolve": "sansat@@1",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 12:30 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][12:30][/COLOR] [COLOR gold]Leeds United vs Manchester United[/COLOR] - USA Network (US)",
+      "myresolve": "sansat@@10",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 12:30 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][12:30][/COLOR] [COLOR gold]Leeds United vs Manchester United[/COLOR] - Sky Sport Top Event (DE)",
+      "myresolve": "sansat@@11",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 12:30 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][12:30][/COLOR] [COLOR gold]Leeds United vs Manchester United[/COLOR] - DAZN1 (ES)",
+      "myresolve": "sansat@@30",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 12:30 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][12:30][/COLOR] [COLOR gold]Leeds United vs Manchester United[/COLOR] - Canal+ (FR)",
+      "myresolve": "sansat@@57",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 12:30 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][12:30][/COLOR] [COLOR gold]Leeds United vs Manchester United[/COLOR] - V Sport Premier League (NO)",
+      "myresolve": "sansat@@80",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 12:30 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Fulham vs Liverpool[/COLOR] - Now Premier League 1 (GB)",
+      "myresolve": "sansat@@1",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:00 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Fulham vs Liverpool[/COLOR] - Sky Sport Mix (DE)",
+      "myresolve": "sansat@@14",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:00 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Fulham vs Liverpool[/COLOR] - DAZN1 (ES)",
+      "myresolve": "sansat@@30",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:00 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Fulham vs Liverpool[/COLOR] - Canal+ (FR)",
+      "myresolve": "sansat@@57",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:00 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Fulham vs Liverpool[/COLOR] - V Sport Premium (SE)",
+      "myresolve": "sansat@@78",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:00 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Tottenham Hotspur vs Sunderland[/COLOR] - Now Premier League 2 (GB)",
+      "myresolve": "sansat@@2",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:00 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Tottenham Hotspur vs Sunderland[/COLOR] - Sky Sport 2 (DE)",
+      "myresolve": "sansat@@12",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:00 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Tottenham Hotspur vs Sunderland[/COLOR] - Canal+ Foot (FR)",
+      "myresolve": "sansat@@50",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:00 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Tottenham Hotspur vs Sunderland[/COLOR] - V Sport Football (SE)",
+      "myresolve": "sansat@@79",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:00 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Newcastle United vs Crystal Palace[/COLOR] - Now Premier League 3 (GB)",
+      "myresolve": "sansat@@3",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:00 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Newcastle United vs Crystal Palace[/COLOR] - Sky Sport 1 (DE)",
+      "myresolve": "sansat@@11",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:00 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Newcastle United vs Crystal Palace[/COLOR] - Canal+ Sport 360 (FR)",
+      "myresolve": "sansat@@58",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:00 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Newcastle United vs Crystal Palace[/COLOR] - V Sport 1 (SE)",
+      "myresolve": "sansat@@70",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:00 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Everton vs Brentford[/COLOR] - Now Premier League 4 (GB)",
+      "myresolve": "sansat@@4",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:00 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Everton vs Brentford[/COLOR] - Sky Sport 3 (DE)",
+      "myresolve": "sansat@@13",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:00 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Everton vs Brentford[/COLOR] - DAZN4 (ES)",
+      "myresolve": "sansat@@28",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:00 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Everton vs Brentford[/COLOR] - Canal+ Live 3 (FR)",
+      "myresolve": "sansat@@53",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:00 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Derby County vs Wrexham[/COLOR] - CBS Sports Network (US)",
+      "myresolve": "sansat@@8",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:00 - England Championship"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Middlesbrough vs Southampton[/COLOR] - CBS Sports Golazo (ES)",
+      "myresolve": "sansat@@29",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:00 - England Championship"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Millwall vs Swansea City[/COLOR] - Sky Sports+ (GB)",
+      "myresolve": "sansat@@31",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:00 - England Championship"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Blackburn Rovers vs Charlton Athletic[/COLOR] - Sky Sports+ (GB)",
+      "myresolve": "sansat@@32",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:00 - England Championship"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Hull City vs Watford[/COLOR] - Sky Sports+ (GB)",
+      "myresolve": "sansat@@33",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:00 - England Championship"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Norwich City vs Stoke City[/COLOR] - Sky Sports+ (GB)",
+      "myresolve": "sansat@@34",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:00 - England Championship"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Bristol City vs Preston North End[/COLOR] - Sky Sports+ (GB)",
+      "myresolve": "sansat@@35",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:00 - England Championship"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Portsmouth vs Ipswich Town[/COLOR] - Sky Sports+ (GB)",
+      "myresolve": "sansat@@36",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:00 - England Championship"
+    },
+    {
+      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]Manchester City vs Chelsea[/COLOR] - Now Premier League 1 (GB)",
+      "myresolve": "sansat@@1",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 17:30 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]Manchester City vs Chelsea[/COLOR] - Sky Sport Top Event (DE)",
+      "myresolve": "sansat@@11",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 17:30 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]Manchester City vs Chelsea[/COLOR] - DAZN1 (ES)",
+      "myresolve": "sansat@@30",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 17:30 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]Manchester City vs Chelsea[/COLOR] - Canal+ (FR)",
+      "myresolve": "sansat@@57",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 17:30 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]Manchester City vs Chelsea[/COLOR] - V Sport Premium (SE)",
+      "myresolve": "sansat@@78",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 17:30 - England Premier League"
+    },
+    {
+      "title": "[COLOR cyan][21:30][/COLOR] [COLOR gold]TBD vs TBD[/COLOR] - TSN1 (CA)",
+      "myresolve": "sansat@@10",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 21:30 - World Junior Championship"
+    },
+    {
+      "title": "[B][COLOR yellow]=== PORTOGALLO ===[/COLOR][/B]",
+      "link": "ignoreme",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/814/814346.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "Eventi Portogallo"
+    },
+    {
+      "title": "[COLOR cyan][18:45][/COLOR] [COLOR gold]Gil Vicente vs Sporting CP[/COLOR] - Sportdigital FUSSBALL (DE)",
+      "myresolve": "sansat@@19",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 18:45 - Portugal Primeira Liga"
+    },
+    {
+      "title": "[COLOR cyan][18:45][/COLOR] [COLOR gold]Gil Vicente vs Sporting CP[/COLOR] - Sport TV1 (PT)",
+      "myresolve": "sansat@@21",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 18:45 - Portugal Primeira Liga"
+    },
+    {
+      "title": "[COLOR cyan][20:45][/COLOR] [COLOR gold]Vitoria Guimaraes vs Nacional[/COLOR] - Sport TV2 (PT)",
+      "myresolve": "sansat@@22",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 20:45 - Portugal Primeira Liga"
+    },
+    {
+      "title": "[COLOR cyan][11:00][/COLOR] [COLOR gold]Feirense vs Uniao de Leiria[/COLOR] - Sport TV1 (PT)",
+      "myresolve": "sansat@@21",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 11:00 - Portugal Segunda liga"
+    },
+    {
+      "title": "[COLOR cyan][15:30][/COLOR] [COLOR gold]Tondela vs Arouca[/COLOR] - Sport TV1 (PT)",
+      "myresolve": "sansat@@21",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 15:30 - Portugal Primeira Liga"
+    },
+    {
+      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]Estrela vs Sporting Braga[/COLOR] - Sport TV1 (PT)",
+      "myresolve": "sansat@@21",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 18:00 - Portugal Primeira Liga"
+    },
+    {
+      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]Benfica vs Estoril[/COLOR] - Benfica TV (PT)",
+      "myresolve": "sansat@@22",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 18:00 - Portugal Primeira Liga"
+    },
+    {
+      "title": "[COLOR cyan][20:30][/COLOR] [COLOR gold]AVS vs Moreirense[/COLOR] - Sport TV1 (PT)",
+      "myresolve": "sansat@@21",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 20:30 - Portugal Primeira Liga"
+    },
+    {
+      "title": "[COLOR cyan][20:30][/COLOR] [COLOR gold]Farense vs Portimonense[/COLOR] - Sport TV2 (PT)",
+      "myresolve": "sansat@@22",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 20:30 - Portugal Segunda liga"
+    },
+    {
+      "title": "[COLOR cyan][11:00][/COLOR] [COLOR gold]Penafiel vs Pacos de Ferreira[/COLOR] - Sport TV1 (PT)",
+      "myresolve": "sansat@@21",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 11:00 - Portugal Segunda liga"
+    },
+    {
+      "title": "[COLOR cyan][15:30][/COLOR] [COLOR gold]Rio Ave vs Casa Pia[/COLOR] - Sport TV2 (PT)",
+      "myresolve": "sansat@@22",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:30 - Portugal Primeira Liga"
+    },
+    {
+      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]Santa Clara vs Porto[/COLOR] - Sport TV1 (PT)",
+      "myresolve": "sansat@@21",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 18:00 - Portugal Primeira Liga"
+    },
+    {
+      "title": "[COLOR cyan][20:30][/COLOR] [COLOR gold]Alverca vs Famalicao[/COLOR] - Sport TV2 (PT)",
+      "myresolve": "sansat@@22",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 20:30 - Portugal Primeira Liga"
+    },
+    {
+      "title": "[B][COLOR yellow]=== REPUBBLICA CECA ===[/COLOR][/B]",
+      "link": "ignoreme",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/814/814346.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "Eventi Repubblica Ceca"
+    },
+    {
+      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Olomouc vs Bili Tygri Liberec[/COLOR] - Oneplay Sport (CZ)",
+      "myresolve": "sansat@@44",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 17:00 - Czech Republic Extraliga"
+    },
+    {
+      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Karlovy Vary vs Dynamo Pardubice[/COLOR] - Oneplay Sport (CZ)",
+      "myresolve": "sansat@@45",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 17:00 - Czech Republic Extraliga"
+    },
+    {
+      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Kometa Brno vs Rytiri Kladno[/COLOR] - Oneplay Sport (CZ)",
+      "myresolve": "sansat@@46",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 17:00 - Czech Republic Extraliga"
+    },
+    {
+      "title": "[COLOR cyan][14:00][/COLOR] [COLOR gold]Ocelari Trinec vs Litvinov[/COLOR] - Oneplay Sport (CZ)",
+      "myresolve": "sansat@@41",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 14:00 - Czech Republic Extraliga"
+    },
+    {
+      "title": "[COLOR cyan][14:00][/COLOR] [COLOR gold]Rytiri Kladno vs Sparta Praha[/COLOR] - Oneplay Sport (CZ)",
+      "myresolve": "sansat@@42",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 14:00 - Czech Republic Extraliga"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Sparta Praha vs Rytiri Kladno[/COLOR] - Oneplay Sport (CZ)",
+      "myresolve": "sansat@@43",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:00 - Czech Republic Extraliga"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Mountfield vs Bili Tygri Liberec[/COLOR] - Oneplay Sport (CZ)",
+      "myresolve": "sansat@@44",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:00 - Czech Republic Extraliga"
+    },
+    {
+      "title": "[COLOR cyan][15:30][/COLOR] [COLOR gold]Plzen vs Mlada-Boleslav[/COLOR] - Oneplay Sport (CZ)",
+      "myresolve": "sansat@@45",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:30 - Czech Republic Extraliga"
+    },
+    {
+      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]Ceske Budejovice vs Olomouc[/COLOR] - Oneplay Sport (CZ)",
+      "myresolve": "sansat@@95",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 16:00 - Czech Republic Extraliga"
+    },
+    {
+      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]Dynamo Pardubice vs Vitkovice[/COLOR] - Oneplay Sport (CZ)",
+      "myresolve": "sansat@@96",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 16:00 - Czech Republic Extraliga"
+    },
+    {
+      "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]Kometa Brno vs Karlovy Vary[/COLOR] - Oneplay Sport (CZ)",
+      "myresolve": "sansat@@97",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 16:00 - Czech Republic Extraliga"
+    },
+    {
+      "title": "[B][COLOR yellow]=== SPAGNA ===[/COLOR][/B]",
+      "link": "ignoreme",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/814/814346.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "Eventi Spagna"
+    },
+    {
+      "title": "[COLOR cyan][19:30][/COLOR] [COLOR gold]Eibar vs Mirandes[/COLOR] - LaLiga Hypermotion (ES)",
+      "myresolve": "sansat@@26",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 19:30 - Spain Segunda Division"
+    },
+    {
+      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Rayo Vallecano vs Getafe[/COLOR] - Now Sports 2 (GB)",
+      "myresolve": "sansat@@6",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 20:00 - Spain La Liga"
+    },
+    {
+      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Rayo Vallecano vs Getafe[/COLOR] - ESPN Deportes (ES)",
+      "myresolve": "sansat@@86",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 20:00 - Spain La Liga"
+    },
+    {
+      "title": "[COLOR cyan][13:00][/COLOR] [COLOR gold]Celta de Vigo vs Valencia[/COLOR] - Now Sports 2 (GB)",
+      "myresolve": "sansat@@6",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 13:00 - Spain La Liga"
+    },
+    {
+      "title": "[COLOR cyan][13:00][/COLOR] [COLOR gold]Celta de Vigo vs Valencia[/COLOR] - ESPN Deportes (ES)",
+      "myresolve": "sansat@@86",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 13:00 - Spain La Liga"
+    },
+    {
+      "title": "[COLOR cyan][13:00][/COLOR] [COLOR gold]Cultural Leonesa vs Real Sociedad II[/COLOR] - LaLiga Hypermotion (ES)",
+      "myresolve": "sansat@@26",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 13:00 - Spain Segunda Division"
+    },
+    {
+      "title": "[COLOR cyan][15:15][/COLOR] [COLOR gold]Osasuna vs Athletic Club[/COLOR] - Now Sports 2 (GB)",
+      "myresolve": "sansat@@6",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 15:15 - Spain La Liga"
+    },
+    {
+      "title": "[COLOR cyan][15:15][/COLOR] [COLOR gold]Osasuna vs Athletic Club[/COLOR] - TV4 Fotball (SE)",
+      "myresolve": "sansat@@64",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 15:15 - Spain La Liga"
+    },
+    {
+      "title": "[COLOR cyan][15:15][/COLOR] [COLOR gold]Osasuna vs Athletic Club[/COLOR] - ESPN Deportes (ES)",
+      "myresolve": "sansat@@86",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 15:15 - Spain La Liga"
+    },
+    {
+      "title": "[COLOR cyan][15:15][/COLOR] [COLOR gold]Almeria vs Granada[/COLOR] - LaLiga Hypermotion (ES)",
+      "myresolve": "sansat@@26",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 15:15 - Spain Segunda Division"
+    },
+    {
+      "title": "[COLOR cyan][15:15][/COLOR] [COLOR gold]CD Castellon vs Huesca[/COLOR] - LaLiga Hypermotion 2 (ES)",
+      "myresolve": "sansat@@27",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 15:15 - Spain Segunda Division"
+    },
+    {
+      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]Elche vs Villarreal[/COLOR] - Now Sports 2 (GB)",
+      "myresolve": "sansat@@6",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 17:30 - Spain La Liga"
+    },
+    {
+      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]Elche vs Villarreal[/COLOR] - TV4 Fotball (SE)",
+      "myresolve": "sansat@@64",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 17:30 - Spain La Liga"
+    },
+    {
+      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]Elche vs Villarreal[/COLOR] - ESPN Deportes (ES)",
+      "myresolve": "sansat@@86",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 17:30 - Spain La Liga"
+    },
+    {
+      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]Real Valladolid vs Racing Santander[/COLOR] - LaLiga Hypermotion (ES)",
+      "myresolve": "sansat@@26",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 17:30 - Spain Segunda Division"
+    },
+    {
+      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Espanyol vs Barcelona[/COLOR] - Now Sports 2 (GB)",
+      "myresolve": "sansat@@6",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 20:00 - Spain La Liga"
+    },
+    {
+      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Espanyol vs Barcelona[/COLOR] - TV4 Fotball (SE)",
+      "myresolve": "sansat@@64",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 20:00 - Spain La Liga"
+    },
+    {
+      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Espanyol vs Barcelona[/COLOR] - ESPN Deportes (ES)",
+      "myresolve": "sansat@@86",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 20:00 - Spain La Liga"
+    },
+    {
+      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Cordoba vs Burgos[/COLOR] - LaLiga Hypermotion (ES)",
+      "myresolve": "sansat@@26",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 20:00 - Spain Segunda Division"
+    },
+    {
+      "title": "[COLOR cyan][13:00][/COLOR] [COLOR gold]Sevilla vs Levante[/COLOR] - Now Sports 2 (GB)",
+      "myresolve": "sansat@@6",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 13:00 - Spain La Liga"
+    },
+    {
+      "title": "[COLOR cyan][13:00][/COLOR] [COLOR gold]Sevilla vs Levante[/COLOR] - ESPN Deportes (ES)",
+      "myresolve": "sansat@@86",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 13:00 - Spain La Liga"
+    },
+    {
+      "title": "[COLOR cyan][13:00][/COLOR] [COLOR gold]Sporting Gijon vs Malaga[/COLOR] - LaLiga Hypermotion (ES)",
+      "myresolve": "sansat@@26",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 13:00 - Spain Segunda Division"
+    },
+    {
+      "title": "[COLOR cyan][15:15][/COLOR] [COLOR gold]Real Madrid vs Real Betis[/COLOR] - Now Sports 2 (GB)",
+      "myresolve": "sansat@@6",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:15 - Spain La Liga"
+    },
+    {
+      "title": "[COLOR cyan][15:15][/COLOR] [COLOR gold]Real Madrid vs Real Betis[/COLOR] - TV4 Fotball (SE)",
+      "myresolve": "sansat@@77",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:15 - Spain La Liga"
+    },
+    {
+      "title": "[COLOR cyan][15:15][/COLOR] [COLOR gold]Real Madrid vs Real Betis[/COLOR] - ESPN Deportes (ES)",
+      "myresolve": "sansat@@86",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:15 - Spain La Liga"
+    },
+    {
+      "title": "[COLOR cyan][15:15][/COLOR] [COLOR gold]Ceuta vs FC Andorra[/COLOR] - LaLiga Hypermotion (ES)",
+      "myresolve": "sansat@@26",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 15:15 - Spain Segunda Division"
+    },
+    {
+      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]Mallorca vs Girona[/COLOR] - Now Sports 2 (GB)",
+      "myresolve": "sansat@@6",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 17:30 - Spain La Liga"
+    },
+    {
+      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]Mallorca vs Girona[/COLOR] - ESPN Deportes (ES)",
+      "myresolve": "sansat@@86",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 17:30 - Spain La Liga"
+    },
+    {
+      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]Deportivo Alaves vs Real Oviedo[/COLOR] - Now Sports 3 (GB)",
+      "myresolve": "sansat@@7",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 17:30 - Spain La Liga"
+    },
+    {
+      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]Deportivo Alaves vs Real Oviedo[/COLOR] - DAZN LaLiga (ES)",
+      "myresolve": "sansat@@28",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 17:30 - Spain La Liga"
+    },
+    {
+      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]Real Zaragoza vs Las Palmas[/COLOR] - LaLiga Hypermotion (ES)",
+      "myresolve": "sansat@@26",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 17:30 - Spain Segunda Division"
+    },
+    {
+      "title": "[COLOR cyan][17:30][/COLOR] [COLOR gold]Albacete vs Leganes[/COLOR] - LaLiga Hypermotion 2 (ES)",
+      "myresolve": "sansat@@27",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 17:30 - Spain Segunda Division"
+    },
+    {
+      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Real Sociedad vs Atletico Madrid[/COLOR] - Now Sports 2 (GB)",
+      "myresolve": "sansat@@6",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 20:00 - Spain La Liga"
+    },
+    {
+      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Real Sociedad vs Atletico Madrid[/COLOR] - ESPN Deportes (ES)",
+      "myresolve": "sansat@@86",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 20:00 - Spain La Liga"
+    },
+    {
+      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Deportivo La Coruna vs Cadiz[/COLOR] - LaLiga Hypermotion (ES)",
+      "myresolve": "sansat@@26",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 20:00 - Spain Segunda Division"
+    },
+    {
+      "title": "[B][COLOR yellow]=== SVEZIA ===[/COLOR][/B]",
+      "link": "ignoreme",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/814/814346.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "Eventi Svezia"
+    },
+    {
+      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Almtuna IS vs Ostersunds IK[/COLOR] - TV4 Play (SE)",
+      "myresolve": "sansat@@70",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 17:00 - Sweden Allsvenskan"
+    },
+    {
+      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]Kalmar HC vs IF Troja/Ljungby[/COLOR] - TV4 Sport Live 2 (SE)",
+      "myresolve": "sansat@@72",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 18:00 - Sweden Allsvenskan"
+    },
+    {
+      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]Mora IK vs Vasteras IK[/COLOR] - TV4 Sport Live 3 (SE)",
+      "myresolve": "sansat@@73",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 18:00 - Sweden Allsvenskan"
+    },
+    {
+      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]IK Oskarshamn vs Nybro Vikings IF[/COLOR] - TV4 Sport Live 4 (SE)",
+      "myresolve": "sansat@@74",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 18:00 - Sweden Allsvenskan"
+    },
+    {
+      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]BIK Karlskoga vs Sodertalje SK[/COLOR] - TV4 Hockey (SE)",
+      "myresolve": "sansat@@75",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 18:00 - Sweden Allsvenskan"
+    },
+    {
+      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]Vimmerby HC vs AIK[/COLOR] - TV4 Sportkanalen (SE)",
+      "myresolve": "sansat@@77",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 18:00 - Sweden Allsvenskan"
+    },
+    {
+      "title": "[COLOR cyan][14:15][/COLOR] [COLOR gold]Orebro Hockey vs Rogle BK[/COLOR] - TV4 Sport Live 2 (SE)",
+      "myresolve": "sansat@@72",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 14:15 - Sweden SHL"
+    },
+    {
+      "title": "[COLOR cyan][14:15][/COLOR] [COLOR gold]Leksands IF vs HV71[/COLOR] - TV4 Sport Live 3 (SE)",
+      "myresolve": "sansat@@73",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 14:15 - Sweden SHL"
+    },
+    {
+      "title": "[COLOR cyan][14:15][/COLOR] [COLOR gold]Vaxjo Lakers vs Frolunda HC[/COLOR] - TV4 Sport Live 4 (SE)",
+      "myresolve": "sansat@@74",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 14:15 - Sweden SHL"
+    },
+    {
+      "title": "[COLOR cyan][14:15][/COLOR] [COLOR gold]Farjestad BK vs Skelleftea AIK[/COLOR] - TV4 Hockey (SE)",
+      "myresolve": "sansat@@77",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 14:15 - Sweden SHL"
+    },
+    {
+      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Brynas IF vs Lulea HF[/COLOR] - Sportdigital1+ (DE)",
+      "myresolve": "sansat@@13",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 17:00 - Sweden SHL"
+    },
+    {
+      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Brynas IF vs Lulea HF[/COLOR] - TV4 Hockey (SE)",
+      "myresolve": "sansat@@77",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 17:00 - Sweden SHL"
+    },
+    {
+      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Malmo Redhawks vs Linkoping HC[/COLOR] - TV4 Sport Live 2 (SE)",
+      "myresolve": "sansat@@72",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 17:00 - Sweden SHL"
+    },
+    {
+      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Timra IK vs Djurgardens IF[/COLOR] - TV4 Sport Live 3 (SE)",
+      "myresolve": "sansat@@73",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 17:00 - Sweden Allsvenskan"
+    },
+    {
+      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]IF Troja/Ljungby vs Ostersunds IK[/COLOR] - TV4 Sport Live 4 (SE)",
+      "myresolve": "sansat@@74",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 17:00 - Sweden SHL"
+    },
+    {
+      "title": "[COLOR cyan][19:30][/COLOR] [COLOR gold]Modo Hockey vs IF Bjorkloven[/COLOR] - TV4 Sportkanalen (SE)",
+      "myresolve": "sansat@@62",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 19:30 - Sweden Allsvenskan"
+    },
+    {
+      "title": "[B][COLOR yellow]=== USA ===[/COLOR][/B]",
+      "link": "ignoreme",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/814/814346.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "Eventi USA"
+    },
+    {
+      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Vegas Golden Knights vs St. Louis Blues[/COLOR] - Sportsnet One (CA)",
+      "myresolve": "sansat@@9",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 20:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Vegas Golden Knights vs St. Louis Blues[/COLOR] - V Sport Vinter (SE)",
+      "myresolve": "sansat@@76",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 20:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]San Antonio Spurs vs Indiana Pacers[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@1",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 00:00 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]Brooklyn Nets vs Washington Wizards[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@2",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 00:00 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][00:30][/COLOR] [COLOR gold]Denver Nuggets vs Cleveland Cavaliers[/COLOR] - Altitude (US)",
+      "myresolve": "sansat@@3",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 00:30 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][00:30][/COLOR] [COLOR gold]Atlanta Hawks vs New York Knicks[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@4",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 00:30 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][01:00][/COLOR] [COLOR gold]Orlando Magic vs Chicago Bulls[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@5",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 01:00 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][01:00][/COLOR] [COLOR gold]Charlotte Hornets vs Milwaukee Bucks[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@6",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 01:00 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][01:00][/COLOR] [COLOR gold]Portland Trail Blazers vs New Orleans Pelicans[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@7",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 01:00 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][01:00][/COLOR] [COLOR gold]New York Rangers vs Florida Panthers[/COLOR] - Sportsnet Ontario (CA)",
+      "myresolve": "sansat@@32",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 01:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][01:00][/COLOR] [COLOR gold]New York Rangers vs Florida Panthers[/COLOR] - Viaplay Sport (SE)",
+      "myresolve": "sansat@@80",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 01:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][02:00][/COLOR] [COLOR gold]Sacramento Kings vs Phoenix Suns[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@8",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 02:00 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][03:00][/COLOR] [COLOR gold]Oklahoma City Thunder vs Golden State Warriors[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@9",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 03:00 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][03:30][/COLOR] [COLOR gold]Memphis Grizzlies vs Los Angeles Lakers[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@10",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 03:30 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][03:30][/COLOR] [COLOR gold]Seattle Kraken vs Vancouver Canucks[/COLOR] - Sportsnet Pacific (CA)",
+      "myresolve": "sansat@@33",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 03:30 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][03:30][/COLOR] [COLOR gold]Seattle Kraken vs Vancouver Canucks[/COLOR] - V Sport Premium (SE)",
+      "myresolve": "sansat@@76",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 03:30 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][03:30][/COLOR] [COLOR gold]Minnesota Wild vs Anaheim Ducks[/COLOR] - V Sport Vinter (SE)",
+      "myresolve": "sansat@@75",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 03:30 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Pittsburgh Penguins vs Detroit Red Wings[/COLOR] - Sportsnet Ontario (CA)",
+      "myresolve": "sansat@@32",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 17:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Pittsburgh Penguins vs Detroit Red Wings[/COLOR] - Viaplay Sport (SE)",
+      "myresolve": "sansat@@80",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 17:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Buffalo Sabres vs Columbus Blue Jackets[/COLOR] - V Sport Vinter (SE)",
+      "myresolve": "sansat@@75",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 20:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Utah Mammoth vs New Jersey Devils[/COLOR] - V Sport Extra (SE)",
+      "myresolve": "sansat@@79",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 20:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][20:30][/COLOR] [COLOR gold]Philadelphia Flyers vs Edmonton Oilers[/COLOR] - Sportsnet Ontario (CA)",
+      "myresolve": "sansat@@32",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 20:30 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][20:30][/COLOR] [COLOR gold]Philadelphia Flyers vs Edmonton Oilers[/COLOR] - V Sport 1 (SE)",
+      "myresolve": "sansat@@70",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 20:30 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][21:00][/COLOR] [COLOR gold]Montreal Canadiens vs St. Louis Blues[/COLOR] - TSN2 (CA)",
+      "myresolve": "sansat@@3",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 21:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][21:00][/COLOR] [COLOR gold]Montreal Canadiens vs St. Louis Blues[/COLOR] - V Sport Live 1 (SE)",
+      "myresolve": "sansat@@77",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 21:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][21:00][/COLOR] [COLOR gold]Tampa Bay Lightning vs San Jose Sharks[/COLOR] - V Sport Premium (SE)",
+      "myresolve": "sansat@@76",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 21:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][21:30][/COLOR] [COLOR gold]Carolina Panthers vs Tampa Bay Buccaneers[/COLOR] - NFL+ (US)",
+      "myresolve": "sansat@@1",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 21:30 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][21:30][/COLOR] [COLOR gold]Carolina Panthers vs Tampa Bay Buccaneers[/COLOR] - ESPN (US)",
+      "myresolve": "sansat@@2",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 21:30 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][22:00][/COLOR] [COLOR gold]Minnesota Timberwolves vs Miami Heat[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@3",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 22:00 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][22:00][/COLOR] [COLOR gold]Minnesota Timberwolves vs Miami Heat[/COLOR] - Sky Sport Top Event (DE)",
+      "myresolve": "sansat@@11",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 22:00 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]Chicago Blackhawks vs Washington Capitals[/COLOR] - Sky Sport Mix (DE)",
+      "myresolve": "sansat@@14",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 00:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]Chicago Blackhawks vs Washington Capitals[/COLOR] - Monumental Sports Network (US)",
+      "myresolve": "sansat@@33",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 00:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]Chicago Blackhawks vs Washington Capitals[/COLOR] - V Sport LIve 1 (SE)",
+      "myresolve": "sansat@@71",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 00:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]Winnipeg Jets vs Ottawa Senators[/COLOR] - Sportsnet One (CA)",
+      "myresolve": "sansat@@31",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 00:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]Winnipeg Jets vs Ottawa Senators[/COLOR] - V Sport Live 2 (SE)",
+      "myresolve": "sansat@@72",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 00:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]Toronto Maple Leafs vs New York Islanders[/COLOR] - Sportsnet Pacific (CA)",
+      "myresolve": "sansat@@32",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 00:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]Toronto Maple Leafs vs New York Islanders[/COLOR] - V Sport Vinter (SE)",
+      "myresolve": "sansat@@75",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 00:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]Colorado Avalanche vs Carolina Hurricanes[/COLOR] - Altitude (US)",
+      "myresolve": "sansat@@34",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 00:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]Colorado Avalanche vs Carolina Hurricanes[/COLOR] - V Sport Premium (SE)",
+      "myresolve": "sansat@@78",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 00:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]Nashville Predators vs Calgary Flames[/COLOR] - Sportsnet West (CA)",
+      "myresolve": "sansat@@35",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 00:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]Nashville Predators vs Calgary Flames[/COLOR] - V Sport Extra (SE)",
+      "myresolve": "sansat@@76",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 00:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][00:30][/COLOR] [COLOR gold]Philadelphia 76ers vs New York Knicks[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@4",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 00:30 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][00:30][/COLOR] [COLOR gold]Atlanta Hawks vs Toronto Raptors[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@5",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 00:30 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][01:00][/COLOR] [COLOR gold]San Francisco vs Seattle[/COLOR] - NFL+ (US)",
+      "myresolve": "sansat@@1",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 01:00 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][01:00][/COLOR] [COLOR gold]San Francisco vs Seattle[/COLOR] - ESPN (US)",
+      "myresolve": "sansat@@2",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 01:00 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][01:00][/COLOR] [COLOR gold]Charlotte Hornets vs Chicago Bulls[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@6",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 01:00 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][01:00][/COLOR] [COLOR gold]Portland Trail Blazers vs San Antonio Spurs[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@7",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 01:00 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][01:30][/COLOR] [COLOR gold]Houston Rockets vs Dallas Mavericks[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@8",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 01:30 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][02:00][/COLOR] [COLOR gold]Minnesota Wild vs Los Angeles Kings[/COLOR] - V Sport 1 (SE)",
+      "myresolve": "sansat@@70",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 02:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][03:00][/COLOR] [COLOR gold]Utah Jazz vs Golden State Warriors[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@9",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 03:00 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][03:00][/COLOR] [COLOR gold]Boston Bruins vs Vancouver Canucks[/COLOR] - Sportsnet One (CA)",
+      "myresolve": "sansat@@31",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 03:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][03:00][/COLOR] [COLOR gold]Boston Bruins vs Vancouver Canucks[/COLOR] - V Sport Vinter (SE)",
+      "myresolve": "sansat@@75",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 03:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][03:30][/COLOR] [COLOR gold]Boston Celtics vs Los Angeles Clippers[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@10",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 03:30 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]Jacksonville vs Tennessee[/COLOR] - RTL (DE)",
+      "myresolve": "sansat@@12",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 18:00 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]Jacksonville vs Tennessee[/COLOR] - NFL+ (US)",
+      "myresolve": "sansat@@35",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 18:00 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]The RedZone[/COLOR] - NFL+ (US)",
+      "myresolve": "sansat@@31",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 18:00 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]Atlanta vs New Orleans[/COLOR] - NFL+ (US)",
+      "myresolve": "sansat@@32",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 18:00 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]Cincinnati vs Cleveland[/COLOR] - NFL+ (US)",
+      "myresolve": "sansat@@33",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 18:00 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]Houston vs Indianapolis[/COLOR] - NFL+ (US)",
+      "myresolve": "sansat@@34",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 18:00 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]Minnesota vs Green Bay[/COLOR] - NFL+ (US)",
+      "myresolve": "sansat@@36",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 18:00 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]New York Giants vs Dallas[/COLOR] - NFL+ (US)",
+      "myresolve": "sansat@@37",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 18:00 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]Detroit Pistons vs Cleveland Cavaliers[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@2",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 19:00 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]Montreal Canadiens vs Dallas Stars[/COLOR] - TSN2 (CA)",
+      "myresolve": "sansat@@5",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 19:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]Montreal Canadiens vs Dallas Stars[/COLOR] - V Sport Vinter (SE)",
+      "myresolve": "sansat@@75",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 19:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Indiana Pacers vs Orlando Magic[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@3",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 20:00 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Pittsburgh Penguins vs Columbus Blue Jackets[/COLOR] - Sportsnet One (CA)",
+      "myresolve": "sansat@@9",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 20:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Pittsburgh Penguins vs Columbus Blue Jackets[/COLOR] - V Sport Extra (SE)",
+      "myresolve": "sansat@@76",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 20:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][20:30][/COLOR] [COLOR gold]Denver Nuggets vs Brooklyn Nets[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@4",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 20:30 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][21:25][/COLOR] [COLOR gold]Denver vs Los Angeles Chargers[/COLOR] - RTL (DE)",
+      "myresolve": "sansat@@12",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 21:25 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][21:25][/COLOR] [COLOR gold]Denver vs Los Angeles Chargers[/COLOR] - NFL+ (US)",
+      "myresolve": "sansat@@34",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 21:25 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][21:25][/COLOR] [COLOR gold]Buffalo vs New York Jets[/COLOR] - NFL+ (US)",
+      "myresolve": "sansat@@32",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 21:25 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][21:25][/COLOR] [COLOR gold]Chicago vs Detroit[/COLOR] - NFL+ (US)",
+      "myresolve": "sansat@@33",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 21:25 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][21:25][/COLOR] [COLOR gold]Las Vegas vs Kansas[/COLOR] - NFL+ (US)",
+      "myresolve": "sansat@@35",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 21:25 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][21:25][/COLOR] [COLOR gold]Los Angeles vs Arizona[/COLOR] - NFL+ (US)",
+      "myresolve": "sansat@@36",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 21:25 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][21:25][/COLOR] [COLOR gold]New England Patriots vs Miami[/COLOR] - NFL+ (US)",
+      "myresolve": "sansat@@37",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 21:25 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][21:25][/COLOR] [COLOR gold]Philadelphia vs Washington[/COLOR] - NFL+ (US)",
+      "myresolve": "sansat@@38",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 21:25 - NFL"
     }
   ]
 }
