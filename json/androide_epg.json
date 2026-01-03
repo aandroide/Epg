@@ -1,97 +1,228 @@
 {
-  "SetViewMode": "55",
-  "last_update": "2026-01-03 16:07:59",
+  "SetViewMode": "503",
+  "RefreshList": "10800",
+  "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
   "items": [
     {
-      "title": "ITALY (19)",
-      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_ITALY.json",
-      "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/it-circle-01.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "19 canali ITALY"
+      "title": "Androide - EPG",
+      "link": "ignoreme",
+      "info": "Aggiornato: 03/01/2026 21:39"
     },
     {
-      "title": "UNITED KINGDOM (57)",
-      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_UNITED_KINGDOM.json",
-      "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/uk-circle-01.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "57 canali UNITED KINGDOM"
+      "title": "DAZN 1.it - 19:30 Finale",
+      "link": "ignoreme",
+      "info": "In onda: 19:30 - 00:00\n\n...Championship. Finale - I migliori giocatori di freccette al mondo si sfidano nellatmosfera festosa e caotica di Alexandra Palace.\n\nA seguire (00:00): DAZN 1",
+      "thumbnail": "https://images.open-epg.com/19310.png"
     },
     {
-      "title": "SPAIN (29)",
-      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_SPAIN.json",
-      "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29 canali SPAIN"
+      "title": "DAZN 2.it - 17:00 Nessun evento in onda",
+      "link": "ignoreme",
+      "info": "In onda: 17:00 - 23:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (23:00): Nessun evento in onda",
+      "thumbnail": "https://images.open-epg.com/19311.png"
     },
     {
-      "title": "GERMANY (7)",
-      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_GERMANY.json",
-      "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "7 canali GERMANY"
+      "title": "DAZN.it - 13:41 Sassuolo - Parma",
+      "link": "ignoreme",
+      "info": "In onda: 13:41 - 13:41\n\nAria di derby al Mapei stadium. Il Sassuolo vuole vendicare lultima sconfitta casalinga subita dal Torino, mente il Parma di Cuesta ha bisogno di un successo importante per svoltare nella corsa per non retrocedere: come finirà? Segui la Serie A Enilive su DAZN! Telecronaca di Alessandro Iori.\n\nA seguire (13:41): Genoa - Pisa",
+      "thumbnail": "https://images.open-epg.com/1531.png"
     },
     {
-      "title": "FRANCE (21)",
-      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_FRANCE.json",
-      "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/fr-circle-01.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21 canali FRANCE"
+      "title": "Sky Arte.it - 21:30 Mozart - Genio Immortale",
+      "link": "ignoreme",
+      "info": "In onda: 21:30 - 22:35\n\nMozart abbandona la vita di provincia e diventa lidolo di Vienna.\n\nA seguire (22:35): La nave dei folli - Oltre la ragione",
+      "thumbnail": "https://images.open-epg.com/19379.png"
     },
     {
-      "title": "USA (71)",
-      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_USA.json",
-      "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "71 canali USA"
+      "title": "Sky Atlantic.it - 21:15 Amadeus",
+      "link": "ignoreme",
+      "info": "In onda: 21:15 - 22:10\n\nNel 1788 Amadeus debutta con il Don Giovanni, ispirato alla morte del padre. Salieri prepara il colpo finale.\n\nA seguire (22:10): Gomorra - Le Origini: Il Vodcast",
+      "thumbnail": "https://images.open-epg.com/19381.png"
     },
     {
-      "title": "PORTUGAL (11)",
-      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_PORTUGAL.json",
-      "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11 canali PORTUGAL"
+      "title": "Sky Cinema Action.it - 20:00 Skyscraper",
+      "link": "ignoreme",
+      "info": "In onda: 20:00 - 21:45\n\nDwayne Johnson e Neve Campbell in un action infuocato. Un veterano di guerra deve cercare gli autori dellincendio che ha avvolto un avveniristico grattacielo e salvare i propri cari (USA 2018)\n\nA seguire (21:45): Interceptor",
+      "thumbnail": "https://images.open-epg.com/19383.png"
     },
     {
-      "title": "SWEDEN (16)",
-      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_SWEDEN.json",
-      "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "16 canali SWEDEN"
+      "title": "Sky Cinema Comedy.it - 21:30 I delitti del Barlume - Gatte da pelare",
+      "link": "ignoreme",
+      "info": "In onda: 21:30 - 23:05\n\n26esimo capitolo della produzione Sky Original. Mentre la Fusco e a caccia della Rusic, Cioni e Govoni cercano di risolvere un caso da soli mettendo in difficolta Pasquali (ITA 2024)\n\nA seguire (23:05): I delitti del Barlume - Sasso carta forbici",
+      "thumbnail": "https://images.open-epg.com/19384.png"
     },
     {
-      "title": "FINLAND (12)",
-      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_FINLAND.json",
-      "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/fi-circle-01.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "12 canali FINLAND"
+      "title": "Sky Cinema Drama.it - 20:00 Uno di noi",
+      "link": "ignoreme",
+      "info": "In onda: 20:00 - 22:00\n\nKevin Costner e Diane Lane in un dramma dai risvolti thrilling. Uno sceriffo e la moglie lasciano il ranch nel Montana per salvare la nuora e il nipote da una famiglia di criminali (USA 2020)\n\nA seguire (22:00): Gli indifferenti",
+      "thumbnail": "https://images.open-epg.com/19385.png"
     },
     {
-      "title": "CECHIA (8)",
-      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_CECHIA.json",
-      "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/cz-circle-01.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "8 canali CECHIA"
+      "title": "Sky Cinema Due.it - 20:15 Mon Crime - La colpevole sono io",
+      "link": "ignoreme",
+      "info": "In onda: 20:15 - 22:05\n\nFrancois Ozon dirige una commedia a tinte gialle nella Parigi degli anni 30. Una giovane aspirante attrice viene accusata dellomicidio di un famoso produttore. Nel cast Isabelle Huppert (FRA 2022)\n\nA seguire (22:05): Scarface",
+      "thumbnail": "https://images.open-epg.com/19387.png"
     },
     {
-      "title": "AUSTRALIA (2)",
-      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_AUSTRALIA.json",
-      "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "2 canali AUSTRALIA"
+      "title": "Sky Cinema Family.it - 20:00 Cattivissimo me 4",
+      "link": "ignoreme",
+      "info": "In onda: 20:00 - 21:40\n\nQuarta avventura, targata Illumination, per la saga danimazione con i maggiori incassi della storia. Minacciato da un ex compagno di scuola, Gru deve trasferirsi con la famiglia (USA 2024)\n\nA seguire (21:40): Wonder",
+      "thumbnail": "https://images.open-epg.com/19388.png"
     },
     {
-      "title": "INTERNAZIONALE (6)",
-      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_INTERNAZIONALE.json",
-      "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "6 canali INTERNAZIONALE"
+      "title": "Sky Cinema Romance.it - 21:35 La cena perfetta",
+      "link": "ignoreme",
+      "info": "In onda: 21:35 - 23:25\n\nSalvatore Esposito e Greta Scarano in una commedia sulla voglia di riscatto. Incaricato da un boss camorrista di gestire un ristorante a Roma, Carmine assume Consuelo, chef molto grintosa (ITA 2022)\n\nA seguire (23:25): Nessuno mi puo giudicare",
+      "thumbnail": "https://images.open-epg.com/19389.png"
     },
     {
-      "title": "AFRICA (16)",
-      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_AFRICA.json",
-      "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/africa-circle-01.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "16 canali AFRICA"
+      "title": "Sky Cinema Suspense.it - 20:00 The Code",
+      "link": "ignoreme",
+      "info": "In onda: 20:00 - 21:50\n\nMorgan Freeman e Antonio Banderas in un thriller mozzafiato. Un esperto ladro internazionale recluta un giovane collega per mettere a segno lultimo colpo della sua carriera (USA 2008)\n\nA seguire (21:50): Inside Man",
+      "thumbnail": "https://images.open-epg.com/19390.png"
+    },
+    {
+      "title": "Sky Cinema Uno +24.it - 20:15 Il diavolo veste Prada",
+      "link": "ignoreme",
+      "info": "In onda: 20:15 - 22:10\n\nMeryl Streep e Anne Hathaway in una commedia cult. Una giornalista viene assunta da una prestigiosa rivista di moda, ma la dispotica direttrice le rendera la vita impossibile (USA 2006)\n\nA seguire (22:10): Spy Game",
+      "thumbnail": "https://images.open-epg.com/19391.png"
+    },
+    {
+      "title": "Sky Cinema Uno.it - 20:15 Come fratelli",
+      "link": "ignoreme",
+      "info": "In onda: 20:15 - 21:50\n\nUna commedia agrodolce che a partire da una tragedia racconta la storia di due giovani padri alla riconquista della serenita (IT 2025)\n\nA seguire (21:50): Un film Minecraft",
+      "thumbnail": "https://images.open-epg.com/19392.png"
+    },
+    {
+      "title": "Sky Classica.it - 20:15 Verdi - Attila",
+      "link": "ignoreme",
+      "info": "In onda: 20:15 - 22:10\n\nOpera (1846) in un prologo e tre atti su libretto di T.Solera - con I.Abdrazakov, V.Sulimsky, A.Markarova, S.Skorokhodov, M.Makarov - Orchestra teatro Mariinskij - V.Gergiev, dir. - A.Gama, reg. (San Pietroburgo, 2012)\n\nA seguire (22:10): Sei solo a violino di Bach - 2",
+      "thumbnail": "https://images.open-epg.com/4100139.png"
+    },
+    {
+      "title": "Sky Crime.it - 21:05 Uno stadio da incubo",
+      "link": "ignoreme",
+      "info": "In onda: 21:05 - 21:55\n\nS1 Ep7 Scomparso nello stadio - Gli addetti alla sicurezza devono gestire una rissa sugli spalti e la misteriosa scomparsa di un giovane.\n\nA seguire (21:55): Uno stadio da incubo",
+      "thumbnail": "https://images.open-epg.com/19394.png"
+    },
+    {
+      "title": "Sky Documentaries +1.it - 21:25 Principe Carlo - Il nuovo re",
+      "link": "ignoreme",
+      "info": "In onda: 21:25 - 22:25\n\nCome sara la nuova era della monarchia inglese? Ripercorriamo gli eventi che hanno caratterizzato il lungo percorso del Principe Carlo verso il trono.\n\nA seguire (22:25): Juan Carlos - La caduta di un re",
+      "thumbnail": "https://images.open-epg.com/nologo.png"
+    },
+    {
+      "title": "Sky Documentaries.it - 21:25 Juan Carlos - La caduta di un re",
+      "link": "ignoreme",
+      "info": "In onda: 21:25 - 22:15\n\nS1 Ep1 Safari segreto - Juan Carlos guida la Spagna fuori dalla dittatura franchista. Ma la sua relazione segreta con Corinna zu Sayn-Wittgenstein non passa inosservata.\n\nA seguire (22:15): Juan Carlos - La caduta di un re",
+      "thumbnail": "https://images.open-epg.com/19396.png"
+    },
+    {
+      "title": "Sky Investigation.it - 21:00 Mistletoe Murders: Delitti... 1^TV",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 21:45\n\n... sotto lalbero. S2 Ep4 Le Idi di Dicembre - Emily Lane indaga su un omicidio quando un biscotto avvelenato la collega al crimine.\n\nA seguire (21:45): Mistletoe Murders: Delitti sotto...",
+      "thumbnail": "https://images.open-epg.com/19398.png"
+    },
+    {
+      "title": "Sky Nature.it - 21:10 I segreti delle foreste incantate",
+      "link": "ignoreme",
+      "info": "In onda: 21:10 - 22:05\n\nS1 Ep6 Terre Aride - Indagheremo sulle strategie di sopravvivenza della fauna che abita in alcune delle zone piu aride della Terra.\n\nA seguire (22:05): I segreti delle acque incantate",
+      "thumbnail": "https://images.open-epg.com/19393.png"
+    },
+    {
+      "title": "Sky News.it - 21:30 The World with Yalda Hakim",
+      "link": "ignoreme",
+      "info": "In onda: 21:30 - 22:00\n\nEyewitness reports, interviews and analysis on the big stories around the world with Yalda Hakim.\n\nA seguire (22:00): News at 10 with Gillian Joseph",
+      "thumbnail": "https://images.open-epg.com/19400.png"
+    },
+    {
+      "title": "Sky Serie.it - 21:10 The Spanish Princess",
+      "link": "ignoreme",
+      "info": "In onda: 21:10 - 22:10\n\nS1 Ep2 Il morbo - Caterina sposa Arturo e fa un passo avanti verso il trono inglese, ma deve affrontare le difficolta di una nuova relazione e una nuova corte.\n\nA seguire (22:10): The Spanish Princess",
+      "thumbnail": "https://images.open-epg.com/19402.png"
+    },
+    {
+      "title": "Sky Sport 4K.it - 19:40 Atalanta - Roma",
+      "link": "ignoreme",
+      "info": "In onda: 19:40 - 21:45\n\nSerie A 18ga - Bergamaschi reduci dal ko contro lInter (0-1). Roma a quota 33 punti dopo il 3-1 sul Genoa. A Bergamo ha vinto una sola volta nelle ultime 6 sfide, 5 sconfitte. TC: Gentile-Serena\n\nA seguire (21:45): Sky Saturday Night",
+      "thumbnail": "https://images.open-epg.com/19403.png"
+    },
+    {
+      "title": "Sky Sport Calcio.it - 19:40 Atalanta - Roma",
+      "link": "ignoreme",
+      "info": "In onda: 19:40 - 21:45\n\nSerie A - Bergamaschi reduci dal ko contro lInter (0-1). Roma a quota 33 punti dopo il 3-1 sul Genoa. A Bergamo ha vinto una sola volta nelle ultime 6 sfide, 5 sconfitte. TC: Gentile-Serena\n\nA seguire (21:45): Sky Saturday Night",
+      "thumbnail": "https://images.open-epg.com/19405.png"
+    },
+    {
+      "title": "Sky Sport F1.it - 21:00 Budapest: Sprint Race",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 22:00\n\nBudapest: Sprint Race - DallHungaroring di Mogyorod, Ungheria.\n\nA seguire (22:00): Silverstone: Feature Race",
+      "thumbnail": "https://images.open-epg.com/19406.png"
+    },
+    {
+      "title": "Sky Sport Golf.it - 20:00 2a giornata",
+      "link": "ignoreme",
+      "info": "In onda: 20:00 - 22:00\n\n2a giornata - Le partite della TGL Golf League.\n\nA seguire (22:00): Challenge De España",
+      "thumbnail": "https://images.open-epg.com/19407.png"
+    },
+    {
+      "title": "Sky Sport Max.it - 21:30 Saliou Niang",
+      "link": "ignoreme",
+      "info": "In onda: 21:30 - 22:00\n\nSaliou Niang - Amadori Protein Talk: Saliou Niang\n\nA seguire (22:00): Atalanta - Roma",
+      "thumbnail": "https://images.open-epg.com/19408.png"
+    },
+    {
+      "title": "Sky Sport MotoGP.it - 21:15 Paddock Life - Best Of 2025",
+      "link": "ignoreme",
+      "info": "In onda: 21:15 - 21:45\n\nBest Of 2025 - In collegamento dal paddock, il meglio della giornata in pista con approfondimenti e aggiornamenti in tempo reale.\n\nA seguire (21:45): GP Valencia: Gara",
+      "thumbnail": "https://images.open-epg.com/19409.png"
+    },
+    {
+      "title": "Sky Sport Tennis.it - 20:30 Finale Maschile",
+      "link": "ignoreme",
+      "info": "In onda: 20:30 - 00:00\n\nFinale Maschile - SINNER (Ita) - ALCARAZ (Spa) - Alla sua prima finale a Wimbledon, Jannik Sinner sfida il due volte campione Carlos Alcaraz. Telecr.: Pero-Bertolucci-Ljubicic\n\nA seguire (00:00): Wimbledon Official Film",
+      "thumbnail": "https://images.open-epg.com/19404.png"
+    },
+    {
+      "title": "Sky Sport Uno.it - 19:40 Atalanta - Roma",
+      "link": "ignoreme",
+      "info": "In onda: 19:40 - 21:45\n\nSerie A - Bergamaschi reduci dal ko contro lInter (0-1). Roma a quota 33 punti dopo il 3-1 sul Genoa. A Bergamo ha vinto una sola volta nelle ultime 6 sfide, 5 sconfitte. TC: Gentile-Serena\n\nA seguire (21:45): 3tre, Il Numero Magico Dello Sci",
+      "thumbnail": "https://images.open-epg.com/19410.png"
+    },
+    {
+      "title": "Sky Sport.it - 19:00 Atalanta - Roma",
+      "link": "ignoreme",
+      "info": "In onda: 19:00 - 23:00\n\nCod. 402507 - Serie A - 18a giornata. Calcio dinizio ore 20:45.\n\nA seguire (13:00): Calcio Campionato Italiano Serie C - Ep. 208 - Calcio Serie C 20ga Girone C Siracusa/ Salernitana 04/01/2026",
+      "thumbnail": "https://images.open-epg.com/19382.png"
+    },
+    {
+      "title": "Sky TG24.it - 21:30 TG24 mezzora",
+      "link": "ignoreme",
+      "info": "In onda: 21:30 - 21:55\n\nTelegiornale in diretta. I giornali di oggi, lo Sport, il Meteo.\n\nA seguire (21:55): TG24 Preview",
+      "thumbnail": "https://images.open-epg.com/19411.png"
+    },
+    {
+      "title": "Sky Uno.it - 20:15 MasterChef Italia",
+      "link": "ignoreme",
+      "info": "In onda: 20:15 - 21:40\n\nPer la prima volta a MasterChef viene introdotta la Green Mystery Box: la chef Chiara Pavan, ospite di puntata, assegnera al migliore della prova la nuovissima Green Pin.\n\nA seguire (21:40): MasterChef Italia",
+      "thumbnail": "https://images.open-epg.com/19413.png"
+    },
+    {
+      "title": "ZONA DAZN.it - 20:00 Freccette: World Darts Championship 2025",
+      "link": "ignoreme",
+      "info": "In onda: 20:00 - 00:00\n\n...Championship....\n\nA seguire (00:00): Stag. 2019 - DAZN 1",
+      "thumbnail": "https://images.open-epg.com/1700.png"
+    },
+    {
+      "title": "Zona Dazn 2.it - 17:00 Nessun evento in onda",
+      "link": "ignoreme",
+      "info": "In onda: 17:00 - 23:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (23:00): Nessun evento in onda",
+      "thumbnail": "https://images.open-epg.com/7515553.png"
+    },
+    {
+      "title": "Zona Dazn.it - 20:00 Freccette: World Darts Championship 2025",
+      "link": "ignoreme",
+      "info": "In onda: 20:00 - 00:00\n\n...Championship. Finale - I migliori giocatori di freccette al mondo si sfidano nellatmosfera festosa e caotica di Alexandra Palace.\n\nA seguire (00:00): DAZN 1",
+      "thumbnail": "https://images.open-epg.com/7515557.png"
     }
   ]
 }
