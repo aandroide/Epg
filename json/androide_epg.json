@@ -2,11 +2,11 @@
   "SetViewMode": "55",
   "items": [
     {
-      "title": "Italia",
-      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_ITALIA.json",
-      "thumbnail": "https://www.flaticon.com/free-icon/italy_9906483?term=itali&page=1&position=2&origin=search&related_id=9906483",
+      "title": "AUSTRALIA",
+      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_AUSTRALIA.json",
+      "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "Eventi Italia"
+      "info": "Eventi AUSTRALIA"
     },
     {
       "title": "Altri",
@@ -16,72 +16,65 @@
       "info": "Eventi Altri"
     },
     {
-      "title": "Europa",
-      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_EUROPA.json",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3909/3909285.png",
+      "title": "CECHIA",
+      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_CECHIA.json",
+      "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/cz-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "Eventi Europa"
+      "info": "Eventi CECHIA"
     },
     {
-      "title": "Finlandia",
-      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_FINLANDIA.json",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/814/814346.png",
+      "title": "FRANCE",
+      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_FRANCE.json",
+      "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/fr-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "Eventi Finlandia"
+      "info": "Eventi FRANCE"
     },
     {
-      "title": "Francia",
-      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_FRANCIA.json",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3909/3909370.png",
+      "title": "GERMANY",
+      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_GERMANY.json",
+      "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "Eventi Francia"
+      "info": "Eventi GERMANY"
     },
     {
-      "title": "Germania",
-      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_GERMANIA.json",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3909/3909386.png",
+      "title": "ITALY",
+      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_ITALY.json",
+      "thumbnail": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "Eventi Germania"
+      "info": "Eventi ITALY"
     },
     {
-      "title": "Inghilterra",
-      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_INGHILTERRA.json",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3909/3909370.png",
+      "title": "PORTUGAL",
+      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_PORTUGAL.json",
+      "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "Eventi Inghilterra"
+      "info": "Eventi PORTUGAL"
     },
     {
-      "title": "Portogallo",
-      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_PORTOGALLO.json",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/814/814346.png",
+      "title": "SPAIN",
+      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_SPAIN.json",
+      "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "Eventi Portogallo"
+      "info": "Eventi SPAIN"
     },
     {
-      "title": "Repubblica Ceca",
-      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_REPUBBLICA_CECA.json",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/814/814346.png",
+      "title": "SWEDEN",
+      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_SWEDEN.json",
+      "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "Eventi Repubblica Ceca"
+      "info": "Eventi SWEDEN"
     },
     {
-      "title": "Spagna",
-      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_SPAGNA.json",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3909/3909935.png",
+      "title": "UNITED KINDOM",
+      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_UNITED_KINDOM.json",
+      "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/uk-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "Eventi Spagna"
-    },
-    {
-      "title": "Svezia",
-      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_SVEZIA.json",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/814/814346.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "Eventi Svezia"
+      "info": "Eventi UNITED KINDOM"
     },
     {
       "title": "USA",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_USA.json",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3909/3909957.png",
+      "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "Eventi USA"
     }
