@@ -37,6 +37,13 @@
       "info": "Eventi GERMANY"
     },
     {
+      "title": "INTERNAZIONALE",
+      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_INTERNAZIONALE.json",
+      "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "Eventi INTERNAZIONALE"
+    },
+    {
       "title": "ITALY",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_ITALY.json",
       "thumbnail": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
