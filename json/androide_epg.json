@@ -1,1200 +1,216 @@
+{
+  "SetViewMode": "503",
+  "RefreshList": "10800",
+  "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+  "items": [
     {
-      "title": "[COLOR yellow]=== SUNDAY 4TH JANUARY 2026 ===[/COLOR]",
-      "link": "ignore",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "Programmazione del Sunday 4th January 2026"
+      "title": "Androide - EPG",
+      "link": "ignoreme",
+      "info": "Aggiornato: 04/01/2026 21:49"
     },
     {
-      "title": "[COLOR cyan]⚽ Australia - A-League[/COLOR]",
-      "link": "ignore",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "1 partite"
+      "title": "DAZN 1.it - 18:30 Inter - Bologna",
+      "link": "ignoreme",
+      "info": "In onda: 18:30 - 00:00\n\nSerie A - 18a g. Ambizione, tattica e personalita: la stagione riparte con gli allenatori protagonisti, tra ritorni, rivoluzioni e conferme.\n\nA seguire (00:00): DAZN 1",
+      "thumbnail": "https://images.open-epg.com/19310.png"
     },
     {
-      "title": "[COLOR white]▶ [09:35] Adelaide United vs Central Coast Mariners[/COLOR]",
-      "link": "ignore",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "09:35 - Australia - A-League"
+      "title": "DAZN 2.it - 17:00 Nessun evento in onda",
+      "link": "ignoreme",
+      "info": "In onda: 17:00 - 23:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (23:00): Nessun evento in onda",
+      "thumbnail": "https://images.open-epg.com/19311.png"
     },
     {
-      "title": "[COLOR lime]Adelaide United vs Central Coast M [Inglese (UK)] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Inglese (UK) - HD",
-      "link": "acestream://01dcc1ea3387c2b73953efe3f52286a770737d7c"
+      "title": "DAZN.it - 15:00 Sir Susa Scai Perugia - Allianz Milano",
+      "link": "ignoreme",
+      "info": "In onda: 15:00 - 15:00\n\nI campioni del mondo di Perugia non hanno perso il ritmo al rientro in Italia e per la seconda volta nel giro di un mese affrontano Milano, questa volta in casa. Allandata non cè stata storia: come finirà questa volta? Segui la SuperLega Credem Banca su DAZN!\n\nA seguire (15:00): Megabox Ond. Savio Vallefoglia - Eurotek Laica Uyba",
+      "thumbnail": "https://images.open-epg.com/1531.png"
     },
     {
-      "title": "[COLOR lime]Adelaide United vs Central Coast M [Inglese (UK)] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Inglese (UK) - HD",
-      "link": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"
+      "title": "Sky Arte.it - 21:10 Miyazaki - 10 anni di magia",
+      "link": "ignoreme",
+      "info": "In onda: 21:10 - 22:10\n\nMentre crea i personaggi e le trame di Ponyo, Miyazaki scava tra i suoi ricordi della madre e vi trae ispirazione per trovare un filo conduttore per la sua storia.\n\nA seguire (22:10): Miyazaki - 10 anni di magia",
+      "thumbnail": "https://images.open-epg.com/19379.png"
     },
     {
-      "title": "[COLOR cyan]⚽ Africa - Africa Cup of Nations[/COLOR]",
-      "link": "ignore",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "2 partite"
+      "title": "Sky Atlantic.it - 21:05 Landscapers - Un crimine quasi perfetto",
+      "link": "ignoreme",
+      "info": "In onda: 21:05 - 21:55\n\nFinale di stagione. - Mentre il processo ha inizio, Susan e Christopher affrontano la minaccia per loro piu grave: la possibilita di rimanere separati per tutto il resto delle loro vite.\n\nA seguire (21:55): Gomorra - Le Origini: Il Vodcast",
+      "thumbnail": "https://images.open-epg.com/19381.png"
     },
     {
-      "title": "[COLOR white]▶ [17:00] Morocco vs Tanzania[/COLOR]",
-      "link": "ignore",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "17:00 - Africa - Africa Cup of Nations"
+      "title": "Sky Cinema Action.it - 20:00 Twisters",
+      "link": "ignoreme",
+      "info": "In onda: 20:00 - 22:05\n\nIl celebre disaster movie ritorna con Daisy Edgar-Jones e Glen Powell. Dopo un fallimento, Kate abbandona le sue ricerche sui tornado, ma un amico la convince a tornare (USA 2024)\n\nA seguire (22:05): Matrix",
+      "thumbnail": "https://images.open-epg.com/19383.png"
     },
     {
-      "title": "[COLOR lime]Morocco vs Tanzania [Inglese (UK)] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Inglese (UK) - HD",
-      "link": "acestream://5b068dbbd852314c3b2a7cd5be1fbf3cc07254ab"
+      "title": "Sky Cinema Comedy.it - 21:45 I Delitti Del Barlume - Ritorno A Pineta",
+      "link": "ignoreme",
+      "info": "In onda: 21:45 - 23:30\n\nA rompere la tranquillita della stagione estiva di Pineta questa volta e linaspettato ritorno di uno dei suoi cittadini piu amati: il Viviani del BarLume (ITA 2020)\n\nA seguire (23:30): I delitti del BarLume-Mare forza quattro",
+      "thumbnail": "https://images.open-epg.com/19384.png"
     },
     {
-      "title": "[COLOR lime]Morocco vs Tanzania [Inglese (US)] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Inglese (US) - HD",
-      "link": "acestream://96b016d784855fae3e73d57a46cfe363ed7dc11b"
+      "title": "Sky Cinema Drama.it - 20:00 Era mio figlio (2024)",
+      "link": "ignoreme",
+      "info": "In onda: 20:00 - 21:55\n\nRichard Gere e Diane Kruger in una pellicola sul rimpianto di Savi Gabizon. Un ricco magnate scopre di aver avuto un figlio, morto in un incidente, e decide di scavare nel suo passato (CAN 2024)\n\nA seguire (21:55): Ogni maledetta domenica",
+      "thumbnail": "https://images.open-epg.com/19385.png"
     },
     {
-      "title": "[COLOR lime]Morocco vs Tanzania [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
+      "title": "Sky Cinema Due.it - 20:15 I segreti di Wind River",
+      "link": "ignoreme",
+      "info": "In onda: 20:15 - 22:05\n\nJeremy Renner ed Elizabeth Olsen in un thriller premiato a Cannes. Un cacciatore collabora con una giovane agente dellFBI per scoprire il killer di una ragazza nativo-americana (USA/CAN 2017)\n\nA seguire (22:05): Cuori ribelli",
+      "thumbnail": "https://images.open-epg.com/19387.png"
     },
     {
-      "title": "[COLOR lime]Morocco vs Tanzania [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://f3eea003e23f94dc2d527306de9dd386e3ebf4ba"
+      "title": "Sky Cinema Family.it - 21:45 Dolittle",
+      "link": "ignoreme",
+      "info": "In onda: 21:45 - 23:25\n\nRobert Downey Jr. e Antonio Banderas in unepica avventura. Un medico in grado di parlare con gli animali salpa verso unisola leggendaria alla ricerca di una cura per la regina Vittoria (USA/GBR 2020)\n\nA seguire (23:25): Vicky e il suo cucciolo",
+      "thumbnail": "https://images.open-epg.com/19388.png"
     },
     {
-      "title": "[COLOR lime]Morocco vs Tanzania [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://ef4fd9625b5fce433e60632ff2f4c0aad57d904c"
+      "title": "Sky Cinema Romance.it - 21:45 Lamore e altre seghe mentali",
+      "link": "ignoreme",
+      "info": "In onda: 21:45 - 23:20\n\nCommedia romantica di e con Giampaolo Morelli e Maria Chiara Giannetta. Dopo una delusione damore Guido e diventato cinico, ma lincontro con Giulia potrebbe fargli cambiare idea (ITA 2024)\n\nA seguire (23:20): A Christmas Reunion",
+      "thumbnail": "https://images.open-epg.com/19389.png"
     },
     {
-      "title": "[COLOR lime]Morocco vs Tanzania [Tedesco] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Tedesco - HD",
-      "link": "acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7"
+      "title": "Sky Cinema Suspense.it - 20:00 Criminal",
+      "link": "ignoreme",
+      "info": "In onda: 20:00 - 21:55\n\nThriller con Kevin Costner, Gary Oldman e Ryan Reynolds. La memoria di un defunto agente della CIA, in possesso di informazioni top secret, viene trasferita nella mente di un detenuto (USA/GBR 2016)\n\nA seguire (21:55): Presence",
+      "thumbnail": "https://images.open-epg.com/19390.png"
     },
     {
-      "title": "[COLOR lime]Morocco vs Tanzania [Tedesco] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Tedesco - HD",
-      "link": "acestream://726655ece8c0c04aa6c61a86769d2cca5f853b1a"
+      "title": "Sky Cinema Uno +24.it - 20:15 Come fratelli",
+      "link": "ignoreme",
+      "info": "In onda: 20:15 - 21:50\n\nUna commedia agrodolce che a partire da una tragedia racconta la storia di due giovani padri alla riconquista della serenita (IT 2025)\n\nA seguire (21:50): Un film Minecraft",
+      "thumbnail": "https://images.open-epg.com/19391.png"
     },
     {
-      "title": "[COLOR lime]Morocco vs Tanzania [Francese] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Francese - HD",
-      "link": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0"
+      "title": "Sky Cinema Uno.it - 20:15 Le Mans 66 - La grande sfida",
+      "link": "ignoreme",
+      "info": "In onda: 20:15 - 22:50\n\n2 Oscar per il biopic con Christian Bale e Matt Damon. 1966: il progettista Carroll Shelby e il pilota Ken Miles vengono ingaggiati dalla Ford per battere la Ferrari alla 24 ore di Le Mans (USA/FRA 2019)\n\nA seguire (22:50): The Equalizer - Il vendicatore",
+      "thumbnail": "https://images.open-epg.com/19392.png"
     },
     {
-      "title": "[COLOR lime]Morocco vs Tanzania [Olandese] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Olandese - HD",
-      "link": "acestream://fcd7621df513f600652b4813d5d8fd1daed60058"
+      "title": "Sky Classica.it - 20:50 Cajkovskij - Iolanta e lo Schiaccianoci",
+      "link": "ignoreme",
+      "info": "In onda: 20:50 - 22:35\n\nLopera (1891) e il balletto (1891) uniti in una sola serata - con M.Schmidt, O.Golovneva - Wiener Staatsballett - Orchester der Volksoper Wien - O.M.Wellber, dir., A.Kaydanovskiy, cor., L.de Beer, reg. (Vienna, 2022)\n\nA seguire (22:35): Schubert - Quintetto D.956",
+      "thumbnail": "https://images.open-epg.com/4100139.png"
     },
     {
-      "title": "[COLOR lime]Morocco vs Tanzania [Olandese] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Olandese - HD",
-      "link": "acestream://8e475c8b9f12270c524f88f5659cc6811fc1399c"
+      "title": "Sky Crime.it - 21:10 EX - Non mi manchi per niente",
+      "link": "ignoreme",
+      "info": "In onda: 21:10 - 21:55\n\nS4 Ep12 Come da copione - Una donna scopre gli oscuri segreti sul suo fidanzato.\n\nA seguire (21:55): EX - Non mi manchi per niente",
+      "thumbnail": "https://images.open-epg.com/19394.png"
     },
     {
-      "title": "[COLOR lime]Morocco vs Tanzania [Ucraino] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Ucraino - HD",
-      "link": "acestream://1119eb905c8181184a73020dd16be76b5b3fd55a"
+      "title": "Sky Documentaries +1.it - 21:25 La sottile zona rossa - Il G8 di Genova ventanni dopo",
+      "link": "ignoreme",
+      "info": "In onda: 21:25 - 22:50\n\n... Genova ventanni dopo. - 20 Luglio 2001: muore Carlo Giuliani a Genova. 10 filmmakers filmano gli eventi per le strade della citta, che integrati da interviste restituiscono la cronaca dei fatti di quel giorno.\n\nA seguire (22:50): Il Ponte Di Genova: Cronologia Di Un Disastro",
+      "thumbnail": "https://images.open-epg.com/nologo.png"
     },
     {
-      "title": "[COLOR lime]Morocco vs Tanzania [Russo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Russo - HD",
-      "link": "acestream://0a21a8a79e9a3f03261d86e69cff2cc4d0b4a639"
+      "title": "Sky Documentaries.it - 20:25 La sottile zona rossa - Il G8 di Genova ventanni dopo",
+      "link": "ignoreme",
+      "info": "In onda: 20:25 - 21:50\n\n... Genova ventanni dopo. - 20 Luglio 2001: muore Carlo Giuliani a Genova. 10 filmmakers filmano gli eventi per le strade della citta, che integrati da interviste restituiscono la cronaca dei fatti di quel giorno.\n\nA seguire (21:50): Il Ponte Di Genova: Cronologia Di Un Disastro",
+      "thumbnail": "https://images.open-epg.com/19396.png"
     },
     {
-      "title": "[COLOR white]▶ [20:00] South Africa vs Cameroon[/COLOR]",
-      "link": "ignore",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "20:00 - Africa - Africa Cup of Nations"
+      "title": "Sky Nature.it - 21:10 The Planets, The",
+      "link": "ignoreme",
+      "info": "In onda: 21:10 - 22:10\n\nS1 Ep2 Marte - Miliardi di anni fa, dalle nubi di polvere che ruotano intorno al Sole si formano i pianeti. Tra loro, ci sono Marte e la Terra, due pianeti molto simili in origine, ma con una storia completamente diversa.\n\nA seguire (22:10): The Planets",
+      "thumbnail": "https://images.open-epg.com/19393.png"
     },
     {
-      "title": "[COLOR lime]South Africa vs Cameroon [Inglese (UK)] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Inglese (UK) - HD",
-      "link": "acestream://5b068dbbd852314c3b2a7cd5be1fbf3cc07254ab"
+      "title": "Sky News.it - 21:30 The World with Yalda Hakim",
+      "link": "ignoreme",
+      "info": "In onda: 21:30 - 22:00\n\nEyewitness reports, interviews and analysis on the big stories around the world with Yalda Hakim.\n\nA seguire (22:00): News at 10 with Gillian Joseph",
+      "thumbnail": "https://images.open-epg.com/19400.png"
     },
     {
-      "title": "[COLOR lime]South Africa vs Cameroon [Inglese (US)] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Inglese (US) - HD",
-      "link": "acestream://96b016d784855fae3e73d57a46cfe363ed7dc11b"
+      "title": "Sky Serie.it - 21:45 Chicago P.D.",
+      "link": "ignoreme",
+      "info": "In onda: 21:45 - 22:30\n\nS13 Ep5 Operazione Miami - Atwater si ricongiunge con un vecchio amico dei tempi dellaccademia dopo che unesplosione sconvolge il centro di Chicago.\n\nA seguire (22:30): The Rainmaker",
+      "thumbnail": "https://images.open-epg.com/19402.png"
     },
     {
-      "title": "[COLOR lime]South Africa vs Cameroon [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
+      "title": "Sky Sport 4K.it - 21:45 Atalanta - Roma",
+      "link": "ignoreme",
+      "info": "In onda: 21:45 - 23:30\n\nAtalanta - Roma - Bergamaschi reduci dal ko contro lInter (0-1). Roma a quota 33 punti dopo il 3-1 sul Genoa. A Bergamo ha vinto una sola volta nelle ultime 6 sfide, 5 sconfitte. TC: Gentile-Serena\n\nA seguire (23:30): Roma - Genoa",
+      "thumbnail": "https://images.open-epg.com/19403.png"
     },
     {
-      "title": "[COLOR lime]South Africa vs Cameroon [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://f3eea003e23f94dc2d527306de9dd386e3ebf4ba"
+      "title": "Sky Sport Calcio.it - 21:45 Sky Calcio Club",
+      "link": "ignoreme",
+      "info": "In onda: 21:45 - 23:00\n\nFabio Caressa, Beppe Bergomi e altri grandi ospiti commentano il posticipo di serie A e tutti gol, le azioni salienti e le maggiori curiosita delle partite del weekend.\n\nA seguire (23:00): Sky Calcio Club Senza Giacca",
+      "thumbnail": "https://images.open-epg.com/19405.png"
     },
     {
-      "title": "[COLOR lime]South Africa vs Cameroon [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://ef4fd9625b5fce433e60632ff2f4c0aad57d904c"
+      "title": "Sky Sport F1.it - 21:00 GP Belgio: Gara",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 22:00\n\nGP Belgio: Gara - E il giro di boa del mondiale: sulla mitica pista di SPA di disputa la gara numero 13 delle 24 in programma. Telecronaca di Carlo Vanzini, Marc Gene e Roberto Chinchero.\n\nA seguire (22:00): Yas Island: Feature Race",
+      "thumbnail": "https://images.open-epg.com/19406.png"
     },
     {
-      "title": "[COLOR lime]South Africa vs Cameroon [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://c7c81acdd1a03ecc418c94c2f28e2adb0556c40b"
+      "title": "Sky Sport Golf.it - 20:00 World Tour Championship: Giorno 4",
+      "link": "ignoreme",
+      "info": "In onda: 20:00 - 23:00\n\nWorld Tour Championship: Giorno 4 - Da Jumeirah Golf Estates a Dubai, negli Emirati Arabi Uniti.\n\nA seguire (23:00): Nedbank Golf Challenge: Giorno 4",
+      "thumbnail": "https://images.open-epg.com/19407.png"
     },
     {
-      "title": "[COLOR lime]South Africa vs Cameroon [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://0e5d8c9724fa9163f49096b70484e315251eb785"
+      "title": "Sky Sport Max.it - 21:45 3tre, Il Numero Magico Dello Sci",
+      "link": "ignoreme",
+      "info": "In onda: 21:45 - 22:45\n\n3tre: Il Numero Magico Dello Sci - Sky Sport racconta 75 anni di storia e trionfi sulla pista di Madonna di Campiglio, attraverso le voci dei campioni che hanno reso leggendaria la 3-Tre.\n\nA seguire (22:45): Benetton Treviso - Edinburgh",
+      "thumbnail": "https://images.open-epg.com/19408.png"
     },
     {
-      "title": "[COLOR lime]South Africa vs Cameroon [Tedesco] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Tedesco - HD",
-      "link": "acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7"
+      "title": "Sky Sport MotoGP.it - 21:20 Speciale Eicma 2025 - Dietro Le",
+      "link": "ignoreme",
+      "info": "In onda: 21:20 - 21:50\n\n... quinte Di Motolive. - Motolive e stata il cuore pulsante di Eicma 2025. Eventi, gare, lo spazio dedicato alla Dakar e molto altro da rivedere in questo speciale che ci porta dietro le quinte della manifestazione.\n\nA seguire (21:50): Un Anno Di Sbk 2025",
+      "thumbnail": "https://images.open-epg.com/19409.png"
     },
     {
-      "title": "[COLOR lime]South Africa vs Cameroon [Tedesco] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Tedesco - HD",
-      "link": "acestream://726655ece8c0c04aa6c61a86769d2cca5f853b1a"
+      "title": "Sky Sport Tennis.it - 19:30 ATP and WTA",
+      "link": "ignoreme",
+      "info": "In onda: 19:30 - 22:00\n\nATP and WTA - Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con lattenzione puntata sui tennisti italiani.\n\nA seguire (22:00): Top 50 Colpi 2025",
+      "thumbnail": "https://images.open-epg.com/19404.png"
     },
     {
-      "title": "[COLOR lime]South Africa vs Cameroon [Francese] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Francese - HD",
-      "link": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0"
+      "title": "Sky Sport Uno.it - 21:30 Atalanta - Roma",
+      "link": "ignoreme",
+      "info": "In onda: 21:30 - 23:30\n\nAtalanta - Roma - Bergamaschi reduci dal ko contro lInter (0-1). Roma a quota 33 punti dopo il 3-1 sul Genoa. A Bergamo ha vinto una sola volta nelle ultime 6 sfide, 5 sconfitte. TC: Gentile-Serena\n\nA seguire (23:30): Ep.27",
+      "thumbnail": "https://images.open-epg.com/19410.png"
     },
     {
-      "title": "[COLOR lime]South Africa vs Cameroon [Olandese] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Olandese - HD",
-      "link": "acestream://fcd7621df513f600652b4813d5d8fd1daed60058"
+      "title": "Sky TG24.it - 21:30 TG24 mezzora",
+      "link": "ignoreme",
+      "info": "In onda: 21:30 - 21:55\n\nTelegiornale in diretta. I giornali di oggi, lo Sport, il Meteo.\n\nA seguire (21:55): TG24 Preview",
+      "thumbnail": "https://images.open-epg.com/19411.png"
     },
     {
-      "title": "[COLOR lime]South Africa vs Cameroon [Olandese] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Olandese - HD",
-      "link": "acestream://8e475c8b9f12270c524f88f5659cc6811fc1399c"
+      "title": "Sky Uno.it - 21:35 Alessandro Borghese - 4 Ristoranti",
+      "link": "ignoreme",
+      "info": "In onda: 21:35 - 23:00\n\nChioggia, citta lagunare, ha da offrire una squisita proposta culinaria. Alessandro Borghese e alla ricerca del miglior ristorante di pesce della citta.\n\nA seguire (23:00): Alessandro Borghese - 4 Ristoranti",
+      "thumbnail": "https://images.open-epg.com/19413.png"
     },
     {
-      "title": "[COLOR lime]South Africa vs Cameroon [Russo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Russo - HD",
-      "link": "acestream://ef79dbae0b2df024df0c926772917dc8f66ff03e"
+      "title": "ZONA DAZN.it - 18:30 Inter - Bologna",
+      "link": "ignoreme",
+      "info": "In onda: 18:30 - 00:00\n\nBologna - Serie A\n\nA seguire (00:00): Stag. 2019 - DAZN 1",
+      "thumbnail": "https://images.open-epg.com/1700.png"
     },
     {
-      "title": "[COLOR cyan]⚽ England - Premier League[/COLOR]",
-      "link": "ignore",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "6 partite"
+      "title": "Zona Dazn 2.it - 17:00 Nessun evento in onda",
+      "link": "ignoreme",
+      "info": "In onda: 17:00 - 23:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (23:00): Nessun evento in onda",
+      "thumbnail": "https://images.open-epg.com/7515553.png"
     },
     {
-      "title": "[COLOR white]▶ [13:30] Leeds United vs Manchester United[/COLOR]",
-      "link": "ignore",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "13:30 - England - Premier League"
-    },
-    {
-      "title": "[COLOR lime]Leeds United vs Manchester Unit [Portoghese] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Portoghese - HD",
-      "link": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"
-    },
-    {
-      "title": "[COLOR lime]Leeds United vs Manchester Unit [Portoghese] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Portoghese - HD",
-      "link": "acestream://c1cc8683b700bbad5f7193327a27034e7ae57984"
-    },
-    {
-      "title": "[COLOR lime]Leeds United vs Manchester Unit [Inglese (UK)] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Inglese (UK) - HD",
-      "link": "acestream://19c5c13a8e7273d78d53fdaea3deaf1b80e938fa"
-    },
-    {
-      "title": "[COLOR lime]Leeds United vs Manchester Unit [Inglese (UK)] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Inglese (UK) - HD",
-      "link": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"
-    },
-    {
-      "title": "[COLOR lime]Leeds United vs Manchester Unit [Inglese (UK)] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Inglese (UK) - HD",
-      "link": "acestream://4e7d236685127073c4848e21d3aa874fb7e8c65e"
-    },
-    {
-      "title": "[COLOR lime]Leeds United vs Manchester Unit [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://7ba1f321f4d0791b7ebd42f41a07c1cd1479e784"
-    },
-    {
-      "title": "[COLOR lime]Leeds United vs Manchester Unit [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://9afc89481b721ce6c326c85e47148676077b8e62"
-    },
-    {
-      "title": "[COLOR lime]Leeds United vs Manchester Unit [Turco] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Turco - HD",
-      "link": "acestream://ed81c333815247536edfcdb2755147e8c4144d62"
-    },
-    {
-      "title": "[COLOR lime]Leeds United vs Manchester Unit [Ucraino] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Ucraino - HD",
-      "link": "acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707"
-    },
-    {
-      "title": "[COLOR lime]Leeds United vs Manchester Unit [Russo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Russo - HD",
-      "link": "acestream://55608a6a88d34de2de3de187b94359ce26cd723b"
-    },
-    {
-      "title": "[COLOR lime]Leeds United vs Manchester Unit [Russo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Russo - HD",
-      "link": "acestream://9dd73ed9c072dc0b575541f449d785038b158ac6"
-    },
-    {
-      "title": "[COLOR white]▶ [16:00] Tottenham Hotspur vs Sunderland[/COLOR]",
-      "link": "ignore",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "16:00 - England - Premier League"
-    },
-    {
-      "title": "[COLOR lime]Tottenham Hotsp vs Sunderland [Portoghese] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Portoghese - HD",
-      "link": "acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e"
-    },
-    {
-      "title": "[COLOR lime]Tottenham Hotsp vs Sunderland [Portoghese] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Portoghese - HD",
-      "link": "acestream://b7b71db7210c3314f6c97bc4e7bbee05571eb445"
-    },
-    {
-      "title": "[COLOR lime]Tottenham Hotsp vs Sunderland [Inglese (UK)] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Inglese (UK) - HD",
-      "link": "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d"
-    },
-    {
-      "title": "[COLOR lime]Tottenham Hotsp vs Sunderland [Inglese (UK)] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Inglese (UK) - HD",
-      "link": "acestream://54de746f7823812312b4000422618465f7d58f87"
-    },
-    {
-      "title": "[COLOR lime]Tottenham Hotsp vs Sunderland [Inglese (UK)] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Inglese (UK) - HD",
-      "link": "acestream://b7b4bdadab837bfaccb1b75085abcaead94d5939"
-    },
-    {
-      "title": "[COLOR lime]Tottenham Hotsp vs Sunderland [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://f12038c7fe603ed93fa9475d60692dd95bb7b17f"
-    },
-    {
-      "title": "[COLOR lime]Tottenham Hotsp vs Sunderland [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://43004e955731cd3afcc34d24e5178d4b427bff37"
-    },
-    {
-      "title": "[COLOR lime]Tottenham Hotsp vs Sunderland [Turco] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Turco - HD",
-      "link": "acestream://48bee10b883f17c7186d60f1e8022dca0ba41a05"
-    },
-    {
-      "title": "[COLOR lime]Tottenham Hotsp vs Sunderland [Turco] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Turco - HD",
-      "link": "acestream://864a0744f67e0615ead5598423dae2b769f7b8d4"
-    },
-    {
-      "title": "[COLOR lime]Tottenham Hotsp vs Sunderland [Ucraino] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Ucraino - HD",
-      "link": "acestream://96eff59051c8d00fa6a56926ff6509576c637a32"
-    },
-    {
-      "title": "[COLOR lime]Tottenham Hotsp vs Sunderland [Russo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Russo - HD",
-      "link": "acestream://cdd2dcffceefec8f02d846c3078296ac59ee4795"
-    },
-    {
-      "title": "[COLOR white]▶ [16:00] Newcastle United vs Crystal Palace[/COLOR]",
-      "link": "ignore",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "16:00 - England - Premier League"
-    },
-    {
-      "title": "[COLOR lime]Newcastle Unite vs Crystal Palace [Inglese (UK)] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Inglese (UK) - HD",
-      "link": "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e"
-    },
-    {
-      "title": "[COLOR lime]Newcastle Unite vs Crystal Palace [Inglese (UK)] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Inglese (UK) - HD",
-      "link": "acestream://b295e8b1157bb1d5d2ca28143d81c0ec61607a95"
-    },
-    {
-      "title": "[COLOR lime]Newcastle Unite vs Crystal Palace [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://8a86cd6152154a25ad4b76523160552a40313b28"
-    },
-    {
-      "title": "[COLOR lime]Newcastle Unite vs Crystal Palace [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9"
-    },
-    {
-      "title": "[COLOR white]▶ [16:00] Fulham vs Liverpool[/COLOR]",
-      "link": "ignore",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "16:00 - England - Premier League"
-    },
-    {
-      "title": "[COLOR lime]Fulham vs Liverpool [Portoghese] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Portoghese - HD",
-      "link": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"
-    },
-    {
-      "title": "[COLOR lime]Fulham vs Liverpool [Portoghese] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Portoghese - HD",
-      "link": "acestream://c1cc8683b700bbad5f7193327a27034e7ae57984"
-    },
-    {
-      "title": "[COLOR lime]Fulham vs Liverpool [Inglese (UK)] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Inglese (UK) - HD",
-      "link": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"
-    },
-    {
-      "title": "[COLOR lime]Fulham vs Liverpool [Inglese (UK)] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Inglese (UK) - HD",
-      "link": "acestream://78266c15035d0ad8cbc58f821733931e1de434ab"
-    },
-    {
-      "title": "[COLOR lime]Fulham vs Liverpool [Inglese (UK)] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Inglese (UK) - HD",
-      "link": "acestream://79fd94c914b172ac1eb30a266554fe59cc6c1750"
-    },
-    {
-      "title": "[COLOR lime]Fulham vs Liverpool [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://7ba1f321f4d0791b7ebd42f41a07c1cd1479e784"
-    },
-    {
-      "title": "[COLOR lime]Fulham vs Liverpool [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://9afc89481b721ce6c326c85e47148676077b8e62"
-    },
-    {
-      "title": "[COLOR lime]Fulham vs Liverpool [Turco] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Turco - HD",
-      "link": "acestream://ed81c333815247536edfcdb2755147e8c4144d62"
-    },
-    {
-      "title": "[COLOR lime]Fulham vs Liverpool [Ucraino] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Ucraino - HD",
-      "link": "acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c"
-    },
-    {
-      "title": "[COLOR lime]Fulham vs Liverpool [Russo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Russo - HD",
-      "link": "acestream://55608a6a88d34de2de3de187b94359ce26cd723b"
-    },
-    {
-      "title": "[COLOR lime]Fulham vs Liverpool [Russo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Russo - HD",
-      "link": "acestream://0631bd0fd16f3fecf6d5c90e6ae88e46fbf981de"
-    },
-    {
-      "title": "[COLOR white]▶ [16:00] Everton vs Brentford[/COLOR]",
-      "link": "ignore",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "16:00 - England - Premier League"
-    },
-    {
-      "title": "[COLOR lime]Everton vs Brentford [Inglese (UK)] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Inglese (UK) - HD",
-      "link": "acestream://1e459793cd25e2ad8c1d2f8adb322a405f28b073"
-    },
-    {
-      "title": "[COLOR lime]Everton vs Brentford [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8"
-    },
-    {
-      "title": "[COLOR lime]Everton vs Brentford [Ucraino] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Ucraino - HD",
-      "link": "acestream://bf84389a0be3384d3187177e42fc23347c9decee"
-    },
-    {
-      "title": "[COLOR white]▶ [18:30] Manchester City vs Chelsea[/COLOR]",
-      "link": "ignore",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "18:30 - England - Premier League"
-    },
-    {
-      "title": "[COLOR lime]Manchester City vs Chelsea [Portoghese] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Portoghese - HD",
-      "link": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"
-    },
-    {
-      "title": "[COLOR lime]Manchester City vs Chelsea [Portoghese] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Portoghese - HD",
-      "link": "acestream://c1cc8683b700bbad5f7193327a27034e7ae57984"
-    },
-    {
-      "title": "[COLOR lime]Manchester City vs Chelsea [Inglese (UK)] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Inglese (UK) - HD",
-      "link": "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e"
-    },
-    {
-      "title": "[COLOR lime]Manchester City vs Chelsea [Inglese (UK)] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Inglese (UK) - HD",
-      "link": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"
-    },
-    {
-      "title": "[COLOR lime]Manchester City vs Chelsea [Inglese (UK)] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Inglese (UK) - HD",
-      "link": "acestream://78266c15035d0ad8cbc58f821733931e1de434ab"
-    },
-    {
-      "title": "[COLOR lime]Manchester City vs Chelsea [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://7ba1f321f4d0791b7ebd42f41a07c1cd1479e784"
-    },
-    {
-      "title": "[COLOR lime]Manchester City vs Chelsea [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://9afc89481b721ce6c326c85e47148676077b8e62"
-    },
-    {
-      "title": "[COLOR lime]Manchester City vs Chelsea [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
-    },
-    {
-      "title": "[COLOR lime]Manchester City vs Chelsea [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://f3eea003e23f94dc2d527306de9dd386e3ebf4ba"
-    },
-    {
-      "title": "[COLOR lime]Manchester City vs Chelsea [Turco] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Turco - HD",
-      "link": "acestream://ed81c333815247536edfcdb2755147e8c4144d62"
-    },
-    {
-      "title": "[COLOR lime]Manchester City vs Chelsea [Ucraino] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Ucraino - HD",
-      "link": "acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707"
-    },
-    {
-      "title": "[COLOR lime]Manchester City vs Chelsea [Russo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Russo - HD",
-      "link": "acestream://55608a6a88d34de2de3de187b94359ce26cd723b"
-    },
-    {
-      "title": "[COLOR lime]Manchester City vs Chelsea [Russo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Russo - HD",
-      "link": "acestream://9dd73ed9c072dc0b575541f449d785038b158ac6"
-    },
-    {
-      "title": "[COLOR cyan]⚽ Spain - La Liga[/COLOR]",
-      "link": "ignore",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "5 partite"
-    },
-    {
-      "title": "[COLOR white]▶ [14:00] Sevilla vs Levante[/COLOR]",
-      "link": "ignore",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "14:00 - Spain - La Liga"
-    },
-    {
-      "title": "[COLOR lime]Sevilla vs Levante [Portoghese] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Portoghese - HD",
-      "link": "acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce"
-    },
-    {
-      "title": "[COLOR lime]Sevilla vs Levante [Portoghese] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Portoghese - HD",
-      "link": "acestream://54ed9b3158bb7c24fd54c764e9843e313d9ab77b"
-    },
-    {
-      "title": "[COLOR lime]Sevilla vs Levante [Inglese (UK)] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Inglese (UK) - HD",
-      "link": "acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565"
-    },
-    {
-      "title": "[COLOR lime]Sevilla vs Levante [Inglese (UK)] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Inglese (UK) - HD",
-      "link": "acestream://815638522b8957c9fefa04a997874373432e017c"
-    },
-    {
-      "title": "[COLOR lime]Sevilla vs Levante [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38"
-    },
-    {
-      "title": "[COLOR lime]Sevilla vs Levante [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://107c3ce5a5d2527c9f06e4eab87477201791f231"
-    },
-    {
-      "title": "[COLOR lime]Sevilla vs Levante [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://4b528d10eaad747ddf52251206177573ee3e9f74"
-    },
-    {
-      "title": "[COLOR lime]Sevilla vs Levante [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947"
-    },
-    {
-      "title": "[COLOR lime]Sevilla vs Levante [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58"
-    },
-    {
-      "title": "[COLOR lime]Sevilla vs Levante [Arabo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Arabo - HD",
-      "link": "acestream://ab7f9cc29ad09ee9575fed758ab317c818fdc491"
-    },
-    {
-      "title": "[COLOR lime]Sevilla vs Levante [Tedesco] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Tedesco - HD",
-      "link": "acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865"
-    },
-    {
-      "title": "[COLOR lime]Sevilla vs Levante [Tedesco] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Tedesco - HD",
-      "link": "acestream://cc7cf26c0a874d9b2f64c6b952392f92afe81314"
-    },
-    {
-      "title": "[COLOR lime]Sevilla vs Levante [Olandese] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Olandese - HD",
-      "link": "acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027"
-    },
-    {
-      "title": "[COLOR white]Sevilla vs Levante [Polacco] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "WEB - Polacco - HD",
-      "link": " acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7"
-    },
-    {
-      "title": "[COLOR lime]Sevilla vs Levante [Russo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Russo - HD",
-      "link": "acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04"
-    },
-    {
-      "title": "[COLOR lime]Sevilla vs Levante [Russo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Russo - HD",
-      "link": "acestream://31d62f44e1f0f842e2052e308e2b677e3bb88107"
-    },
-    {
-      "title": "[COLOR white]▶ [16:15] Real Madrid vs Real Betis[/COLOR]",
-      "link": "ignore",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "16:15 - Spain - La Liga"
-    },
-    {
-      "title": "[COLOR lime]Real Madrid vs Real Betis [Portoghese] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Portoghese - HD",
-      "link": "acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce"
-    },
-    {
-      "title": "[COLOR lime]Real Madrid vs Real Betis [Portoghese] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Portoghese - HD",
-      "link": "acestream://54ed9b3158bb7c24fd54c764e9843e313d9ab77b"
-    },
-    {
-      "title": "[COLOR lime]Real Madrid vs Real Betis [Inglese (UK)] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Inglese (UK) - HD",
-      "link": "acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565"
-    },
-    {
-      "title": "[COLOR lime]Real Madrid vs Real Betis [Inglese (UK)] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Inglese (UK) - HD",
-      "link": "acestream://815638522b8957c9fefa04a997874373432e017c"
-    },
-    {
-      "title": "[COLOR lime]Real Madrid vs Real Betis [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://74defb8f4ed3a917fd07c21b34f43c17107ec618"
-    },
-    {
-      "title": "[COLOR lime]Real Madrid vs Real Betis [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f"
-    },
-    {
-      "title": "[COLOR lime]Real Madrid vs Real Betis [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05"
-    },
-    {
-      "title": "[COLOR lime]Real Madrid vs Real Betis [Tedesco] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Tedesco - HD",
-      "link": "acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865"
-    },
-    {
-      "title": "[COLOR lime]Real Madrid vs Real Betis [Tedesco] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Tedesco - HD",
-      "link": "acestream://cc7cf26c0a874d9b2f64c6b952392f92afe81314"
-    },
-    {
-      "title": "[COLOR lime]Real Madrid vs Real Betis [Francese] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Francese - HD",
-      "link": "acestream://edb507e38394d614c9ff55805c9d354ae13210bc"
-    },
-    {
-      "title": "[COLOR lime]Real Madrid vs Real Betis [Olandese] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Olandese - HD",
-      "link": "acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027"
-    },
-    {
-      "title": "[COLOR lime]Real Madrid vs Real Betis [Polacco] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Polacco - HD",
-      "link": "acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652"
-    },
-    {
-      "title": "[COLOR lime]Real Madrid vs Real Betis [Polacco] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Polacco - HD",
-      "link": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"
-    },
-    {
-      "title": "[COLOR lime]Real Madrid vs Real Betis [Ucraino] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Ucraino - HD",
-      "link": "acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707"
-    },
-    {
-      "title": "[COLOR lime]Real Madrid vs Real Betis [Russo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Russo - HD",
-      "link": "acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2 "
-    },
-    {
-      "title": "[COLOR lime]Real Madrid vs Real Betis [Russo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Russo - HD",
-      "link": "acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04"
-    },
-    {
-      "title": "[COLOR lime]Real Madrid vs Real Betis [Russo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Russo - HD",
-      "link": "acestream://31d62f44e1f0f842e2052e308e2b677e3bb88107"
-    },
-    {
-      "title": "[COLOR white]▶ [18:30] Mallorca vs Girona[/COLOR]",
-      "link": "ignore",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "18:30 - Spain - La Liga"
-    },
-    {
-      "title": "[COLOR lime]Mallorca vs Girona [Portoghese] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Portoghese - HD",
-      "link": "acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce"
-    },
-    {
-      "title": "[COLOR lime]Mallorca vs Girona [Portoghese] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Portoghese - HD",
-      "link": "acestream://54ed9b3158bb7c24fd54c764e9843e313d9ab77b"
-    },
-    {
-      "title": "[COLOR lime]Mallorca vs Girona [Inglese (UK)] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Inglese (UK) - HD",
-      "link": "acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565"
-    },
-    {
-      "title": "[COLOR lime]Mallorca vs Girona [Inglese (UK)] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Inglese (UK) - HD",
-      "link": "acestream://815638522b8957c9fefa04a997874373432e017c"
-    },
-    {
-      "title": "[COLOR lime]Mallorca vs Girona [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38"
-    },
-    {
-      "title": "[COLOR lime]Mallorca vs Girona [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://107c3ce5a5d2527c9f06e4eab87477201791f231"
-    },
-    {
-      "title": "[COLOR lime]Mallorca vs Girona [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://4b528d10eaad747ddf52251206177573ee3e9f74"
-    },
-    {
-      "title": "[COLOR lime]Mallorca vs Girona [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947"
-    },
-    {
-      "title": "[COLOR lime]Mallorca vs Girona [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58"
-    },
-    {
-      "title": "[COLOR lime]Mallorca vs Girona [Olandese] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Olandese - HD",
-      "link": "acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027"
-    },
-    {
-      "title": "[COLOR lime]Mallorca vs Girona [Polacco] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Polacco - HD",
-      "link": "acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212"
-    },
-    {
-      "title": "[COLOR lime]Mallorca vs Girona [Russo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Russo - HD",
-      "link": "acestream://b6baa046075d82da300fc1b16de96067a8b9540e"
-    },
-    {
-      "title": "[COLOR lime]Mallorca vs Girona [Russo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Russo - HD",
-      "link": "acestream://dffb2a7f4761c1918f9274879a82df607d17cedd"
-    },
-    {
-      "title": "[COLOR white]▶ [18:30] Deportivo Alavés vs Real Oviedo[/COLOR]",
-      "link": "ignore",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "18:30 - Spain - La Liga"
-    },
-    {
-      "title": "[COLOR lime]Deportivo Alavé vs Real Oviedo [Portoghese] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Portoghese - HD",
-      "link": "acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e"
-    },
-    {
-      "title": "[COLOR lime]Deportivo Alavé vs Real Oviedo [Portoghese] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Portoghese - HD",
-      "link": "acestream://b7b71db7210c3314f6c97bc4e7bbee05571eb445"
-    },
-    {
-      "title": "[COLOR lime]Deportivo Alavé vs Real Oviedo [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8"
-    },
-    {
-      "title": "[COLOR lime]Deportivo Alavé vs Real Oviedo [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://c976c7b37964322752db562b4ad65515509c8d36"
-    },
-    {
-      "title": "[COLOR lime]Deportivo Alavé vs Real Oviedo [Arabo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Arabo - HD",
-      "link": "acestream:// 872a44653bf2ad232d5f8476597754b69e3d56c"
-    },
-    {
-      "title": "[COLOR white]Deportivo Alavé vs Real Oviedo [Polacco] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "WEB - Polacco - HD",
-      "link": " acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7"
-    },
-    {
-      "title": "[COLOR lime]Deportivo Alavé vs Real Oviedo [Russo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Russo - HD",
-      "link": "acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04"
-    },
-    {
-      "title": "[COLOR lime]Deportivo Alavé vs Real Oviedo [Russo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Russo - HD",
-      "link": "acestream://31d62f44e1f0f842e2052e308e2b677e3bb88107"
-    },
-    {
-      "title": "[COLOR white]▶ [21:00] Real Sociedad vs Atlético Madrid[/COLOR]",
-      "link": "ignore",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21:00 - Spain - La Liga"
-    },
-    {
-      "title": "[COLOR lime]Real Sociedad vs Atlético Madrid [Portoghese] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Portoghese - HD",
-      "link": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"
-    },
-    {
-      "title": "[COLOR lime]Real Sociedad vs Atlético Madrid [Portoghese] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Portoghese - HD",
-      "link": "acestream://c1cc8683b700bbad5f7193327a27034e7ae57984"
-    },
-    {
-      "title": "[COLOR lime]Real Sociedad vs Atlético Madrid [Inglese (UK)] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Inglese (UK) - HD",
-      "link": "acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565"
-    },
-    {
-      "title": "[COLOR lime]Real Sociedad vs Atlético Madrid [Inglese (UK)] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Inglese (UK) - HD",
-      "link": "acestream://815638522b8957c9fefa04a997874373432e017c"
-    },
-    {
-      "title": "[COLOR lime]Real Sociedad vs Atlético Madrid [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://74defb8f4ed3a917fd07c21b34f43c17107ec618"
-    },
-    {
-      "title": "[COLOR lime]Real Sociedad vs Atlético Madrid [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f"
-    },
-    {
-      "title": "[COLOR lime]Real Sociedad vs Atlético Madrid [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05"
-    },
-    {
-      "title": "[COLOR lime]Real Sociedad vs Atlético Madrid [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8"
-    },
-    {
-      "title": "[COLOR lime]Real Sociedad vs Atlético Madrid [Spagnolo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Spagnolo - HD",
-      "link": "acestream://c976c7b37964322752db562b4ad65515509c8d36"
-    },
-    {
-      "title": "[COLOR lime]Real Sociedad vs Atlético Madrid [Francese] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Francese - HD",
-      "link": "acestream://edb507e38394d614c9ff55805c9d354ae13210bc"
-    },
-    {
-      "title": "[COLOR lime]Real Sociedad vs Atlético Madrid [Olandese] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Olandese - HD",
-      "link": "acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027"
-    },
-    {
-      "title": "[COLOR lime]Real Sociedad vs Atlético Madrid [Polacco] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Polacco - HD",
-      "link": "acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9"
-    },
-    {
-      "title": "[COLOR lime]Real Sociedad vs Atlético Madrid [Russo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Russo - HD",
-      "link": "acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2 "
-    },
-    {
-      "title": "[COLOR lime]Real Sociedad vs Atlético Madrid [Russo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Russo - HD",
-      "link": "acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04"
-    },
-    {
-      "title": "[COLOR lime]Real Sociedad vs Atlético Madrid [Russo] [HD][/COLOR]",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACESTREAM - Russo - HD",
-      "link": "acestream://31d62f44e1f0f842e2052e308e2b677e3bb88107"
-    },
-    {
-      "title": "[COLOR gray]📊 49 partite • 269 stream • 13 campionati[/COLOR]",
-      "link": "ignore",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "Estrazione completata alle 22:22"
-    },
-    {
-      "title": "[COLOR lime]Acestream Link Diretto[/COLOR]",
-      "link": "acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACE DIRECT LINK"
-    },
-    {
-      "title": "[COLOR lime]Acestream Link Diretto[/COLOR]",
-      "link": "acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7",
-      "thumbnail": "https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "ACE DIRECT LINK"
+      "title": "Zona Dazn.it - 18:30 Inter - Bologna",
+      "link": "ignoreme",
+      "info": "In onda: 18:30 - 00:00\n\nSerie A - 18a g. Ambizione, tattica e personalita: la stagione riparte con gli allenatori protagonisti, tra ritorni, rivoluzioni e conferme.\n\nA seguire (00:00): DAZN 1",
+      "thumbnail": "https://images.open-epg.com/7515557.png"
     }
   ]
 }
