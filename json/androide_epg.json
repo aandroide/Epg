@@ -2,13 +2,13 @@
   "SetViewMode": "503",
   "RefreshList": "10800",
   "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-  "items": [
+  "items": 
     {
       "title": "Androide - EPG",
       "link": "ignoreme",
       "info": "Aggiornato: 04/01/2026 21:11"
     },
-    [
+    
   {
     "title": "[COLOR yellow]=== SUNDAY 4TH JANUARY 2026 ===[/COLOR]",
     "link": "ignore",
@@ -2382,4 +2382,4 @@
     "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
     "info": "ACE DIRECT LINK"
   }
-]
+
