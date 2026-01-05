@@ -1,1831 +1,216 @@
 {
+  "SetViewMode": "503",
+  "RefreshList": "10800",
+  "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
   "items": [
     {
-      "title": "[COLOR aqua]Africa - Africa Cup of Nations[/COLOR] [COLOR blue]17:00[/COLOR] [COLOR lime]Morocco vs Tanzania[/COLOR] [COLOR gold](TNT SPORT 1 HD)[/COLOR]",
-      "link": "acestream://5b068dbbd852314c3b2a7cd5be1fbf3cc07254ab",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "Androide - EPG",
+      "link": "ignoreme",
+      "info": "Aggiornato: 05/01/2026 01:08"
     },
     {
-      "title": "[COLOR aqua]Africa - Africa Cup of Nations[/COLOR] [COLOR blue]17:00[/COLOR] [COLOR lime]Morocco vs Tanzania[/COLOR] [COLOR gold](USA NETWORK HD)[/COLOR]",
-      "link": "acestream://96b016d784855fae3e73d57a46cfe363ed7dc11b",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "DAZN 1.it - 00:00 DAZN 1",
+      "link": "ignoreme",
+      "info": "In onda: 00:00 - 05:00\n\nDAZN 1\n\nA seguire (05:00): DAZN 1",
+      "thumbnail": "https://images.open-epg.com/19310.png"
     },
     {
-      "title": "[COLOR aqua]Africa - Africa Cup of Nations[/COLOR] [COLOR blue]17:00[/COLOR] [COLOR lime]Morocco vs Tanzania[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES FHD)[/COLOR]",
-      "link": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "DAZN 2.it - 23:00 Nessun evento in onda",
+      "link": "ignoreme",
+      "info": "In onda: 23:00 - 05:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (05:00): Nessun evento in onda",
+      "thumbnail": "https://images.open-epg.com/19311.png"
     },
     {
-      "title": "[COLOR aqua]Africa - Africa Cup of Nations[/COLOR] [COLOR blue]17:00[/COLOR] [COLOR lime]Morocco vs Tanzania[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES HD)[/COLOR]",
-      "link": "acestream://f3eea003e23f94dc2d527306de9dd386e3ebf4ba",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "DAZN.it - 15:00 Sir Susa Scai Perugia - Allianz Milano",
+      "link": "ignoreme",
+      "info": "In onda: 15:00 - 15:00\n\nI campioni del mondo di Perugia non hanno perso il ritmo al rientro in Italia e per la seconda volta nel giro di un mese affrontano Milano, questa volta in casa. Allandata non cè stata storia: come finirà questa volta? Segui la SuperLega Credem Banca su DAZN!\n\nA seguire (15:00): Megabox Ond. Savio Vallefoglia - Eurotek Laica Uyba",
+      "thumbnail": "https://images.open-epg.com/1531.png"
     },
     {
-      "title": "[COLOR aqua]Africa - Africa Cup of Nations[/COLOR] [COLOR blue]17:00[/COLOR] [COLOR lime]Morocco vs Tanzania[/COLOR] [COLOR gold](M+ VAMOS FHD)[/COLOR]",
-      "link": "acestream://ef4fd9625b5fce433e60632ff2f4c0aad57d904c",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "Sky Arte.it - 00:45 Billy Joel",
+      "link": "ignoreme",
+      "info": "In onda: 00:45 - 03:05\n\nS1 Ep2 Billy Joel - La ricerca di Howard Joel, tra emozioni e verita, raccontata con sincero amore da Christie, Katie, Alexa e Alexis, un viaggio familiare intenso e toccante.\n\nA seguire (03:05): Stax - The sound of Memphis",
+      "thumbnail": "https://images.open-epg.com/19379.png"
     },
     {
-      "title": "[COLOR aqua]Africa - Africa Cup of Nations[/COLOR] [COLOR blue]17:00[/COLOR] [COLOR lime]Morocco vs Tanzania[/COLOR] [COLOR gold](SPORTDIGITAL HD)[/COLOR]",
-      "link": "acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "Sky Atlantic.it - 00:40 True Detective",
+      "link": "ignoreme",
+      "info": "In onda: 00:40 - 01:40\n\nPrior chiede a Danvers informazioni sul caso che ha messo in crisi il rapporto tra lei e Navarro. Le due detective ottengono una soffiata su un ex lavoratore di Tsalal.\n\nA seguire (01:40): True Detective",
+      "thumbnail": "https://images.open-epg.com/19381.png"
     },
     {
-      "title": "[COLOR aqua]Africa - Africa Cup of Nations[/COLOR] [COLOR blue]17:00[/COLOR] [COLOR lime]Morocco vs Tanzania[/COLOR] [COLOR gold](DAZN BAR HD)[/COLOR]",
-      "link": "acestream://726655ece8c0c04aa6c61a86769d2cca5f853b1a",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "Sky Cinema Action.it - 00:25 Batman V Superman: Dawn of Justice",
+      "link": "ignoreme",
+      "info": "In onda: 00:25 - 02:55\n\nZack Snyder dirige Ben Affleck, Henry Cavill e un cast di star in un blockbuster cinecomic. Mentre Batman e Superman sono in guerra tra loro, una nuova minaccia incombe sullumanita (USA 2016)\n\nA seguire (02:55): Dangerous - Pericoloso",
+      "thumbnail": "https://images.open-epg.com/19383.png"
     },
     {
-      "title": "[COLOR aqua]Africa - Africa Cup of Nations[/COLOR] [COLOR blue]17:00[/COLOR] [COLOR lime]Morocco vs Tanzania[/COLOR] [COLOR gold](BEIN SPORTS 1 HD)[/COLOR]",
-      "link": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "Sky Cinema Comedy.it - 01:00 I delitti del BarLume - Tana libera tutti",
+      "link": "ignoreme",
+      "info": "In onda: 01:00 - 02:35\n\nSedicesimo film della saga Sky Original con Filippo Timi e Lucia Mascino. Una misteriosa scomparsa mette in subbuglio il Pasquali e i vecchini, chiusi in casa per il lockdown (ITA 2020)\n\nA seguire (02:35): I delitti del BarLume - Compro oro",
+      "thumbnail": "https://images.open-epg.com/19384.png"
     },
     {
-      "title": "[COLOR aqua]Africa - Africa Cup of Nations[/COLOR] [COLOR blue]17:00[/COLOR] [COLOR lime]Morocco vs Tanzania[/COLOR] [COLOR gold](ZIGGO SPORT HD)[/COLOR]",
-      "link": "acestream://fcd7621df513f600652b4813d5d8fd1daed60058",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "Sky Cinema Drama.it - 00:25 3/19",
+      "link": "ignoreme",
+      "info": "In onda: 00:25 - 02:25\n\nSilvio Soldini dirige Kasia Smutniak in una pellicola sulla responsabilita verso il prossimo. La vita di unavvocatessa viene sconvolta quando assiste alla morte di un giovane immigrato (ITA 2021)\n\nA seguire (02:25): In viaggio con Adele",
+      "thumbnail": "https://images.open-epg.com/19385.png"
     },
     {
-      "title": "[COLOR aqua]Africa - Africa Cup of Nations[/COLOR] [COLOR blue]17:00[/COLOR] [COLOR lime]Morocco vs Tanzania[/COLOR] [COLOR gold](ZIGGO SPORT 2 HD)[/COLOR]",
-      "link": "acestream://8e475c8b9f12270c524f88f5659cc6811fc1399c",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "Sky Cinema Due.it - 00:30 Habemus Papam",
+      "link": "ignoreme",
+      "info": "In onda: 00:30 - 02:15\n\nNanni Moretti dirige e interpreta, con Michel Piccoli e Margherita Buy, una pellicola su uninaspettata crisi esistenziale. Il nuovo Papa, assalito dallansia, rinuncia alla sua missione (ITA/FRA 2011)\n\nA seguire (02:15): Era mio figlio",
+      "thumbnail": "https://images.open-epg.com/19387.png"
     },
     {
-      "title": "[COLOR aqua]Africa - Africa Cup of Nations[/COLOR] [COLOR blue]17:00[/COLOR] [COLOR lime]Morocco vs Tanzania[/COLOR] [COLOR gold](SETANTA 1 HD)[/COLOR]",
-      "link": "acestream://1119eb905c8181184a73020dd16be76b5b3fd55a",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "Sky Cinema Family.it - 00:50 Z La formica",
+      "link": "ignoreme",
+      "info": "In onda: 00:50 - 02:15\n\nSpettacolari avventure in un gioiello danimazione della Dreamworks. Per fare colpo sulla Principessa Bala, Z si finge formica-soldato e si trova coinvolto nella guerra contro le termiti (USA 1998)\n\nA seguire (02:15): Speciale - I Delitti Del Barlume - Le Nuove Storie",
+      "thumbnail": "https://images.open-epg.com/19388.png"
     },
     {
-      "title": "[COLOR aqua]Africa - Africa Cup of Nations[/COLOR] [COLOR blue]17:00[/COLOR] [COLOR lime]Morocco vs Tanzania[/COLOR] [COLOR gold](MATCH! HD)[/COLOR]",
-      "link": "acestream://0a21a8a79e9a3f03261d86e69cff2cc4d0b4a639",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "Sky Cinema Romance.it - 00:50 Una sirena a Parigi",
+      "link": "ignoreme",
+      "info": "In onda: 00:50 - 02:35\n\nMarilyn Lima e Nicolas Duvauchelle in una magica avventura su un amore impossibile. Un cantante si prende cura di una sirena ferita, ma cade vittima della sua voce ammaliante (FRA 2020)\n\nA seguire (02:35): Speciale - Gomorra - Le Origini",
+      "thumbnail": "https://images.open-epg.com/19389.png"
     },
     {
-      "title": "[COLOR aqua]Africa - Africa Cup of Nations[/COLOR] [COLOR blue]20:00[/COLOR] [COLOR lime]South Africa vs Cameroon[/COLOR] [COLOR gold](TNT SPORT 1 HD)[/COLOR]",
-      "link": "acestream://5b068dbbd852314c3b2a7cd5be1fbf3cc07254ab",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "Sky Cinema Suspense.it - 23:30 Luomo invisibile",
+      "link": "ignoreme",
+      "info": "In onda: 23:30 - 01:35\n\nThriller di successo con Elisabeth Moss nelloriginale rilettura Blumhouse del personaggio di H.G. Wells. Cecilia fugge dal marito, uno scienziato sociopatico che tornera a terrorizzarla (USA/AUS 2020)\n\nA seguire (01:35): Armi chimiche",
+      "thumbnail": "https://images.open-epg.com/19390.png"
     },
     {
-      "title": "[COLOR aqua]Africa - Africa Cup of Nations[/COLOR] [COLOR blue]20:00[/COLOR] [COLOR lime]South Africa vs Cameroon[/COLOR] [COLOR gold](USA NETWORK HD)[/COLOR]",
-      "link": "acestream://96b016d784855fae3e73d57a46cfe363ed7dc11b",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "Sky Cinema Uno +24.it - 23:35 Il gladiatore II",
+      "link": "ignoreme",
+      "info": "In onda: 23:35 - 02:00\n\nRidley Scott dirige Paul Mescal e Denzel Washington nellatteso sequel del suo film leggendario. Anni dopo la morte di Marco Aurelio, suo nipote Lucio, ridotto in schiavitu, combatte per vendicare la morte della sua sposa e mettere fine alla tirannia di Caracalla e Geta (USA 2024)\n\nA seguire (02:00): Le Mans 66 - La grande sfida",
+      "thumbnail": "https://images.open-epg.com/19391.png"
     },
     {
-      "title": "[COLOR aqua]Africa - Africa Cup of Nations[/COLOR] [COLOR blue]20:00[/COLOR] [COLOR lime]South Africa vs Cameroon[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES FHD)[/COLOR]",
-      "link": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "Sky Cinema Uno.it - 01:05 La banda dei Babbi Natale",
+      "link": "ignoreme",
+      "info": "In onda: 01:05 - 02:45\n\nAldo, Giovanni e Giacomo in una brillante commedia natalizia. Arrestati la notte della Vigilia, tre babbi natale raccontano le loro esistenze complicate per dimostrare di essere innocenti (ITA 2010)\n\nA seguire (02:45): I delitti del BarLume: Il gioco delle coppie",
+      "thumbnail": "https://images.open-epg.com/19392.png"
     },
     {
-      "title": "[COLOR aqua]Africa - Africa Cup of Nations[/COLOR] [COLOR blue]20:00[/COLOR] [COLOR lime]South Africa vs Cameroon[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES HD)[/COLOR]",
-      "link": "acestream://f3eea003e23f94dc2d527306de9dd386e3ebf4ba",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "Sky Classica.it - 00:15 Lehar - La vedova allegra",
+      "link": "ignoreme",
+      "info": "In onda: 00:15 - 02:30\n\nOperetta (1905) in tre parti su libretto di V.Leon e L.Stein - con E.Kales, P.Edelmann, M.Doraka - Bratislava Philharmonic Orchestra - K.Schenk, dir. - R.Langenfass, scen. - M.Maurer, reg. (Seefestspiele Morbisch, 1993)\n\nA seguire (02:30): sempreVerdi - Verdi e i viaggi",
+      "thumbnail": "https://images.open-epg.com/4100139.png"
     },
     {
-      "title": "[COLOR aqua]Africa - Africa Cup of Nations[/COLOR] [COLOR blue]20:00[/COLOR] [COLOR lime]South Africa vs Cameroon[/COLOR] [COLOR gold](M+ VAMOS FHD)[/COLOR]",
-      "link": "acestream://ef4fd9625b5fce433e60632ff2f4c0aad57d904c",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "Sky Crime.it - 00:30 La Banda Della Uno Bianca",
+      "link": "ignoreme",
+      "info": "In onda: 00:30 - 01:30\n\nS1 Ep2 Parte 2 - La banda della Uno Bianca e formata dai tre fratelli Savi. Due sono poliziotti, Fabio invece e un agente mancato a causa di un difetto della vista.\n\nA seguire (01:30): Processo a Michael Jackson",
+      "thumbnail": "https://images.open-epg.com/19394.png"
     },
     {
-      "title": "[COLOR aqua]Africa - Africa Cup of Nations[/COLOR] [COLOR blue]20:00[/COLOR] [COLOR lime]South Africa vs Cameroon[/COLOR] [COLOR gold](DAZN LALIGA HD)[/COLOR]",
-      "link": "acestream://c7c81acdd1a03ecc418c94c2f28e2adb0556c40b",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "Sky Documentaries +1.it - 00:45 E poi il silenzio - Il disastro di...",
+      "link": "ignoreme",
+      "info": "In onda: 00:45 - 01:15\n\n... Rigopiano. S1 Ep3 I vincitori del festival - La notizia del crollo inizialmente non viene creduta da chi lavora nelle sale operative per lemergenza. Poi, lentamente, i soccorsi cominciano ad accorrere sul sito.\n\nA seguire (01:15): La sottile zona rossa - Il G8 di Genova ventanni dopo",
+      "thumbnail": "https://images.open-epg.com/nologo.png"
     },
     {
-      "title": "[COLOR aqua]Africa - Africa Cup of Nations[/COLOR] [COLOR blue]20:00[/COLOR] [COLOR lime]South Africa vs Cameroon[/COLOR] [COLOR gold](DAZN LALIGA 2 HD)[/COLOR]",
-      "link": "acestream://0e5d8c9724fa9163f49096b70484e315251eb785",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "Sky Documentaries.it - 00:15 La sottile zona rossa - Il G8 di Genova ventanni dopo",
+      "link": "ignoreme",
+      "info": "In onda: 00:15 - 01:40\n\n... Genova ventanni dopo. - 20 Luglio 2001: muore Carlo Giuliani a Genova. 10 filmmakers filmano gli eventi per le strade della citta, che integrati da interviste restituiscono la cronaca dei fatti di quel giorno.\n\nA seguire (01:40): E poi il silenzio - Il disastro di...",
+      "thumbnail": "https://images.open-epg.com/19396.png"
     },
     {
-      "title": "[COLOR aqua]Africa - Africa Cup of Nations[/COLOR] [COLOR blue]20:00[/COLOR] [COLOR lime]South Africa vs Cameroon[/COLOR] [COLOR gold](SPORTDIGITAL HD)[/COLOR]",
-      "link": "acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "Sky Investigation.it - 00:50 The Blacklist",
+      "link": "ignoreme",
+      "info": "In onda: 00:50 - 01:35\n\nS6 Ep14 The Osterman Umbrella Company - Red spinge Liz ad indagare su una misteriosa organizzazione di assassini che viene usata dai servizi segreti di tutto il mondo per eliminare i propri ex agenti...\n\nA seguire (01:35): The Blacklist",
+      "thumbnail": "https://images.open-epg.com/19398.png"
     },
     {
-      "title": "[COLOR aqua]Africa - Africa Cup of Nations[/COLOR] [COLOR blue]20:00[/COLOR] [COLOR lime]South Africa vs Cameroon[/COLOR] [COLOR gold](DAZN BAR HD)[/COLOR]",
-      "link": "acestream://726655ece8c0c04aa6c61a86769d2cca5f853b1a",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "Sky Nature.it - 01:00 Orso Bianco - Una Vita Al Polo Nord",
+      "link": "ignoreme",
+      "info": "In onda: 01:00 - 01:55\n\nIl viaggio di alcuni cuccioli di orso polare e della loro madre, da Svalbard fino al Polo Nord, per seguire gli spostamenti delle possibili prede.\n\nA seguire (01:55): I signori del cielo",
+      "thumbnail": "https://images.open-epg.com/19393.png"
     },
     {
-      "title": "[COLOR aqua]Africa - Africa Cup of Nations[/COLOR] [COLOR blue]20:00[/COLOR] [COLOR lime]South Africa vs Cameroon[/COLOR] [COLOR gold](BEIN SPORTS 1 HD)[/COLOR]",
-      "link": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "Sky News.it - 01:00 Sky News",
+      "link": "ignoreme",
+      "info": "In onda: 01:00 - 02:00\n\nA round up of all the latest news from the UK and around the world, including the Press Preview.\n\nA seguire (02:00): Sky News",
+      "thumbnail": "https://images.open-epg.com/19400.png"
     },
     {
-      "title": "[COLOR aqua]Africa - Africa Cup of Nations[/COLOR] [COLOR blue]20:00[/COLOR] [COLOR lime]South Africa vs Cameroon[/COLOR] [COLOR gold](ZIGGO SPORT HD)[/COLOR]",
-      "link": "acestream://fcd7621df513f600652b4813d5d8fd1daed60058",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "Sky Serie.it - 00:50 Hanno ucciso luomo ragno",
+      "link": "ignoreme",
+      "info": "In onda: 00:50 - 01:35\n\nMax e Mauro hanno idee opposte e litigano, e la fine della loro amicizia? Max ritrova Silvia, intrappolata in una noiosa relazione, e ha unidea...\n\nA seguire (01:35): Gomorra - Le Origini - Speciale",
+      "thumbnail": "https://images.open-epg.com/19402.png"
     },
     {
-      "title": "[COLOR aqua]Africa - Africa Cup of Nations[/COLOR] [COLOR blue]20:00[/COLOR] [COLOR lime]South Africa vs Cameroon[/COLOR] [COLOR gold](ZIGGO SPORT 2 HD)[/COLOR]",
-      "link": "acestream://8e475c8b9f12270c524f88f5659cc6811fc1399c",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "Sky Sport 4K.it - 23:30 Roma - Genoa",
+      "link": "ignoreme",
+      "info": "In onda: 23:30 - 01:15\n\nRoma - Genoa - Giallorossi reduci dal ko contro la Juventus (2-1). Il Genoa viene da 2 sconfitte (Inter e Atalanta). Non batte la Roma allOlimpico dal 1990, 4 pari e 21 ko. TC: Borghi-Minotti\n\nA seguire (01:15): Cagliari - Milan",
+      "thumbnail": "https://images.open-epg.com/19403.png"
     },
     {
-      "title": "[COLOR aqua]Africa - Africa Cup of Nations[/COLOR] [COLOR blue]20:00[/COLOR] [COLOR lime]South Africa vs Cameroon[/COLOR] [COLOR gold](MATCH! HD)[/COLOR]",
-      "link": "acestream://ef79dbae0b2df024df0c926772917dc8f66ff03e",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "Sky Sport F1.it - 01:00 F.Race: GP Qatar",
+      "link": "ignoreme",
+      "info": "In onda: 01:00 - 02:00\n\nLusail: Feature Race - Dal Losail International Circuit di Doha, Qatar.\n\nA seguire (02:00): GP Belgio: Sprint Race",
+      "thumbnail": "https://images.open-epg.com/19406.png"
     },
     {
-      "title": "[COLOR aqua]Australia - A-League[/COLOR] [COLOR blue]09:00[/COLOR] [COLOR lime]Macarthur vs Auckland[/COLOR] [COLOR gold](TNT SPORT 1 HD)[/COLOR]",
-      "link": "acestream://19c5c13a8e7273d78d53fdaea3deaf1b80e938fa",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "Sky Sport Golf.it - 23:00 Nedbank Golf Challenge: Giorno 4",
+      "link": "ignoreme",
+      "info": "In onda: 23:00 - 01:55\n\nNedbank Golf Challenge: Giorno 4 - Dal Gary Player Country Club in Sudafrica.\n\nA seguire (01:55): Italian Open 4a g.",
+      "thumbnail": "https://images.open-epg.com/19407.png"
     },
     {
-      "title": "[COLOR aqua]Australia - A-League[/COLOR] [COLOR blue]09:00[/COLOR] [COLOR lime]Macarthur vs Auckland[/COLOR] [COLOR gold](TNT SPORT 2 HD)[/COLOR]",
-      "link": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "Sky Sport Max.it - 01:00 Sofia Goggia",
+      "link": "ignoreme",
+      "info": "In onda: 01:00 - 02:00\n\nSofia Goggia - Discese al limite, ritorni semi-impossibili, vittorie indimenticabili. Sofia Goggia si racconta con ironia, nel Talk di Sky Sport, dagli inizi sino alle sfide ancora aperte, verso Milano-Cortina 2026.\n\nA seguire (02:00): Lo sport nel racconto - The Enervit Story",
+      "thumbnail": "https://images.open-epg.com/19408.png"
     },
     {
-      "title": "[COLOR aqua]Australia - A-League[/COLOR] [COLOR blue]09:00[/COLOR] [COLOR lime]Macarthur vs Auckland[/COLOR] [COLOR gold](SKY SPORTS FOOTBALL HD)[/COLOR]",
-      "link": "acestream://4e7d236685127073c4848e21d3aa874fb7e8c65e",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "Sky Sport MotoGP.it - 00:40 Mar9uez",
+      "link": "ignoreme",
+      "info": "In onda: 00:40 - 01:35\n\nMarc Mar9uez.\n\nA seguire (01:35): Cavallo Nero",
+      "thumbnail": "https://images.open-epg.com/19409.png"
     },
     {
-      "title": "[COLOR aqua]Australia - A-League[/COLOR] [COLOR blue]09:35[/COLOR] [COLOR lime]Adelaide United vs Central Coast Mariners[/COLOR] [COLOR gold](TNT SPORT 1 HD)[/COLOR]",
-      "link": "acestream://01dcc1ea3387c2b73953efe3f52286a770737d7c",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "Sky Sport Tennis.it - 22:30 Tennis AtpandWta 2026 05/01/2026",
+      "link": "ignoreme",
+      "info": "In onda: 22:30 - 05:00\n\nATP and WTA - Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con lattenzione puntata sui tennisti italiani.\n\nA seguire (05:00): Tennis AtpandWta 2026 05/01/2026",
+      "thumbnail": "https://images.open-epg.com/19404.png"
     },
     {
-      "title": "[COLOR aqua]Australia - A-League[/COLOR] [COLOR blue]09:35[/COLOR] [COLOR lime]Adelaide United vs Central Coast Mariners[/COLOR] [COLOR gold](TNT SPORT 2 HD)[/COLOR]",
-      "link": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "Sky Sport Uno.it - 01:00 Atalanta - Roma",
+      "link": "ignoreme",
+      "info": "In onda: 01:00 - 03:00\n\nAtalanta - Roma - Bergamaschi reduci dal ko contro lInter (0-1). Roma a quota 33 punti dopo il 3-1 sul Genoa. A Bergamo ha vinto una sola volta nelle ultime 6 sfide, 5 sconfitte. TC: Gentile-Serena\n\nA seguire (03:00): Cagliari - Milan",
+      "thumbnail": "https://images.open-epg.com/19410.png"
     },
     {
-      "title": "[COLOR aqua]England - Championship[/COLOR] [COLOR blue]13:00[/COLOR] [COLOR lime]Queens Park Rangers vs Sheffield Wednesday[/COLOR] [COLOR gold](USA NETWORK HD)[/COLOR]",
-      "link": "acestream://c8d2798e19dfb585087e5f74fab05afac4d13e0d",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "Sky TG24.it - 01:00 TG24 Edicola",
+      "link": "ignoreme",
+      "info": "In onda: 01:00 - 01:30\n\nTelegiornale con la lettura dei principali quotidiani.\n\nA seguire (01:30): TG24 Edicola",
+      "thumbnail": "https://images.open-epg.com/19411.png"
     },
     {
-      "title": "[COLOR aqua]England - Championship[/COLOR] [COLOR blue]13:00[/COLOR] [COLOR lime]Sheffield United vs Oxford United[/COLOR] [COLOR gold](TNT SPORT 1 HD)[/COLOR]",
-      "link": "acestream://3bc79c3f6c551da31fde6cc45cf8121fc703256e",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "Sky Uno.it - 00:25 MasterChef Italia",
+      "link": "ignoreme",
+      "info": "In onda: 00:25 - 01:50\n\nPer la prima volta a MasterChef viene introdotta la Green Mystery Box: la chef Chiara Pavan, ospite di puntata, assegnera al migliore della prova la nuovissima Green Pin.\n\nA seguire (01:50): MasterChef Italia",
+      "thumbnail": "https://images.open-epg.com/19413.png"
     },
     {
-      "title": "[COLOR aqua]England - Championship[/COLOR] [COLOR blue]13:00[/COLOR] [COLOR lime]Birmingham City vs Coventry City[/COLOR] [COLOR gold](ELEVEN DAZN 1 HD)[/COLOR]",
-      "link": "acestream://1575402d6430600edf97319f1ec066b2850b0fa2",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "ZONA DAZN.it - 00:00 Stag. 2019 - DAZN 1",
+      "link": "ignoreme",
+      "info": "In onda: 00:00 - 05:00\n\nDAZN 1 - DAZN 1\n\nA seguire (05:00): Stag. 2019 - DAZN 1",
+      "thumbnail": "https://images.open-epg.com/1700.png"
     },
     {
-      "title": "[COLOR aqua]England - Championship[/COLOR] [COLOR blue]13:00[/COLOR] [COLOR lime]Birmingham City vs Coventry City[/COLOR] [COLOR gold](TNT SPORT 1 HD)[/COLOR]",
-      "link": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "Zona Dazn 2.it - 23:00 Nessun evento in onda",
+      "link": "ignoreme",
+      "info": "In onda: 23:00 - 05:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (05:00): Nessun evento in onda",
+      "thumbnail": "https://images.open-epg.com/7515553.png"
     },
     {
-      "title": "[COLOR aqua]England - Championship[/COLOR] [COLOR blue]13:00[/COLOR] [COLOR lime]Birmingham City vs Coventry City[/COLOR] [COLOR gold](TNT SPORT 2 HD)[/COLOR]",
-      "link": "acestream://78266c15035d0ad8cbc58f821733931e1de434ab",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Championship[/COLOR] [COLOR blue]13:00[/COLOR] [COLOR lime]Birmingham City vs Coventry City[/COLOR] [COLOR gold](SKY SPORTS FOOTBALL HD)[/COLOR]",
-      "link": "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Championship[/COLOR] [COLOR blue]13:00[/COLOR] [COLOR lime]Birmingham City vs Coventry City[/COLOR] [COLOR gold](SKY SPORTS MAIN EVENT HD)[/COLOR]",
-      "link": "acestream://54de746f7823812312b4000422618465f7d58f87",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Championship[/COLOR] [COLOR blue]13:00[/COLOR] [COLOR lime]Birmingham City vs Coventry City[/COLOR] [COLOR gold](USA NETWORK HD)[/COLOR]",
-      "link": "acestream://70d9cd9ff31c16ccf49bd728573005512db672db",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Championship[/COLOR] [COLOR blue]13:00[/COLOR] [COLOR lime]Birmingham City vs Coventry City[/COLOR] [COLOR gold](NBC SPORTS HD)[/COLOR]",
-      "link": "acestream://bfd5977f02dc66a7d88b517a30be6dd8718adec9",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Championship[/COLOR] [COLOR blue]13:00[/COLOR] [COLOR lime]Birmingham City vs Coventry City[/COLOR] [COLOR gold](SETANTA 1 HD)[/COLOR]",
-      "link": "acestream://bf84389a0be3384d3187177e42fc23347c9decee",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Championship[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Portsmouth vs Ipswich Town[/COLOR] [COLOR gold](USA NETWORK HD)[/COLOR]",
-      "link": "acestream://c8d2798e19dfb585087e5f74fab05afac4d13e0d",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Championship[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Bristol City vs Preston North End[/COLOR] [COLOR gold](TNT SPORT 1 HD)[/COLOR]",
-      "link": "acestream://3bc79c3f6c551da31fde6cc45cf8121fc703256e",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Championship[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Middlesbrough vs Southampton[/COLOR] [COLOR gold](USA NETWORK HD)[/COLOR]",
-      "link": "acestream://70d9cd9ff31c16ccf49bd728573005512db672db",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Championship[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Derby County vs Wrexham[/COLOR] [COLOR gold](USA NETWORK HD)[/COLOR]",
-      "link": "acestream://bfd5977f02dc66a7d88b517a30be6dd8718adec9",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]13:30[/COLOR] [COLOR lime]Leeds United vs Manchester United[/COLOR] [COLOR gold](ELEVEN DAZN 1 HD)[/COLOR]",
-      "link": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]13:30[/COLOR] [COLOR lime]Leeds United vs Manchester United[/COLOR] [COLOR gold](ELEVEN DAZN 2 HD)[/COLOR]",
-      "link": "acestream://c1cc8683b700bbad5f7193327a27034e7ae57984",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]13:30[/COLOR] [COLOR lime]Leeds United vs Manchester United[/COLOR] [COLOR gold](TNT SPORT 1 HD)[/COLOR]",
-      "link": "acestream://19c5c13a8e7273d78d53fdaea3deaf1b80e938fa",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]13:30[/COLOR] [COLOR lime]Leeds United vs Manchester United[/COLOR] [COLOR gold](TNT SPORT 2 HD)[/COLOR]",
-      "link": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]13:30[/COLOR] [COLOR lime]Leeds United vs Manchester United[/COLOR] [COLOR gold](SKY SPORTS FOOTBALL HD)[/COLOR]",
-      "link": "acestream://4e7d236685127073c4848e21d3aa874fb7e8c65e",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]13:30[/COLOR] [COLOR lime]Leeds United vs Manchester United[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES FHD)[/COLOR]",
-      "link": "acestream://7ba1f321f4d0791b7ebd42f41a07c1cd1479e784",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]13:30[/COLOR] [COLOR lime]Leeds United vs Manchester United[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES HD)[/COLOR]",
-      "link": "acestream://9afc89481b721ce6c326c85e47148676077b8e62",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]13:30[/COLOR] [COLOR lime]Leeds United vs Manchester United[/COLOR] [COLOR gold](BEIN SPORTS 1 HD)[/COLOR]",
-      "link": "acestream://ed81c333815247536edfcdb2755147e8c4144d62",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]13:30[/COLOR] [COLOR lime]Leeds United vs Manchester United[/COLOR] [COLOR gold](SETANTA 1 HD)[/COLOR]",
-      "link": "acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]13:30[/COLOR] [COLOR lime]Leeds United vs Manchester United[/COLOR] [COLOR gold](MATCH! HD)[/COLOR]",
-      "link": "acestream://55608a6a88d34de2de3de187b94359ce26cd723b",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]13:30[/COLOR] [COLOR lime]Leeds United vs Manchester United[/COLOR] [COLOR gold](MATCH! FOOTBALL 1 HD)[/COLOR]",
-      "link": "acestream://9dd73ed9c072dc0b575541f449d785038b158ac6",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Tottenham Hotspur vs Sunderland[/COLOR] [COLOR gold](ELEVEN DAZN 1 HD)[/COLOR]",
-      "link": "acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Tottenham Hotspur vs Sunderland[/COLOR] [COLOR gold](ELEVEN DAZN 2 HD)[/COLOR]",
-      "link": "acestream://b7b71db7210c3314f6c97bc4e7bbee05571eb445",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Tottenham Hotspur vs Sunderland[/COLOR] [COLOR gold](TNT SPORT 1 HD)[/COLOR]",
-      "link": "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Tottenham Hotspur vs Sunderland[/COLOR] [COLOR gold](TNT SPORT 2 HD)[/COLOR]",
-      "link": "acestream://54de746f7823812312b4000422618465f7d58f87",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Tottenham Hotspur vs Sunderland[/COLOR] [COLOR gold](SKY SPORTS FOOTBALL HD)[/COLOR]",
-      "link": "acestream://b7b4bdadab837bfaccb1b75085abcaead94d5939",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Tottenham Hotspur vs Sunderland[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES FHD)[/COLOR]",
-      "link": "acestream://f12038c7fe603ed93fa9475d60692dd95bb7b17f",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Tottenham Hotspur vs Sunderland[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES HD)[/COLOR]",
-      "link": "acestream://43004e955731cd3afcc34d24e5178d4b427bff37",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Tottenham Hotspur vs Sunderland[/COLOR] [COLOR gold](BEIN SPORTS 1 HD)[/COLOR]",
-      "link": "acestream://48bee10b883f17c7186d60f1e8022dca0ba41a05",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Tottenham Hotspur vs Sunderland[/COLOR] [COLOR gold](BEIN SPORTS 2 HD)[/COLOR]",
-      "link": "acestream://864a0744f67e0615ead5598423dae2b769f7b8d4",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Tottenham Hotspur vs Sunderland[/COLOR] [COLOR gold](SETANTA 1 HD)[/COLOR]",
-      "link": "acestream://96eff59051c8d00fa6a56926ff6509576c637a32",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Tottenham Hotspur vs Sunderland[/COLOR] [COLOR gold](MATCH! HD)[/COLOR]",
-      "link": "acestream://cdd2dcffceefec8f02d846c3078296ac59ee4795",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Newcastle United vs Crystal Palace[/COLOR] [COLOR gold](TNT SPORT 1 HD)[/COLOR]",
-      "link": "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Newcastle United vs Crystal Palace[/COLOR] [COLOR gold](TNT SPORT 2 HD)[/COLOR]",
-      "link": "acestream://b295e8b1157bb1d5d2ca28143d81c0ec61607a95",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Newcastle United vs Crystal Palace[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES FHD)[/COLOR]",
-      "link": "acestream://8a86cd6152154a25ad4b76523160552a40313b28",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Newcastle United vs Crystal Palace[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES HD)[/COLOR]",
-      "link": "acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Fulham vs Liverpool[/COLOR] [COLOR gold](ELEVEN DAZN 1 HD)[/COLOR]",
-      "link": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Fulham vs Liverpool[/COLOR] [COLOR gold](ELEVEN DAZN 2 HD)[/COLOR]",
-      "link": "acestream://c1cc8683b700bbad5f7193327a27034e7ae57984",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Fulham vs Liverpool[/COLOR] [COLOR gold](TNT SPORT 1 HD)[/COLOR]",
-      "link": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Fulham vs Liverpool[/COLOR] [COLOR gold](TNT SPORT 2 HD)[/COLOR]",
-      "link": "acestream://78266c15035d0ad8cbc58f821733931e1de434ab",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Fulham vs Liverpool[/COLOR] [COLOR gold](SKY SPORTS FOOTBALL HD)[/COLOR]",
-      "link": "acestream://79fd94c914b172ac1eb30a266554fe59cc6c1750",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Fulham vs Liverpool[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES FHD)[/COLOR]",
-      "link": "acestream://7ba1f321f4d0791b7ebd42f41a07c1cd1479e784",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Fulham vs Liverpool[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES HD)[/COLOR]",
-      "link": "acestream://9afc89481b721ce6c326c85e47148676077b8e62",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Fulham vs Liverpool[/COLOR] [COLOR gold](BEIN SPORTS 1 HD)[/COLOR]",
-      "link": "acestream://ed81c333815247536edfcdb2755147e8c4144d62",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Fulham vs Liverpool[/COLOR] [COLOR gold](SETANTA 1 HD)[/COLOR]",
-      "link": "acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Fulham vs Liverpool[/COLOR] [COLOR gold](MATCH! HD)[/COLOR]",
-      "link": "acestream://55608a6a88d34de2de3de187b94359ce26cd723b",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Fulham vs Liverpool[/COLOR] [COLOR gold](MATCH! FOOTBALL 1 HD)[/COLOR]",
-      "link": "acestream://0631bd0fd16f3fecf6d5c90e6ae88e46fbf981de",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Everton vs Brentford[/COLOR] [COLOR gold](TNT SPORT 1 HD)[/COLOR]",
-      "link": "acestream://1e459793cd25e2ad8c1d2f8adb322a405f28b073",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Everton vs Brentford[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES FHD)[/COLOR]",
-      "link": "acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]16:00[/COLOR] [COLOR lime]Everton vs Brentford[/COLOR] [COLOR gold](SETANTA 1 HD)[/COLOR]",
-      "link": "acestream://bf84389a0be3384d3187177e42fc23347c9decee",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Manchester City vs Chelsea[/COLOR] [COLOR gold](ELEVEN DAZN 1 HD)[/COLOR]",
-      "link": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Manchester City vs Chelsea[/COLOR] [COLOR gold](ELEVEN DAZN 2 HD)[/COLOR]",
-      "link": "acestream://c1cc8683b700bbad5f7193327a27034e7ae57984",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Manchester City vs Chelsea[/COLOR] [COLOR gold](TNT SPORT 1 HD)[/COLOR]",
-      "link": "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Manchester City vs Chelsea[/COLOR] [COLOR gold](TNT SPORT 2 HD)[/COLOR]",
-      "link": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Manchester City vs Chelsea[/COLOR] [COLOR gold](SKY SPORTS FOOTBALL HD)[/COLOR]",
-      "link": "acestream://78266c15035d0ad8cbc58f821733931e1de434ab",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Manchester City vs Chelsea[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES FHD)[/COLOR]",
-      "link": "acestream://7ba1f321f4d0791b7ebd42f41a07c1cd1479e784",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Manchester City vs Chelsea[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES HD)[/COLOR]",
-      "link": "acestream://9afc89481b721ce6c326c85e47148676077b8e62",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Manchester City vs Chelsea[/COLOR] [COLOR gold](M+ VAMOS FHD)[/COLOR]",
-      "link": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Manchester City vs Chelsea[/COLOR] [COLOR gold](DAZN LALIGA HD)[/COLOR]",
-      "link": "acestream://f3eea003e23f94dc2d527306de9dd386e3ebf4ba",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Manchester City vs Chelsea[/COLOR] [COLOR gold](BEIN SPORTS 1 HD)[/COLOR]",
-      "link": "acestream://ed81c333815247536edfcdb2755147e8c4144d62",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Manchester City vs Chelsea[/COLOR] [COLOR gold](SETANTA 1 HD)[/COLOR]",
-      "link": "acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Manchester City vs Chelsea[/COLOR] [COLOR gold](MATCH! HD)[/COLOR]",
-      "link": "acestream://55608a6a88d34de2de3de187b94359ce26cd723b",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]England - Premier League[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Manchester City vs Chelsea[/COLOR] [COLOR gold](MATCH! FOOTBALL 1 HD)[/COLOR]",
-      "link": "acestream://9dd73ed9c072dc0b575541f449d785038b158ac6",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]France - Ligue 1[/COLOR] [COLOR blue]15:00[/COLOR] [COLOR lime]Olympique Marseille vs Nantes[/COLOR] [COLOR gold](ELEVEN DAZN 1 HD)[/COLOR]",
-      "link": "acestream://c9d939e737f8a629ed843de0de3636755f177a56",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]France - Ligue 1[/COLOR] [COLOR blue]15:00[/COLOR] [COLOR lime]Olympique Marseille vs Nantes[/COLOR] [COLOR gold](SPORTDIGITAL HD)[/COLOR]",
-      "link": "acestream://897e73c9d578848f596585314ecb9ae067c0e229",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]France - Ligue 1[/COLOR] [COLOR blue]15:00[/COLOR] [COLOR lime]Olympique Marseille vs Nantes[/COLOR] [COLOR gold](DAZN BAR HD)[/COLOR]",
-      "link": "acestream://d0a5eb107ed5d70f542e7483e2d0f9068b15f6c4",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]France - Ligue 1[/COLOR] [COLOR blue]15:00[/COLOR] [COLOR lime]Olympique Marseille vs Nantes[/COLOR] [COLOR gold](SPORTDIGITAL HD)[/COLOR]",
-      "link": "acestream://0de4d3d35cf25d627d75baa478570dfa59daaa70",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]France - Ligue 1[/COLOR] [COLOR blue]15:00[/COLOR] [COLOR lime]Olympique Marseille vs Nantes[/COLOR] [COLOR gold](ESPN ARGENTINA 2 HD)[/COLOR]",
-      "link": "acestream:// 872a44653bf2ad232d5f8476597754b69e3d56c",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]France - Ligue 1[/COLOR] [COLOR blue]15:00[/COLOR] [COLOR lime]Olympique Marseille vs Nantes[/COLOR] [COLOR gold](BEIN SPORTS 1 HD)[/COLOR]",
-      "link": "acestream://7683cd0cbacf55fa8b39c363219ffba1bc47cf9d",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]France - Ligue 1[/COLOR] [COLOR blue]15:00[/COLOR] [COLOR lime]Olympique Marseille vs Nantes[/COLOR] [COLOR gold](ELEVEN SPORTS 1 4K HD)[/COLOR]",
-      "link": "acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]France - Ligue 1[/COLOR] [COLOR blue]15:00[/COLOR] [COLOR lime]Olympique Marseille vs Nantes[/COLOR] [COLOR gold](MATCH! HD)[/COLOR]",
-      "link": "acestream://ef79dbae0b2df024df0c926772917dc8f66ff03e",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]France - Ligue 1[/COLOR] [COLOR blue]17:15[/COLOR] [COLOR lime]Le Havre vs Angers SCO[/COLOR] [COLOR gold](ELEVEN DAZN 1 HD)[/COLOR]",
-      "link": "acestream://d9b346414b991eaa526a394778f003b50e267214",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]France - Ligue 1[/COLOR] [COLOR blue]17:15[/COLOR] [COLOR lime]Le Havre vs Angers SCO[/COLOR] [COLOR gold](MATCH! HD)[/COLOR]",
-      "link": "acestream://c09ee9fd301eeb4e82c21ba8b0f87b76c759dc42",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]France - Ligue 1[/COLOR] [COLOR blue]17:15[/COLOR] [COLOR lime]Brest vs Auxerre[/COLOR] [COLOR gold](SPORTDIGITAL HD)[/COLOR]",
-      "link": "acestream://897e73c9d578848f596585314ecb9ae067c0e229",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]France - Ligue 1[/COLOR] [COLOR blue]17:15[/COLOR] [COLOR lime]Brest vs Auxerre[/COLOR] [COLOR gold](DAZN BAR HD)[/COLOR]",
-      "link": "acestream://d0a5eb107ed5d70f542e7483e2d0f9068b15f6c4",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]France - Ligue 1[/COLOR] [COLOR blue]17:15[/COLOR] [COLOR lime]Brest vs Auxerre[/COLOR] [COLOR gold](SPORTDIGITAL HD)[/COLOR]",
-      "link": "acestream://0de4d3d35cf25d627d75baa478570dfa59daaa70",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]France - Ligue 1[/COLOR] [COLOR blue]17:15[/COLOR] [COLOR lime]Brest vs Auxerre[/COLOR] [COLOR gold](BEIN SPORTS 1 HD)[/COLOR]",
-      "link": "acestream://7683cd0cbacf55fa8b39c363219ffba1bc47cf9d",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]France - Ligue 1[/COLOR] [COLOR blue]17:15[/COLOR] [COLOR lime]Brest vs Auxerre[/COLOR] [COLOR gold](MATCH! HD)[/COLOR]",
-      "link": "acestream://ef79dbae0b2df024df0c926772917dc8f66ff03e",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]France - Ligue 1[/COLOR] [COLOR blue]20:45[/COLOR] [COLOR lime]PSG vs Paris[/COLOR] [COLOR gold](ELEVEN DAZN 1 HD)[/COLOR]",
-      "link": "acestream://1575402d6430600edf97319f1ec066b2850b0fa2",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]France - Ligue 1[/COLOR] [COLOR blue]20:45[/COLOR] [COLOR lime]PSG vs Paris[/COLOR] [COLOR gold](SPORTDIGITAL HD)[/COLOR]",
-      "link": "acestream://897e73c9d578848f596585314ecb9ae067c0e229",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]France - Ligue 1[/COLOR] [COLOR blue]20:45[/COLOR] [COLOR lime]PSG vs Paris[/COLOR] [COLOR gold](DAZN BAR HD)[/COLOR]",
-      "link": "acestream://d0a5eb107ed5d70f542e7483e2d0f9068b15f6c4",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]France - Ligue 1[/COLOR] [COLOR blue]20:45[/COLOR] [COLOR lime]PSG vs Paris[/COLOR] [COLOR gold](SPORTDIGITAL HD)[/COLOR]",
-      "link": "acestream://0de4d3d35cf25d627d75baa478570dfa59daaa70",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]France - Ligue 1[/COLOR] [COLOR blue]20:45[/COLOR] [COLOR lime]PSG vs Paris[/COLOR] [COLOR gold](ESPN ARGENTINA 2 HD)[/COLOR]",
-      "link": "acestream://ab7f9cc29ad09ee9575fed758ab317c818fdc491",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]France - Ligue 1[/COLOR] [COLOR blue]20:45[/COLOR] [COLOR lime]PSG vs Paris[/COLOR] [COLOR gold](BEIN SPORTS 1 HD)[/COLOR]",
-      "link": "acestream://7683cd0cbacf55fa8b39c363219ffba1bc47cf9d",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]France - Ligue 1[/COLOR] [COLOR blue]20:45[/COLOR] [COLOR lime]PSG vs Paris[/COLOR] [COLOR gold](ELEVEN SPORTS 1 4K HD)[/COLOR]",
-      "link": "acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]France - Ligue 1[/COLOR] [COLOR blue]20:45[/COLOR] [COLOR lime]PSG vs Paris[/COLOR] [COLOR gold](SETANTA 1 HD)[/COLOR]",
-      "link": "acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]France - Ligue 1[/COLOR] [COLOR blue]20:45[/COLOR] [COLOR lime]PSG vs Paris[/COLOR] [COLOR gold](MATCH! HD)[/COLOR]",
-      "link": "acestream://0a21a8a79e9a3f03261d86e69cff2cc4d0b4a639",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]France - Ligue 1[/COLOR] [COLOR blue]20:45[/COLOR] [COLOR lime]PSG vs Paris[/COLOR] [COLOR gold](MATCH! FOOTBALL 1 HD)[/COLOR]",
-      "link": "acestream://0631bd0fd16f3fecf6d5c90e6ae88e46fbf981de",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]12:30[/COLOR] [COLOR lime]Lazio vs Napoli[/COLOR] [COLOR gold](ELEVEN DAZN 1 HD)[/COLOR]",
-      "link": "acestream://1020552624e97a823b7e056fb1e3f6f1f1c901cc",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]12:30[/COLOR] [COLOR lime]Lazio vs Napoli[/COLOR] [COLOR gold](TNT SPORT 1 HD)[/COLOR]",
-      "link": "acestream://01dcc1ea3387c2b73953efe3f52286a770737d7c",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]12:30[/COLOR] [COLOR lime]Lazio vs Napoli[/COLOR] [COLOR gold](TNT SPORT 2 HD)[/COLOR]",
-      "link": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]12:30[/COLOR] [COLOR lime]Lazio vs Napoli[/COLOR] [COLOR gold](SKY SPORTS FOOTBALL HD)[/COLOR]",
-      "link": "acestream://c991ea0dc8a5b946111f620f391c605af1c0055c",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]12:30[/COLOR] [COLOR lime]Lazio vs Napoli[/COLOR] [COLOR gold](USA NETWORK HD)[/COLOR]",
-      "link": "acestream://bfd5977f02dc66a7d88b517a30be6dd8718adec9",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]12:30[/COLOR] [COLOR lime]Lazio vs Napoli[/COLOR] [COLOR gold](SPORTDIGITAL HD)[/COLOR]",
-      "link": "acestream://897e73c9d578848f596585314ecb9ae067c0e229",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]12:30[/COLOR] [COLOR lime]Lazio vs Napoli[/COLOR] [COLOR gold](DAZN BAR HD)[/COLOR]",
-      "link": "acestream://d0a5eb107ed5d70f542e7483e2d0f9068b15f6c4",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]12:30[/COLOR] [COLOR lime]Lazio vs Napoli[/COLOR] [COLOR gold](SPORTDIGITAL HD)[/COLOR]",
-      "link": "acestream://0de4d3d35cf25d627d75baa478570dfa59daaa70",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]12:30[/COLOR] [COLOR lime]Lazio vs Napoli[/COLOR] [COLOR gold](ZIGGO SPORT HD)[/COLOR]",
-      "link": "acestream://fcd7621df513f600652b4813d5d8fd1daed60058",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]12:30[/COLOR] [COLOR lime]Lazio vs Napoli[/COLOR] [COLOR gold](ZIGGO SPORT 2 HD)[/COLOR]",
-      "link": "acestream://8e475c8b9f12270c524f88f5659cc6811fc1399c",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]12:30[/COLOR] [COLOR lime]Lazio vs Napoli[/COLOR] [COLOR gold](ELEVEN SPORTS 1 4K HD)[/COLOR]",
-      "link": "acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]12:30[/COLOR] [COLOR lime]Lazio vs Napoli[/COLOR] [COLOR gold](ELEVEN SPORTS 1 HD)[/COLOR]",
-      "link": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]12:30[/COLOR] [COLOR lime]Lazio vs Napoli[/COLOR] [COLOR gold](ELEVEN SPORTS 2 HD)[/COLOR]",
-      "link": "acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]12:30[/COLOR] [COLOR lime]Lazio vs Napoli[/COLOR] [COLOR gold](DIGI SPORT 1 HD)[/COLOR]",
-      "link": "acestream://7172d78df991278461adb9acb2de422d7be288f9",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]12:30[/COLOR] [COLOR lime]Lazio vs Napoli[/COLOR] [COLOR gold](SETANTA 1 HD)[/COLOR]",
-      "link": "acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]12:30[/COLOR] [COLOR lime]Lazio vs Napoli[/COLOR] [COLOR gold](MATCH! HD)[/COLOR]",
-      "link": "acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2 ",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]12:30[/COLOR] [COLOR lime]Lazio vs Napoli[/COLOR] [COLOR gold](MATCH! FOOTBALL 1 HD)[/COLOR]",
-      "link": "acestream://b28db77c5084da7993395d77df96c30bb134f0a9",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]12:30[/COLOR] [COLOR lime]Lazio vs Napoli[/COLOR] [COLOR gold](MATCH! FOOTBALL 2 HD)[/COLOR]",
-      "link": "acestream://0631bd0fd16f3fecf6d5c90e6ae88e46fbf981de",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]12:30[/COLOR] [COLOR lime]Lazio vs Napoli[/COLOR] [COLOR gold](MATCH! FOOTBALL 3 HD)[/COLOR]",
-      "link": "acestream://1a9a8200605e65a2c717f97333ce9de422c3613d",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]12:30[/COLOR] [COLOR lime]Lazio vs Napoli[/COLOR] [COLOR gold](MATCH! HD)[/COLOR]",
-      "link": "acestream://e7a3fe8e357b0ef903d00af009d0a6f43c065ca7",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]15:00[/COLOR] [COLOR lime]Fiorentina vs Cremonese[/COLOR] [COLOR gold](ELEVEN DAZN 1 HD)[/COLOR]",
-      "link": "acestream://1575402d6430600edf97319f1ec066b2850b0fa2",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]15:00[/COLOR] [COLOR lime]Fiorentina vs Cremonese[/COLOR] [COLOR gold](ZIGGO SPORT HD)[/COLOR]",
-      "link": "acestream://7f50e06f715720e944cce35fa90b6b7a8db04b2e",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]15:00[/COLOR] [COLOR lime]Fiorentina vs Cremonese[/COLOR] [COLOR gold](ELEVEN SPORTS 1 4K HD)[/COLOR]",
-      "link": "acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]15:00[/COLOR] [COLOR lime]Fiorentina vs Cremonese[/COLOR] [COLOR gold](MATCH! HD)[/COLOR]",
-      "link": "acestream://b28db77c5084da7993395d77df96c30bb134f0a9",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]15:00[/COLOR] [COLOR lime]Fiorentina vs Cremonese[/COLOR] [COLOR gold](MATCH! FOOTBALL 1 HD)[/COLOR]",
-      "link": "acestream://e7a3fe8e357b0ef903d00af009d0a6f43c065ca7",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]18:00[/COLOR] [COLOR lime]Verona vs Torino[/COLOR] [COLOR gold](ELEVEN DAZN 1 HD)[/COLOR]",
-      "link": "acestream://1575402d6430600edf97319f1ec066b2850b0fa2",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]18:00[/COLOR] [COLOR lime]Verona vs Torino[/COLOR] [COLOR gold](USA NETWORK HD)[/COLOR]",
-      "link": "acestream://70d9cd9ff31c16ccf49bd728573005512db672db",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]18:00[/COLOR] [COLOR lime]Verona vs Torino[/COLOR] [COLOR gold](ELEVEN SPORTS 1 4K HD)[/COLOR]",
-      "link": "acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]18:00[/COLOR] [COLOR lime]Verona vs Torino[/COLOR] [COLOR gold](SETANTA 1 HD)[/COLOR]",
-      "link": "acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]18:00[/COLOR] [COLOR lime]Verona vs Torino[/COLOR] [COLOR gold](MATCH! HD)[/COLOR]",
-      "link": "acestream://b28db77c5084da7993395d77df96c30bb134f0a9",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]18:00[/COLOR] [COLOR lime]Verona vs Torino[/COLOR] [COLOR gold](MATCH! FOOTBALL 1 HD)[/COLOR]",
-      "link": "acestream://0631bd0fd16f3fecf6d5c90e6ae88e46fbf981de",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]18:00[/COLOR] [COLOR lime]Verona vs Torino[/COLOR] [COLOR gold](MATCH! FOOTBALL 2 HD)[/COLOR]",
-      "link": "acestream://e7a3fe8e357b0ef903d00af009d0a6f43c065ca7",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]20:45[/COLOR] [COLOR lime]Internazionale vs Bologna[/COLOR] [COLOR gold](TNT SPORT 1 HD)[/COLOR]",
-      "link": "acestream://19c5c13a8e7273d78d53fdaea3deaf1b80e938fa",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]20:45[/COLOR] [COLOR lime]Internazionale vs Bologna[/COLOR] [COLOR gold](TNT SPORT 2 HD)[/COLOR]",
-      "link": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]20:45[/COLOR] [COLOR lime]Internazionale vs Bologna[/COLOR] [COLOR gold](SKY SPORTS FOOTBALL HD)[/COLOR]",
-      "link": "acestream://4e7d236685127073c4848e21d3aa874fb7e8c65e",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]20:45[/COLOR] [COLOR lime]Internazionale vs Bologna[/COLOR] [COLOR gold](USA NETWORK HD)[/COLOR]",
-      "link": "acestream://70d9cd9ff31c16ccf49bd728573005512db672db",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]20:45[/COLOR] [COLOR lime]Internazionale vs Bologna[/COLOR] [COLOR gold](ZIGGO SPORT HD)[/COLOR]",
-      "link": "acestream://7f50e06f715720e944cce35fa90b6b7a8db04b2e",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]20:45[/COLOR] [COLOR lime]Internazionale vs Bologna[/COLOR] [COLOR gold](ELEVEN SPORTS 1 4K HD)[/COLOR]",
-      "link": "acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]20:45[/COLOR] [COLOR lime]Internazionale vs Bologna[/COLOR] [COLOR gold](ELEVEN SPORTS 1 HD)[/COLOR]",
-      "link": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]20:45[/COLOR] [COLOR lime]Internazionale vs Bologna[/COLOR] [COLOR gold](DIGI SPORT 1 HD)[/COLOR]",
-      "link": "acestream://7172d78df991278461adb9acb2de422d7be288f9",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]20:45[/COLOR] [COLOR lime]Internazionale vs Bologna[/COLOR] [COLOR gold](SETANTA 1 HD)[/COLOR]",
-      "link": "acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]20:45[/COLOR] [COLOR lime]Internazionale vs Bologna[/COLOR] [COLOR gold](MATCH! HD)[/COLOR]",
-      "link": "acestream://b28db77c5084da7993395d77df96c30bb134f0a9",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]20:45[/COLOR] [COLOR lime]Internazionale vs Bologna[/COLOR] [COLOR gold](MATCH! FOOTBALL 1 HD)[/COLOR]",
-      "link": "acestream://0631bd0fd16f3fecf6d5c90e6ae88e46fbf981de",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Italy - Serie A[/COLOR] [COLOR blue]20:45[/COLOR] [COLOR lime]Internazionale vs Bologna[/COLOR] [COLOR gold](MATCH! FOOTBALL 2 HD)[/COLOR]",
-      "link": "acestream://e7a3fe8e357b0ef903d00af009d0a6f43c065ca7",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]NBA - USA[/COLOR] [COLOR blue]00:00[/COLOR] [COLOR lime]Minnesota Timberwolves vs Washington Wizards[/COLOR] [COLOR gold](ELEVEN DAZN 1 HD)[/COLOR]",
-      "link": "acestream://c9d939e737f8a629ed843de0de3636755f177a56",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Portugal - Primeira Liga[/COLOR] [COLOR blue]16:30[/COLOR] [COLOR lime]Rio Ave vs Casa Pia[/COLOR] [COLOR gold](ELEVEN DAZN 1 HD)[/COLOR]",
-      "link": "acestream://1020552624e97a823b7e056fb1e3f6f1f1c901cc",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Portugal - Primeira Liga[/COLOR] [COLOR blue]19:00[/COLOR] [COLOR lime]Santa Clara vs Porto[/COLOR] [COLOR gold](ELEVEN DAZN 1 HD)[/COLOR]",
-      "link": "acestream://c9d939e737f8a629ed843de0de3636755f177a56",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Portugal - Primeira Liga[/COLOR] [COLOR blue]19:00[/COLOR] [COLOR lime]Santa Clara vs Porto[/COLOR] [COLOR gold](ZIGGO SPORT HD)[/COLOR]",
-      "link": "acestream://7f50e06f715720e944cce35fa90b6b7a8db04b2e",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Portugal - Primeira Liga[/COLOR] [COLOR blue]19:00[/COLOR] [COLOR lime]Santa Clara vs Porto[/COLOR] [COLOR gold](ELEVEN SPORTS 1 4K HD)[/COLOR]",
-      "link": "acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Portugal - Primeira Liga[/COLOR] [COLOR blue]19:00[/COLOR] [COLOR lime]Santa Clara vs Porto[/COLOR] [COLOR gold](MATCH! HD)[/COLOR]",
-      "link": "acestream://d692f5e339609af5f5b25b21609dd8a0a139ac10",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Portugal - Primeira Liga[/COLOR] [COLOR blue]19:00[/COLOR] [COLOR lime]Santa Clara vs Porto[/COLOR] [COLOR gold](MATCH! FOOTBALL 1 HD)[/COLOR]",
-      "link": "acestream://c09ee9fd301eeb4e82c21ba8b0f87b76c759dc42",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Portugal - Primeira Liga[/COLOR] [COLOR blue]21:30[/COLOR] [COLOR lime]Alverca vs FamalicÃ£o[/COLOR] [COLOR gold](ELEVEN DAZN 1 HD)[/COLOR]",
-      "link": "acestream://1020552624e97a823b7e056fb1e3f6f1f1c901cc",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Saudi Arabia - Pro League[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Damac vs Al Hilal[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES FHD)[/COLOR]",
-      "link": "acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Saudi Arabia - Pro League[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Damac vs Al Hilal[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES HD)[/COLOR]",
-      "link": "acestream://2b5129adc57d43790634d796fe3468b9fd061259",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]14:00[/COLOR] [COLOR lime]Sevilla vs Levante[/COLOR] [COLOR gold](ELEVEN DAZN 1 HD)[/COLOR]",
-      "link": "acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]14:00[/COLOR] [COLOR lime]Sevilla vs Levante[/COLOR] [COLOR gold](ELEVEN DAZN 2 HD)[/COLOR]",
-      "link": "acestream://54ed9b3158bb7c24fd54c764e9843e313d9ab77b",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]14:00[/COLOR] [COLOR lime]Sevilla vs Levante[/COLOR] [COLOR gold](TNT SPORT 1 HD)[/COLOR]",
-      "link": "acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]14:00[/COLOR] [COLOR lime]Sevilla vs Levante[/COLOR] [COLOR gold](TNT SPORT 2 HD)[/COLOR]",
-      "link": "acestream://815638522b8957c9fefa04a997874373432e017c",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]14:00[/COLOR] [COLOR lime]Sevilla vs Levante[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES FHD)[/COLOR]",
-      "link": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]14:00[/COLOR] [COLOR lime]Sevilla vs Levante[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES HD)[/COLOR]",
-      "link": "acestream://107c3ce5a5d2527c9f06e4eab87477201791f231",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]14:00[/COLOR] [COLOR lime]Sevilla vs Levante[/COLOR] [COLOR gold](M+ VAMOS FHD)[/COLOR]",
-      "link": "acestream://4b528d10eaad747ddf52251206177573ee3e9f74",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]14:00[/COLOR] [COLOR lime]Sevilla vs Levante[/COLOR] [COLOR gold](DAZN LALIGA HD)[/COLOR]",
-      "link": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]14:00[/COLOR] [COLOR lime]Sevilla vs Levante[/COLOR] [COLOR gold](DAZN LALIGA 2 HD)[/COLOR]",
-      "link": "acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]14:00[/COLOR] [COLOR lime]Sevilla vs Levante[/COLOR] [COLOR gold](ESPN ARGENTINA 2 HD)[/COLOR]",
-      "link": "acestream://ab7f9cc29ad09ee9575fed758ab317c818fdc491",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]14:00[/COLOR] [COLOR lime]Sevilla vs Levante[/COLOR] [COLOR gold](SPORTDIGITAL HD)[/COLOR]",
-      "link": "acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]14:00[/COLOR] [COLOR lime]Sevilla vs Levante[/COLOR] [COLOR gold](DAZN BAR HD)[/COLOR]",
-      "link": "acestream://cc7cf26c0a874d9b2f64c6b952392f92afe81314",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]14:00[/COLOR] [COLOR lime]Sevilla vs Levante[/COLOR] [COLOR gold](ZIGGO SPORT HD)[/COLOR]",
-      "link": "acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]14:00[/COLOR] [COLOR lime]Sevilla vs Levante[/COLOR] [COLOR gold](MATCH! HD)[/COLOR]",
-      "link": "acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]14:00[/COLOR] [COLOR lime]Sevilla vs Levante[/COLOR] [COLOR gold](MATCH! FOOTBALL 1 HD)[/COLOR]",
-      "link": "acestream://31d62f44e1f0f842e2052e308e2b677e3bb88107",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]16:15[/COLOR] [COLOR lime]Real Madrid vs Real Betis[/COLOR] [COLOR gold](ELEVEN DAZN 1 HD)[/COLOR]",
-      "link": "acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]16:15[/COLOR] [COLOR lime]Real Madrid vs Real Betis[/COLOR] [COLOR gold](ELEVEN DAZN 2 HD)[/COLOR]",
-      "link": "acestream://54ed9b3158bb7c24fd54c764e9843e313d9ab77b",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]16:15[/COLOR] [COLOR lime]Real Madrid vs Real Betis[/COLOR] [COLOR gold](TNT SPORT 1 HD)[/COLOR]",
-      "link": "acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]16:15[/COLOR] [COLOR lime]Real Madrid vs Real Betis[/COLOR] [COLOR gold](TNT SPORT 2 HD)[/COLOR]",
-      "link": "acestream://815638522b8957c9fefa04a997874373432e017c",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]16:15[/COLOR] [COLOR lime]Real Madrid vs Real Betis[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES FHD)[/COLOR]",
-      "link": "acestream://74defb8f4ed3a917fd07c21b34f43c17107ec618",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]16:15[/COLOR] [COLOR lime]Real Madrid vs Real Betis[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES HD)[/COLOR]",
-      "link": "acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]16:15[/COLOR] [COLOR lime]Real Madrid vs Real Betis[/COLOR] [COLOR gold](M+ VAMOS FHD)[/COLOR]",
-      "link": "acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]16:15[/COLOR] [COLOR lime]Real Madrid vs Real Betis[/COLOR] [COLOR gold](SPORTDIGITAL HD)[/COLOR]",
-      "link": "acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]16:15[/COLOR] [COLOR lime]Real Madrid vs Real Betis[/COLOR] [COLOR gold](DAZN BAR HD)[/COLOR]",
-      "link": "acestream://cc7cf26c0a874d9b2f64c6b952392f92afe81314",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]16:15[/COLOR] [COLOR lime]Real Madrid vs Real Betis[/COLOR] [COLOR gold](BEIN SPORTS 1 HD)[/COLOR]",
-      "link": "acestream://edb507e38394d614c9ff55805c9d354ae13210bc",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]16:15[/COLOR] [COLOR lime]Real Madrid vs Real Betis[/COLOR] [COLOR gold](ZIGGO SPORT HD)[/COLOR]",
-      "link": "acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]16:15[/COLOR] [COLOR lime]Real Madrid vs Real Betis[/COLOR] [COLOR gold](ELEVEN SPORTS 1 4K HD)[/COLOR]",
-      "link": "acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]16:15[/COLOR] [COLOR lime]Real Madrid vs Real Betis[/COLOR] [COLOR gold](ELEVEN SPORTS 1 HD)[/COLOR]",
-      "link": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]16:15[/COLOR] [COLOR lime]Real Madrid vs Real Betis[/COLOR] [COLOR gold](SETANTA 1 HD)[/COLOR]",
-      "link": "acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]16:15[/COLOR] [COLOR lime]Real Madrid vs Real Betis[/COLOR] [COLOR gold](MATCH! HD)[/COLOR]",
-      "link": "acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2 ",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]16:15[/COLOR] [COLOR lime]Real Madrid vs Real Betis[/COLOR] [COLOR gold](MATCH! FOOTBALL 1 HD)[/COLOR]",
-      "link": "acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]16:15[/COLOR] [COLOR lime]Real Madrid vs Real Betis[/COLOR] [COLOR gold](MATCH! FOOTBALL 2 HD)[/COLOR]",
-      "link": "acestream://31d62f44e1f0f842e2052e308e2b677e3bb88107",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Mallorca vs Girona[/COLOR] [COLOR gold](ELEVEN DAZN 1 HD)[/COLOR]",
-      "link": "acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Mallorca vs Girona[/COLOR] [COLOR gold](ELEVEN DAZN 2 HD)[/COLOR]",
-      "link": "acestream://54ed9b3158bb7c24fd54c764e9843e313d9ab77b",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Mallorca vs Girona[/COLOR] [COLOR gold](TNT SPORT 1 HD)[/COLOR]",
-      "link": "acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Mallorca vs Girona[/COLOR] [COLOR gold](TNT SPORT 2 HD)[/COLOR]",
-      "link": "acestream://815638522b8957c9fefa04a997874373432e017c",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Mallorca vs Girona[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES FHD)[/COLOR]",
-      "link": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Mallorca vs Girona[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES HD)[/COLOR]",
-      "link": "acestream://107c3ce5a5d2527c9f06e4eab87477201791f231",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Mallorca vs Girona[/COLOR] [COLOR gold](M+ VAMOS FHD)[/COLOR]",
-      "link": "acestream://4b528d10eaad747ddf52251206177573ee3e9f74",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Mallorca vs Girona[/COLOR] [COLOR gold](DAZN LALIGA HD)[/COLOR]",
-      "link": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Mallorca vs Girona[/COLOR] [COLOR gold](DAZN LALIGA 2 HD)[/COLOR]",
-      "link": "acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Mallorca vs Girona[/COLOR] [COLOR gold](ZIGGO SPORT HD)[/COLOR]",
-      "link": "acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Mallorca vs Girona[/COLOR] [COLOR gold](ELEVEN SPORTS 1 4K HD)[/COLOR]",
-      "link": "acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Mallorca vs Girona[/COLOR] [COLOR gold](MATCH! HD)[/COLOR]",
-      "link": "acestream://b6baa046075d82da300fc1b16de96067a8b9540e",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Mallorca vs Girona[/COLOR] [COLOR gold](MATCH! FOOTBALL 1 HD)[/COLOR]",
-      "link": "acestream://dffb2a7f4761c1918f9274879a82df607d17cedd",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Deportivo AlavÃ©s vs Real Oviedo[/COLOR] [COLOR gold](ELEVEN DAZN 1 HD)[/COLOR]",
-      "link": "acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Deportivo AlavÃ©s vs Real Oviedo[/COLOR] [COLOR gold](ELEVEN DAZN 2 HD)[/COLOR]",
-      "link": "acestream://b7b71db7210c3314f6c97bc4e7bbee05571eb445",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Deportivo AlavÃ©s vs Real Oviedo[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES FHD)[/COLOR]",
-      "link": "acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Deportivo AlavÃ©s vs Real Oviedo[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES HD)[/COLOR]",
-      "link": "acestream://c976c7b37964322752db562b4ad65515509c8d36",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Deportivo AlavÃ©s vs Real Oviedo[/COLOR] [COLOR gold](ESPN ARGENTINA 2 HD)[/COLOR]",
-      "link": "acestream:// 872a44653bf2ad232d5f8476597754b69e3d56c",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Deportivo AlavÃ©s vs Real Oviedo[/COLOR] [COLOR gold](MATCH! HD)[/COLOR]",
-      "link": "acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Deportivo AlavÃ©s vs Real Oviedo[/COLOR] [COLOR gold](MATCH! FOOTBALL 1 HD)[/COLOR]",
-      "link": "acestream://31d62f44e1f0f842e2052e308e2b677e3bb88107",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]21:00[/COLOR] [COLOR lime]Real Sociedad vs AtlÃ©tico Madrid[/COLOR] [COLOR gold](ELEVEN DAZN 1 HD)[/COLOR]",
-      "link": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]21:00[/COLOR] [COLOR lime]Real Sociedad vs AtlÃ©tico Madrid[/COLOR] [COLOR gold](ELEVEN DAZN 2 HD)[/COLOR]",
-      "link": "acestream://c1cc8683b700bbad5f7193327a27034e7ae57984",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]21:00[/COLOR] [COLOR lime]Real Sociedad vs AtlÃ©tico Madrid[/COLOR] [COLOR gold](TNT SPORT 1 HD)[/COLOR]",
-      "link": "acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]21:00[/COLOR] [COLOR lime]Real Sociedad vs AtlÃ©tico Madrid[/COLOR] [COLOR gold](TNT SPORT 2 HD)[/COLOR]",
-      "link": "acestream://815638522b8957c9fefa04a997874373432e017c",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]21:00[/COLOR] [COLOR lime]Real Sociedad vs AtlÃ©tico Madrid[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES FHD)[/COLOR]",
-      "link": "acestream://74defb8f4ed3a917fd07c21b34f43c17107ec618",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]21:00[/COLOR] [COLOR lime]Real Sociedad vs AtlÃ©tico Madrid[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES HD)[/COLOR]",
-      "link": "acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]21:00[/COLOR] [COLOR lime]Real Sociedad vs AtlÃ©tico Madrid[/COLOR] [COLOR gold](M+ VAMOS FHD)[/COLOR]",
-      "link": "acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]21:00[/COLOR] [COLOR lime]Real Sociedad vs AtlÃ©tico Madrid[/COLOR] [COLOR gold](DAZN LALIGA HD)[/COLOR]",
-      "link": "acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]21:00[/COLOR] [COLOR lime]Real Sociedad vs AtlÃ©tico Madrid[/COLOR] [COLOR gold](DAZN LALIGA 2 HD)[/COLOR]",
-      "link": "acestream://c976c7b37964322752db562b4ad65515509c8d36",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]21:00[/COLOR] [COLOR lime]Real Sociedad vs AtlÃ©tico Madrid[/COLOR] [COLOR gold](BEIN SPORTS 1 HD)[/COLOR]",
-      "link": "acestream://edb507e38394d614c9ff55805c9d354ae13210bc",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]21:00[/COLOR] [COLOR lime]Real Sociedad vs AtlÃ©tico Madrid[/COLOR] [COLOR gold](ZIGGO SPORT HD)[/COLOR]",
-      "link": "acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]21:00[/COLOR] [COLOR lime]Real Sociedad vs AtlÃ©tico Madrid[/COLOR] [COLOR gold](ELEVEN SPORTS 1 4K HD)[/COLOR]",
-      "link": "acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]21:00[/COLOR] [COLOR lime]Real Sociedad vs AtlÃ©tico Madrid[/COLOR] [COLOR gold](MATCH! HD)[/COLOR]",
-      "link": "acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2 ",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]21:00[/COLOR] [COLOR lime]Real Sociedad vs AtlÃ©tico Madrid[/COLOR] [COLOR gold](MATCH! FOOTBALL 1 HD)[/COLOR]",
-      "link": "acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - La Liga[/COLOR] [COLOR blue]21:00[/COLOR] [COLOR lime]Real Sociedad vs AtlÃ©tico Madrid[/COLOR] [COLOR gold](MATCH! FOOTBALL 2 HD)[/COLOR]",
-      "link": "acestream://31d62f44e1f0f842e2052e308e2b677e3bb88107",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - Segunda Division[/COLOR] [COLOR blue]14:00[/COLOR] [COLOR lime]Sporting GijÃ³n vs MÃ¡laga[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES FHD)[/COLOR]",
-      "link": "acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - Segunda Division[/COLOR] [COLOR blue]14:00[/COLOR] [COLOR lime]Sporting GijÃ³n vs MÃ¡laga[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES HD)[/COLOR]",
-      "link": "acestream://8ee52f6208e33706171856f99d2ed2dabd317f3a",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - Segunda Division[/COLOR] [COLOR blue]14:00[/COLOR] [COLOR lime]Sporting GijÃ³n vs MÃ¡laga[/COLOR] [COLOR gold](M+ VAMOS FHD)[/COLOR]",
-      "link": "acestream://70f22be1286ef224b5e4e9451d9a42468152cda4",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - Segunda Division[/COLOR] [COLOR blue]16:15[/COLOR] [COLOR lime]Ceuta vs FC Andorra[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES FHD)[/COLOR]",
-      "link": "acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - Segunda Division[/COLOR] [COLOR blue]16:15[/COLOR] [COLOR lime]Ceuta vs FC Andorra[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES HD)[/COLOR]",
-      "link": "acestream://8ee52f6208e33706171856f99d2ed2dabd317f3a",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - Segunda Division[/COLOR] [COLOR blue]16:15[/COLOR] [COLOR lime]Ceuta vs FC Andorra[/COLOR] [COLOR gold](M+ VAMOS FHD)[/COLOR]",
-      "link": "acestream://70f22be1286ef224b5e4e9451d9a42468152cda4",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - Segunda Division[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Real Zaragoza vs Las Palmas[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES FHD)[/COLOR]",
-      "link": "acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - Segunda Division[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Real Zaragoza vs Las Palmas[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES HD)[/COLOR]",
-      "link": "acestream://8ee52f6208e33706171856f99d2ed2dabd317f3a",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - Segunda Division[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Real Zaragoza vs Las Palmas[/COLOR] [COLOR gold](M+ VAMOS FHD)[/COLOR]",
-      "link": "acestream://70f22be1286ef224b5e4e9451d9a42468152cda4",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - Segunda Division[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Albacete vs LeganÃ©s[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES FHD)[/COLOR]",
-      "link": "acestream://8a05571c0c8fe53f160fb7d116cdf97243679e86",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - Segunda Division[/COLOR] [COLOR blue]18:30[/COLOR] [COLOR lime]Albacete vs LeganÃ©s[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES HD)[/COLOR]",
-      "link": "acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - Segunda Division[/COLOR] [COLOR blue]21:00[/COLOR] [COLOR lime]Deportivo La CoruÃ±a vs CÃ¡diz[/COLOR] [COLOR gold](ELEVEN DAZN 1 HD)[/COLOR]",
-      "link": "acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - Segunda Division[/COLOR] [COLOR blue]21:00[/COLOR] [COLOR lime]Deportivo La CoruÃ±a vs CÃ¡diz[/COLOR] [COLOR gold](ELEVEN DAZN 2 HD)[/COLOR]",
-      "link": "acestream://b7b71db7210c3314f6c97bc4e7bbee05571eb445",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - Segunda Division[/COLOR] [COLOR blue]21:00[/COLOR] [COLOR lime]Deportivo La CoruÃ±a vs CÃ¡diz[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES FHD)[/COLOR]",
-      "link": "acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - Segunda Division[/COLOR] [COLOR blue]21:00[/COLOR] [COLOR lime]Deportivo La CoruÃ±a vs CÃ¡diz[/COLOR] [COLOR gold](M+ LIGA DE CAMPEONES HD)[/COLOR]",
-      "link": "acestream://8ee52f6208e33706171856f99d2ed2dabd317f3a",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - Segunda Division[/COLOR] [COLOR blue]21:00[/COLOR] [COLOR lime]Deportivo La CoruÃ±a vs CÃ¡diz[/COLOR] [COLOR gold](M+ VAMOS FHD)[/COLOR]",
-      "link": "acestream://70f22be1286ef224b5e4e9451d9a42468152cda4",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - Segunda Division[/COLOR] [COLOR blue]21:00[/COLOR] [COLOR lime]Deportivo La CoruÃ±a vs CÃ¡diz[/COLOR] [COLOR gold](MATCH! HD)[/COLOR]",
-      "link": "acestream://b6baa046075d82da300fc1b16de96067a8b9540e",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
-    },
-    {
-      "title": "[COLOR aqua]Spain - Segunda Division[/COLOR] [COLOR blue]21:00[/COLOR] [COLOR lime]Deportivo La CoruÃ±a vs CÃ¡diz[/COLOR] [COLOR gold](MATCH! FOOTBALL 1 HD)[/COLOR]",
-      "link": "acestream://dffb2a7f4761c1918f9274879a82df607d17cedd",
-      "thumbnail": "https://cdn6.aptoide.com/imgs/2/e/3/2e333438aec1b062c7ff0f3afa010f85_icon.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "by MandraKodi"
+      "title": "Zona Dazn.it - 00:00 DAZN 1",
+      "link": "ignoreme",
+      "info": "In onda: 00:00 - 05:00\n\nDAZN 1\n\nA seguire (05:00): DAZN 1",
+      "thumbnail": "https://images.open-epg.com/7515557.png"
     }
   ]
 }
