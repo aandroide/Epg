@@ -6,18 +6,18 @@
     {
       "title": "Androide - EPG",
       "link": "ignoreme",
-      "info": "Aggiornato: 14/01/2026 04:04"
+      "info": "Aggiornato: 14/01/2026 06:22"
     },
     {
-      "title": "DAZN 1.it - 00:00 DAZN 1",
+      "title": "DAZN 1.it - 05:00 DAZN 1",
       "link": "ignoreme",
-      "info": "In onda: 00:00 - 05:00\n\nDAZN 1\n\nA seguire (05:00): DAZN 1",
+      "info": "In onda: 05:00 - 07:00\n\nDAZN 1\n\nA seguire (07:00): Fiorentina - Milan",
       "thumbnail": "https://images.open-epg.com/19310.png"
     },
     {
-      "title": "DAZN 2.it - 23:00 Nessun evento in onda",
+      "title": "DAZN 2.it - 05:00 Nessun evento in onda",
       "link": "ignoreme",
-      "info": "In onda: 23:00 - 05:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (05:00): Nessun evento in onda",
+      "info": "In onda: 05:00 - 11:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (11:00): Nessun evento in onda",
       "thumbnail": "https://images.open-epg.com/19311.png"
     },
     {
@@ -27,183 +27,183 @@
       "thumbnail": "https://images.open-epg.com/1531.png"
     },
     {
-      "title": "Sky Arte.it - 03:10 Indie Jungle",
+      "title": "Sky Arte.it - 06:00 Patti Smith Electric Poet",
       "link": "ignoreme",
-      "info": "In onda: 03:10 - 04:05\n\nS3 Ep6 Mobrici - Un viaggio nella musica dal vivo con i protagonisti della scena indie italiana. In questo episodio: Mobrici.\n\nA seguire (04:05): Indie Jungle",
+      "info": "In onda: 06:00 - 07:00\n\nPoetessa, attrice, musicista. Patti Smith arrivo a New York negli anni Sessanta diventando unicona vivente del rock, senza mai cedere al richiamo della celebrita.\n\nA seguire (07:00): My Generation 2021",
       "thumbnail": "https://images.open-epg.com/19379.png"
     },
     {
-      "title": "Sky Atlantic.it - 03:30 Seal Team",
+      "title": "Sky Atlantic.it - 05:50 Breaking Bad",
       "link": "ignoreme",
-      "info": "In onda: 03:30 - 04:15\n\nS1 Ep13 Limboscata - Jason e la squadra SEAL devono lasciare immediatamente le loro famiglie quando la data di schieramento viene anticipata.\n\nA seguire (04:15): Seal Team",
+      "info": "In onda: 05:50 - 06:40\n\nS1 Ep2 Senza ritorno - I due complici devono occuparsi di Krazy8 ed Emilio, Walter deve uccidere il primo e Jesse deve sciogliere il secondo nellacido fluoridrico, ma entrambi incontrano problemi.\n\nA seguire (06:40): Yellowstone",
       "thumbnail": "https://images.open-epg.com/19381.png"
     },
     {
-      "title": "Sky Cinema Comedy.it - 02:35 Il colpo del cane",
+      "title": "Sky Cinema Action.it - 05:45 Operation Fortune",
       "link": "ignoreme",
-      "info": "In onda: 02:35 - 04:10\n\nEdoardo Pesce e Silvia DAmico nellardita commedia di Fulvio Risuleo. Due giovani dogsitter subiscono il furto di un bulldog da parte di un eccentrico veterinario: il dottor Mopsi (ITA 2019)\n\nA seguire (04:10): Figli",
+      "info": "In onda: 05:45 - 07:45\n\nAction Sky Original di Guy Ritchie con Jason Statham e Hugh Grant. Una spia dellMI6 e il suo team di agenti reclutano una star di Hollywood per una missione sotto copertura (USA/GBR 2022)\n\nA seguire (07:45): Upgrade",
+      "thumbnail": "https://images.open-epg.com/19383.png"
+    },
+    {
+      "title": "Sky Cinema Comedy.it - 06:10 Una famiglia mostruosa",
+      "link": "ignoreme",
+      "info": "In onda: 06:10 - 07:50\n\nCommedia dal tocco fantastico di Volfango De Biasi con Massimo Ghini, Lucia Ocone e Lillo. Due fidanzati aspettano un figlio e si preparano a conoscere le rispettive famiglie... mostruose (ITA 2021)\n\nA seguire (07:50): Gli anni belli",
       "thumbnail": "https://images.open-epg.com/19384.png"
     },
     {
-      "title": "Sky Cinema Due.it - 02:30 Limonov",
+      "title": "Sky Cinema Drama.it - 05:30 Gli indesiderabili",
       "link": "ignoreme",
-      "info": "In onda: 02:30 - 04:40\n\nDal romanzo di Emmanuel Carrere, Kirill Serebrennikov dirige un film sulla travolgente vita dello scrittore e politico Eduard Limonov (Ben Whishaw) tra Russia, America ed Europa (ITA/FRA 2024)\n\nA seguire (04:40): Lombra delle spie",
+      "info": "In onda: 05:30 - 07:20\n\nDopo il successo de\n\nA seguire (07:20): 3/19",
+      "thumbnail": "https://images.open-epg.com/19385.png"
+    },
+    {
+      "title": "Sky Cinema Due.it - 04:40 Lombra delle spie",
+      "link": "ignoreme",
+      "info": "In onda: 04:40 - 06:30\n\nBenedict Cumberbatch in un thriller targato Sky Original tratto da una storia vera. 1960: un uomo daffari inglese, spia per conto della CIA, viene coinvolto in un intrigo internazionale (USA/GBR 2020)\n\nA seguire (06:30): La nostra storia",
       "thumbnail": "https://images.open-epg.com/19387.png"
     },
     {
-      "title": "Sky Cinema Family.it - 03:20 Tappo - Cucciolo in un mare di guai",
+      "title": "Sky Cinema Family.it - 06:00 Il lupo e il leone",
       "link": "ignoreme",
-      "info": "In onda: 03:20 - 04:45\n\nDivertente film danimazione di Kevin Johnson. Alla morte della padrona, il viziato cagnolino Tappo si ritrova da solo come un randagio, ma la nuova amica Zoe e pronta ad aiutarlo (CAN 2019)\n\nA seguire (04:45): Me contro Te presenta: Cattivissimi a Natale",
+      "info": "In onda: 06:00 - 07:45\n\nTenera avventura dai creatori di\n\nA seguire (07:45): The Portable Door",
       "thumbnail": "https://images.open-epg.com/19388.png"
     },
     {
-      "title": "Sky Cinema Romance.it - 03:20 Il tenente ottomano",
+      "title": "Sky Cinema Romance.it - 05:15 Poli opposti",
       "link": "ignoreme",
-      "info": "In onda: 03:20 - 05:15\n\nLamore in tempo di guerra in un dramma con Ben Kingsley e Josh Hartnett. Alla vigilia della Grande Guerra, uninfermiera lascia lAmerica per una missione medica nellImpero turco (USA/TUR 2017)\n\nA seguire (05:15): Poli opposti",
+      "info": "In onda: 05:15 - 06:55\n\nLuca Argentero e Sarah Felberbaum in una commedia romantica. Stefano e un terapista di coppia; Claudia e un avvocato divorzista. Fra i due nasce uninaspettata attrazione (ITA 2015)\n\nA seguire (06:55): A Christmas Number One",
       "thumbnail": "https://images.open-epg.com/19389.png"
     },
     {
-      "title": "Sky Cinema Suspense.it - 02:05 V per Vendetta",
+      "title": "Sky Cinema Suspense.it - 05:50 Linferno di cristallo",
       "link": "ignoreme",
-      "info": "In onda: 02:05 - 04:15\n\nNatalie Portman in un fanta-action tratto dalla graphic novel di Alan Moore e David Lloyd. Un giustiziere mascherato si oppone al governo totalitario che ha soggiogato il Regno Unito (USA/GBR 2005)\n\nA seguire (04:15): Countdown",
+      "info": "In onda: 05:50 - 08:35\n\n3 Oscar e 2 Golden Globe al film precursore del genere catastrofico con Paul Newman e Steve McQueen. Linaugurazione di un grattacielo a San Francisco rischia di trasformarsi in tragedia (USA 1974)\n\nA seguire (08:35): French Connection",
       "thumbnail": "https://images.open-epg.com/19390.png"
     },
     {
-      "title": "Sky Cinema Uno +24.it - 03:30 Nella valle della violenza",
+      "title": "Sky Cinema Uno +24.it - 05:15 Into the Ashes",
       "link": "ignoreme",
-      "info": "In onda: 03:30 - 05:15\n\nEthan Hawke e John Travolta in un western assetato di vendetta. Per portare a termine la sua missione, un misterioso vagabondo attraversa il deserto per raggiungere una cittadina mineraria (USA 2016)\n\nA seguire (05:15): Into the Ashes",
+      "info": "In onda: 05:15 - 06:55\n\nLe ceneri di un passato criminale tornano a vivere con Frank Grillo, Marguerite Moreau e Luke Grimes. Un ex rapinatore inizia una nuova vita, ma la vendetta dei vecchi soci lo perseguita (USA 2019)\n\nA seguire (06:55): Indiana Jones e il regno del teschio di cristallo",
       "thumbnail": "https://images.open-epg.com/19391.png"
     },
     {
-      "title": "Sky Cinema Uno.it - 02:30 Acid",
+      "title": "Sky Classica.it - 06:00 Pianisti - Laccademia di Imola, ep.7",
       "link": "ignoreme",
-      "info": "In onda: 02:30 - 04:15\n\nLangoscia per il cambiamento climatico in un fanta-thriller con Guillaume Canet e Laetitia Dosch. Durante unanomala ondata di caldo, una perturbazione di pioggia acida e letale minaccia lEuropa, costringendo gli abitanti alla fuga verso una salvezza che appare impossibile (FRA/BEL 2023)\n\nA seguire (04:15): Come fratelli",
-      "thumbnail": "https://images.open-epg.com/19392.png"
-    },
-    {
-      "title": "Sky Classica.it - 03:30 Donizetti - Don Pasquale",
-      "link": "ignoreme",
-      "info": "In onda: 03:30 - 06:00\n\nEsecuzione in forma di concerto del Don Pasquale - con N.Alaimo, M.Cassi, J.F.Gatell, L.Giordano, L.Dallamico - Orchestra Giovanile Luigi Cherubini - Coro del Teatro Municipale di Piacenza - R.Muti, dir. (2019)\n\nA seguire (06:00): Pianisti - Laccademia di Imola, ep.7",
+      "info": "In onda: 06:00 - 07:30\n\nNulla puo essere certo - settima puntata della serie Pianisti che svela i dietro le quinte dellAccademia di Imola: attivita, grandi concerti, sfide, tensione e dedizione - a cura di G.De Stefano (2015)\n\nA seguire (07:30): Capucon - Il violino senza confini",
       "thumbnail": "https://images.open-epg.com/4100139.png"
     },
     {
-      "title": "Sky Crime.it - 03:50 Blood detectives - Legami di ...",
+      "title": "Sky Crime.it - 05:55 My lover, my killer - amore...",
       "link": "ignoreme",
-      "info": "In onda: 03:50 - 04:30\n\nS3 Ep5 Lassassino dellappendiabiti - ...sangue: Linda Slaten, madre di due bambini, viene trovata assassinata in camera da letto, nel suo appartamento di Lakeland, in Florida.\n\nA seguire (04:30): Online - Connessioni Pericolose",
+      "info": "In onda: 05:55 - 06:50\n\nS2 Ep5 Scomparsa... - ...assassino: Jayden Parkinson cerca di dimenticare i traumi del passato e trovare una stabilita con Ben Blakeley, ma lui ha altre intenzioni.\n\nA seguire (06:50): Missing: scomparsa con delitto",
       "thumbnail": "https://images.open-epg.com/19394.png"
     },
     {
-      "title": "Sky Documentaries +1.it - 03:30 Allen Stanford: Il genio della truffa",
+      "title": "Sky Documentaries +1.it - 06:15 Il testimone",
       "link": "ignoreme",
-      "info": "In onda: 03:30 - 04:20\n\nAllen Stanford trasferisce la sua operazione ad Antigua, dove scopre il potere del cricket nei Caraibi.\n\nA seguire (04:20): Omicidi in famiglia",
+      "info": "In onda: 06:15 - 07:10\n\nS8 Ep3 Un weekend con larbitro - Pif esplora il mondo degli arbitri. Nella 2a parte, oltre a raccontare la partita in un campo di periferia del Sud e il punto di vista di Ciro Ferrara, Pif analizza il derby della Mole.\n\nA seguire (07:10): Il testimone",
       "thumbnail": "https://images.open-epg.com/nologo.png"
     },
     {
-      "title": "Sky Documentaries.it - 03:20 Omicidi in famiglia",
+      "title": "Sky Documentaries.it - 06:10 Il testimone",
       "link": "ignoreme",
-      "info": "In onda: 03:20 - 04:10\n\nQuando i figli uccidono i genitori: una serie che approfondisce dei veri delitti interni al nucleo familiare, anche grazie a interviste con esperti e con i parenti delle vittime.\n\nA seguire (04:10): Omicidi in famiglia",
+      "info": "In onda: 06:10 - 07:00\n\nS8 Ep4 Una collezione di collezionisti - Quando collezionare diventa lo scopo di una vita. La passione, che diventa ossessione, viene raccontata da diversi collezionisti.\n\nA seguire (07:00): Omicidi in famiglia",
       "thumbnail": "https://images.open-epg.com/19396.png"
     },
     {
-      "title": "Sky Investigation.it - 03:20 NCIS",
+      "title": "Sky Investigation.it - 05:45 La signora in giallo",
       "link": "ignoreme",
-      "info": "In onda: 03:20 - 04:05\n\nS9 Ep6 Falce e martello - LNCIS sta indagando sulla sospetta morte di un tenente della Marina per super-idratazione. Nel frattempo Gibbs incontra la nuova ragazza di Ducky.\n\nA seguire (04:05): La signora in giallo",
+      "info": "In onda: 05:45 - 06:35\n\nS4 Ep4 Delitto in convento - Mentre Jessica visita la sua amica e madre superiora, suor Claire, lispettore Carter indaga sui segreti celati dietro lapparente suicidio di una suora.\n\nA seguire (06:35): Delitti in Paradiso",
       "thumbnail": "https://images.open-epg.com/19398.png"
     },
     {
-      "title": "Sky Nature.it - 03:20 Artigli e fauci dAfrica",
+      "title": "Sky Nature.it - 05:55 Isole selvagge",
       "link": "ignoreme",
-      "info": "In onda: 03:20 - 04:10\n\nS1 Ep1 Peripezie da predatori - Anche i predatori hanno problemi. Per sopravvivere, devono uccidere. Un cacciatore non sa da dove arrivera il prossimo pasto.\n\nA seguire (04:10): Cuccioli",
+      "info": "In onda: 05:55 - 06:45\n\nS1 Ep4 Borneo - Dove levoluzione ha creato unesplosione di vita. Filmiamo per la prima volta una specie di ragno senza nome mentre caccia altri ragni.\n\nA seguire (06:45): Ningaloo - Meraviglie sottomarine...",
       "thumbnail": "https://images.open-epg.com/19393.png"
     },
     {
-      "title": "Sky News.it - 04:00 Sky News",
+      "title": "Sky News.it - 06:00 Mornings",
       "link": "ignoreme",
-      "info": "In onda: 04:00 - 05:00\n\nA round up of all the latest news from the UK and around the world, including the Press Preview.\n\nA seguire (05:00): Sky News",
+      "info": "In onda: 06:00 - 06:30\n\nAll the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.\n\nA seguire (06:30): Mornings",
       "thumbnail": "https://images.open-epg.com/19400.png"
     },
     {
-      "title": "Sky Serie.it - 03:25 Suits",
+      "title": "Sky Serie.it - 06:20 Chicago P.D. 1^TV",
       "link": "ignoreme",
-      "info": "In onda: 03:25 - 04:15\n\nS6 Ep7 Scuotere le fronde - Harvey, Louis e Donna cercano un anello mancante per il commercio interno di Sutter. Mike prende una decisione drastica per portare Kevin dalla sua parte.\n\nA seguire (04:15): Suits",
+      "info": "In onda: 06:20 - 07:00\n\nS13 Ep7 Reazioni incontrollate - I sospetti di Voight si rivelano fondati quando unaggressione riporta lUnita dIntelligence a una figura inquietante.\n\nA seguire (07:00): Friends",
       "thumbnail": "https://images.open-epg.com/19402.png"
     },
     {
-      "title": "Sky Sport 4K.it - 03:00 Juventus - Cremonese",
+      "title": "Sky Sport 4K.it - 05:00 Motori Formula 1 - Ep. 10 - Motori F1 2025 Gp Cina Gara 23/03/2025",
       "link": "ignoreme",
-      "info": "In onda: 03:00 - 04:45\n\nJuventus - Cremonese - Bianconeri a quota 36 con 13 punti in 5 giornate. -6 dalla vetta. Cremonese con appena 2 punti in 5 turni. A Torino ha sempre perso in 11 sfide complessive. TC: Zancan-Montolivo\n\nA seguire (04:45): Rivoluzione 2026",
+      "info": "In onda: 05:00 - 07:15\n\nGara: GP Cina - Seconda gara del mondiale: dopo il dominio di Norris in Australia, riusciranno gli avversari a insidiare la supremazia McLaren? Telecronaca di Carlo Vanzini, Marc Gene e Roberto Chinchero.\n\nA seguire (07:15): Gara: GP Giappone",
       "thumbnail": "https://images.open-epg.com/19403.png"
     },
     {
-      "title": "Sky Sport Calcio.it - 03:00 B. Dortmund. - Bayern M. 2013",
+      "title": "Sky Sport Calcio.it - 05:00 Borussia Dortmund - Werder",
       "link": "ignoreme",
-      "info": "In onda: 03:00 - 05:00\n\n2013, Finale: Borussia Dortmund - Bayern Monaco - E la prima finale tutta tedesca in Champions League. Il meraviglioso stadio di Wembley a Londra ospita le due squadre tedesche che hanno dominato tutta la stagione di Champions. TC: Marianella-Mauro.\n\nA seguire (05:00): Borussia Dortmund - Werder",
+      "info": "In onda: 05:00 - 07:00\n\nBorussia Dortmund - Werder - Dal Signal Iduna Park di Dortmund, Germania.\n\nA seguire (07:00): Calciomercato - Loriginale",
       "thumbnail": "https://images.open-epg.com/19405.png"
     },
     {
-      "title": "Sky Sport F1.it - 04:00 Gara: GP Giappone",
+      "title": "Sky Sport F1.it - 06:00 F.Race: GP Bahrain",
       "link": "ignoreme",
-      "info": "In onda: 04:00 - 05:00\n\nGP Giappone: Gara - Terza gara della stagione: dopo i successi di Norris in Australia e Piastri in Cina, chi trionfera sulla pista iconica di Suzuka? Telecronaca di Carlo Vanzini, Marc Gene e Roberto Chinchero.\n\nA seguire (05:00): Inside Kimi",
+      "info": "In onda: 06:00 - 07:00\n\nBahrain: Feature Race - F.Race: GP Bahrain\n\nA seguire (07:00): Motori F1 Race Anatomy - Stag. Motori Race Anatomy F1 2025 - Motori Race Anatomy F1 2025 Ep.25 Speciale Natale 2025 22/12/2025",
       "thumbnail": "https://images.open-epg.com/19406.png"
     },
     {
-      "title": "Sky Sport Golf.it - 02:00 Abu Dhabi Championship: Giorno 4",
+      "title": "Sky Sport Golf.it - 05:00 BMW Australian PGA Championship: Giorno 4",
       "link": "ignoreme",
-      "info": "In onda: 02:00 - 05:00\n\nAbu Dhabi Championship: Giorno 4 - Tutti i tornei del tour europeo, il DP World Tour, che assegnano i punti per la Race to Dubai.\n\nA seguire (05:00): BMW Australian PGA Championship: Giorno 4",
+      "info": "In onda: 05:00 - 08:00\n\nBMW Australian PGA Championship: Giorno 4 - Dal Royal Queensland Golf Club di Brisbane, Queensland, Australia.\n\nA seguire (08:00): Campionato Nazionale Open",
       "thumbnail": "https://images.open-epg.com/19407.png"
     },
     {
-      "title": "Sky Sport Max.it - 04:00 Deborah Compagnoni",
+      "title": "Sky Sport Max.it - 06:00 Napoli Basket - Olimpia Milano",
       "link": "ignoreme",
-      "info": "In onda: 04:00 - 05:00\n\nDeborah Compagnoni - Dalla neve di Santa Caterina allOlimpo dello sci: Deborah Compagnoni si racconta a Federico Buffa Talks tra gloria, cadute e rinascite e il suo profondo amore per lo sport.\n\nA seguire (05:00): 3tre, Il Numero Magico Dello Sci",
+      "info": "In onda: 06:00 - 08:00\n\nNapoli Basket - Olimpia Milano - Il posticipo chiude il girone di andata e definisce le Final 8 di coppa Italia. Napoli cerca il colpo contro unOlimpia reduce da cinque vittorie di fila. TC: De Rosa-Meneghin.\n\nA seguire (08:00): Ep.15",
       "thumbnail": "https://images.open-epg.com/19408.png"
     },
     {
-      "title": "Sky Sport MotoGP.it - 03:45 Un Anno Di Moto3 2025",
+      "title": "Sky Sport Tennis.it - 05:00 Tennis AtpandWta - Ep. 8 - Tennis AtpandWta 2026 14/01/2026",
       "link": "ignoreme",
-      "info": "In onda: 03:45 - 04:45\n\nDal primo GP in Thailandia allultima tappa di Valencia, riviviamo la stagione 2025 della Moto3 in questo speciale\n\nA seguire (04:45): 04 Park",
-      "thumbnail": "https://images.open-epg.com/19409.png"
-    },
-    {
-      "title": "Sky Sport Tennis.it - 22:30 Tennis AtpandWta - Ep. 8 - Tennis AtpandWta 2026 14/01/2026",
-      "link": "ignoreme",
-      "info": "In onda: 22:30 - 05:00\n\nATP and WTA - Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con lattenzione puntata sui tennisti italiani.\n\nA seguire (05:00): Tennis AtpandWta - Ep. 8 - Tennis AtpandWta 2026 14/01/2026",
+      "info": "In onda: 05:00 - 11:30\n\nATP and WTA - Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con lattenzione puntata sui tennisti italiani.\n\nA seguire (11:30): Sinner, Il Maestro: Atp Finals 2025... - Ep. 28 - Sinner, Il Maestro: Atp Finals 2025 26/12/2025",
       "thumbnail": "https://images.open-epg.com/19404.png"
     },
     {
-      "title": "Sky Sport Uno.it - 03:00 Borussia Dortmund - Werder",
+      "title": "Sky Sport Uno.it - 05:00 Juventus - Cremonese",
       "link": "ignoreme",
-      "info": "In onda: 03:00 - 05:00\n\nBorussia Dortmund - Werder - Dal Signal Iduna Park di Dortmund, Germania.\n\nA seguire (05:00): Juventus - Cremonese",
+      "info": "In onda: 05:00 - 07:00\n\nJuventus - Cremonese - Bianconeri a quota 36 con 13 punti in 5 giornate. -6 dalla vetta. Cremonese con appena 2 punti in 5 turni. A Torino ha sempre perso in 11 sfide complessive. TC: Zancan-Montolivo\n\nA seguire (07:00): Tennis AtpandWta - Ep. 8 - Tennis AtpandWta 2026 14/01/2026",
       "thumbnail": "https://images.open-epg.com/19410.png"
     },
     {
-      "title": "Sky TG24.it - 04:00 TG24 Edicola",
+      "title": "Sky TG24.it - 06:00 TG24 Buongiorno",
       "link": "ignoreme",
-      "info": "In onda: 04:00 - 04:30\n\nTelegiornale con la lettura dei principali quotidiani.\n\nA seguire (04:30): TG24 Edicola",
+      "info": "In onda: 06:00 - 06:23\n\nLe notizie in primo piano, dallItalia e dal mondo. Approfondimenti, giornali, web, meteo, traffico: tutto live.\n\nA seguire (06:23): Sky Meteo24",
       "thumbnail": "https://images.open-epg.com/19411.png"
     },
     {
-      "title": "Sky Uno.it - 03:35 Vita da ricchi",
+      "title": "Sky Uno.it - 05:55 MasterChef Italia",
       "link": "ignoreme",
-      "info": "In onda: 03:35 - 04:20\n\nUn ex maggiordomo della famiglia reale inglese spiega le regole delletichetta a Eamonn e Ruth. In seguito, i due partecipano allesclusivo ballo delle debuttanti.\n\nA seguire (04:20): Vita da ricchi",
+      "info": "In onda: 05:55 - 07:20\n\nLa Mystery Box prevede una tecnica basata su una modalita di cottura ben precisa: in crosta di argilla. LInvention Test ideato dallo chef Barbieri rende onore al processo di insaporimento delle carni chiamato marinatura.\n\nA seguire (07:20): MasterChef Italia",
       "thumbnail": "https://images.open-epg.com/19413.png"
     },
     {
-      "title": "ZONA DAZN.it - 00:00 Stag. 2019 - DAZN 1",
+      "title": "ZONA DAZN.it - 05:00 Stag. 2019 - DAZN 1",
       "link": "ignoreme",
-      "info": "In onda: 00:00 - 05:00\n\nDAZN 1 - DAZN 1\n\nA seguire (05:00): Stag. 2019 - DAZN 1",
+      "info": "In onda: 05:00 - 07:00\n\nDAZN 1 - DAZN 1\n\nA seguire (07:00): Fiorentina - Milan",
       "thumbnail": "https://images.open-epg.com/1700.png"
     },
     {
-      "title": "Zona Dazn 2.it - 23:00 Nessun evento in onda",
+      "title": "Zona Dazn 2.it - 05:00 Nessun evento in onda",
       "link": "ignoreme",
-      "info": "In onda: 23:00 - 05:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (05:00): Nessun evento in onda",
+      "info": "In onda: 05:00 - 11:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (11:00): Nessun evento in onda",
       "thumbnail": "https://images.open-epg.com/7515553.png"
     },
     {
-      "title": "Zona Dazn.it - 00:00 DAZN 1",
+      "title": "Zona Dazn.it - 05:00 DAZN 1",
       "link": "ignoreme",
-      "info": "In onda: 00:00 - 05:00\n\nDAZN 1\n\nA seguire (05:00): DAZN 1",
+      "info": "In onda: 05:00 - 07:00\n\nDAZN 1\n\nA seguire (07:00): Fiorentina - Milan",
       "thumbnail": "https://images.open-epg.com/7515557.png"
     }
   ]
