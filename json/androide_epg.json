@@ -6,18 +6,18 @@
     {
       "title": "Androide - EPG",
       "link": "ignoreme",
-      "info": "Aggiornato: 18/01/2026 04:02"
+      "info": "Aggiornato: 18/01/2026 06:19"
     },
     {
-      "title": "DAZN 1.it - 00:00 DAZN 1",
+      "title": "DAZN 1.it - 05:00 DAZN 1",
       "link": "ignoreme",
-      "info": "In onda: 00:00 - 05:00\n\nDAZN 1\n\nA seguire (05:00): DAZN 1",
+      "info": "In onda: 05:00 - 07:00\n\nDAZN 1\n\nA seguire (07:00): Napoli - Parma",
       "thumbnail": "https://images.open-epg.com/19310.png"
     },
     {
-      "title": "DAZN 2.it - 23:00 Nessun evento in onda",
+      "title": "DAZN 2.it - 05:00 Nessun evento in onda",
       "link": "ignoreme",
-      "info": "In onda: 23:00 - 05:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (05:00): Nessun evento in onda",
+      "info": "In onda: 05:00 - 11:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (11:00): Nessun evento in onda",
       "thumbnail": "https://images.open-epg.com/19311.png"
     },
     {
@@ -27,15 +27,15 @@
       "thumbnail": "https://images.open-epg.com/1531.png"
     },
     {
-      "title": "Sky Arte.it - 03:05 Marley",
+      "title": "Sky Arte.it - 06:05 Sugar Man",
       "link": "ignoreme",
-      "info": "In onda: 03:05 - 05:05\n\nBob Marley come non labbiamo mai visto: il regista Kevin Macdonald racconta per la prima volta in assoluto la vita privata di Bob Marley, icona della musica reggae\n\nA seguire (05:05): La Valigia",
+      "info": "In onda: 06:05 - 07:35\n\nPremio Oscar 2013. Detroit, anni 60: Sixto Rodriguez e un giovane folksinger. Tenta il successo ma non sfonda. Rassegnato, sgombera case e porta frigoriferi sulla schiena, ma in smoking. Finche si scopre rockstar a sua insaputa: era il simbolo della lotta allapartheid e tutti lo credevano morto. Il fato e beffardo. Capolavoro.\n\nA seguire (07:35): Billy Joel",
       "thumbnail": "https://images.open-epg.com/19379.png"
     },
     {
-      "title": "Sky Atlantic.it - 03:50 Gomorra - Le Origini - Speciale Backstage",
+      "title": "Sky Atlantic.it - 06:10 Yellowstone",
       "link": "ignoreme",
-      "info": "In onda: 03:50 - 04:10\n\n... Backstage. - Tutti i segreti del dietro le quinte di Gomorra Le Origini, la serie che racconta liniziazione criminale di Pietro Savastano.\n\nA seguire (04:10): Gomorra: Le origini",
+      "info": "In onda: 06:10 - 07:00\n\nFinale di stagione. - Nel finale della seconda stagione lo scontro tra i Dutton e i Beck raggiunge il suo culmine, mentre John e i suoi figli lottano per salvare la vita di uno di loro...\n\nA seguire (07:00): Gomorra: Le origini",
       "thumbnail": "https://images.open-epg.com/19381.png"
     },
     {
@@ -45,171 +45,165 @@
       "thumbnail": "https://images.open-epg.com/19383.png"
     },
     {
-      "title": "Sky Cinema Comedy.it - 03:00 Questione di karma",
+      "title": "Sky Cinema Comedy.it - 06:00 Bentornato Presidente",
       "link": "ignoreme",
-      "info": "In onda: 03:00 - 04:30\n\nFabio De Luigi ed Elio Germano animano unironica commedia esoterica. Il facoltoso Giacomo viene convinto da un guru che suo padre si e reincarnato in Mario, un imbroglione pieno di debiti (ITA 2017)\n\nA seguire (04:30): Sconnessi",
+      "info": "In onda: 06:00 - 07:50\n\nGiancarlo Fontana e Giuseppe Stasi dirigono Claudio Bisio e Sarah Felberbaum nel divertente sequel di Benvenuto Presidente!. Per riconquistare Janis, Peppino Garibaldi torna alla politica (ITA 2019)\n\nA seguire (07:50): Speciale - Gomorra - Le Origini",
       "thumbnail": "https://images.open-epg.com/19384.png"
     },
     {
-      "title": "Sky Cinema Drama.it - 03:10 Fire Squad - Incubo di fuoco",
+      "title": "Sky Cinema Drama.it - 05:45 Padri e figlie",
       "link": "ignoreme",
-      "info": "In onda: 03:10 - 05:25\n\nIntenso dramma catastrofico tratto da una storia vera con Josh Brolin, Miles Teller e Jeff Bridges. 2013: un gruppo di vigili del fuoco deve domare un gigantesco incendio in Arizona (USA 2017)\n\nA seguire (05:25): Speciale - Gomorra - Le Origini",
+      "info": "In onda: 05:45 - 07:45\n\nIntenso dramma familiare di Gabriele Muccino con Russell Crowe e Amanda Seyfried. Katie affronta i traumi di uninfanzia difficile, vissuta con un padre affetto da disturbi psicofisici (ITA/USA 2015)\n\nA seguire (07:45): Tartarughe allinfinito",
       "thumbnail": "https://images.open-epg.com/19385.png"
     },
     {
-      "title": "Sky Cinema Due.it - 03:15 Povere creature!",
+      "title": "Sky Cinema Due.it - 05:35 Will Hunting - Genio ribelle",
       "link": "ignoreme",
-      "info": "In onda: 03:15 - 05:35\n\n4 Oscar e Leone doro al film di Yorgos Lanthimos con Emma Stone, Willem Dafoe e Mark Ruffalo. Uno scienziato trova il modo di riportare in vita una donna con esiti imprevisti (USA/GBR 2023)\n\nA seguire (05:35): Will Hunting - Genio ribelle",
+      "info": "In onda: 05:35 - 07:45\n\nOscar a Robin Williams e alla sceneggiatura per il capolavoro di Gus Van Sant con Matt Damon e Ben Affleck. Un genio allo sbando incontra uno psicologo. La sua vita cambiera per sempre (USA 1997)\n\nA seguire (08:05): Fuori",
       "thumbnail": "https://images.open-epg.com/19387.png"
     },
     {
-      "title": "Sky Cinema Family.it - 03:05 Hotel Transylvania",
+      "title": "Sky Cinema Family.it - 06:10 Lego Batman - Il film",
       "link": "ignoreme",
-      "info": "In onda: 03:05 - 04:40\n\nBlockbuster di Halloween per tutta la famiglia. Il Conte Dracula organizza una festa per il compleanno della figlia Mavis, ma tra gli ospiti ce un intruso... (USA 2012)\n\nA seguire (04:40): A spasso col panda",
+      "info": "In onda: 06:10 - 08:00\n\nAnimazione digitale e mattoncini Lego si combinano di nuovo per unavventura targata DC. Batman si allea con la Justice League per sconfiggere i supercattivi capitanati da Joker (USA/DNK 2017)\n\nA seguire (08:00): Bambi - Una vita nei boschi",
       "thumbnail": "https://images.open-epg.com/19388.png"
     },
     {
-      "title": "Sky Cinema Romance.it - 02:15 Cè post@ per te",
+      "title": "Sky Cinema Romance.it - 06:15 In amore niente regole",
       "link": "ignoreme",
-      "info": "In onda: 02:15 - 04:15\n\nMeg Ryan e Tom Hanks in un classico della commedia romantica. La proprietaria di una libreria flirta in rete con uno sconosciuto. Scoprira che si tratta del suo rivale in affari (USA 1998)\n\nA seguire (04:15): Amore a seconda vista",
+      "info": "In onda: 06:15 - 08:15\n\nGeorge Clooney dirige e interpreta una commedia brillante con Renee Zellweger e John Krasinski. 1925: un capitano di football e un giovane fuoriclasse si innamorano della stessa donna (USA 2008)\n\nA seguire (08:30): Prima ti sposo, poi ti rovino",
       "thumbnail": "https://images.open-epg.com/19389.png"
     },
     {
-      "title": "Sky Cinema Suspense.it - 03:40 Body Cam",
+      "title": "Sky Cinema Suspense.it - 05:15 Un tranquillo weekend di paura",
       "link": "ignoreme",
-      "info": "In onda: 03:40 - 05:15\n\nMary J. Blige in un thriller avvolto nel mistero. Unagente di Los Angeles indaga sullinspiegabile morte di un collega, ma il suo unico indizio e un inquietante filmato (USA 2020)\n\nA seguire (05:15): Un tranquillo weekend di paura",
+      "info": "In onda: 05:15 - 07:00\n\nJon Voight e Burt Reynolds nel cult di John Boorman. Un weekend nella natura degli Appalachi si trasforma in un incubo da cui quattro amici cercano di fuggire (USA 1972)\n\nA seguire (07:00): Synchronic",
       "thumbnail": "https://images.open-epg.com/19390.png"
     },
     {
-      "title": "Sky Cinema Uno +24.it - 01:55 John Wick 4",
+      "title": "Sky Cinema Uno +24.it - 04:40 King Arthur: Il potere della spada",
       "link": "ignoreme",
-      "info": "In onda: 01:55 - 04:40\n\nKeanu Reeves nel quarto capitolo della saga action. Per chiudere i conti e conquistare la liberta, John Wick affronta un ultimo viaggio in giro per il mondo tra vecchi amici e nuovi nemici (USA 2023)\n\nA seguire (04:40): King Arthur: Il potere della spada",
+      "info": "In onda: 04:40 - 06:45\n\nGuy Ritchie rilegge il mito di Re Artu, con Charlie Hunnam e Jude Law. Cresciuto nei sobborghi di Londra, Arthur estrae la spada dalla roccia e sfida Vortigern per sedere sul trono (USA/AUS 2017)\n\nA seguire (06:45): The Equalizer - Il vendicatore",
       "thumbnail": "https://images.open-epg.com/19391.png"
     },
     {
-      "title": "Sky Cinema Uno.it - 03:20 Le belve",
+      "title": "Sky Cinema Uno.it - 05:30 Battleship",
       "link": "ignoreme",
-      "info": "In onda: 03:20 - 05:30\n\nBlake Lively, Aaron Johnson e Taylor Kitsch in un thriller di Oliver Stone. Due giovani coltivatori di marijuana entrano in conflitto con i crudeli narcotrafficanti messicani (USA 2012)\n\nA seguire (05:30): Battleship",
+      "info": "In onda: 05:30 - 07:45\n\nEpica battaglia nellOceano Pacifico con Taylor Kitsch, Rihanna e Liam Neeson. Le forze navali americane e giapponesi si alleano per difendere la Terra da una flotta di astronavi aliene (USA 2012)\n\nA seguire (07:45): Spider-Man: No Way Home",
       "thumbnail": "https://images.open-epg.com/19392.png"
     },
     {
-      "title": "Sky Classica.it - 02:25 Donizetti - Don Pasquale",
+      "title": "Sky Classica.it - 05:15 Offenbach - Orfeo allinferno",
       "link": "ignoreme",
-      "info": "In onda: 02:25 - 04:45\n\nEsecuzione in forma di concerto del Don Pasquale - con N.Alaimo, M.Cassi, J.F.Gatell, L.Giordano, L.Dallamico - Orchestra Giovanile Luigi Cherubini - Coro del Teatro Municipale di Piacenza - R.Muti, dir. (2019)\n\nA seguire (04:45): Pianisti - Laccademia di Imola, ep.7",
+      "info": "In onda: 05:15 - 07:45\n\nOperetta in due atti (1858) che riprende in chiave comico-satirica il mito di Orfeo - con J.Prieto, K.Lewek, A.Sofie von Otter - Wiener Philharmoniker - E.Mazzola, dir. - B.Kosky, reg. (Festival di Salisburgo, 2019)\n\nA seguire (07:45): Dvorak - Sinfonia n.9",
       "thumbnail": "https://images.open-epg.com/4100139.png"
     },
     {
-      "title": "Sky Crime.it - 04:00 Court Cam: processi in diretta",
+      "title": "Sky Crime.it - 05:55 Mostri Senza Nome - Roma",
       "link": "ignoreme",
-      "info": "In onda: 04:00 - 04:25\n\nS3 Ep25 In lotta per la vita - Una pugile professionista sopravvive allincontro della vita, un assassino alle prese con uno sfogo scioccante, un giudice rapper fa cadere microfono e martelletto.\n\nA seguire (04:25): Court Cam: processi in diretta",
+      "info": "In onda: 05:55 - 06:50\n\nS1 Ep2 Il Mistero Del Binario 10 - Duilio Saggia Civitelli muore il 12 febbraio 1995. Mentre aspettava il treno diretto a Formia, un uomo gli si era avvicinando sparandogli alla testa.\n\nA seguire (06:50): Profondo Nero Di Carlo Lucarelli",
       "thumbnail": "https://images.open-epg.com/19394.png"
     },
     {
-      "title": "Sky Documentaries +1.it - 03:35 I nazisti e larte rubata",
+      "title": "Sky Documentaries +1.it - 06:00 Markets of the world",
       "link": "ignoreme",
-      "info": "In onda: 03:35 - 04:20\n\nS1 Ep3 Monuments Men: una storia aperta - Facciamo luce sullossessione dei nazisti per larte e sui tanti furti di capolavori da loro perpetrati durante la seconda guerra mondiale.\n\nA seguire (04:20): The Editor Is In",
+      "info": "In onda: 06:00 - 06:30\n\nS1 Ep1 Vietnam: Il mercato galleggiante - Il Delta del Mekong ospita il mercato galleggiante di Cai Rang, uno dei piu affascinanti del sud-est asiatico.\n\nA seguire (06:30): One Strange Rock: Pianeta Terra",
       "thumbnail": "https://images.open-epg.com/nologo.png"
     },
     {
-      "title": "Sky Documentaries.it - 03:40 Gomorra - Le Origini - Speciale",
+      "title": "Sky Documentaries.it - 05:30 One Strange Rock: Pianeta Terra",
       "link": "ignoreme",
-      "info": "In onda: 03:40 - 04:10\n\n... Backstage. - Tutti i segreti del dietro le quinte di Gomorra Le Origini, la serie che racconta liniziazione criminale di Pietro Savastano.\n\nA seguire (04:10): One Strange Rock: Pianeta Terra",
+      "info": "In onda: 05:30 - 06:20\n\nS1 Ep3 One Strange Rock: Pianeta Terra Ep.03 - One Strange Rock: Pianeta Terra\n\nA seguire (06:20): One Strange Rock: Pianeta Terra",
       "thumbnail": "https://images.open-epg.com/19396.png"
     },
     {
-      "title": "Sky Investigation.it - 03:35 NCIS",
+      "title": "Sky Investigation.it - 05:45 Accused: Sotto processo",
       "link": "ignoreme",
-      "info": "In onda: 03:35 - 04:20\n\nS9 Ep14 Tutta la vita davanti agli occhi - Un criminale incappucciato spara a Gibbs che vive il flashback della sua vita, cosi come sarebbe stata se solo in passato avesse fatto scelte differenti.\n\nA seguire (04:20): NCIS",
+      "info": "In onda: 05:45 - 06:30\n\nS2 Ep1 La storia di Lorraine - Una medium cerca di aiutare una coppia disperata che sta cercando freneticamente di ritrovare il figlio scomparso.\n\nA seguire (06:30): Accused: Sotto processo",
       "thumbnail": "https://images.open-epg.com/19398.png"
     },
     {
-      "title": "Sky Nature.it - 03:30 Predatori letali dAustralia",
+      "title": "Sky Nature.it - 06:10 Panorami nascosti",
       "link": "ignoreme",
-      "info": "In onda: 03:30 - 04:25\n\nS1 Ep1 Foreste - Le vite segrete delle creature piu note e letali dAustralia. Gli intricati rami delle foreste australiane ospitano predatori letali.\n\nA seguire (04:25): Borneo da salvare",
+      "info": "In onda: 06:10 - 07:05\n\nS2 Ep2 Islanda: Terra di ghiaccio - LIslanda e lisola vulcanica piu grande del mondo. I suoi 30 vulcani attivi generano un terzo della lava mondiale. E una terra di fuoco.\n\nA seguire (07:05): Natural World - I Signori Delle Nevi",
       "thumbnail": "https://images.open-epg.com/19393.png"
     },
     {
-      "title": "Sky News.it - 04:00 Sky News",
+      "title": "Sky News.it - 06:00 Mornings with Jones and Melbourne",
       "link": "ignoreme",
-      "info": "In onda: 04:00 - 05:00\n\nA round up of all the latest news from the UK and around the world, including the Press Preview.\n\nA seguire (05:00): Sky News",
+      "info": "In onda: 06:00 - 06:30\n\nAll the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.\n\nA seguire (06:30): Mornings with Jones and Melbourne",
       "thumbnail": "https://images.open-epg.com/19400.png"
     },
     {
-      "title": "Sky Sport 4K.it - 02:45 Cagliari - Juventus",
+      "title": "Sky Serie.it - 06:15 Friends",
       "link": "ignoreme",
-      "info": "In onda: 02:45 - 04:30\n\nCagliari - Juventus - Sardi quintultimi con un solo punto in 3 giornate. Juventus quarta con appena una sconfitta in 12 giornate e un solo ko a Cagliari negli ultimi 13 precedenti. TC: Compagnoni-Gobbi\n\nA seguire (04:30): Luomo Contro La Macchina",
+      "info": "In onda: 06:15 - 06:40\n\nS7 Ep15 Il cervello nuovo - Rachel e Phoebe sono alle prese con un dilemma amoroso: devono stabilire a chi spetta tentare un approccio con un bel ragazzo visto al Central Perk. Ross scopre che Chandler ha delle vaghe origini scozzesi.\n\nA seguire (07:00): Friends",
+      "thumbnail": "https://images.open-epg.com/19402.png"
+    },
+    {
+      "title": "Sky Sport 4K.it - 06:00 Cagliari - Juventus",
+      "link": "ignoreme",
+      "info": "In onda: 06:00 - 07:45\n\nCagliari - Juventus - Sardi quintultimi con un solo punto in 3 giornate. Juventus quarta con appena una sconfitta in 12 giornate e un solo ko a Cagliari negli ultimi 13 precedenti. TC: Compagnoni-Gobbi\n\nA seguire (07:45): Inter - Liverpool",
       "thumbnail": "https://images.open-epg.com/19403.png"
     },
     {
-      "title": "Sky Sport Calcio.it - 02:30 Lipsia - Bayern Monaco",
+      "title": "Sky Sport Calcio.it - 05:00 Cagliari - Juventus",
       "link": "ignoreme",
-      "info": "In onda: 02:30 - 04:30\n\nLipsia - Bayern Monaco - Dalla Red Bull Arena di Lipsia, Germania.\n\nA seguire (04:30): Paolo Maldini",
+      "info": "In onda: 05:00 - 07:00\n\nCagliari - Juventus - Sardi quintultimi con un solo punto in 3 giornate. Juventus quarta con appena una sconfitta in 12 giornate e un solo ko a Cagliari negli ultimi 13 precedenti. TC: Compagnoni-Gobbi\n\nA seguire (07:00): Nottingham Forest - Arsenal",
       "thumbnail": "https://images.open-epg.com/19405.png"
     },
     {
-      "title": "Sky Sport F1.it - 04:00 Budapest: Sprint Race",
+      "title": "Sky Sport F1.it - 06:15 Motori F1 Race Anatomy - Stag. Motori Race Anatomy F1 2025 - Motori Race Anatomy F1 2025 Ep.25 Speciale Natale 2025 22/12/2025",
       "link": "ignoreme",
-      "info": "In onda: 04:00 - 05:00\n\nBudapest: Sprint Race - DallHungaroring di Mogyorod, Ungheria.\n\nA seguire (05:00): S.Race: GP Belgio",
+      "info": "In onda: 06:15 - 07:15\n\nSpeciale Natale - Lanalisi del Gran Premio disputato per commentare la gara insieme agli ospiti in studio. Riviviamo i brividi della corsa attraverso le immagini piu spettacolari e ascoltiamo i commenti a caldo dei protagonisti.\n\nA seguire (07:15): Rivoluzione 2026",
       "thumbnail": "https://images.open-epg.com/19406.png"
     },
     {
-      "title": "Sky Sport Golf.it - 01:30 Nedbank Golf Challenge: Giorno 4",
+      "title": "Sky Sport Max.it - 05:00 Basket Eurolega - Ep. 78 - Basket Eurolega Round 22 Dubai/ Virtus Bologna 15/01/2026",
       "link": "ignoreme",
-      "info": "In onda: 01:30 - 04:30\n\nNedbank Golf Challenge: Giorno 4 - Dal Gary Player Country Club in Sudafrica.\n\nA seguire (04:30): Highlights 48° Campionato PGAI",
-      "thumbnail": "https://images.open-epg.com/19407.png"
-    },
-    {
-      "title": "Sky Sport Max.it - 04:00 Tennis ATP Season Review Show 2025",
-      "link": "ignoreme",
-      "info": "In onda: 04:00 - 05:00\n\nIl racconto di tutti i tornei Masters 1000 e dei momenti piu importanti della stagione 2025 nel circuito Atp.\n\nA seguire (05:00): Basket Eurolega - Ep. 78 - Basket Eurolega Round 22 Dubai/ Virtus Bologna 15/01/2026",
+      "info": "In onda: 05:00 - 07:00\n\nDubai Basketball - Virtus Olidata Bologna - Le V Nere affrontano la trasferta piu lunga: a Dubai, contro lex Abass, in palio ci sono punti pesanti nella corsa alla post season. Telecronaca di Andrea Solaini e Chicca Macchi.\n\nA seguire (07:00): Gianluca Basile",
       "thumbnail": "https://images.open-epg.com/19408.png"
     },
     {
-      "title": "Sky Sport MotoGP.it - 03:20 Motori Moto Gp - Ep. 380 - Motori Moto Gp 2025 Gala Del Motomondiale 16/11/2025",
+      "title": "Sky Sport Tennis.it - 05:00 Errani/Paolini - Jiang/Wu",
       "link": "ignoreme",
-      "info": "In onda: 03:20 - 04:30\n\nGala del motomondiale - Copertura completa e repliche delle gare degli emozionanti eventi che compongono il Campionato del Mondo MotoGP. Una serie di dettagliati approfondimenti ci consente di restare aggiornati e cogliere spunti sempre nuovi.\n\nA seguire (04:30): Paddock Life - Best Of 2025",
-      "thumbnail": "https://images.open-epg.com/19409.png"
-    },
-    {
-      "title": "Sky Sport Tennis.it - 04:00 Game, Set, Fabio. Lultimo Wimbledon",
-      "link": "ignoreme",
-      "info": "In onda: 04:00 - 04:15\n\nGame, Set, Fabio. Lultimo Wimbledon\n\nA seguire (04:15): 20 Colpi Stagione 2025",
+      "info": "In onda: 05:00 - 06:55\n\nFinale Doppio: Errani/Paolini - Jiang/Wu - WTA 1000 Doha\n\nA seguire (06:55): Finale",
       "thumbnail": "https://images.open-epg.com/19404.png"
     },
     {
-      "title": "Sky Sport Uno.it - 03:00 Cagliari - Juventus",
+      "title": "Sky Sport Uno.it - 05:00 Lipsia - Bayern Monaco",
       "link": "ignoreme",
-      "info": "In onda: 03:00 - 05:00\n\nCagliari - Juventus - Sardi quintultimi con un solo punto in 3 giornate. Juventus quarta con appena una sconfitta in 12 giornate e un solo ko a Cagliari negli ultimi 13 precedenti. TC: Compagnoni-Gobbi\n\nA seguire (05:00): Lipsia - Bayern Monaco",
+      "info": "In onda: 05:00 - 06:45\n\nLipsia - Bayern Monaco - Dalla Red Bull Arena di Lipsia, Germania.\n\nA seguire (06:45): 90:10 - Ep. 8 - 90/10 Ep.8 Lo Sbarco Del Fenomeno: Ronnie E Linter 16/01/2026",
       "thumbnail": "https://images.open-epg.com/19410.png"
     },
     {
-      "title": "Sky TG24.it - 04:00 TG24 Edicola",
+      "title": "Sky TG24.it - 06:00 TG24 mezzora",
       "link": "ignoreme",
-      "info": "In onda: 04:00 - 04:30\n\nTelegiornale con la lettura dei principali quotidiani.\n\nA seguire (04:30): TG24 Edicola",
+      "info": "In onda: 06:00 - 06:20\n\nTelegiornale in diretta. I giornali di oggi, lo Sport, il Meteo.\n\nA seguire (06:20): Sky Meteo24",
       "thumbnail": "https://images.open-epg.com/19411.png"
     },
     {
-      "title": "Sky Uno.it - 03:45 Alessandro Borghese - 4 Ristoranti",
+      "title": "Sky Uno.it - 05:50 MasterChef Magazine",
       "link": "ignoreme",
-      "info": "In onda: 03:45 - 05:05\n\nS11 Ep5 Alessandro Borghese - 4 Ristoranti S.11 Ep.05 - Una avventura guidata dallo chef Alessandro Borghese: quattro ristoranti, che si trovano nella stessa zona, vengono messi in competizione tra loro per stabilire quale sia il migliore.\n\nA seguire (05:05): MasterChef Magazine",
+      "info": "In onda: 05:50 - 06:20\n\nS15 Ep19 Masterchef Italia Magazine S.15 Ep.19 - Loretta Rizzotti, concorrente di MasterChef 8, ci apre le porte della sua Tenuta Pizzone a Rivanazzano Terme, in provincia di Pavia.\n\nA seguire (06:20): MasterChef Italia",
       "thumbnail": "https://images.open-epg.com/19413.png"
     },
     {
-      "title": "ZONA DAZN.it - 00:00 Stag. 2019 - DAZN 1",
+      "title": "ZONA DAZN.it - 05:00 Stag. 2019 - DAZN 1",
       "link": "ignoreme",
-      "info": "In onda: 00:00 - 05:00\n\nDAZN 1 - DAZN 1\n\nA seguire (05:00): Stag. 2019 - DAZN 1",
+      "info": "In onda: 05:00 - 07:00\n\nDAZN 1 - DAZN 1\n\nA seguire (07:00): Napoli - Parma",
       "thumbnail": "https://images.open-epg.com/1700.png"
     },
     {
-      "title": "Zona Dazn 2.it - 23:00 Nessun evento in onda",
+      "title": "Zona Dazn 2.it - 05:00 Nessun evento in onda",
       "link": "ignoreme",
-      "info": "In onda: 23:00 - 05:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (05:00): Nessun evento in onda",
+      "info": "In onda: 05:00 - 11:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (11:00): Nessun evento in onda",
       "thumbnail": "https://images.open-epg.com/7515553.png"
     },
     {
-      "title": "Zona Dazn.it - 00:00 DAZN 1",
+      "title": "Zona Dazn.it - 05:00 DAZN 1",
       "link": "ignoreme",
-      "info": "In onda: 00:00 - 05:00\n\nDAZN 1\n\nA seguire (05:00): DAZN 1",
+      "info": "In onda: 05:00 - 07:00\n\nDAZN 1\n\nA seguire (07:00): Napoli - Parma",
       "thumbnail": "https://images.open-epg.com/7515557.png"
     }
   ]
