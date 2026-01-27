@@ -6,18 +6,18 @@
     {
       "title": "Androide - EPG",
       "link": "ignoreme",
-      "info": "Aggiornato: 27/01/2026 04:03"
+      "info": "Aggiornato: 27/01/2026 06:22"
     },
     {
-      "title": "DAZN 1.it - 23:30 DAZN 1",
+      "title": "DAZN 1.it - 05:00 DAZN 1",
       "link": "ignoreme",
-      "info": "In onda: 23:30 - 05:00\n\nDAZN 1\n\nA seguire (05:00): DAZN 1",
+      "info": "In onda: 05:00 - 07:00\n\nDAZN 1\n\nA seguire (07:00): Como - Torino",
       "thumbnail": "https://images.open-epg.com/19310.png"
     },
     {
-      "title": "DAZN 2.it - 23:00 Nessun evento in onda",
+      "title": "DAZN 2.it - 05:00 Nessun evento in onda",
       "link": "ignoreme",
-      "info": "In onda: 23:00 - 05:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (05:00): Nessun evento in onda",
+      "info": "In onda: 05:00 - 11:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (11:00): Nessun evento in onda",
       "thumbnail": "https://images.open-epg.com/19311.png"
     },
     {
@@ -27,195 +27,189 @@
       "thumbnail": "https://images.open-epg.com/1531.png"
     },
     {
-      "title": "Sky Arte.it - 03:25 Music Box",
+      "title": "Sky Arte.it - 05:35 Italian Season",
       "link": "ignoreme",
-      "info": "In onda: 03:25 - 05:00\n\nS1 Ep5 Listening to Kenny G - Una raccolta di sei documentari che esplorano i momenti cruciali nella musica. Nel quinto episodio ripercorriamo la carriera dello strumentista jazz Kenny G.\n\nA seguire (05:00): ArtBox 1^TV",
+      "info": "In onda: 05:35 - 06:30\n\nS1 Ep5 Casanova: Le maschere del seduttore - Un viaggio tra i nomi e i luoghi che hanno fatto dellItalia il sinonimo di arte. Lattore Ian Kelly, autore di un bestseller su Casanova, ci svela i segreti dello scrittore veneziano.\n\nA seguire (06:30): Italian Season",
       "thumbnail": "https://images.open-epg.com/19379.png"
     },
     {
-      "title": "Sky Atlantic.it - 03:30 Seal Team",
+      "title": "Sky Atlantic.it - 06:15 The Walking Dead: Daryl Dixon",
       "link": "ignoreme",
-      "info": "In onda: 03:30 - 04:15\n\nS2 Ep6 Caccia al cartello - Il Bravo Team collabora con i Marines messicani per dare la caccia al capo di uno dei cartelli della droga piu potenti e letali del Messico.\n\nA seguire (04:15): Seal Team",
+      "info": "In onda: 06:15 - 07:10\n\nS3 Ep5 Limbo - Carol presta aiuto ad Antonio e Roberto, mentre Daryl si avventura nel deserto alla ricerca di qualcuno.\n\nA seguire (07:10): The Walking Dead: Daryl Dixon",
       "thumbnail": "https://images.open-epg.com/19381.png"
     },
     {
-      "title": "Sky Cinema Action.it - 03:35 Twist",
+      "title": "Sky Cinema Action.it - 05:10 Men in Black II",
       "link": "ignoreme",
-      "info": "In onda: 03:35 - 05:10\n\nModerna rilettura targata Sky Original del romanzo di Charles Dickens, con Rafferty Law e Michael Caine. Nella Londra di oggi, una gang di giovani criminali pianifica la rapina del secolo (GBR 2021)\n\nA seguire (05:10): Men in Black II",
+      "info": "In onda: 05:10 - 06:40\n\nWill Smith e Tommy Lee Jones nel secondo capitolo della saga fanta-action. Una malvagia aliena vuole impossessarsi di una potentissima pietra. Ma gli agenti J e K sono pronti a fermarla (USA 2002)\n\nA seguire (06:40): Il Signore degli Anelli - La guerra dei Rohirrim",
       "thumbnail": "https://images.open-epg.com/19383.png"
     },
     {
-      "title": "Sky Cinema Comedy.it - 03:45 2 fantasmi di troppo",
+      "title": "Sky Cinema Comedy.it - 05:15 Oceans Thirteen",
       "link": "ignoreme",
-      "info": "In onda: 03:45 - 05:15\n\nPaolo Vita e Nunzio Fabrizio Rotondo dirigono e interpretano unesilarante commedia. In debito con una strozzina, due amici si fingono medium, ma finiscono per evocare due veri fantasmi (ITA 2021)\n\nA seguire (05:15): Oceans Thirteen",
+      "info": "In onda: 05:15 - 07:20\n\nGeorge Clooney, Brad Pitt e il resto della banda nel terzo capitolo della saga. I professionisti del furto devono saccheggiare il casino di un magnate interpretato da Al Pacino (USA 2007)\n\nA seguire (07:20): Intervista a Edoardo Leo",
       "thumbnail": "https://images.open-epg.com/19384.png"
     },
     {
-      "title": "Sky Cinema Drama.it - 03:25 La notte più lunga dellanno",
+      "title": "Sky Cinema Drama.it - 05:00 Piccolo corpo",
       "link": "ignoreme",
-      "info": "In onda: 03:25 - 05:00\n\nDramma corale con Ambra Angiolini. Potenza: attorno a unarea di servizio, la notte del solstizio dinverno diventa il punto di svolta per un politico, una cubista e un gruppo di ragazzi (ITA 2021)\n\nA seguire (05:00): Piccolo corpo",
+      "info": "In onda: 05:00 - 06:30\n\nEsordio alla regia di Laura Samani, premiata ai David di Donatello. Dopo aver perso sua figlia alla nascita, Agata parte alla volta di un santuario per battezzare la sua creatura (ITA/FRA 2021)\n\nA seguire (06:30): A Chiara",
       "thumbnail": "https://images.open-epg.com/19385.png"
     },
     {
-      "title": "Sky Cinema Due.it - 03:40 Unbroken",
+      "title": "Sky Cinema Due.it - 06:00 Il Dono Piu Prezioso",
       "link": "ignoreme",
-      "info": "In onda: 03:40 - 06:00\n\nSceneggiato dai fratelli Coen, war movie biografico di Angelina Jolie. Seconda guerra mondiale: reclutato in aviazione, latleta Louis Zamperini finisce in mano ai giapponesi nel Pacifico (USA 2014)\n\nA seguire (06:00): Il Dono Piu Prezioso",
+      "info": "In onda: 06:00 - 07:30\n\nMandato al campo di Auschwitz, un padre getta dal treno uno dei suoi figli gemelli. Un povero taglialegna raccoglie un pacco caduto nella neve e il piccolo fagotto si rivela essere cio che aveva atteso con tanta impazienza (FR/BE 2025)\n\nA seguire (07:45): Ogni cosa è illuminata",
       "thumbnail": "https://images.open-epg.com/19387.png"
     },
     {
-      "title": "Sky Cinema Family.it - 03:55 Smallfoot: Il mio amico delle nevi",
+      "title": "Sky Cinema Family.it - 05:35 Il prodigioso Maurice",
       "link": "ignoreme",
-      "info": "In onda: 03:55 - 05:35\n\nFavola danimazione che cambia il punto di vista di unantica leggenda. Un gruppo di Yeti scopre lesistenza di una specie considerata finora solo uninvenzione: gli esseri umani (USA 2018)\n\nA seguire (05:35): Il prodigioso Maurice",
+      "info": "In onda: 05:35 - 07:10\n\nAnimazione Sky Original dal romanzo di Terry Pratchett. Lastuto gatto Maurice coinvolge nel suo piano truffaldino una banda di topi parlanti e il giovane pifferaio Keith (USA/GBR 2022)\n\nA seguire (07:10): 100% Lupo",
       "thumbnail": "https://images.open-epg.com/19388.png"
     },
     {
-      "title": "Sky Cinema Romance.it - 03:35 Last Christmas",
+      "title": "Sky Cinema Romance.it - 05:20 Nove lune e mezza",
       "link": "ignoreme",
-      "info": "In onda: 03:35 - 05:20\n\nLa musica di George Michael in una romantica commedia con Emilia Clarke e Henry Golding. Kate fa lelfo in uno shop natalizio e sogna di cantare. Lincontro con Tom le cambiera la vita (USA/GBR 2019)\n\nA seguire (05:20): Nove lune e mezza",
+      "info": "In onda: 05:20 - 07:05\n\nMichela Andreozzi dirige e interpreta una commedia con Claudia Gerini e Giorgio Pasotti. Livia accetta di fungere da madre surrogata per sua sorella, allinsaputa dei rispettivi fidanzati (ITA 2017)\n\nA seguire (07:05): Cinquanta sfumature di rosso",
       "thumbnail": "https://images.open-epg.com/19389.png"
     },
     {
-      "title": "Sky Cinema Suspense.it - 02:45 Empire State",
+      "title": "Sky Cinema Suspense.it - 06:05 V per Vendetta",
       "link": "ignoreme",
-      "info": "In onda: 02:45 - 04:20\n\nLiam Hemsworth e Dwayne Johnson in un action senza respiro, tratto da una storia vera. Due giovani immigrati greci mettono a segno un colpo milionario, ma un detective e sulle loro tracce (USA 2013)\n\nA seguire (04:20): Io sono leggenda",
+      "info": "In onda: 06:05 - 08:20\n\nNatalie Portman in un fanta-action tratto dalla graphic novel di Alan Moore e David Lloyd. Un giustiziere mascherato si oppone al governo totalitario che ha soggiogato il Regno Unito (USA/GBR 2005)\n\nA seguire (08:20): Detective Marlowe",
       "thumbnail": "https://images.open-epg.com/19390.png"
     },
     {
-      "title": "Sky Cinema Uno +24.it - 03:20 I peccatori",
+      "title": "Sky Cinema Uno +24.it - 05:35 La Trama Fenicia",
       "link": "ignoreme",
-      "info": "In onda: 03:20 - 05:35\n\nRecord di nomination agli Oscar per il sorprendente film di Ryan Coogler con Michael B. Jordan. In cerca di un nuovo inizio due gemelli tornano a casa, ma un male oscuro li attende (USA 2025)\n\nA seguire (05:35): La Trama Fenicia",
+      "info": "In onda: 05:35 - 07:20\n\nUno strepitoso cast per la favola anticapitalista di Wes Anderson. Quando un ricco magnate nomina la figlia come unica erede, i due diventano bersaglio di terroristi e assassini (USA 2025)\n\nA seguire (07:20): Robin Hood - Lorigine della leggenda",
       "thumbnail": "https://images.open-epg.com/19391.png"
     },
     {
-      "title": "Sky Cinema Uno.it - 03:50 Borderlands",
+      "title": "Sky Cinema Uno.it - 05:35 65 - Fuga dalla Terra",
       "link": "ignoreme",
-      "info": "In onda: 03:50 - 05:35\n\nAvventuroso fanta-action di Eli Roth con Cate Blanchett e Jamie Lee Curtis. Orde di criminali intergalattici arrivano su Pandora per accaparrarsi la fonte di un potere alieno (USA 2024)\n\nA seguire (05:35): 65 - Fuga dalla Terra",
+      "info": "In onda: 05:35 - 07:10\n\nAdam Driver nel fanta-action prodotto da Sam Raimi. Quando unastronave precipita su un pianeta sconosciuto, due superstiti scoprono di trovarsi sulla Terra di 65 milioni di anni fa (USA/CAN 2023)\n\nA seguire (07:10): 10 giorni senza mamma",
       "thumbnail": "https://images.open-epg.com/19392.png"
     },
     {
-      "title": "Sky Classica.it - 04:00 Gluck - Orfeo ed Euridice",
+      "title": "Sky Classica.it - 06:00 Carmina Burana - E.Clug, cor.",
       "link": "ignoreme",
-      "info": "In onda: 04:00 - 06:00\n\nOpera (1762) in tre atti su libretto di R.de Calzabigi - con A.Rachvelishvili, M.Alberola, A.Toledano - Orchestra bandArt - G.Nikolic, dir. - La Fura dels Baus, reg. (Festival di Peralada, Catalogna - 2011)\n\nA seguire (06:00): Carmina Burana - E.Clug, cor.",
+      "info": "In onda: 06:00 - 07:00\n\nLe stagioni, oratorio in 4 parti di Joseph Haydn (1801), diventa balletto nella coreografia di Martin Schlaepfer - Wiener Staatsballett - Wiener Staatsoper Orchestra - A.Fischer, dir. (Opera di Stato di Vienna, 2022)\n\nA seguire (07:00): La classica domanda - Michele Serra",
       "thumbnail": "https://images.open-epg.com/4100139.png"
     },
     {
-      "title": "Sky Crime.it - 03:45 Blood detectives - Legami di...",
+      "title": "Sky Crime.it - 06:05 La strage di San Gennaro",
       "link": "ignoreme",
-      "info": "In onda: 03:45 - 04:35\n\nS3 Ep14 Lo zaino abbandonato - ...sangue: 1 giugno 1989, Las Vegas: Stephanie Isaacson esce di casa per andare a scuola, ma non la raggiungera mai.\n\nA seguire (04:35): Online - Connessioni Pericolose",
+      "info": "In onda: 06:05 - 07:40\n\nCastel Volturno, 18 settembre 2008: Antonio Celiento e sei immigrati africani vengono brutalmente assassinati dalla Camorra.\n\nA seguire (07:40): Delitti a circuito chiuso",
       "thumbnail": "https://images.open-epg.com/19394.png"
     },
     {
-      "title": "Sky Documentaries +1.it - 03:25 Mondiali 2006 - Destino azzurro",
+      "title": "Sky Documentaries +1.it - 06:00 Auschwitz - Le Radici Del Male",
       "link": "ignoreme",
-      "info": "In onda: 03:25 - 04:15\n\nS1 Ep2 La prova del dieci - Un rigore decisivo porta gli Azzurri ai quarti di finale e una brutta notizia unisce il gruppo ancora di piu.\n\nA seguire (04:15): Eredi della Shoah",
+      "info": "In onda: 06:00 - 07:00\n\nAuschwitz - Le Radici Del Male\n\nA seguire (07:00): The Editor Is In",
       "thumbnail": "https://images.open-epg.com/nologo.png"
     },
     {
-      "title": "Sky Documentaries.it - 03:15 Eredi della Shoah",
+      "title": "Sky Documentaries.it - 06:10 Poliomielite: Le sfide di ieri e di oggi",
       "link": "ignoreme",
-      "info": "In onda: 03:15 - 04:05\n\nUn viaggio da Tel Aviv a Roma e a Firenze per incontrare i nipoti dei sopravvissuti alla Shoah e capire come questa eredita condiziona ancora il nostro presente.\n\nA seguire (04:05): Eredi della Shoah",
+      "info": "In onda: 06:10 - 06:45\n\nRipercorriamo le sfide che la poliomielite ha presentato nel corso dei decenni e le strategie adottate per combatterla.\n\nA seguire (06:45): La Mala. Banditi a Milano",
       "thumbnail": "https://images.open-epg.com/19396.png"
     },
     {
-      "title": "Sky Investigation.it - 03:35 NCIS",
+      "title": "Sky Investigation.it - 06:15 La signora in giallo",
       "link": "ignoreme",
-      "info": "In onda: 03:35 - 04:05\n\nS10 Ep8 Sequestro lampo - Il team sta indagando sul rapimento di una ragazzina e Ziva ed Abby lavorano a stretto contatto con lunico testimone presente durante laggressione.\n\nA seguire (04:05): La signora in giallo",
+      "info": "In onda: 06:15 - 06:50\n\nS4 Ep22 La fiera elettorale - Una cara amica di Jessica, Kathleen, e candidata per il Senato. Ma la morte di un suo collaboratore getta unombra sulla sua persona.\n\nA seguire (08:05): NCIS: New Orleans",
       "thumbnail": "https://images.open-epg.com/19398.png"
     },
     {
-      "title": "Sky Nature.it - 03:15 Diario di un giaguaro",
+      "title": "Sky Nature.it - 05:00 Il Marsicano - Lultimo orso",
       "link": "ignoreme",
-      "info": "In onda: 03:15 - 04:05\n\nS1 Ep1 Maschi dominanti - Quando viene a mancare un maschio dominante, quale candidato e pronto a sostituirlo?\n\nA seguire (04:05): Balene con Steve Backshall",
+      "info": "In onda: 05:00 - 06:35\n\nAttraverso le incredibili vicende del cucciolo Juan Carrito, questa produzione Sky Original racconta limpegno del Parco Nazionale dAbruzzo nella tutela dellorso bruno marsicano.\n\nA seguire (06:35): La natura piu pazza del mondo",
       "thumbnail": "https://images.open-epg.com/19393.png"
     },
     {
-      "title": "Sky News.it - 04:00 Sky News",
+      "title": "Sky News.it - 06:00 Mornings",
       "link": "ignoreme",
-      "info": "In onda: 04:00 - 05:00\n\nA round up of all the latest news from the UK and around the world, including the Press Preview.\n\nA seguire (05:00): Sky News",
+      "info": "In onda: 06:00 - 06:30\n\nAll the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.\n\nA seguire (06:30): Mornings",
       "thumbnail": "https://images.open-epg.com/19400.png"
     },
     {
-      "title": "Sky Serie.it - 03:35 New Amsterdam",
+      "title": "Sky Serie.it - 05:50 Call My Agent - Italia",
       "link": "ignoreme",
-      "info": "In onda: 03:35 - 04:15\n\nS3 Ep1 La nuova normalita - Il New Amsterdam continua a lottare contro la pandemia e il personale deve agire rapidamente per salvare le molteplici vittime di un incidente aereo. Inoltre, gli agenti interrogano lequipaggio ed Iggy aiuta il pilota a scoprire la verita.\n\nA seguire (04:15): New Amsterdam",
+      "info": "In onda: 05:50 - 06:50\n\nS1 Ep6 Corrado - Finale di stagione. - Corrado Guzzanti vorrebbe declinare qualunque proposta lavorativa. Purtroppo, e stato incastrato suo malgrado in unofferta che non puo rifiutare.\n\nA seguire (07:30): New Amsterdam",
       "thumbnail": "https://images.open-epg.com/19402.png"
     },
     {
-      "title": "Sky Sport 4K.it - 04:00 GP Qatar: Gara",
+      "title": "Sky Sport 4K.it - 05:00 Bologna - Celtic",
       "link": "ignoreme",
-      "info": "In onda: 04:00 - 05:00\n\nGP Qatar: Gara - A Losail penultima gara della stagione: Lando Norris ha il primo match point per conquistare il titolo mondiale. Telecronaca di Carlo Vanzini, Marc Gene e Roberto Chinchero.\n\nA seguire (05:00): Bologna - Celtic",
+      "info": "In onda: 05:00 - 07:00\n\nBologna - Celtic - Entrambe in zona playoff. Bologna 13esimo con 11 punti. Reduce da 2 vittorie di fila (Salisburgo e Celta). Celtic 24esimo dopo il ko contro la Roma (0-3). TC: Ciarravano-Marocchi\n\nA seguire (09:00): Calcio Campionato Italiano Serie A - Ep. 65 - Calcio Serie A 22ga Juventus/ Napoli 25/01/2026",
       "thumbnail": "https://images.open-epg.com/19403.png"
     },
     {
-      "title": "Sky Sport Calcio.it - 04:00 Uefa Champions League Magazine - Ep. 17 - Uefa Champions League Magazine 2025/2026 Ep.17 26/01/2026",
+      "title": "Sky Sport Calcio.it - 05:00 Hellas Verona - Udinese",
       "link": "ignoreme",
-      "info": "In onda: 04:00 - 04:30\n\nUefa Champions League Magazine 2025/2026 Ep.17 Approfondimento sportivo calcistico dedicato alla UEFA Champions League.\n\nA seguire (05:00): Hellas Verona - Udinese",
+      "info": "In onda: 05:00 - 07:00\n\nHellas Verona - Udinese - Veneti sempre ultimi dopo lo 0-0 contro la Cremonese. Udinese con un solo successo nelle ultime 6 giornate e una sola vittoria a Verona negli ultimi 5 precedenti. TC: Barone-Gobbi\n\nA seguire (07:00): Calciomercato - Loriginale",
       "thumbnail": "https://images.open-epg.com/19405.png"
     },
     {
-      "title": "Sky Sport F1.it - 04:00 Singapore",
+      "title": "Sky Sport F1.it - 06:00 Inside The Team: Un GP con Bearman",
       "link": "ignoreme",
-      "info": "In onda: 04:00 - 04:30\n\nSingapore - Highlights F1 Academy\n\nA seguire (04:30): Kimi e Toto",
+      "info": "In onda: 06:00 - 06:30\n\nScopriamo nel dettaglio come funziona il weekend di gara di un team di F1, con Matteo Bobbi al fianco di Oliver Bearman e del team Haas per tutto il fine settimana di Zandvoort.\n\nA seguire (06:30): 26/01/2026",
       "thumbnail": "https://images.open-epg.com/19406.png"
     },
     {
-      "title": "Sky Sport Golf.it - 02:00 BMW Australian PGA Championship: Giorno 4",
+      "title": "Sky Sport Golf.it - 05:00 Golf Dp World Tour - Ep. 24 - Golf Dp World Tour 2026 Dubai Invitational 4a Giornata 18/01/2026",
       "link": "ignoreme",
-      "info": "In onda: 02:00 - 05:00\n\nBMW Australian PGA Championship: Giorno 4 - Dal Royal Queensland Golf Club di Brisbane, Queensland, Australia.\n\nA seguire (05:00): Golf Dp World Tour - Ep. 24 - Golf Dp World Tour 2026 Dubai Invitational 4a Giornata 18/01/2026",
+      "info": "In onda: 05:00 - 08:00\n\nDubai Invitational: Giorno 4 - Dal Dubai Creek Resort di Dubai, negli Emirati Arabi Uniti.\n\nA seguire (08:00): Senior Italian Open",
       "thumbnail": "https://images.open-epg.com/19407.png"
     },
     {
-      "title": "Sky Sport Max.it - 04:00 Motori F1 Race Anatomy - Stag. Motori Race Anatomy F1 2025 - Motori Race Anatomy F1 2025 Ep.25 Speciale Natale 2025 22/12/2025",
+      "title": "Sky Sport Max.it - 06:00 EA7 Emporio Armani Milano - Žalgiris Kaunas",
       "link": "ignoreme",
-      "info": "In onda: 04:00 - 05:00\n\nSpeciale Natale - Lanalisi del Gran Premio disputato per commentare la gara insieme agli ospiti in studio. Riviviamo i brividi della corsa attraverso le immagini piu spettacolari e ascoltiamo i commenti a caldo dei protagonisti.\n\nA seguire (05:00): Montecarlo: Stage 5",
+      "info": "In onda: 06:00 - 08:00\n\nOlimpia Milano - Zalgiris - DallUnipol Forum di Milano, Italia.\n\nA seguire (08:00): Saliou Niang",
       "thumbnail": "https://images.open-epg.com/19408.png"
     },
     {
-      "title": "Sky Sport MotoGP.it - 03:45 Un Anno Di Moto3 2025",
+      "title": "Sky Sport Tennis.it - 05:00 Tennis: ATP 500 Rotterdam - Ep. 21",
       "link": "ignoreme",
-      "info": "In onda: 03:45 - 04:45\n\nDal primo GP in Thailandia allultima tappa di Valencia, riviviamo la stagione 2025 della Moto3 in questo speciale\n\nA seguire (04:45): 04 Park",
-      "thumbnail": "https://images.open-epg.com/19409.png"
-    },
-    {
-      "title": "Sky Sport Tennis.it - 03:00 Errani/Paolini - Mertens/Kudermetova",
-      "link": "ignoreme",
-      "info": "In onda: 03:00 - 05:00\n\nDonne: Finale Doppio - WTA 1000 Roma\n\nA seguire (05:00): Tennis: ATP 500 Rotterdam - Ep. 21",
+      "info": "In onda: 05:00 - 06:30\n\nQuarto di Finale: Bellucci - Tsitsipas - Bellucci - Tsitsipas\n\nA seguire (06:30): Gli Anni 90",
       "thumbnail": "https://images.open-epg.com/19404.png"
     },
     {
-      "title": "Sky Sport Uno.it - 04:00 Goleador - Ep. 23 - Goleador Lora Dei Gol 25/01/2026",
+      "title": "Sky Sport Uno.it - 06:00 Uefa Champions League Magazine - Ep. 17 - Uefa Champions League Magazine 2025/2026 Ep.17 26/01/2026",
       "link": "ignoreme",
-      "info": "In onda: 04:00 - 05:00\n\nGoleador Lora Dei Gol I gol e le immagini piu belle di Serie A, Premier League, Bundesliga e Ligue 1, senza dimenticare lo spettacolo delle coppe europee. In studio Sara Benci.\n\nA seguire (06:00): Uefa Champions League Magazine - Ep. 17 - Uefa Champions League Magazine 2025/2026 Ep.17 26/01/2026",
+      "info": "In onda: 06:00 - 06:30\n\nUefa Champions League Magazine 2025/2026 Ep.17 Approfondimento sportivo calcistico dedicato alla UEFA Champions League.\n\nA seguire (08:30): Uefa Champions League Magazine - Ep. 17 - Uefa Champions League Magazine 2025/2026 Ep.17 26/01/2026",
       "thumbnail": "https://images.open-epg.com/19410.png"
     },
     {
-      "title": "Sky TG24.it - 04:00 TG24 Edicola",
+      "title": "Sky TG24.it - 06:00 TG24 Buongiorno",
       "link": "ignoreme",
-      "info": "In onda: 04:00 - 04:30\n\nTelegiornale con la lettura dei principali quotidiani.\n\nA seguire (04:30): TG24 Edicola",
+      "info": "In onda: 06:00 - 06:23\n\nLe notizie in primo piano, dallItalia e dal mondo. Approfondimenti, giornali, web, meteo, traffico: tutto live.\n\nA seguire (06:23): Sky Meteo24",
       "thumbnail": "https://images.open-epg.com/19411.png"
     },
     {
-      "title": "Sky Uno.it - 03:35 MasterChef USA",
+      "title": "Sky Uno.it - 05:55 Cucine da incubo",
       "link": "ignoreme",
-      "info": "In onda: 03:35 - 04:20\n\nGli chef casalinghi devono affrontare la loro prima Mystery Box: sara lo chef vincitore della sfida precedente ad assegnare a ciascuna regione il piatto da cucinare.\n\nA seguire (04:20): MasterChef USA",
+      "info": "In onda: 05:55 - 07:05\n\nS9 Ep5 Gimmy Gio - A Colle Val DElsa sorge il ristorante Gimmy Gio. Il locale e datato e i rapporti interni si sono logorati. Antonino Cannavacciuolo cerca di far tornare lentusiasmo.\n\nA seguire (07:05): Bruno Barbieri - 4 Hotel",
       "thumbnail": "https://images.open-epg.com/19413.png"
     },
     {
-      "title": "ZONA DAZN.it - 23:30 Stag. 2019 - DAZN 1",
+      "title": "ZONA DAZN.it - 05:00 Stag. 2019 - DAZN 1",
       "link": "ignoreme",
-      "info": "In onda: 23:30 - 05:00\n\nDAZN 1 - DAZN 1\n\nA seguire (05:00): Stag. 2019 - DAZN 1",
+      "info": "In onda: 05:00 - 07:00\n\nDAZN 1 - DAZN 1\n\nA seguire (07:00): Como - Torino",
       "thumbnail": "https://images.open-epg.com/1700.png"
     },
     {
-      "title": "Zona Dazn 2.it - 23:00 Nessun evento in onda",
+      "title": "Zona Dazn 2.it - 05:00 Nessun evento in onda",
       "link": "ignoreme",
-      "info": "In onda: 23:00 - 05:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (05:00): Nessun evento in onda",
+      "info": "In onda: 05:00 - 11:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (11:00): Nessun evento in onda",
       "thumbnail": "https://images.open-epg.com/7515553.png"
     },
     {
-      "title": "Zona Dazn.it - 23:30 DAZN 1",
+      "title": "Zona Dazn.it - 05:00 DAZN 1",
       "link": "ignoreme",
-      "info": "In onda: 23:30 - 05:00\n\nDAZN 1\n\nA seguire (05:00): DAZN 1",
+      "info": "In onda: 05:00 - 07:00\n\nDAZN 1\n\nA seguire (07:00): Como - Torino",
       "thumbnail": "https://images.open-epg.com/7515557.png"
     }
   ]
