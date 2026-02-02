@@ -6,37 +6,211 @@
     {
       "title": "Androide - EPG",
       "link": "ignoreme",
-      "info": "Aggiornato: 02/02/2026 09:37"
+      "info": "Aggiornato: 02/02/2026 12:36"
     },
     {
-      "title": "DAZN 2.it - 05:00 Nessun evento in onda",
+      "title": "DAZN 1.it - 11:51 Pisa - Sassuolo",
       "link": "ignoreme",
-      "info": "In onda: 05:00 - 11:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.",
+      "info": "In onda: 11:51 - 13:45\n\nSerie A - 23a g. Ambizione, tattica e personalita: la stagione riparte con gli allenatori protagonisti, tra ritorni, rivoluzioni e conferme.\n\nA seguire (13:45): Udine",
+      "thumbnail": "https://images.open-epg.com/19310.png"
+    },
+    {
+      "title": "DAZN 2.it - 11:00 Nessun evento in onda",
+      "link": "ignoreme",
+      "info": "In onda: 11:00 - 17:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (17:00): Nessun evento in onda",
       "thumbnail": "https://images.open-epg.com/19311.png"
     },
     {
-      "title": "DAZN.it - 19:30 Leicester Riders - Surrey 89ers",
+      "title": "DAZN.it - 11:30 Challenge Mallorca | Trofeo Palma",
       "link": "ignoreme",
-      "info": "In onda: 19:30 - 19:30\n\nLeicester Riders e Surrey 89ers si sfidano in unaltra coinvolgente giornata di Super League Basketball: seguila su DAZN!",
+      "info": "In onda: 11:30 - 11:30\n\nChallenge Mallora: il ciclismo su strada torna alle Baleari con il consueto appuntamento annuale durante il quale alcuni dei migliori ciclisti, come Evenepoel, Lipowitz e Mas, si sfidano per conquistare i diversi trofei in palio. Sullo sfondo una splendida cornice ricca di alture, discese e mare. Chi la spunterà? ​Segui il ciclismo sui canali Eurosport, disponibili su DAZN!\n\nA seguire (11:30): Lazio - Como Women",
       "thumbnail": "https://images.open-epg.com/1531.png"
     },
     {
-      "title": "Sky Cinema Uno +24.it - 07:20 Le Mans 66 - La grande sfida",
+      "title": "Sky Arte.it - 11:55 Art Crimes",
       "link": "ignoreme",
-      "info": "In onda: 07:20 - 09:55\n\n2 Oscar per il biopic con Christian Bale e Matt Damon. 1966: il progettista Carroll Shelby e il pilota Ken Miles vengono ingaggiati dalla Ford per battere la Ferrari alla 24 ore di Le Mans (USA/FRA 2019)",
+      "info": "In onda: 11:55 - 12:55\n\nS1 Ep4 Frans Hals: Gotha, 1979 - Nel 1979 cinque capolavori olandesi scompaiono dalla torre del Castello Friedenstein, Germania Est. LArt Squad di Berlino riuscira a recuperarli solo nel 2019.\n\nA seguire (12:55): ArtBox",
+      "thumbnail": "https://images.open-epg.com/19379.png"
+    },
+    {
+      "title": "Sky Atlantic.it - 11:55 Seal Team",
+      "link": "ignoreme",
+      "info": "In onda: 11:55 - 12:45\n\nS2 Ep14 Cio che sembra - Il Bravo Team collabora con lesercito congolese in una missione segreta per catturare il capo di un gruppo di miliziani ribelli.\n\nA seguire (12:45): Gomorra: Le origini",
+      "thumbnail": "https://images.open-epg.com/19381.png"
+    },
+    {
+      "title": "Sky Cinema Action.it - 12:30 Men in Black",
+      "link": "ignoreme",
+      "info": "In onda: 12:30 - 14:10\n\nLa commedia galattica con Will Smith e Tommy Lee Jones premiata con 1 Oscar. Una coppia di agenti supersegreti sorveglia gli alieni che vivono sulla Terra camuffati da umani (USA 1997)\n\nA seguire (14:10): Pompei",
+      "thumbnail": "https://images.open-epg.com/19383.png"
+    },
+    {
+      "title": "Sky Cinema Comedy.it - 12:20 I delitti del BarLume: Il gioco delle coppie",
+      "link": "ignoreme",
+      "info": "In onda: 12:20 - 13:50\n\n... delle coppie. - Nuovi intrighi a Pineta nel 28esimo film della produzione Sky Original. Mentre La Fusco segue la scomparsa di una donna, Pasquali tenta di scampare al matrimonio (ITA 2025)\n\nA seguire (13:50): Happy Family",
+      "thumbnail": "https://images.open-epg.com/19384.png"
+    },
+    {
+      "title": "Sky Cinema Drama.it - 11:00 3/19",
+      "link": "ignoreme",
+      "info": "In onda: 11:00 - 13:00\n\nSilvio Soldini dirige Kasia Smutniak in una pellicola sulla responsabilita verso il prossimo. La vita di unavvocatessa viene sconvolta quando assiste alla morte di un giovane immigrato (ITA 2021)\n\nA seguire (13:00): Beautiful Minds",
+      "thumbnail": "https://images.open-epg.com/19385.png"
+    },
+    {
+      "title": "Sky Cinema Due.it - 12:30 Colazione da Tiffany (Vers. Rest.)",
+      "link": "ignoreme",
+      "info": "In onda: 12:30 - 14:35\n\nLindimenticabile Audrey Hepburn nei panni di una provinciale in scalata sociale a New York. Al suo fianco George Peppard in unepocale commedia romantica diretta da Blake Edwards (USA 1961)\n\nA seguire (14:35): Lordine del tempo",
+      "thumbnail": "https://images.open-epg.com/19387.png"
+    },
+    {
+      "title": "Sky Cinema Family.it - 11:45 Baby Boss",
+      "link": "ignoreme",
+      "info": "In onda: 11:45 - 13:25\n\nDal regista di\n\nA seguire (13:25): Baby Boss 2 - Affari di famiglia",
+      "thumbnail": "https://images.open-epg.com/19388.png"
+    },
+    {
+      "title": "Sky Cinema Romance.it - 12:35 Una sirena a Parigi",
+      "link": "ignoreme",
+      "info": "In onda: 12:35 - 14:20\n\nMarilyn Lima e Nicolas Duvauchelle in una magica avventura su un amore impossibile. Un cantante si prende cura di una sirena ferita, ma cade vittima della sua voce ammaliante (FRA 2020)\n\nA seguire (14:20): Capodanno a New York",
+      "thumbnail": "https://images.open-epg.com/19389.png"
+    },
+    {
+      "title": "Sky Cinema Suspense.it - 10:35 La finestra sul cortile",
+      "link": "ignoreme",
+      "info": "In onda: 10:35 - 12:40\n\nJames Stewart e Grace Kelly nel thriller voyeuristico di Alfred Hitchcock. Un fotoreporter costretto allimmobilita spia i vicini del palazzo di fronte e diventa il testimone di un delitto (USA 1954)\n\nA seguire (12:40): Occhiali neri",
+      "thumbnail": "https://images.open-epg.com/19390.png"
+    },
+    {
+      "title": "Sky Cinema Uno +24.it - 12:05 I peccatori",
+      "link": "ignoreme",
+      "info": "In onda: 12:05 - 14:30\n\nRecord di nomination agli Oscar per il sorprendente film di Ryan Coogler con Michael B. Jordan. In cerca di un nuovo inizio due gemelli tornano a casa, ma un male oscuro li attende (USA 2025)\n\nA seguire (14:30): Tre uomini e una gamba",
       "thumbnail": "https://images.open-epg.com/19391.png"
     },
     {
-      "title": "Sky Cinema Uno.it - 07:25 Caccia a Ottobre Rosso",
+      "title": "Sky Cinema Uno.it - 11:55 Poveri ma ricchi",
       "link": "ignoreme",
-      "info": "In onda: 07:25 - 09:45\n\nSean Connery e Alec Baldwin nel primo film dedicato allagente della CIA, Jack Ryan. 1984: un sottomarino atomico diventa laltissima posta in gioco nella Guerra Fredda tra Usa e Urss (USA 1990)",
+      "info": "In onda: 11:55 - 13:35\n\nChristian De Sica ed Enrico Brignano in una commedia di Fausto Brizzi. Una modesta famiglia romana vince 100 milioni alla lotteria e si trasferisce in un lussuoso hotel milanese (ITA 2016)\n\nA seguire (13:35): Inside Man: Most Wanted",
       "thumbnail": "https://images.open-epg.com/19392.png"
     },
     {
-      "title": "Sky Classica.it - 07:00 Verdi - Aida",
+      "title": "Sky Classica.it - 12:00 Almanacco di Bellezza Amarcord",
       "link": "ignoreme",
-      "info": "In onda: 07:00 - 09:30\n\nOpera (1871) in quattro atti su libretto di A.Ghislanzoni - con C.Colombara, A.Rachvelishvili, K.Lewis, F.Sartori, M.Salminen - Coro e Orchestra del Teatro alla Scala - Z.Mehta, dir. - P.Stein, reg. (Milano, 2015)",
+      "info": "In onda: 12:00 - 12:45\n\nOgni giorno il meglio delle passate edizioni di Almanacco di Bellezza: anniversari e ricorrenze di arte, cultura e storia - con Piero Maranghi, direttore di Sky Classica, e lesperto darte Leonardo Piccinini\n\nA seguire (12:45): Bruch - Concerto per violino n.1",
       "thumbnail": "https://images.open-epg.com/4100139.png"
+    },
+    {
+      "title": "Sky Crime.it - 12:10 Digital forensic: sulle ...",
+      "link": "ignoreme",
+      "info": "In onda: 12:10 - 13:00\n\nS1 Ep1 Lultima corsetta - Tramite strumenti digitali le forze dellordine riescono a smentire lalibi di una delle ultime persone che ha visto viva una jogger 24enne.\n\nA seguire (13:00): Digital forensic: sulle ...",
+      "thumbnail": "https://images.open-epg.com/19394.png"
+    },
+    {
+      "title": "Sky Documentaries +1.it - 12:30 Un avvertimento prima di iniziare",
+      "link": "ignoreme",
+      "info": "In onda: 12:30 - 13:15\n\nS1 Ep2 Angelo Massaro - 21 anni di carcere da innocente. Pablo Trincia incontra Angelo Massaro, ingiustamente accusato di omicidio e condannato a 24 anni per un equivoco.\n\nA seguire (13:15): Food Markets. Profumi e sapori a km zero",
+      "thumbnail": "https://images.open-epg.com/nologo.png"
+    },
+    {
+      "title": "Sky Documentaries.it - 12:15 Food Markets. Profumi e sapori a km zero",
+      "link": "ignoreme",
+      "info": "In onda: 12:15 - 13:15\n\nS2 Ep5 Zagabria: Dolac - La Croazia e una terra giovane e vivace e Zagabria e il suo cuore pulsante. Il modo migliore per scoprirne ogni segreto e una visita al Dolac, il mercato centrale.\n\nA seguire (13:15): Anthony Bourdain: Cucine segrete",
+      "thumbnail": "https://images.open-epg.com/19396.png"
+    },
+    {
+      "title": "Sky Investigation.it - 11:55 The Blacklist",
+      "link": "ignoreme",
+      "info": "In onda: 11:55 - 12:45\n\nUna serie di attacchi contro i luogotenenti di Red mette Dembe in pericolo, spingendolo a rivivere gli eventi che lo avevano portato a unirsi allFBI.\n\nA seguire (12:45): The Blacklist",
+      "thumbnail": "https://images.open-epg.com/19398.png"
+    },
+    {
+      "title": "Sky Nature.it - 12:20 Montagne: I giganti della Terra",
+      "link": "ignoreme",
+      "info": "In onda: 12:20 - 13:20\n\nS1 Ep3 Ande - Le Ande ospitano mondi nascosti sorprendenti, animali straordinari e persone incredibili. Con una caccia al puma, orsi alla ricerca di acqua nelle foreste bruciate e una rana mutaforma appena scoperta.\n\nA seguire (13:20): 24 ore sul pianeta Terra",
+      "thumbnail": "https://images.open-epg.com/19393.png"
+    },
+    {
+      "title": "Sky News.it - 12:30 Sky News Today with Gareth Barlow",
+      "link": "ignoreme",
+      "info": "In onda: 12:30 - 13:00\n\nBreaking news, developing stories and live events from Sky News correspondents in the UK and around the world.\n\nA seguire (13:00): Sky News Today with Jayne Secker",
+      "thumbnail": "https://images.open-epg.com/19400.png"
+    },
+    {
+      "title": "Sky Serie.it - 12:30 The Paper",
+      "link": "ignoreme",
+      "info": "In onda: 12:30 - 13:00\n\nCon Marv accampato nella redazione, Ned e lo staff devono affrontare i loro problemi irrisolti nei confronti dellautorita.\n\nA seguire (13:00): The Paper",
+      "thumbnail": "https://images.open-epg.com/19402.png"
+    },
+    {
+      "title": "Sky Sport 4K.it - 12:25 Bologna - Celtic",
+      "link": "ignoreme",
+      "info": "In onda: 12:25 - 14:30\n\nBologna - Celtic - Entrambe in zona playoff. Bologna 13esimo con 11 punti. Reduce da 2 vittorie di fila (Salisburgo e Celta). Celtic 24esimo dopo il ko contro la Roma (0-3). TC: Ciarravano-Marocchi\n\nA seguire (14:30): Monaco - Juventus",
+      "thumbnail": "https://images.open-epg.com/19403.png"
+    },
+    {
+      "title": "Sky Sport Calcio.it - 12:35 Premier League Remix",
+      "link": "ignoreme",
+      "info": "In onda: 12:35 - 13:05\n\nLa Premier League regala sempre spettacolo e sorprese. Riviviamo tutti i gol e le principali azioni del turno di gioco.\n\nA seguire (13:05): Cremonese - Inter",
+      "thumbnail": "https://images.open-epg.com/19405.png"
+    },
+    {
+      "title": "Sky Sport F1.it - 12:30 GP Austria: Gara",
+      "link": "ignoreme",
+      "info": "In onda: 12:30 - 13:25\n\nGP Austria: Gara - Undicesima prova del mondiale 2025: sul circuito di proprieta della Red Bull tanti punti di sorpasso e gare sempre spettacolari. Telecronaca di Carlo Vanzini, Marc Gene e Roberto Chinchero.\n\nA seguire (13:25): Mi presento: Gabriel Bortoleto",
+      "thumbnail": "https://images.open-epg.com/19406.png"
+    },
+    {
+      "title": "Sky Sport Golf.it - 12:30 Bahrain Championship, 4a giornata",
+      "link": "ignoreme",
+      "info": "In onda: 12:30 - 15:30\n\nBapco Energies Bahrain Championship: Giorno 4 - Tutti i tornei del tour europeo, il DP World Tour.\n\nA seguire (15:30): Golf Italian Pro Tour - Ep. 4 - Golf Italian Pro Tour 2025 Ep.4 Parma Alps Open 23/10/2025",
+      "thumbnail": "https://images.open-epg.com/19407.png"
+    },
+    {
+      "title": "Sky Sport Max.it - 11:00 Marcialonga di Fiemme e Fassa",
+      "link": "ignoreme",
+      "info": "In onda: 11:00 - 13:00\n\nMarcialonga di Fiemme e Fassa - 53.a edizione della piu tradizionale gran fondo di sci: 70km lungo le valli di Fiemme e Fassa. Tc: Pierantozzi, Nicolodi, Albarello, Zorzi.\n\nA seguire (13:00): Benetton - Scarlets",
+      "thumbnail": "https://images.open-epg.com/19408.png"
+    },
+    {
+      "title": "Sky Sport Tennis.it - 09:00 Tennis: ATP and WTA - Ep. 14 - Tennis AtpandWta 2026 02/02/2026",
+      "link": "ignoreme",
+      "info": "In onda: 09:00 - 21:30\n\nATP and WTA - Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con lattenzione puntata sui tennisti italiani.\n\nA seguire (21:30): Tennis: ATP and WTA - Ep. 14 - Tennis AtpandWta 2026 02/02/2026",
+      "thumbnail": "https://images.open-epg.com/19404.png"
+    },
+    {
+      "title": "Sky Sport Uno.it - 09:00 Tennis: ATP and WTA - Ep. 14 - Tennis AtpandWta 2026 02/02/2026",
+      "link": "ignoreme",
+      "info": "In onda: 09:00 - 19:05\n\nATP and WTA - Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con lattenzione puntata sui tennisti italiani.\n\nA seguire (19:25): Fabbri E Guignard",
+      "thumbnail": "https://images.open-epg.com/19410.png"
+    },
+    {
+      "title": "Sky TG24.it - 12:30 Ore 13",
+      "link": "ignoreme",
+      "info": "In onda: 12:30 - 12:50\n\nLe notizie della giornata raccontate con collegamenti live e approfondimenti. Con una finestra sul nostro Paese. E, sempre, il fatto principale del giorno analizzato e commentato da un esperto.\n\nA seguire (12:50): Extra Time",
+      "thumbnail": "https://images.open-epg.com/19411.png"
+    },
+    {
+      "title": "Sky Uno.it - 11:40 Alessandro Borghese - 4 Ristoranti",
+      "link": "ignoreme",
+      "info": "In onda: 11:40 - 13:00\n\nS11 Ep7 Pisa - Pisa, famosa meta turistica, offre tradizione e sapori autentici. Qui Alessandro e alla ricerca del miglior ristorante di cucina tipica della citta.\n\nA seguire (13:00): Alessandro Borghese - 4 Ristoranti",
+      "thumbnail": "https://images.open-epg.com/19413.png"
+    },
+    {
+      "title": "ZONA DAZN.it - 11:51 Pisa - Sassuolo",
+      "link": "ignoreme",
+      "info": "In onda: 11:51 - 13:45\n\nSassuolo - Serie A\n\nA seguire (13:45): Udine",
+      "thumbnail": "https://images.open-epg.com/1700.png"
+    },
+    {
+      "title": "Zona Dazn 2.it - 11:00 Nessun evento in onda",
+      "link": "ignoreme",
+      "info": "In onda: 11:00 - 17:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (17:00): Nessun evento in onda",
+      "thumbnail": "https://images.open-epg.com/7515553.png"
+    },
+    {
+      "title": "Zona Dazn.it - 11:51 Pisa - Sassuolo",
+      "link": "ignoreme",
+      "info": "In onda: 11:51 - 13:45\n\nSerie A - 23a g. Ambizione, tattica e personalita: la stagione riparte con gli allenatori protagonisti, tra ritorni, rivoluzioni e conferme.\n\nA seguire (13:45): Udine",
+      "thumbnail": "https://images.open-epg.com/7515557.png"
     }
   ]
 }
