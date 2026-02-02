@@ -6,18 +6,18 @@
     {
       "title": "Androide - EPG",
       "link": "ignoreme",
-      "info": "Aggiornato: 02/02/2026 04:51"
+      "info": "Aggiornato: 02/02/2026 06:52"
     },
     {
-      "title": "DAZN 1.it - 00:00 DAZN 1",
+      "title": "DAZN 1.it - 05:00 DAZN 1",
       "link": "ignoreme",
-      "info": "In onda: 00:00 - 05:00\n\nDAZN 1\n\nA seguire (05:00): DAZN 1",
+      "info": "In onda: 05:00 - 07:00\n\nDAZN 1\n\nA seguire (07:00): Como - Atalanta",
       "thumbnail": "https://images.open-epg.com/19310.png"
     },
     {
-      "title": "DAZN 2.it - 23:00 Nessun evento in onda",
+      "title": "DAZN 2.it - 05:00 Nessun evento in onda",
       "link": "ignoreme",
-      "info": "In onda: 23:00 - 05:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (05:00): Nessun evento in onda",
+      "info": "In onda: 05:00 - 11:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.",
       "thumbnail": "https://images.open-epg.com/19311.png"
     },
     {
@@ -27,63 +27,69 @@
       "thumbnail": "https://images.open-epg.com/1531.png"
     },
     {
-      "title": "Sky Arte.it - 04:25 Musica con vista. Festival allaria...",
+      "title": "Sky Arte.it - 06:00 Design. Aspettando Il Futuro",
       "link": "ignoreme",
-      "info": "In onda: 04:25 - 05:00\n\n... aperta. A Palermo il Quartetto Rilke si esibisce avvolto da marmi, stucchi e affreschi e va alla scoperta dei mille volti della citta.\n\nA seguire (05:00): Sinceramente, Gae",
+      "info": "In onda: 06:00 - 07:45\n\nDocumentario che esplora larrivo a Milano della Design Week, un evento internazionale allinsegna della creativita e dellinnovazione.",
       "thumbnail": "https://images.open-epg.com/19379.png"
     },
     {
-      "title": "Sky Atlantic.it - 04:00 Il tatuatore di Auschwitz",
+      "title": "Sky Atlantic.it - 06:00 Under Salt Marsh: Segreti sommersi",
       "link": "ignoreme",
-      "info": "In onda: 04:00 - 05:00\n\nFinale di stagione. - Dopo la guerra, Lali e Gita costruiscono una vita insieme, ma il passato non li abbandona. Anni dopo, Heather si reca ad Auschwitz e scrive il libro che Lali avrebbe amato.\n\nA seguire (05:00): Under Salt Marsh: Segreti sommersi",
+      "info": "In onda: 06:00 - 07:00\n\nJackie indaga da sola, scontrandosi con Bull. Le tracce conducono ad un apicoltore solitario mentre il dolore e la rabbia esplodono durante la veglia funebre per Cefin.\n\nA seguire (07:00): Amadeus",
       "thumbnail": "https://images.open-epg.com/19381.png"
     },
     {
-      "title": "Sky Cinema Action.it - 03:30 Demolition Man",
+      "title": "Sky Cinema Action.it - 05:40 Matrix Reloaded",
       "link": "ignoreme",
-      "info": "In onda: 03:30 - 05:25\n\nSylvester Stallone e Wesley Snipes in un action di culto. Ibernati nel 1996 e risvegliati nel futuro, un poliziotto e il suo acerrimo nemico si ritrovano uno contro laltro (USA 1993)\n\nA seguire (05:25): Questo o quello - Speciale",
+      "info": "In onda: 05:40 - 08:00\n\nSecondo capitolo della strepitosa saga di fantascienza con Keanu Reeves e Laurence Fishburne. Neo lotta senza tregua per evitare la distruzione di Zion e salvare Trinity da un oscuro destino (USA/AUS 2003)",
       "thumbnail": "https://images.open-epg.com/19383.png"
     },
     {
-      "title": "Sky Cinema Comedy.it - 04:45 Cera una truffa a Hollywood",
+      "title": "Sky Cinema Comedy.it - 06:35 Speciale - I Delitti Del Barlume - Le Nuove Storie",
       "link": "ignoreme",
-      "info": "In onda: 04:45 - 06:35\n\nCommedia Sky Original con i premi Oscar Robert De Niro, Morgan Freeman e Tommy Lee Jones. Per sanare un debito con la malavita, due produttori cinematografici organizzano una truffa (USA 2020)\n\nA seguire (06:35): Speciale - I Delitti Del Barlume - Le Nuove Storie",
+      "info": "In onda: 06:35 - 06:55\n\n... nuove storie. - Barlumando un gioco a manches, quanto ne sai de I delitti del BarLume? Il regista Roan Johnson spiega le regole dei rebus mentre il cast si diverte a rispondere.\n\nA seguire (06:55): Ghostbusters: Legacy",
       "thumbnail": "https://images.open-epg.com/19384.png"
     },
     {
-      "title": "Sky Cinema Drama.it - 03:25 A proposito di Schmidt",
+      "title": "Sky Cinema Drama.it - 05:30 Era mio figlio (2024)",
       "link": "ignoreme",
-      "info": "In onda: 03:25 - 05:30\n\n2 Golden Globe al film di Alexander Payne con Jack Nicholson e Kathy Bates. Un vedovo attraversa lAmerica in un viaggio alla scoperta delle sue emozioni piu profonde (USA 2002)\n\nA seguire (05:30): Era mio figlio (2024)",
+      "info": "In onda: 05:30 - 07:25\n\nRichard Gere e Diane Kruger in una pellicola sul rimpianto di Savi Gabizon. Un ricco magnate scopre di aver avuto un figlio, morto in un incidente, e decide di scavare nel suo passato (CAN 2024)\n\nA seguire (07:25): Questo o quello - Speciale",
       "thumbnail": "https://images.open-epg.com/19385.png"
     },
     {
-      "title": "Sky Cinema Due.it - 04:50 Speciale - Gomorra - Le Origini",
+      "title": "Sky Cinema Due.it - 05:10 Il padrino",
       "link": "ignoreme",
-      "info": "In onda: 04:50 - 05:10\n\n... Backstage. - Tutti i segreti del dietro le quinte di Gomorra Le Origini, la serie che racconta liniziazione criminale di Pietro Savastano.\n\nA seguire (05:10): Il padrino",
+      "info": "In onda: 05:10 - 08:10\n\n3 Oscar al primo capitolo della saga di Francis F. Coppola, con Marlon Brando e Al Pacino. Dopo lattentato al padre, Mike comincia lascesa nella malavita a capo della famiglia Corleone (USA 1972)",
       "thumbnail": "https://images.open-epg.com/19387.png"
     },
     {
-      "title": "Sky Cinema Family.it - 04:45 Sonic 3 - Il film",
+      "title": "Sky Cinema Family.it - 06:40 Questo o quello - Speciale",
       "link": "ignoreme",
-      "info": "In onda: 04:45 - 06:40\n\nJim Carrey e James Marsden nel terzo capitolo della saga campione dincassi. Quando il potente Shadow viene rianimato, Sonic e i suoi amici sono costretti a uninsolita alleanza (USA/JPN 2024)\n\nA seguire (06:40): Questo o quello - Speciale",
+      "info": "In onda: 06:40 - 06:55\n\nS1 Ep264 Ficarra and Picone - Francesco Castelnuovo e Gianni Canova ci raccontano le pellicole del duo comico composto dai palermitani Salvatore Ficarra e Valentino Picone.\n\nA seguire (06:55): Il viaggio di Norm",
       "thumbnail": "https://images.open-epg.com/19388.png"
     },
     {
-      "title": "Sky Cinema Romance.it - 03:40 American Gigolo",
+      "title": "Sky Cinema Romance.it - 05:35 La cena perfetta",
       "link": "ignoreme",
-      "info": "In onda: 03:40 - 05:35\n\nIl film cult degli anni 80 che ha consacrato il mito di Richard Gere. Un affascinante gigolo finisce nei guai quando una delle sue clienti viene ritrovata barbaramente uccisa (USA 1980)\n\nA seguire (05:35): La cena perfetta",
+      "info": "In onda: 05:35 - 07:25\n\nSalvatore Esposito e Greta Scarano in una commedia sulla voglia di riscatto. Incaricato da un boss camorrista di gestire un ristorante a Roma, Carmine assume Consuelo, chef molto grintosa (ITA 2022)\n\nA seguire (07:25): Yesterday",
       "thumbnail": "https://images.open-epg.com/19389.png"
     },
     {
-      "title": "Sky Cinema Uno +24.it - 02:50 Matrix",
+      "title": "Sky Cinema Suspense.it - 05:40 Linferno di cristallo",
       "link": "ignoreme",
-      "info": "In onda: 02:50 - 05:05\n\n4 Oscar a un autentico cult movie con Keanu Reeves e Laurence Fishburne. Un hacker scopre che la realta in cui viviamo e una simulazione architettata per tenere sotto scacco lumanita (USA/AUS 1999)\n\nA seguire (05:05): Inside Man: Most Wanted",
+      "info": "In onda: 05:40 - 08:25\n\n3 Oscar e 2 Golden Globe al film precursore del genere catastrofico con Paul Newman e Steve McQueen. Linaugurazione di un grattacielo a San Francisco rischia di trasformarsi in tragedia (USA 1974)",
+      "thumbnail": "https://images.open-epg.com/19390.png"
+    },
+    {
+      "title": "Sky Cinema Uno +24.it - 05:05 Inside Man: Most Wanted",
+      "link": "ignoreme",
+      "info": "In onda: 05:05 - 07:00\n\nThriller ad alta tensione, sequel del cult diretto da Spike Lee. Dopo una rapina in banca, un negoziatore della polizia si allea con un agente dellFBI per salvare gli ostaggi (USA 2019)\n\nA seguire (07:00): Cinema and AI con Gabriele Muccino",
       "thumbnail": "https://images.open-epg.com/19391.png"
     },
     {
-      "title": "Sky Cinema Uno.it - 04:05 Acid",
+      "title": "Sky Cinema Uno.it - 05:50 Elephant white",
       "link": "ignoreme",
-      "info": "In onda: 04:05 - 05:50\n\nLangoscia per il cambiamento climatico in un fanta-thriller con Guillaume Canet e Laetitia Dosch. Durante unanomala ondata di caldo, una perturbazione di pioggia acida e letale minaccia lEuropa, costringendo gli abitanti alla fuga verso una salvezza che appare impossibile (FRA/BEL 2023)\n\nA seguire (05:50): Elephant white",
+      "info": "In onda: 05:50 - 07:25\n\nKevin Bacon e Djimon Hounsou in un action ambientato in Thailandia. Un killer, ingaggiato per sterminare una gang che opera nella prostituzione minorile, scopre una rete di bugie (USA 2011)\n\nA seguire (07:25): Caccia a Ottobre Rosso",
       "thumbnail": "https://images.open-epg.com/19392.png"
     },
     {
@@ -93,105 +99,99 @@
       "thumbnail": "https://images.open-epg.com/4100139.png"
     },
     {
-      "title": "Sky Crime.it - 03:30 OJ Simpson: ultimo capitolo",
+      "title": "Sky Crime.it - 06:50 La Ragazza dei Parioli",
       "link": "ignoreme",
-      "info": "In onda: 03:30 - 05:00\n\nUno speciale di due ore sui nuovi dettagli e rivelazioni che hanno portato alla condanna di O.J. Simpson per rapina a mano armata.\n\nA seguire (05:00): Celebrity Sex Tapes",
+      "info": "In onda: 06:50 - 07:45\n\nS1 Ep1 Parte 1 - Marianna, introdotta quattordicenne alla prostituzione minorile, condivide la sua verita e i suoi ricordi: tutto comincio per gioco, ma divento un dramma che sconvolse lItalia.",
       "thumbnail": "https://images.open-epg.com/19394.png"
     },
     {
-      "title": "Sky Documentaries +1.it - 04:30 Janet Jackson",
+      "title": "Sky Documentaries +1.it - 06:00 La Valanga Azzurra",
       "link": "ignoreme",
-      "info": "In onda: 04:30 - 05:15\n\nS1 Ep3 Part 3 - Janet firma contratti di sponsorizzazione multimilionari e ottiene ruoli da protagonista in lungometraggi. Ma con la notizia delle accuse su suo fratello Michael, il suo mondo crolla.\n\nA seguire (05:15): Janet Jackson",
+      "info": "In onda: 06:00 - 07:35\n\nUn documentario che ci racconta lo sci alpino negli anni Settanta ma, soprattutto, la mitica nazionale italiana di sci in quegli anni e i suoi successi straordinari.\n\nA seguire (07:35): Sofia Goggia",
       "thumbnail": "https://images.open-epg.com/nologo.png"
     },
     {
-      "title": "Sky Documentaries.it - 04:15 Janet Jackson",
+      "title": "Sky Documentaries.it - 06:35 Sofia Goggia",
       "link": "ignoreme",
-      "info": "In onda: 04:15 - 05:00\n\nS1 Ep4 Part 4 - In seguito alla controversia del Super Bowl del 2004, Janet e nella lista nera. Amici e fan combattono per il suo diritto a essere riconosciuta come una leggenda dello spettacolo.\n\nA seguire (05:00): La Valanga Azzurra",
+      "info": "In onda: 06:35 - 07:30\n\nSofia Goggia - Discese al limite, ritorni semi-impossibili, vittorie indimenticabili. Sofia Goggia si racconta con ironia, nel Talk di Sky Sport, dagli inizi sino alle sfide ancora aperte, verso Milano-Cortina 2026.\n\nA seguire (07:30): Markets of the world",
       "thumbnail": "https://images.open-epg.com/19396.png"
     },
     {
-      "title": "Sky Nature.it - 04:35 La battaglia dei predatori",
+      "title": "Sky Investigation.it - 06:35 NCIS",
       "link": "ignoreme",
-      "info": "In onda: 04:35 - 05:00\n\nS2 Ep6 Spazzini - Vediamo alcuni predatori andare alla ricerca di carcasse di cui nutrirsi e animali\n\nA seguire (05:00): LItalia dei vulcani 1^TV",
+      "info": "In onda: 06:35 - 07:25\n\nS22 Ep5 Una spia - Il capitano Butler, in preda ad una forma di demenza, ruba un fascicolo dallArchivio della Marina. Lagente Conrad si presenta alla squadra e sostiene che luomo fosse una spia da sempre tenuta docchio dalla C.I.A.\n\nA seguire (07:25): The Blacklist",
+      "thumbnail": "https://images.open-epg.com/19398.png"
+    },
+    {
+      "title": "Sky Nature.it - 06:30 I misteri del Mekong",
+      "link": "ignoreme",
+      "info": "In onda: 06:30 - 07:25\n\nS1 Ep1 Inizia il viaggio - Le sorgenti del Mekong si trovano in Tibet. Dopodiche, le acque scorrono attraverso la Provincia dello Yunnan, dove iniziera il nostro viaggio.\n\nA seguire (07:25): I misteri del Mekong",
       "thumbnail": "https://images.open-epg.com/19393.png"
     },
     {
-      "title": "Sky News.it - 04:00 Sky News",
+      "title": "Sky News.it - 06:30 Mornings",
       "link": "ignoreme",
-      "info": "In onda: 04:00 - 05:00\n\nA round up of all the latest news from the UK and around the world, including the Press Preview.\n\nA seguire (05:00): Sky News",
+      "info": "In onda: 06:30 - 07:00\n\nAll the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.\n\nA seguire (07:00): Mornings with Ridge and Frost",
       "thumbnail": "https://images.open-epg.com/19400.png"
     },
     {
-      "title": "Sky Serie.it - 04:15 New Amsterdam",
+      "title": "Sky Serie.it - 06:00 The Spanish Princess",
       "link": "ignoreme",
-      "info": "In onda: 04:15 - 05:00\n\nS3 Ep10 Scelte radicali - Mentre Max fa i conti con il passato del New Amsterdam, Bloom e Reynolds curano un paziente che ha una relazione poco convenzionale. Intanto Sharpe decide di adottare un approccio piu severo nei confronti della nipote.\n\nA seguire (05:00): The Spanish Princess",
+      "info": "In onda: 06:00 - 07:00\n\nS2 Ep2 Flodden - Enrico invade la Francia, lasciando Caterina incinta a difendere lInghilterra dal re scozzese Giacomo IV. La battaglia di Flodden ha inizio.\n\nA seguire (07:00): Gomorra - Le Origini - Speciale",
       "thumbnail": "https://images.open-epg.com/19402.png"
     },
     {
-      "title": "Sky Sport 4K.it - 03:15 Calcio Campionato Italiano Serie A - Ep. 65 - Calcio Serie A 22ga Juventus/ Napoli 25/01/2026",
+      "title": "Sky Sport 4K.it - 05:00 Inter - Arsenal",
       "link": "ignoreme",
-      "info": "In onda: 03:15 - 05:00\n\nJuventus - Napoli - Bianconeri quinti dopo il ko contro il Cagliari (1-0). -4 dal Napoli. Azzurri terzi a -3 dal Milan. Due sole vittorie a Torino nelle ultime 15 sfide di A. TC: Zancan-Montolivo\n\nA seguire (05:00): Inter - Arsenal",
+      "info": "In onda: 05:00 - 07:00\n\nInter - Arsenal - Nerazzurri quinti con 12 punti. Vengono da 2 ko consecutivi (Atletico Madrid e Liverpool). Arsenal primo a punteggio pieno: 18 punti e un solo gol subito. TC: Caressa-Bergomi\n\nA seguire (07:00): Cagliari - Hellas Verona",
       "thumbnail": "https://images.open-epg.com/19403.png"
     },
     {
-      "title": "Sky Sport Calcio.it - 04:45 Ep.24",
+      "title": "Sky Sport Calcio.it - 05:00 Cremonese - Inter",
       "link": "ignoreme",
-      "info": "In onda: 04:45 - 05:00\n\nEp.24 - La giovane Italia\n\nA seguire (05:00): Cremonese - Inter",
+      "info": "In onda: 05:00 - 07:00\n\nCremonese - Inter - Grigiorossi senza vittorie da 8 turni, 3 pari e 5 ko. Inter reduce dal 6-2 sul Pisa. + 5 sul Milan. Imbattuta a Cremona in 10 sfide, 7 vittorie e 3 pari. TC: Compagnoni-Montolivo\n\nA seguire (07:00): Ep.8",
       "thumbnail": "https://images.open-epg.com/19405.png"
     },
     {
-      "title": "Sky Sport F1.it - 04:45 In pista con Jannik",
+      "title": "Sky Sport F1.it - 06:30 GP Austria: Gara",
       "link": "ignoreme",
-      "info": "In onda: 04:45 - 05:00\n\nTutta la passione di Jannik Sinner per la F1 nellintervista con Stefano Domenicali e nel giro in macchina con Kimi Antonelli\n\nA seguire (05:00): Austria: Feature Race",
+      "info": "In onda: 06:30 - 07:30\n\nGP Austria: Gara - Undicesima prova del mondiale 2025: sul circuito di proprieta della Red Bull tanti punti di sorpasso e gare sempre spettacolari. Telecronaca di Carlo Vanzini, Marc Gene e Roberto Chinchero.\n\nA seguire (07:30): Mi presento: Gabriel Bortoleto",
       "thumbnail": "https://images.open-epg.com/19406.png"
     },
     {
-      "title": "Sky Sport Golf.it - 02:00 Abu Dhabi Championship: Giorno 4",
+      "title": "Sky Sport Golf.it - 05:00 Golf Dp World Tour - Ep. 24 - Golf Dp World Tour 2026 Dubai Invitational 4a Giornata 18/01/2026",
       "link": "ignoreme",
-      "info": "In onda: 02:00 - 05:00\n\nAbu Dhabi Championship: Giorno 4 - Tutti i tornei del tour europeo, il DP World Tour, che assegnano i punti per la Race to Dubai.\n\nA seguire (05:00): Golf Dp World Tour - Ep. 24 - Golf Dp World Tour 2026 Dubai Invitational 4a Giornata 18/01/2026",
+      "info": "In onda: 05:00 - 08:00\n\nDubai Invitational: Giorno 4 - Dal Dubai Creek Resort di Dubai, negli Emirati Arabi Uniti.",
       "thumbnail": "https://images.open-epg.com/19407.png"
     },
     {
-      "title": "Sky Sport Max.it - 04:45 In pista con Jannik",
+      "title": "Sky Sport Max.it - 06:00 Bertram Derthona Tortona - Udine",
       "link": "ignoreme",
-      "info": "In onda: 04:45 - 05:00\n\nTutta la passione di Jannik Sinner per la F1 nellintervista con Stefano Domenicali e nel giro in macchina con Kimi Antonelli\n\nA seguire (05:00): Kimi e Toto",
+      "info": "In onda: 06:00 - 08:00\n\nBertram Derthona Tortona - Udine - Beffata allo scadere a Brescia, Udine va a Tortona a casa della quinta in classifica reduce dalla bella vittoria di Napoli. Telecronaca di Davide Fumagalli e Andrea Meneghin.",
       "thumbnail": "https://images.open-epg.com/19408.png"
     },
     {
-      "title": "Sky Sport MotoGP.it - 04:30 Paddock Life - Best Of 2025",
+      "title": "Sky Sport Tennis.it - 05:00 Tennis: ATP and WTA - Ep. 43 - Tennis AtpandWta 2026 01/02/2026",
       "link": "ignoreme",
-      "info": "In onda: 04:30 - 05:00\n\nBest Of 2025 - Rivediamo il meglio di quanto accaduto in pista nel 2025 con approfondimenti e analisi.\n\nA seguire (07:00): Gli Inizi",
-      "thumbnail": "https://images.open-epg.com/19409.png"
-    },
-    {
-      "title": "Sky Sport Tennis.it - 01:00 Tennis: ATP and WTA - Ep. 43 - Tennis AtpandWta 2026 01/02/2026",
-      "link": "ignoreme",
-      "info": "In onda: 01:00 - 05:00\n\nTennis AtpandWta 2026 Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con lattenzione puntata sui tennisti italiani.\n\nA seguire (05:00): Tennis: ATP and WTA - Ep. 43 - Tennis AtpandWta 2026 01/02/2026",
+      "info": "In onda: 05:00 - 09:00\n\nTennis AtpandWta 2026 Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con lattenzione puntata sui tennisti italiani.",
       "thumbnail": "https://images.open-epg.com/19404.png"
     },
     {
-      "title": "Sky Sport Uno.it - 03:00 Cremonese - Inter",
+      "title": "Sky TG24.it - 06:30 TG24 Buongiorno",
       "link": "ignoreme",
-      "info": "In onda: 03:00 - 05:00\n\nCremonese - Inter - Grigiorossi senza vittorie da 8 turni, 3 pari e 5 ko. Inter reduce dal 6-2 sul Pisa. + 5 sul Milan. Imbattuta a Cremona in 10 sfide, 7 vittorie e 3 pari. TC: Compagnoni-Montolivo\n\nA seguire (07:00): Cremonese - Inter",
-      "thumbnail": "https://images.open-epg.com/19410.png"
-    },
-    {
-      "title": "Sky TG24.it - 04:30 TG24 Edicola",
-      "link": "ignoreme",
-      "info": "In onda: 04:30 - 05:00\n\nTelegiornale con la lettura dei principali quotidiani.\n\nA seguire (05:00): TG24 mezzora",
+      "info": "In onda: 06:30 - 07:00\n\nLe notizie in primo piano, dallItalia e dal mondo. Approfondimenti, giornali, web, meteo, traffico: tutto live.\n\nA seguire (07:00): TG24 Buongiorno",
       "thumbnail": "https://images.open-epg.com/19411.png"
     },
     {
-      "title": "Sky Uno.it - 04:15 Hells Kitchen USA",
+      "title": "Sky Uno.it - 06:50 MasterChef Italia",
       "link": "ignoreme",
-      "info": "In onda: 04:15 - 05:00\n\nS24 Ep6 Hells Kitchen USA 24 Ep.06 - Gli chef devono rivisitare una specialita del Sud: il pollo fritto. La mancanza di comunicazione tra le squadre rallenta il servizio della cena, facendo infuriare Ramsey.\n\nA seguire (05:00): Alforno",
+      "info": "In onda: 06:50 - 08:15\n\nGli aspiranti chef, convinti di affrontare una classica Mystery Box, si ritrovano davanti a un Pressure Test: a decidere il loro destino sara il temuto e atteso Iginio Massari.",
       "thumbnail": "https://images.open-epg.com/19413.png"
     },
     {
-      "title": "ZONA DAZN.it - 00:00 Stag. 2019 - DAZN 1",
+      "title": "ZONA DAZN.it - 05:00 Stag. 2019 - DAZN 1",
       "link": "ignoreme",
-      "info": "In onda: 00:00 - 05:00\n\nDAZN 1 - DAZN 1\n\nA seguire (05:00): Stag. 2019 - DAZN 1",
+      "info": "In onda: 05:00 - 07:00\n\nDAZN 1 - DAZN 1\n\nA seguire (07:00): Como - Atalanta",
       "thumbnail": "https://images.open-epg.com/1700.png"
     }
   ]
