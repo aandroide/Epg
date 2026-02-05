@@ -6,18 +6,18 @@
     {
       "title": "Androide - EPG",
       "link": "ignoreme",
-      "info": "Aggiornato: 05/02/2026 04:42"
+      "info": "Aggiornato: 05/02/2026 06:45"
     },
     {
-      "title": "DAZN 1.it - 00:00 DAZN 1",
+      "title": "DAZN 1.it - 05:00 DAZN 1",
       "link": "ignoreme",
-      "info": "In onda: 00:00 - 05:00\n\nDAZN 1\n\nA seguire (05:00): DAZN 1",
+      "info": "In onda: 05:00 - 07:00\n\nDAZN 1\n\nA seguire (07:00): Real Madrid - Rayo Vallecano",
       "thumbnail": "https://images.open-epg.com/19310.png"
     },
     {
-      "title": "DAZN 2.it - 23:00 Nessun evento in onda",
+      "title": "DAZN 2.it - 05:00 Nessun evento in onda",
       "link": "ignoreme",
-      "info": "In onda: 23:00 - 05:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (05:00): Nessun evento in onda",
+      "info": "In onda: 05:00 - 11:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (11:00): Nessun evento in onda",
       "thumbnail": "https://images.open-epg.com/19311.png"
     },
     {
@@ -27,57 +27,69 @@
       "thumbnail": "https://images.open-epg.com/1531.png"
     },
     {
-      "title": "Sky Arte.it - 04:00 My Generation 2021",
+      "title": "Sky Arte.it - 06:25 Indie Jungle",
       "link": "ignoreme",
-      "info": "In onda: 04:00 - 05:00\n\nS1 Ep6 Massimo Volume - Riviviamo il percorso artistico delle band che hanno segnato gli anni 90. A raccontarsi attraverso performance live e interviste inedite i Massimo Volume.\n\nA seguire (05:00): The Square: All you can art 1^TV",
+      "info": "In onda: 06:25 - 07:20\n\nS2 Ep4 FASK - Una serata esclusiva alla scoperta della sonorita e delle storie dei protagonisti della scena indie italiana. In questa puntata: FASK.\n\nA seguire (07:20): Indie Jungle",
       "thumbnail": "https://images.open-epg.com/19379.png"
     },
     {
-      "title": "Sky Atlantic.it - 04:15 Seal Team",
+      "title": "Sky Atlantic.it - 06:10 Gomorra: Le origini",
       "link": "ignoreme",
-      "info": "In onda: 04:15 - 05:00\n\nS2 Ep20 Toccare il fondo - La tensione tra Jason e Ray arriva al culmine e Lisa affronta la sua prova finale alla scuola per aspiranti ufficiali.\n\nA seguire (05:00): Gomorra - Le Origini - Speciale Backstage",
+      "info": "In onda: 06:10 - 07:00\n\nAngelo riceve un invito che potrebbe migliorare la sua situazione, mentre Pietro si scontra con la realta e capisce che i sogni non sono per tutti. Con sottotitoli.\n\nA seguire (07:00): Yellowstone",
       "thumbnail": "https://images.open-epg.com/19381.png"
     },
     {
-      "title": "Sky Cinema Action.it - 03:35 Bad Boys for Life",
+      "title": "Sky Cinema Action.it - 06:00 800 eroi",
       "link": "ignoreme",
-      "info": "In onda: 03:35 - 05:40\n\nTerzo capitolo della saga action con Will Smith e Martin Lawrence. I detective Mike e Marcus fanno di nuovo squadra per scoprire lidentita di un sicario misterioso e vendicativo (USA/MEX 2020)\n\nA seguire (05:40): Speciale - Gomorra - Le Origini",
+      "info": "In onda: 06:00 - 08:30\n\nIl maggiore incasso globale del 2020 e laction che ricostruisce lattacco giapponese a Shanghai. 1937: un manipolo di soldati cinesi oppone una strenua resistenza allinvasione nipponica (CHN 2020)\n\nA seguire (08:30): Geostorm",
       "thumbnail": "https://images.open-epg.com/19383.png"
     },
     {
-      "title": "Sky Cinema Comedy.it - 03:40 Un Natale con i Fiocchi",
+      "title": "Sky Cinema Comedy.it - 05:20 Contromano",
       "link": "ignoreme",
-      "info": "In onda: 03:40 - 05:20\n\nAlessandro Gassmann e Silvio Orlando in una commedia firmata Sky Cinema. Un poliziotto incontra dopo anni un vecchio amico che sbarca il lunario facendo lautista per rapinatori (ITA 2012)\n\nA seguire (05:20): Contromano",
+      "info": "In onda: 05:20 - 07:05\n\nGraffiante commedia di e con Antonio Albanese. Un commerciante milanese escogita un piano per liberarsi di un venditore ambulante senegalese che gli sta facendo concorrenza (ITA 2018)\n\nA seguire (07:05): Qualunquemente",
       "thumbnail": "https://images.open-epg.com/19384.png"
     },
     {
-      "title": "Sky Cinema Family.it - 04:20 Il lupo e il leone",
+      "title": "Sky Cinema Drama.it - 05:00 Mystic River",
       "link": "ignoreme",
-      "info": "In onda: 04:20 - 06:05\n\nTenera avventura dai creatori di\n\nA seguire (06:05): Il Grinch",
+      "info": "In onda: 05:00 - 07:15\n\nOscar e Golden Globe a Sean Penn e Tim Robbins, in un capolavoro di Clint Eastwood. Lomicidio di una ragazza riporta alla luce un caso di pedofilia che coinvolse tre bambini di Boston (USA/AUS 2003)\n\nA seguire (07:15): A.C.A.B.",
+      "thumbnail": "https://images.open-epg.com/19385.png"
+    },
+    {
+      "title": "Sky Cinema Due.it - 05:10 La stanza accanto",
+      "link": "ignoreme",
+      "info": "In onda: 05:10 - 07:00\n\nJulianne Moore e Tilda Swinton nella delicata pellicola di Pedro Almodovar, Leone doro a Venezia. Dopo anni senza contatti, due amiche si ritrovano in una situazione commovente (ESP 2024)\n\nA seguire (07:00): Maria",
+      "thumbnail": "https://images.open-epg.com/19387.png"
+    },
+    {
+      "title": "Sky Cinema Family.it - 06:05 Il Grinch",
+      "link": "ignoreme",
+      "info": "In onda: 06:05 - 07:35\n\nAnimazione campione dincassi targata Illumination tratta dal racconto del Dr. Seuss. Lo scontroso mostriciattolo verde odia lo spirito del Natale ed elabora un piano per sabotare la festa (USA/FRA 2018)\n\nA seguire (07:35): Il cacciatore di giganti",
       "thumbnail": "https://images.open-epg.com/19388.png"
     },
     {
-      "title": "Sky Cinema Romance.it - 03:30 Un giorno come tanti",
+      "title": "Sky Cinema Romance.it - 05:20 Sposa in rosso",
       "link": "ignoreme",
-      "info": "In onda: 03:30 - 05:20\n\nJason Reitman dirige Kate Winslet, Josh Brolin e Tobey Maguire in un film dal romanzo di Joyce Maynard. Abbandonata dal marito con un figlio adolescente, Adele accoglie in casa un evaso (USA 2013)\n\nA seguire (05:20): Sposa in rosso",
+      "info": "In onda: 05:20 - 07:20\n\nSarah Felberbaum ed Eduardo Noriega in una commedia di Gianni Costantino, tra Malta e la Puglia. Due sconosciuti organizzano un finto matrimonio per intascare i soldi dei regali di nozze (ITA 2022)\n\nA seguire (07:20): Quel mostro di suocera",
       "thumbnail": "https://images.open-epg.com/19389.png"
     },
     {
-      "title": "Sky Cinema Suspense.it - 03:55 Luomo che sapeva troppo",
+      "title": "Sky Cinema Suspense.it - 06:00 Drive",
       "link": "ignoreme",
-      "info": "In onda: 03:55 - 06:00\n\nGeniale thriller di Alfred Hitchcock con James Stewart e Doris Day. Una coppia in vacanza in Marocco riceve confidenze top secret da un agente colpito a morte. Oscar per la migliore canzone (USA 1956)\n\nA seguire (06:00): Drive",
+      "info": "In onda: 06:00 - 07:45\n\nRyan Gosling e Carey Mulligan nellaction di Nicolas Winding Refn, miglior regia a Cannes. Autista al soldo della malavita, uno stuntman si infatua della donna sbagliata e finisce nei guai (USA 2011)\n\nA seguire (07:45): The Conjuring - Il Caso Enfield",
       "thumbnail": "https://images.open-epg.com/19390.png"
     },
     {
-      "title": "Sky Cinema Uno +24.it - 03:05 Benvenuti al Sud",
+      "title": "Sky Cinema Uno +24.it - 06:30 Face/Off - Due facce di un assassino",
       "link": "ignoreme",
-      "info": "In onda: 03:05 - 04:50\n\nCommedia campione dincassi con Claudio Bisio e Alessandro Siani, remake di\n\nA seguire (04:50): Sweethearts",
+      "info": "In onda: 06:30 - 08:50\n\nNicolas Cage e John Travolta in un thriller di John Woo. Grazie a una innovativa tecnica chirurgica, un agente dellFBI e un pericoloso criminale si scambiano le identita (USA 1997)\n\nA seguire (08:50): Allied - Unombra nascosta",
       "thumbnail": "https://images.open-epg.com/19391.png"
     },
     {
-      "title": "Sky Cinema Uno.it - 03:40 Freaks Out",
+      "title": "Sky Cinema Uno.it - 06:05 Una pallottola spuntata",
       "link": "ignoreme",
-      "info": "In onda: 03:40 - 06:05\n\nSpettacolare film di Gabriele Mainetti vincitore di 6 David di Donatello con Claudio Santamaria e Pietro Castellitto. Roma, 1943: 4 circensi dai poteri speciali devono salvarsi dai nazisti (ITA/BEL 2021)\n\nA seguire (06:05): Una pallottola spuntata",
+      "info": "In onda: 06:05 - 07:35\n\nLiam Neeson raccoglie leredita dellindimenticabile Leslie Nielsen nel film che ripropone la sfrontata comicita della celebre saga (US/CA 2025)\n\nA seguire (07:35): Collateral",
       "thumbnail": "https://images.open-epg.com/19392.png"
     },
     {
@@ -87,117 +99,123 @@
       "thumbnail": "https://images.open-epg.com/4100139.png"
     },
     {
-      "title": "Sky Crime.it - 03:45 Alla Ricerca Della Verita",
+      "title": "Sky Crime.it - 06:25 Online - Connessioni Pericolose",
       "link": "ignoreme",
-      "info": "In onda: 03:45 - 05:00\n\nS1 Ep1 Il Caso Jonbenet - Con laiuto di un ex detective, la giornalista Elizabeth Vargas indaga sul piu famoso cold case americano: lomicidio della baby reginetta di bellezza JonBenet Ramsey.\n\nA seguire (05:00): E stato lui?",
+      "info": "In onda: 06:25 - 06:55\n\nS1 Ep6 Sotto Ricatto - Quali sono i problemi legati alle informazioni pubblicate in rete attraverso i social media?\n\nA seguire (06:55): Online - Connessioni Pericolose",
       "thumbnail": "https://images.open-epg.com/19394.png"
     },
     {
-      "title": "Sky Documentaries +1.it - 04:15 McEnroe",
+      "title": "Sky Documentaries +1.it - 06:00 Take That: The Baloise Concert",
       "link": "ignoreme",
-      "info": "In onda: 04:15 - 06:00\n\nIl campione di tennis John McEnroe si confessa in un documentario biografico. Un tuffo nella carriera e nella psicologia di un asso dello sport, tanto talentuoso quanto irascibile, con le testimonianze della sua famiglia, del rivale Bjorn Borg e di star come il chitarrista dei Rolling Stones, Keith Richards.\n\nA seguire (06:00): Take That: The Baloise Concert",
+      "info": "In onda: 06:00 - 07:25\n\nTake That: The Baloise Concert\n\nA seguire (07:25): The Beatles - Eight Days a Week",
       "thumbnail": "https://images.open-epg.com/nologo.png"
     },
     {
-      "title": "Sky Documentaries.it - 03:15 McEnroe",
+      "title": "Sky Documentaries.it - 06:25 The Beatles - Eight Days a Week",
       "link": "ignoreme",
-      "info": "In onda: 03:15 - 05:00\n\nIl campione di tennis John McEnroe si confessa in un documentario biografico. Un tuffo nella carriera e nella psicologia di un asso dello sport, tanto talentuoso quanto irascibile, con le testimonianze della sua famiglia, del rivale Bjorn Borg e di star come il chitarrista dei Rolling Stones, Keith Richards.\n\nA seguire (05:00): Take That: The Baloise Concert",
+      "info": "In onda: 06:25 - 08:15\n\nLa storia dei Beatles nel documentario del premio Oscar Ron Howard. Dagli esordi di Liverpool al loro ultimo concerto, lascesa dei Fab Four arricchita da inediti materiali darchivio.\n\nA seguire (08:15): The Nineties",
       "thumbnail": "https://images.open-epg.com/19396.png"
     },
     {
-      "title": "Sky Investigation.it - 04:05 La signora in giallo",
+      "title": "Sky Investigation.it - 06:35 The Equalizer",
       "link": "ignoreme",
-      "info": "In onda: 04:05 - 05:00\n\nS5 Ep9 Un regalo di nozze - La signora Fletcher viene invitata al matrimonio di suo nipote Grady con Donna Mayberry. Alla cerimonia ce pero qualcuno che non ha la coscienza a posto.\n\nA seguire (05:00): La signora in giallo",
+      "info": "In onda: 06:35 - 07:25\n\nIl caso di una sparatoria seguita a una rapina costringe McCall a fare una chiamata che avrebbe volentieri evitato: quella al suo ex marito, il dottor Fulton.\n\nA seguire (07:25): The Equalizer",
       "thumbnail": "https://images.open-epg.com/19398.png"
     },
     {
-      "title": "Sky Nature.it - 04:10 Io e i lupi delle nevi",
+      "title": "Sky Nature.it - 06:20 I Guardiani Della Natura",
       "link": "ignoreme",
-      "info": "In onda: 04:10 - 05:00\n\nGordon trova la famiglia di lupi in cerca di cibo: per linverno devono affrontare anche prede pericolose.\n\nA seguire (05:00): La quercia e i suoi abitanti",
+      "info": "In onda: 06:20 - 07:10\n\nS1 Ep3 Predatori allo scoperto - Nel cuore del Bush zambiano si nasconde una delle ultime roccaforti rimaste per alcuni dei grandi carnivori piu minacciati dellAfrica.\n\nA seguire (07:10): I misteri del Mekong",
       "thumbnail": "https://images.open-epg.com/19393.png"
     },
     {
-      "title": "Sky News.it - 04:00 Sky News",
+      "title": "Sky News.it - 06:30 Mornings",
       "link": "ignoreme",
-      "info": "In onda: 04:00 - 05:00\n\nA round up of all the latest news from the UK and around the world, including the Press Preview.\n\nA seguire (05:00): Sky News",
+      "info": "In onda: 06:30 - 07:00\n\nAll the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.\n\nA seguire (07:00): Mornings with Ridge and Frost",
       "thumbnail": "https://images.open-epg.com/19400.png"
     },
     {
-      "title": "Sky Serie.it - 04:15 Suits",
+      "title": "Sky Serie.it - 06:40 Gomorra - Le Origini - Speciale",
       "link": "ignoreme",
-      "info": "In onda: 04:15 - 05:00\n\nS8 Ep8 Coral Gables - Harvey aiuta Samantha a regolare un vecchio conto. Louis affronta un ostacolo sulla strada della paternita.\n\nA seguire (05:00): The Pitt",
+      "info": "In onda: 06:40 - 07:05\n\n... Backstage. - Tutti i segreti del dietro le quinte di Gomorra Le Origini, la serie che racconta liniziazione criminale di Pietro Savastano.\n\nA seguire (07:30): Friends",
       "thumbnail": "https://images.open-epg.com/19402.png"
     },
     {
-      "title": "Sky Sport 4K.it - 03:00 Atalanta - Athletic Bilbao",
+      "title": "Sky Sport 4K.it - 05:00 GP Brasile: Gara",
       "link": "ignoreme",
-      "info": "In onda: 03:00 - 05:00\n\nAtalanta - Athletic Bilbao - Nerazzurri a quota 13 con 3 vittorie consecutive (Marsiglia, Eintracht e Chelsea). Athletic Bilbao con appena 5 punti, in corsa per disputare i playoff. TC: Borghi-Montolivo\n\nA seguire (05:00): GP Brasile: Gara",
+      "info": "In onda: 05:00 - 07:00\n\nGP Brasile: Gara - A Interlagos quartultima gara dellanno: attenzione massima sulla sfida per il titolo tra i due piloti McLaren, insidiati da Verstappen. Telecronaca di Carlo Vanzini, Marc Gene e Roberto Chinchero.\n\nA seguire (07:00): GP Belgio: Gara",
       "thumbnail": "https://images.open-epg.com/19403.png"
     },
     {
-      "title": "Sky Sport Calcio.it - 03:05 Saint-Gilloise - Atalanta",
+      "title": "Sky Sport Calcio.it - 06:45 Uefa EuropaandConference League Magazine - Ep. 11 - Uefa EuropaandConference League Magazine Ep.11 03/02/2026",
       "link": "ignoreme",
-      "info": "In onda: 03:05 - 05:00\n\nUnion SG - Atalanta - Belgi 31esimi a quota 6, -2 dalla zona playoff. Atalanta 13esima con 13 punti dopo il ko contro lAthletic Bilbao. Playoff sicuri e ottavi diretti piu lontani. TC: Massara-Gobbi\n\nA seguire (05:00): Borussia Dortmund - Heidenheim",
+      "info": "In onda: 06:45 - 07:45\n\nEp.11 - Notizie, interviste e analisi delle squadre di Europa League e Conference League.\n\nA seguire (07:45): Udinese - Roma",
       "thumbnail": "https://images.open-epg.com/19405.png"
     },
     {
-      "title": "Sky Sport F1.it - 04:00 Gara: GP Miami",
+      "title": "Sky Sport F1.it - 06:00 F.Race: GP Monaco",
       "link": "ignoreme",
-      "info": "In onda: 04:00 - 05:00\n\nGP Miami: Gara - In Florida sesta gara stagionale: finora 4 successi McLaren e 1 vittoria di Max Verstappen. Chi trionfera nella Magic City? Telecronaca di Carlo Vanzini, Marc Gene e Roberto Chinchero.\n\nA seguire (05:00): Motori F1 Race Anatomy - Stag. Motori Race Anatomy F1 2025 - Motori Race Anatomy F1 2025 Ep.25 Speciale Natale 2025 22/12/2025",
+      "info": "In onda: 06:00 - 07:00\n\nGP Monaco: Feature Race - F.Race: GP Monaco\n\nA seguire (07:00): Giro dItalia: Lewis and Charles",
       "thumbnail": "https://images.open-epg.com/19406.png"
     },
     {
-      "title": "Sky Sport Golf.it - 02:00 Dubai Classic: Giorno 4",
+      "title": "Sky Sport Golf.it - 06:00 Bahrain Championship, 4a giornata",
       "link": "ignoreme",
-      "info": "In onda: 02:00 - 05:00\n\nDubai Classic: Giorno 4 - From Emirates Golf Club in Dubai, United Arab Emirates.\n\nA seguire (05:00): Alfred Dunhill, 4a giornata",
+      "info": "In onda: 06:00 - 09:00\n\nBapco Energies Bahrain Championship: Giorno 4 - Tutti i tornei del tour europeo, il DP World Tour.\n\nA seguire (09:00): Qatar Masters: Giorno 1",
       "thumbnail": "https://images.open-epg.com/19407.png"
     },
     {
-      "title": "Sky Sport Max.it - 04:30 Luomo Contro La Macchina",
+      "title": "Sky Sport Max.it - 06:15 Finale",
       "link": "ignoreme",
-      "info": "In onda: 04:30 - 05:00\n\nMax Verstappen nel 2025 ha perso il trono ma ha conquistato la definitiva consacrazione sfidando i piloti McLaren con un mezzo inferiore: riviviamo la sua stagione spettacolare.\n\nA seguire (05:00): Presentazione Ducati Lenovo 19/01/2026",
+      "info": "In onda: 06:15 - 08:00\n\nFinale - Dalla Jyske Bank Boxen di Herning, Danimarca.\n\nA seguire (08:00): All On Red",
       "thumbnail": "https://images.open-epg.com/19408.png"
     },
     {
-      "title": "Sky Sport MotoGP.it - 04:30 All On Red",
+      "title": "Sky Sport MotoGP.it - 06:30 Un Anno Di Motogp 2025",
       "link": "ignoreme",
-      "info": "In onda: 04:30 - 05:00\n\nil racconto della straordinaria stagione 2025 di Marc Marquez che si e conclusa con la conquista del titolo mondiale di MotoGP, con le interviste e il backstage nel box Ducati durante la stagione.\n\nA seguire (05:00): Mar9uez",
+      "info": "In onda: 06:30 - 08:15\n\nDal primo GP in Thailandia al finale di Valencia, riviviamo la stagione 2025 della MotoGP in questo speciale\n\nA seguire (08:15): Presentazione Ducati Lenovo 19/01/2026",
       "thumbnail": "https://images.open-epg.com/19409.png"
     },
     {
-      "title": "Sky Sport Uno.it - 01:30 Tennis AtpandWta 2026 04/02/2026",
+      "title": "Sky Sport Tennis.it - 05:00 Tennis AtpandWta 2026 04/02/2026",
       "link": "ignoreme",
-      "info": "In onda: 01:30 - 05:00\n\nTennis AtpandWta 2026 ATP and WTA - Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con lattenzione puntata sui tennisti italiani.\n\nA seguire (05:00): Virtus Olidata Bologna - Lyon-Villeurbanne",
+      "info": "In onda: 05:00 - 08:00\n\nTennis AtpandWta 2026 Tennis AtpandWta 2026 Tennis AtpandWta 2026 ATP and WTA - Tutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con lattenzione puntata sui tennisti italiani.\n\nA seguire (08:00): Tennis AtpandWta 2026 04/02/2026",
+      "thumbnail": "https://images.open-epg.com/19404.png"
+    },
+    {
+      "title": "Sky Sport Uno.it - 05:00 Virtus Olidata Bologna - Lyon-Villeurbanne",
+      "link": "ignoreme",
+      "info": "In onda: 05:00 - 07:00\n\nVirtus Olidata Bologna - Lyon-Villeurbanne - Dopo limpresa nel Principato, i campioni dItalia sfidano lultima in classifica capace pero, nellultimo turno, di mettere in difficolta il Panathinaikos. TC. De Rosa-Meneghin.\n\nA seguire (07:00): Speciale Rugby Pre 6 Nazioni",
       "thumbnail": "https://images.open-epg.com/19410.png"
     },
     {
-      "title": "Sky TG24.it - 04:30 TG24 Edicola",
+      "title": "Sky TG24.it - 06:30 TG24 Buongiorno",
       "link": "ignoreme",
-      "info": "In onda: 04:30 - 05:00\n\nTelegiornale con la lettura dei principali quotidiani.\n\nA seguire (05:00): TG24 mezzora",
+      "info": "In onda: 06:30 - 07:00\n\nLe notizie in primo piano, dallItalia e dal mondo. Approfondimenti, giornali, web, meteo, traffico: tutto live.\n\nA seguire (07:00): TG24 Buongiorno",
       "thumbnail": "https://images.open-epg.com/19411.png"
     },
     {
-      "title": "Sky Uno.it - 04:20 MasterChef USA",
+      "title": "Sky Uno.it - 06:25 MasterChef Italia Magazine",
       "link": "ignoreme",
-      "info": "In onda: 04:20 - 05:00\n\nI concorrenti devono soddisfare le esigenze del tifoso, incorporando elementi della loro regione. Lo chef vincitore della sfida precedente ha il compito di penalizzare un cuoco.\n\nA seguire (05:00): Accademia di pasticceria",
+      "info": "In onda: 06:25 - 06:50\n\nLappuntamento quotidiano in cui giudici, ospiti e aspiranti chef ci mostrano le loro preparazioni culinarie. Unoccasione per il pubblico di scoprire nuovi segreti gastronomici e filosofie diverse legate al cibo.\n\nA seguire (06:50): La seconda casa non si scorda mai",
       "thumbnail": "https://images.open-epg.com/19413.png"
     },
     {
-      "title": "ZONA DAZN.it - 00:00 Stag. 2019 - DAZN 1",
+      "title": "ZONA DAZN.it - 05:00 Stag. 2019 - DAZN 1",
       "link": "ignoreme",
-      "info": "In onda: 00:00 - 05:00\n\nDAZN 1 - DAZN 1\n\nA seguire (05:00): Stag. 2019 - DAZN 1",
+      "info": "In onda: 05:00 - 07:00\n\nDAZN 1 - DAZN 1\n\nA seguire (07:00): Real Madrid - Rayo Vallecano",
       "thumbnail": "https://images.open-epg.com/1700.png"
     },
     {
-      "title": "Zona Dazn 2.it - 23:00 Nessun evento in onda",
+      "title": "Zona Dazn 2.it - 05:00 Nessun evento in onda",
       "link": "ignoreme",
-      "info": "In onda: 23:00 - 05:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (05:00): Nessun evento in onda",
+      "info": "In onda: 05:00 - 11:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (11:00): Nessun evento in onda",
       "thumbnail": "https://images.open-epg.com/7515553.png"
     },
     {
-      "title": "Zona Dazn.it - 00:00 DAZN 1",
+      "title": "Zona Dazn.it - 05:00 DAZN 1",
       "link": "ignoreme",
-      "info": "In onda: 00:00 - 05:00\n\nDAZN 1\n\nA seguire (05:00): DAZN 1",
+      "info": "In onda: 05:00 - 07:00\n\nDAZN 1\n\nA seguire (07:00): Real Madrid - Rayo Vallecano - Stag. 2025 Ep. 22a g. - Real Madrid - Rayo Vallecano",
       "thumbnail": "https://images.open-epg.com/7515557.png"
     }
   ]
