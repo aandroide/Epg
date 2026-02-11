@@ -6,18 +6,18 @@
     {
       "title": "Androide - EPG",
       "link": "ignoreme",
-      "info": "Aggiornato: 10/02/2026 21:34"
+      "info": "Aggiornato: 11/02/2026 01:25"
     },
     {
-      "title": "DAZN 1.it - 21:20 20a g.",
+      "title": "DAZN 1.it - 00:00 DAZN 1",
       "link": "ignoreme",
-      "info": "In onda: 21:20 - 22:15\n\n20a g - Guarda tutte le azioni salienti della giornata di Serie A. Segui la Serie A Enilive su DAZN!\n\nA seguire (22:15): 21a g.",
+      "info": "In onda: 00:00 - 05:00\n\nDAZN 1\n\nA seguire (05:00): DAZN 1",
       "thumbnail": "https://images.open-epg.com/19310.png"
     },
     {
-      "title": "DAZN 2.it - 17:00 Nessun evento in onda",
+      "title": "DAZN 2.it - 23:00 Nessun evento in onda",
       "link": "ignoreme",
-      "info": "In onda: 17:00 - 23:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (23:00): Nessun evento in onda",
+      "info": "In onda: 23:00 - 05:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (05:00): Nessun evento in onda",
       "thumbnail": "https://images.open-epg.com/19311.png"
     },
     {
@@ -27,153 +27,147 @@
       "thumbnail": "https://images.open-epg.com/1531.png"
     },
     {
-      "title": "Sky Arte.it - 21:25 Italie invisibili",
+      "title": "Sky Arte.it - 01:20 Italie invisibili",
       "link": "ignoreme",
-      "info": "In onda: 21:25 - 22:00\n\nS5 Ep3 Il Monferrato dei marchesi Paleologi - Scopriamo la storia del Marchesato del Monferrato nel suo ultimo tratto di splendore, nei decenni conclusivi della dinastia dei marchesi Paleologi.\n\nA seguire (22:00): Italie invisibili",
+      "info": "In onda: 01:20 - 01:50\n\nS5 Ep3 Il Monferrato dei marchesi Paleologi - Scopriamo la storia del Marchesato del Monferrato nel suo ultimo tratto di splendore, nei decenni conclusivi della dinastia dei marchesi Paleologi.\n\nA seguire (01:50): Indie Jungle",
       "thumbnail": "https://images.open-epg.com/19379.png"
     },
     {
-      "title": "Sky Atlantic.it - 21:15 Under Salt Marsh: Segreti sommersi",
+      "title": "Sky Atlantic.it - 01:05 Yellowstone",
       "link": "ignoreme",
-      "info": "In onda: 21:15 - 22:15\n\nViene scoperta unoperazione illecita e il malcontento si diffonde. Jackie e Bull, costretti a stringere unalleanza, condividono informazioni mentre seguono piste separate.\n\nA seguire (22:15): Gomorra: Le origini",
+      "info": "In onda: 01:05 - 02:05\n\nS5 Ep11 Tre e Cinquantatre - Beth discute del destino del ranch con un improbabile alleato.\n\nA seguire (02:05): The Walking Dead",
       "thumbnail": "https://images.open-epg.com/19381.png"
     },
     {
-      "title": "Sky Cinema Action.it - 20:00 Operation Fortune",
+      "title": "Sky Cinema Action.it - 23:45 The Chronicles of Riddick",
       "link": "ignoreme",
-      "info": "In onda: 20:00 - 22:00\n\nAction Sky Original di Guy Ritchie con Jason Statham e Hugh Grant. Una spia dellMI6 e il suo team di agenti reclutano una star di Hollywood per una missione sotto copertura (USA/GBR 2022)\n\nA seguire (22:00): Skyscraper",
+      "info": "In onda: 23:45 - 01:45\n\nVin Diesel nel fanta-action sequel di\n\nA seguire (01:45): Gangster Squad",
       "thumbnail": "https://images.open-epg.com/19383.png"
     },
     {
-      "title": "Sky Cinema Comedy.it - 20:00 Come ammazzare il capo 2",
+      "title": "Sky Cinema Comedy.it - 00:10 Uno di famiglia",
       "link": "ignoreme",
-      "info": "In onda: 20:00 - 21:55\n\nSequel di\n\nA seguire (23:50): Speciale - I Delitti Del Barlume - Le Nuove Storie",
+      "info": "In onda: 00:10 - 01:50\n\nIronica commedia sullItalia di oggi con Pietro Sermonti, Nino Frassica e Lucia Ocone. Un insegnante di dizione salva la vita a uno studente che appartiene a una famiglia di malavitosi (ITA 2018)\n\nA seguire (01:50): Il pataffio",
       "thumbnail": "https://images.open-epg.com/19384.png"
     },
     {
-      "title": "Sky Cinema Drama.it - 20:00 Collateral Beauty",
+      "title": "Sky Cinema Drama.it - 01:05 Lovely Boy",
       "link": "ignoreme",
-      "info": "In onda: 20:00 - 21:40\n\nWill Smith in un dramma sul dolore e la perdita. Dopo la morte della figlia, Howard reagisce scrivendo lettere alla Morte, al Tempo e allAmore. I suoi amici lo aiuteranno (USA 2016)\n\nA seguire (21:40): Lultimo giorno sulla Terra",
+      "info": "In onda: 01:05 - 02:50\n\nAndrea Carpenzano nel film Sky Original di Francesco Lettieri. Lascesa e il declino di Nic, in arte Lovely Boy, astro nascente della scena musicale romana finito nel baratro della droga (ITA 2021)\n\nA seguire (02:50): Nour",
       "thumbnail": "https://images.open-epg.com/19385.png"
     },
     {
-      "title": "Sky Cinema Due.it - 20:15 J. Edgar",
+      "title": "Sky Cinema Due.it - 00:30 Elisa",
       "link": "ignoreme",
-      "info": "In onda: 20:15 - 22:30\n\nLeonardo DiCaprio nel capolavoro di Clint Eastwood che racconta la vita del leggendario capo dellFBI, John Edgar Hoover. Il ritratto di un uomo e della sua lotta contro la criminalita (USA 2011)\n\nA seguire (22:30): Quasi amici",
+      "info": "In onda: 00:30 - 02:20\n\nLeonardo Di Costanzo dirige un dramma psicologico che indaga nella mente di una donna condannata per lomicidio della sorella (IT/CH 2025)\n\nA seguire (06:25): The Way Back",
       "thumbnail": "https://images.open-epg.com/19387.png"
     },
     {
-      "title": "Sky Cinema Family.it - 21:20 Cè tempo",
+      "title": "Sky Cinema Family.it - 01:05 Il Grinch",
       "link": "ignoreme",
-      "info": "In onda: 21:20 - 23:10\n\nStefano Fresi in una commedia on the road di Walter Veltroni. Alla morte del padre, un quarantenne osservatore di arcobaleni scopre di avere un fratellastro minorenne (ITA 2019)\n\nA seguire (23:10): Speciale - I Delitti Del Barlume - Le Nuove Storie",
+      "info": "In onda: 01:05 - 02:35\n\nAnimazione campione dincassi targata Illumination tratta dal racconto del Dr. Seuss. Lo scontroso mostriciattolo verde odia lo spirito del Natale ed elabora un piano per sabotare la festa (USA/FRA 2018)\n\nA seguire (02:35): Questo o quello - Speciale",
       "thumbnail": "https://images.open-epg.com/19388.png"
     },
     {
-      "title": "Sky Cinema Romance.it - 20:00 Non succede, ma se succede...",
+      "title": "Sky Cinema Romance.it - 00:35 Vicino all’orizzonte",
       "link": "ignoreme",
-      "info": "In onda: 20:00 - 22:10\n\nCharlize Theron e Seth Rogen in unirriverente commedia romantica. Un giornalista disoccupato si innamora della sua babysitter di un tempo, in corsa per la presidenza degli Stati Uniti (USA 2019)\n\nA seguire (22:10): Il grande Gatsby",
+      "info": "In onda: 00:35 - 02:30\n\nDal bestseller di Jessica Koch, un teen-movie ispirato a una storia vera con Luna Wedler e Jannik Schumann. Un oscuro segreto rende impossibile il legame fra Jessica e laffascinante Danny (DEU 2019)\n\nA seguire (06:45): One for the Money",
       "thumbnail": "https://images.open-epg.com/19389.png"
     },
     {
-      "title": "Sky Cinema Suspense.it - 20:00 MaXXXine",
+      "title": "Sky Cinema Suspense.it - 01:15 Marnie",
       "link": "ignoreme",
-      "info": "In onda: 20:00 - 21:45\n\nUltimo capitolo della trilogia horror-thriller di Ti West con Mia Goth. Maxine vuole lasciare il mondo del porno per diventare attrice, ma un serial killer minaccia la sua ascesa (USA/GBR 2024)\n\nA seguire (21:45): Dead Shot - Vendetta disperata",
+      "info": "In onda: 01:15 - 03:25\n\nLa sublime regia di Alfred Hitchcock per un thriller psicologico con Tippi Hedren e Sean Connery. Un giovane industriale scava nel passato della moglie traumatizzata... (USA 1964)\n\nA seguire (03:30): Questo o quello: Speciale",
       "thumbnail": "https://images.open-epg.com/19390.png"
     },
     {
-      "title": "Sky Cinema Uno +24.it - 20:15 Tre ciotole",
+      "title": "Sky Cinema Uno +24.it - 00:05 10 giorni senza mamma",
       "link": "ignoreme",
-      "info": "In onda: 20:15 - 22:20\n\nToccante pellicola con Alba Rohrwacher ed Elio Germano, dallomonimo libro di Michela Murgia. Dopo un litigio, Marta e Antonio si lasciano reagendo in modi diversi alla separazione (ITA 2025)\n\nA seguire (22:20): Il Sapore Del Successo",
+      "info": "In onda: 00:05 - 01:40\n\nFabio De Luigi e Valentina Lodovini nella commedia campione dincassi di Alessandro Genovesi. Giulia si concede una vacanza a Cuba lasciando il marito ad occuparsi dei figli (ITA 2019)\n\nA seguire (01:40): Hypnotic",
       "thumbnail": "https://images.open-epg.com/19391.png"
     },
     {
-      "title": "Sky Cinema Uno.it - 20:15 Hypnotic",
+      "title": "Sky Cinema Uno.it - 23:40 Jurassic World - La rinascita",
       "link": "ignoreme",
-      "info": "In onda: 20:15 - 21:55\n\nBen Affleck e Alice Braga in un thriller di Robert Rodriguez. Aiutato da una sensitiva, un detective scopre che la scomparsa di sua figlia e collegata a una serie di rapine in banca (USA/CAN 2023)\n\nA seguire (21:55): Tre uomini e una gamba",
+      "info": "In onda: 23:40 - 01:55\n\nScarlett Johansson e Mahershala Ali nel settimo kolossal della saga candidato allOscar. Per sviluppare un farmaco rivoluzionario, una squadra deve prelevare il DNA di 3 dinosauri (USA 2024)\n\nA seguire (01:55): Benvenuti al Nord",
       "thumbnail": "https://images.open-epg.com/19392.png"
     },
     {
-      "title": "Sky Classica.it - 20:25 Cajkovskij - La dama di picche",
+      "title": "Sky Classica.it - 01:00 Bernstein interpreta Schumann - ep.1",
       "link": "ignoreme",
-      "info": "In onda: 20:25 - 23:45\n\nOpera in 3 atti e 7 scene (1890) su libretto del fratello Modest basato sul racconto di Pusjkin - con B.Jovanovich, E.Muraveva, H.Schwarz - Wiener Philharmoniker - M.Jansons, dir. - H.Neuenfels, reg.(Salisburgo, 2018)\n\nA seguire (23:45): Incontri contemporanei - Ambrosini",
+      "info": "In onda: 01:00 - 01:30\n\nPrima puntata del ciclo dedicato a Robert Schumann: Sinfonia n.1 in si bemolle maggiore op.38 detta La primavera (1841) qui eseguita dai Wiener Philharmoniker sotto la direzione di Leonard Bernstein (Vienna, 1985)\n\nA seguire (01:30): Messa da Requiem - Duomo di Milano",
       "thumbnail": "https://images.open-epg.com/4100139.png"
     },
     {
-      "title": "Sky Crime.it - 21:00 La banda della Magliana - La...",
+      "title": "Sky Crime.it - 00:50 Mostri Senza Nome - Roma",
       "link": "ignoreme",
-      "info": "In onda: 21:00 - 22:05\n\nS1 Ep4 La caduta - ...vera storia: La storia di Franco Giuseppucci e lascesa della Banda della Magliana ai vertici della criminalita romana, tra interviste inedite e documenti esclusivi.\n\nA seguire (22:05): Mostri Senza Nome - Roma",
+      "info": "In onda: 00:50 - 01:50\n\nS1 Ep4 Il Delitto Della Minestrina - Francesca Moretti muore il 22 febbraio 2000 allospedale San Giovanni di Roma dopo un ricovero durgenza nel tardo pomeriggio.\n\nA seguire (01:50): Delitti",
       "thumbnail": "https://images.open-epg.com/19394.png"
     },
     {
-      "title": "Sky Documentaries +1.it - 21:15 Icons: James Bond 1^TV",
+      "title": "Sky Documentaries +1.it - 01:15 I nazisti e larte rubata",
       "link": "ignoreme",
-      "info": "In onda: 21:15 - 22:00\n\nS1 Ep3 Changing Times - Sebbene i diamanti possano essere eterni, Sean Connery no. Mentre la troupe abbraccia i cambiamenti culturali degli anni 70, Bond raggiunge nuove vette, ma sara la fine di unera per un produttore.\n\nA seguire (22:00): Icons: James Bond 1^TV",
+      "info": "In onda: 01:15 - 01:55\n\nS1 Ep1 Hitler e Goring: La grande razzia - Facciamo luce sullossessione dei nazisti per larte e sui tanti furti di capolavori da loro perpetrati durante la seconda guerra mondiale.\n\nA seguire (01:55): I nazisti e larte rubata",
       "thumbnail": "https://images.open-epg.com/nologo.png"
     },
     {
-      "title": "Sky Documentaries.it - 21:00 Icons: James Bond 1^TV",
+      "title": "Sky Documentaries.it - 00:55 I nazisti e larte rubata",
       "link": "ignoreme",
-      "info": "In onda: 21:00 - 21:50\n\nS1 Ep4 Over a Cliff - La guerra dei Bond - Con un attore protagonista ormai avanti con leta e un nuovo regista al comando, la saga rischia di andare in rovina.\n\nA seguire (21:50): Icons: James Bond",
+      "info": "In onda: 00:55 - 01:35\n\nS1 Ep2 Artisti e mercanti del Terzo Reich - Facciamo luce sullossessione dei nazisti per larte e sui tanti furti di capolavori da loro perpetrati durante la seconda guerra mondiale.\n\nA seguire (01:35): I nazisti e larte rubata",
       "thumbnail": "https://images.open-epg.com/19396.png"
     },
     {
-      "title": "Sky Investigation.it - 21:00 Sheriff Country - Stag. Sheriff Country S.1 - Sheriff Country Ep.02",
+      "title": "Sky Investigation.it - 00:55 The Blacklist",
       "link": "ignoreme",
-      "info": "In onda: 21:00 - 21:50\n\nS1 Ep2 Firewall - La linea tra vita privata e professionale di Mickey si fa sempre piu labile mentre indaga su una scomparsa cercando allo stesso tempo di proteggere sua figlia.\n\nA seguire (21:50): Pilot",
+      "info": "In onda: 00:55 - 01:35\n\nS10 Ep3 The Four Guns - Lindagine della Task Force sul tentato omicidio del Senatore Panabaker ha esiti inattesi. Red, intanto, manda un regalo pericoloso a una vecchia conoscenza.\n\nA seguire (01:35): The Blacklist",
       "thumbnail": "https://images.open-epg.com/19398.png"
     },
     {
-      "title": "Sky Nature.it - 21:15 La vita segreta degli oceani",
+      "title": "Sky Nature.it - 00:50 I grandi parchi dAfrica",
       "link": "ignoreme",
-      "info": "In onda: 21:15 - 22:10\n\nS3 Ep4 Il Golfo di Hauraki - In questo tour del golfo di Hauraki, in Nuova Zelanda, incontreremo alcune creature degli abissi.\n\nA seguire (22:10): Nel selvaggio blu",
+      "info": "In onda: 00:50 - 01:40\n\nS1 Ep2 La Montagna della Tavola - Il Parco Nazionale della Montagna della Tavola, allestremita sudoccidentale dellAfrica, e circondato dalloceano e dalluomo.\n\nA seguire (01:40): I grandi parchi dAfrica",
       "thumbnail": "https://images.open-epg.com/19393.png"
     },
     {
-      "title": "Sky News.it - 21:30 The World with Yalda Hakim",
+      "title": "Sky News.it - 01:00 Sky News",
       "link": "ignoreme",
-      "info": "In onda: 21:30 - 22:00\n\nEyewitness reports, interviews and analysis on the big stories around the world with Yalda Hakim.\n\nA seguire (22:00): News at 10 with Anna Botting",
+      "info": "In onda: 01:00 - 02:00\n\nA round up of all the latest news from the UK and around the world, including the Press Preview.\n\nA seguire (02:00): Sky News",
       "thumbnail": "https://images.open-epg.com/19400.png"
     },
     {
-      "title": "Sky Serie.it - 21:10 Call My Agent - Italia",
+      "title": "Sky Sport 4K.it - 00:20 Inter - Arsenal",
       "link": "ignoreme",
-      "info": "In onda: 21:10 - 22:15\n\nUna stressante intervista di coppia rischia di mettere in crisi una delle coppie piu solide del cinema italiano: Serena Rossi e Davide Devenuto.\n\nA seguire (22:15): Fire Country",
-      "thumbnail": "https://images.open-epg.com/19402.png"
-    },
-    {
-      "title": "Sky Sport 4K.it - 20:10 West Ham - Manchester United",
-      "link": "ignoreme",
-      "info": "In onda: 20:10 - 22:15\n\nPremier League - Dal London Stadium di Londra, Inghilterra.\n\nA seguire (22:15): Fiorentina - Torino",
+      "info": "In onda: 00:20 - 02:15\n\nInter - Arsenal - Nerazzurri quinti con 12 punti. Vengono da 2 ko consecutivi (Atletico Madrid e Liverpool). Arsenal primo a punteggio pieno: 18 punti e un solo gol subito. TC: Caressa-Bergomi\n\nA seguire (02:15): Motori Formula 1 - Ep. 120 - Motori F1 2025 Gp Abu Dhabi Gara 07/12/2025",
       "thumbnail": "https://images.open-epg.com/19403.png"
     },
     {
-      "title": "Sky Sport Calcio.it - 21:30 Roma - Cagliari",
+      "title": "Sky Sport Calcio.it - 01:00 Everton - Bournemouth",
       "link": "ignoreme",
-      "info": "In onda: 21:30 - 22:00\n\nRoma - Cagliari - Giallorossi scivolati al 5^ posto dopo il ko di Udine. I sardi vengono da 3 vittorie consecutive.Non battono la Roma allOlimpico dal 2013, 2 pari e 8 ko. TC: Gentile-Minotti\n\nA seguire (22:00): Sassuolo - Inter",
+      "info": "In onda: 01:00 - 03:00\n\nEverton - Bournemouth - From Hill Dickinson Stadium in Liverpool, Merseyside, England.\n\nA seguire (03:00): Tottenham - Liverpool 2019",
       "thumbnail": "https://images.open-epg.com/19405.png"
     },
     {
-      "title": "Sky Sport F1.it - 21:00 GP Stati Uniti: Sprint",
+      "title": "Sky Sport F1.it - 01:00 F1aenza",
       "link": "ignoreme",
-      "info": "In onda: 21:00 - 22:05\n\nGP Stati Uniti: Sprint - A Austin, Texas, prima gara del weekend sulla distanza di 100km: chi conquistera gli 8 punti in palio per il vincitore? Telecronaca di Carlo Vanzini, Marc Gene e Roberto Chinchero.\n\nA seguire (22:05): GP Stati Uniti: Gara",
+      "info": "In onda: 01:00 - 01:30\n\nA pochi km da Imola, nella sede italiana della Visa Cash App Racing Bulls, alla scoperta del lavoro che viene fatto prima e durante un weekend di gara. Con Mara Sangiorgio.\n\nA seguire (01:30): In pista con Jannik",
       "thumbnail": "https://images.open-epg.com/19406.png"
     },
     {
-      "title": "Sky Sport Golf.it - 20:05 8a giornata",
+      "title": "Sky Sport Golf.it - 23:00 Bahrain Championship, 4a giornata",
       "link": "ignoreme",
-      "info": "In onda: 20:05 - 22:05\n\n8a giornata - Le partite della TGL Golf League.\n\nA seguire (22:05): US Open",
+      "info": "In onda: 23:00 - 02:00\n\nBapco Energies Bahrain Championship: Giorno 4 - Tutti i tornei del tour europeo, il DP World Tour.\n\nA seguire (02:00): Dubai Classic: Giorno 4",
       "thumbnail": "https://images.open-epg.com/19407.png"
     },
     {
-      "title": "Sky Sport Max.it - 20:10 West Ham - Manchester United",
+      "title": "Sky Sport Max.it - 01:00 Fiorentina - Torino",
       "link": "ignoreme",
-      "info": "In onda: 20:10 - 22:15\n\nPremier League - Dal London Stadium di Londra, Inghilterra.\n\nA seguire (22:15): Stefania Belmondo E Kristian Ghedina",
+      "info": "In onda: 01:00 - 03:00\n\nFiorentina - Torino - Viola sempre terzultimi dopo 2 ko consecutivi. Granata reduci dall 1-0 sul Lecce, dopo 4 ko. Un solo successo nelle ultime 35 di A al Franchi, 15 pari e 19 ko. TC: Nucera-Gobbi\n\nA seguire (03:00): Race 1: GP Miami",
       "thumbnail": "https://images.open-epg.com/19408.png"
     },
     {
-      "title": "Sky Sport MotoGP.it - 21:15 Un Anno Di Moto2 2025",
+      "title": "Sky Sport MotoGP.it - 00:45 Presentazione Aprilia Trackhouse... - Ep. 21 - Presentazione Aprilia Trackhouse 21/01/2026",
       "link": "ignoreme",
-      "info": "In onda: 21:15 - 22:15\n\nDalla partenza in Thailandia al finale sul circuito di Valencia, riviviamo la stagione 2025 della Moto2 in questo speciale\n\nA seguire (22:15): Speciale Eicma 2025 - Dietro Le",
+      "info": "In onda: 00:45 - 01:30\n\n... 21/01/2026. - Presentazione Team Yamaha Monster 21/01/2026\n\nA seguire (01:30): Presentazione Ducati Lenovo 19/01/2026",
       "thumbnail": "https://images.open-epg.com/19409.png"
     },
     {
@@ -183,45 +177,39 @@
       "thumbnail": "https://images.open-epg.com/19404.png"
     },
     {
-      "title": "Sky Sport Uno.it - 20:10 West Ham - Manchester United",
+      "title": "Sky Sport Uno.it - 01:10 Roma - Cagliari",
       "link": "ignoreme",
-      "info": "In onda: 20:10 - 22:15\n\nPremier League 26ga - Dal London Stadium di Londra, Inghilterra.\n\nA seguire (22:15): Ep.1",
+      "info": "In onda: 01:10 - 03:05\n\nRoma - Cagliari - Giallorossi scivolati al 5^ posto dopo il ko di Udine. I sardi vengono da 3 vittorie consecutive.Non battono la Roma allOlimpico dal 2013, 2 pari e 8 ko. TC: Gentile-Minotti\n\nA seguire (03:00): Aquila Trento - Ulm",
       "thumbnail": "https://images.open-epg.com/19410.png"
     },
     {
-      "title": "Sky Sport.it - 19:25 Catania - Audace Cerignola",
+      "title": "Sky TG24.it - 01:00 TG24 Edicola",
       "link": "ignoreme",
-      "info": "In onda: 19:25 - 22:30\n\nCod. 408514 - Serie C - 26a giornata. Calcio dinizio ore 20:30.\n\nA seguire (16:30): Alcione Milano - Ospitaletto",
-      "thumbnail": "https://images.open-epg.com/19382.png"
-    },
-    {
-      "title": "Sky TG24.it - 21:20 TG24 Economia",
-      "link": "ignoreme",
-      "info": "In onda: 21:20 - 22:00\n\nLappuntamento quotidiano con lapprofondimento delle principali notizie economiche della giornata. Conduce Andrea Bignami.\n\nA seguire (22:00): Skyline",
+      "info": "In onda: 01:00 - 01:30\n\nTelegiornale con la lettura dei principali quotidiani.\n\nA seguire (01:30): TG24 Edicola",
       "thumbnail": "https://images.open-epg.com/19411.png"
     },
     {
-      "title": "Sky Uno.it - 20:15 Alessandro Borghese - 4 Ristoranti",
+      "title": "Sky Uno.it - 00:15 MasterChef Italia",
       "link": "ignoreme",
-      "info": "In onda: 20:15 - 21:35\n\nS11 Ep8 Gran Sasso - Il Parco Nazionale del Gran Sasso, tra montagne maestose, borghi senza tempo e antiche tradizioni, fa da cornice alla sfida per il miglior ristorante della zona.\n\nA seguire (21:35): Alessandro Borghese - 4 Ristoranti",
+      "info": "In onda: 00:15 - 01:35\n\nDopo la Mystery Box con le tirocinanti del ristorante Roots della chef canadese Jessica Roval, la MasterClass si cimenta nellInvention Test con lo chef Jeremy Chan.\n\nA seguire (01:35): MasterChef Italia",
       "thumbnail": "https://images.open-epg.com/19413.png"
     },
     {
-      "title": "ZONA DAZN.it - 21:20 20a g.",
+      "title": "ZONA DAZN.it - 00:00 Stag. 2019 - DAZN 1",
       "link": "ignoreme",
-      "info": "In onda: 21:20 - 22:15\n\n20a g\n\nA seguire (22:15): 21a g.",
+      "info": "In onda: 00:00 - 05:00\n\nDAZN 1 - DAZN 1\n\nA seguire (05:00): Stag. 2019 - DAZN 1",
       "thumbnail": "https://images.open-epg.com/1700.png"
     },
     {
-      "title": "Zona Dazn 2.it - 17:00 Nessun evento in onda",
+      "title": "Zona Dazn 2.it - 23:00 Nessun evento in onda",
       "link": "ignoreme",
-      "info": "In onda: 17:00 - 23:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (23:00): Nessun evento in onda",
+      "info": "In onda: 23:00 - 05:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (05:00): Nessun evento in onda",
       "thumbnail": "https://images.open-epg.com/7515553.png"
     },
     {
-      "title": "Zona Dazn.it - 21:20 20a g.",
+      "title": "Zona Dazn.it - 00:00 DAZN 1",
       "link": "ignoreme",
-      "info": "In onda: 21:20 - 22:15\n\n20a g - Guarda tutte le azioni salienti della giornata di Serie A. Segui la Serie A Enilive su DAZN!\n\nA seguire (22:15): 21a g.",
+      "info": "In onda: 00:00 - 05:00\n\nDAZN 1\n\nA seguire (05:00): DAZN 1",
       "thumbnail": "https://images.open-epg.com/7515557.png"
     }
   ]
