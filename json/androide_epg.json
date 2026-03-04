@@ -6,36 +6,198 @@
     {
       "title": "Androide - EPG",
       "link": "ignoreme",
-      "info": "Aggiornato: 04/03/2026 09:31"
+      "info": "Aggiornato: 04/03/2026 12:35"
     },
     {
-      "title": "DAZN 2.it - 05:00 Nessun evento in onda",
+      "title": "DAZN 1.it - 11:22 Parma - Cagliari",
       "link": "ignoreme",
-      "info": "In onda: 05:00 - 11:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.",
+      "info": "In onda: 11:22 - 13:09\n\nSerie A - 27a g. Ambizione, tattica e personalita: la stagione riparte con gli allenatori protagonisti, tra ritorni, rivoluzioni e conferme.\n\nA seguire (13:09): Missione Bilbao",
+      "thumbnail": "https://images.open-epg.com/19310.png"
+    },
+    {
+      "title": "DAZN 2.it - 11:00 Nessun evento in onda",
+      "link": "ignoreme",
+      "info": "In onda: 11:00 - 17:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (17:00): Nessun evento in onda",
       "thumbnail": "https://images.open-epg.com/19311.png"
     },
     {
-      "title": "DAZN.it - 13:30 Netherlands - Austria",
+      "title": "Sky Arte.it - 12:05 ArtBox",
       "link": "ignoreme",
-      "info": "In onda: 13:30 - 13:30\n\nWatch Basketball action as Austria takes on Netherlands",
-      "thumbnail": "https://images.open-epg.com/1531.png"
+      "info": "In onda: 12:05 - 12:50\n\nS11 Ep15 ArtBox 1^TV - La mostra di Michael E. Smith in cui ricostruisce la sua Detroit segnata dalla crisi industriale. Paolo Baldacci presenta il libro\n\nA seguire (12:50): Colosseo - Il gioiello di Roma",
+      "thumbnail": "https://images.open-epg.com/19379.png"
     },
     {
-      "title": "Sky Classica.it - 03:45 Mozart - Cosi fan tutte",
+      "title": "Sky Atlantic.it - 12:20 Speciale: Avvocato Ligas",
       "link": "ignoreme",
-      "info": "In onda: 03:45 - 07:00\n\nOpera in due atti (1790), ultima delle tre opere buffe su libretto di L.da Ponte - con F.Lombardi, M.Viotti, G.Orendt, P.Fanale, B.Frittoli - Staatskapelle Berlin - D.Barenboim, dir. - V.Huguet, reg. (Berlino, 2021)",
-      "thumbnail": "https://images.open-epg.com/4100139.png"
+      "info": "In onda: 12:20 - 12:40\n\nLuca Argentero e il cast presentano lAvvocato Ligas, penalista anticonvenzionale sempre pronto a rischiare pur di vincere una causa.\n\nA seguire (12:40): Il signore delle mosche",
+      "thumbnail": "https://images.open-epg.com/19381.png"
     },
     {
-      "title": "Zona Dazn 2.it - 23:00 Nessun evento in onda",
+      "title": "Sky Cinema Action.it - 11:15 La fratellanza",
       "link": "ignoreme",
-      "info": "In onda: 23:00 - 23:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.",
-      "thumbnail": "https://images.open-epg.com/7515553.png"
+      "info": "In onda: 11:15 - 13:20\n\nNikolaj Coster-Waldau in un action carcerario. In prigione per omicidio colposo, un broker di Wall Street entra a far parte di un violento clan (USA 2017)\n\nA seguire (13:20): Sin City",
+      "thumbnail": "https://images.open-epg.com/19383.png"
+    },
+    {
+      "title": "Sky Cinema Comedy.it - 11:30 Papà scatenato",
+      "link": "ignoreme",
+      "info": "In onda: 11:30 - 13:05\n\nDue famiglie molto diverse a confronto per un mix di gag e risate in una commedia con Robert De Niro e il comico Sebastian Maniscalco (USA 2023)\n\nA seguire (13:05): Beata ignoranza",
+      "thumbnail": "https://images.open-epg.com/19384.png"
+    },
+    {
+      "title": "Sky Cinema Drama.it - 11:40 Vangelo secondo Maria",
+      "link": "ignoreme",
+      "info": "In onda: 11:40 - 13:30\n\nBenedetta Porcaroli e Maria e Alessandro Gassmann e Giuseppe nella pellicola Sky Original diretta da Paolo Zucca e tratta dallomonimo romanzo di Barbara Alberti (ITA 2023)\n\nA seguire (13:30): Lultimo giorno sulla Terra",
+      "thumbnail": "https://images.open-epg.com/19385.png"
+    },
+    {
+      "title": "Sky Cinema Due.it - 11:10 Il socio",
+      "link": "ignoreme",
+      "info": "In onda: 11:10 - 13:45\n\nDal bestseller di John Grisham, thriller di Sydney Pollack con Gene Hackman e Tom Cruise. Assunto da un prestigioso studio legale, un avvocato inesperto viene coinvolto in loschi intrighi (USA 1993)\n\nA seguire (13:45): Lultimo dei Mohicani",
+      "thumbnail": "https://images.open-epg.com/19387.png"
+    },
+    {
+      "title": "Sky Cinema Family.it - 11:15 Unicorni",
+      "link": "ignoreme",
+      "info": "In onda: 11:15 - 13:00\n\nMichela Andreozzi dirige un grande cast in un film sulle difficolta dellessere genitori. Quando il figlio sogna di interpretare la Sirenetta, una coppia si mette in discussione (ITA 2025)\n\nA seguire (13:00): Lego Batman - Il film",
+      "thumbnail": "https://images.open-epg.com/19388.png"
+    },
+    {
+      "title": "Sky Cinema Romance.it - 12:05 Amore a seconda vista",
+      "link": "ignoreme",
+      "info": "In onda: 12:05 - 14:05\n\nCommedia romantica dal tocco soprannaturale. Un romanziere si risveglia in un mondo parallelo e deve riconquistare Olivia, la donna che ha gia sposato nella sua vita originale (FRA/BEL 2019)\n\nA seguire (14:05): Amore, bugie e calcetto",
+      "thumbnail": "https://images.open-epg.com/19389.png"
+    },
+    {
+      "title": "Sky Cinema Suspense.it - 10:25 Cena con delitto - Knives Out",
+      "link": "ignoreme",
+      "info": "In onda: 10:25 - 12:40\n\nDaniel Craig e un super cast in una movimentata commedia-thriller. Un detective indaga sulla famiglia di un ricco scrittore per scoprirne lassassino (USA 2019)\n\nA seguire (12:40): Drive",
+      "thumbnail": "https://images.open-epg.com/19390.png"
+    },
+    {
+      "title": "Sky Cinema Uno +24.it - 12:35 Questo o quello - Speciale",
+      "link": "ignoreme",
+      "info": "In onda: 12:35 - 12:50\n\nEp266 Questo O Quello - Collezione Oscar - Francesco Castelnuovo e Gianni Canova si sfidano a colpi di film disponibili On Demand nella collezione Oscar da venerdi 28 febbraio.\n\nA seguire (12:50): Lillusione perfetta: Now you see me, now you dont",
+      "thumbnail": "https://images.open-epg.com/19391.png"
+    },
+    {
+      "title": "Sky Cinema Uno.it - 10:40 Battleship",
+      "link": "ignoreme",
+      "info": "In onda: 10:40 - 12:55\n\nEpica battaglia nellOceano Pacifico con Taylor Kitsch, Rihanna e Liam Neeson. Le forze navali americane e giapponesi si alleano per difendere la Terra da una flotta di astronavi aliene (USA 2012)\n\nA seguire (12:55): Speciale - Avvocato Ligas",
+      "thumbnail": "https://images.open-epg.com/19392.png"
+    },
+    {
+      "title": "Sky Crime.it - 12:30 Un avvertimento prima di iniziare",
+      "link": "ignoreme",
+      "info": "In onda: 12:30 - 13:45\n\nS1 Ep6 Vincent Plicchi - ...iniziare: Pablo Trincia incontra Matteo, padre di Vincent, tiktoker bolognese di 23 anni suicidatosi in diretta social.\n\nA seguire (13:45): Delitti: Speciale Garlasco",
+      "thumbnail": "https://images.open-epg.com/19394.png"
+    },
+    {
+      "title": "Sky Documentaries +1.it - 12:30 1996, Lanno Di Del Piero Parte 1",
+      "link": "ignoreme",
+      "info": "In onda: 12:30 - 13:20\n\nParte 1 - Prima parte del viaggio nel passato di Alessandro Del Piero, che ripercorre uno degli anni piu iconici della sua carriera: il 1996.\n\nA seguire (13:20): Echo: Quello che rimane",
+      "thumbnail": "https://images.open-epg.com/nologo.png"
+    },
+    {
+      "title": "Sky Documentaries.it - 12:20 Echo: Quello che rimane",
+      "link": "ignoreme",
+      "info": "In onda: 12:20 - 12:50\n\nS1 Ep6 Gianluca Vialli - Definito come un esempio di dignita, talento e forza, Gianluca Vialli ha lasciato uneredita sportiva e umana che continua a vivere nel ricordo di amici e tifosi.\n\nA seguire (12:50): Food Markets. Profumi e sapori a km zero",
+      "thumbnail": "https://images.open-epg.com/19396.png"
+    },
+    {
+      "title": "Sky Investigation.it - 12:10 Delitti in Paradiso",
+      "link": "ignoreme",
+      "info": "In onda: 12:10 - 13:10\n\nS1 Ep6 Febbre tropicale - Camille e in Francia, Poole e malato: cosi tocca a unannoiata Angela indagare sul caso di un sommozzatore, trovato ucciso la mattina dopo aver litigato con il suo capo.\n\nA seguire (13:10): La signora in giallo",
+      "thumbnail": "https://images.open-epg.com/19398.png"
+    },
+    {
+      "title": "Sky Nature.it - 11:50 Meraviglie sottomarine dAfrica",
+      "link": "ignoreme",
+      "info": "In onda: 11:50 - 12:40\n\nS1 Ep3 Isola di Mafia: Paradiso inesplorato - Vicino alle coste della Tanzania ce una terra utopica, i cui habitat variegati offrono rifugio a uninfinita di creature: si tratta dellIsola di Mafia.\n\nA seguire (12:40): Meraviglie sottomarine dAfrica",
+      "thumbnail": "https://images.open-epg.com/19393.png"
+    },
+    {
+      "title": "Sky News.it - 12:30 Sky News Today with Jayne Secker",
+      "link": "ignoreme",
+      "info": "In onda: 12:30 - 13:00\n\nBreaking news, developing stories and live events from Sky News correspondents in the UK and around the world.\n\nA seguire (13:00): Sky News Today with Jayne Secker",
+      "thumbnail": "https://images.open-epg.com/19400.png"
+    },
+    {
+      "title": "Sky Serie.it - 12:00 Killing Eve",
+      "link": "ignoreme",
+      "info": "In onda: 12:00 - 12:45\n\nS2 Ep8 Sei mia - Finale di stagione. - Dopo aver sentito la parola in codice per le emergenze, Eve rovina la missione, mentre Villanelle fa di tutto per arrivare al suo ultimo obiettivo.\n\nA seguire (12:45): Call My Agent - Italia",
+      "thumbnail": "https://images.open-epg.com/19402.png"
+    },
+    {
+      "title": "Sky Sport 4K.it - 11:00 Gara: GP Australia",
+      "link": "ignoreme",
+      "info": "In onda: 11:00 - 13:15\n\nGP Australia: Gara - A Melbourne la prima gara del mondiale: sul circuito di Albert Park scopriremo chi sara grande protagonista in questo 2025. Telecronaca di Carlo Vanzini, Marc Gene e Roberto Chinchero.\n\nA seguire (13:15): Inter - Bodo/Glimt",
+      "thumbnail": "https://images.open-epg.com/19403.png"
+    },
+    {
+      "title": "Sky Sport Calcio.it - 11:20 Inter - Genoa",
+      "link": "ignoreme",
+      "info": "In onda: 11:20 - 13:10\n\nInter - Genoa - Nerazzurri a +10 sul Milan (secondo), dopo il 2-0 al Lecce. Genoa reduce dal 3-0 al Torino. Non vince a San Siro dal 1994, 3 pareggi e 20 sconfitte. TC: Compagnoni-Marchegiani\n\nA seguire (13:10): Wolverhampton Wanderers - Liverpool",
+      "thumbnail": "https://images.open-epg.com/19405.png"
+    },
+    {
+      "title": "Sky Sport F1.it - 11:35 Presentazione Ferrari Sf-26",
+      "link": "ignoreme",
+      "info": "In onda: 11:35 - 13:35\n\nPresentazione Ferrari Sf-26 - A Maranello si svela la nuova rossa: oltre allunveiling da seguire i primi giri della SF-26 sulla pista di Fiorano con Charles Leclerc e Lewis Hamilton.\n\nA seguire (13:35): Reparto Corse F1",
+      "thumbnail": "https://images.open-epg.com/19406.png"
+    },
+    {
+      "title": "Sky Sport Golf.it - 11:00 Magical Kenya Open: Giorno 4",
+      "link": "ignoreme",
+      "info": "In onda: 11:00 - 14:00\n\n... DP World Tour. Magical Kenya Open: Giorno 4 - Tutti i tornei del tour europeo, il DP World Tour.\n\nA seguire (14:00): 4a Giornata",
+      "thumbnail": "https://images.open-epg.com/19407.png"
+    },
+    {
+      "title": "Sky Sport Max.it - 11:00 Section Paloise - Union Bordeaux-Bègles",
+      "link": "ignoreme",
+      "info": "In onda: 11:00 - 13:00\n\n... Bordeaux-Begles Top 14. Section Paloise - Union Bordeaux-Begles - Posticipo della 18a giornata del campionato francese. In palio il secondo posto in classifica dietro Tolosa tra Pau (51 punti) e Bordeaux (50). Telecronaca Pierantozzi-De Rossi\n\nA seguire (13:00): Pallanuoto Len Champions League - Ep. 14 - Pallanuoto Len Champions League Quarti Di Finale Brescia/ Zodiac Cnab 03/03/2026",
+      "thumbnail": "https://images.open-epg.com/19408.png"
+    },
+    {
+      "title": "Sky Sport MotoGP.it - 12:15 Motori World Superbike - Ep. 9 - Motori World Superbike 2026 Round 1 Australia - World Sbk Race 2 22/02/2026",
+      "link": "ignoreme",
+      "info": "In onda: 12:15 - 13:00\n\nAustralia: Gara 2 - Primo Round della stagione 2026. Da Phillip Island, in Australia, gara 2 della World Superbike. Telecronaca Vercellesi - Temporali\n\nA seguire (13:00): Reparto Corse Moto GP",
+      "thumbnail": "https://images.open-epg.com/19409.png"
+    },
+    {
+      "title": "Sky Sport Tennis.it - 09:45 2a Semifinale, Alcaraz - Sinner",
+      "link": "ignoreme",
+      "info": "In onda: 09:45 - 12:55\n\n... Tennis: Miami Open. 2a Semifinale, Sinner - Alcaraz - Da Miami, Stati Uniti.\n\nA seguire (12:55): Tennis Atp Tour This Week - Ep. 5 - Tennis Atp Tour This Week 2026 04/03/2026",
+      "thumbnail": "https://images.open-epg.com/19404.png"
+    },
+    {
+      "title": "Sky Sport Uno.it - 11:05 Wolverhampton Wanderers - Liverpool",
+      "link": "ignoreme",
+      "info": "In onda: 11:05 - 13:00\n\n... Premier League - Dopo aver vinto tre partite in fila il Liverpool fa visita ai Wolves, ultimi in classfica ma reduci dal successo sullAston Villa. Telecronaca di Federico Zancan\n\nA seguire (13:00): Messina 1a Parte",
+      "thumbnail": "https://images.open-epg.com/19410.png"
+    },
+    {
+      "title": "Sky TG24.it - 12:30 Ore 13",
+      "link": "ignoreme",
+      "info": "In onda: 12:30 - 12:50\n\nLe notizie della giornata raccontate con collegamenti live e approfondimenti. Con una finestra sul nostro Paese. E, sempre, il fatto principale del giorno analizzato e commentato da un esperto.\n\nA seguire (12:50): Extra Time",
+      "thumbnail": "https://images.open-epg.com/19411.png"
+    },
+    {
+      "title": "Sky Uno.it - 12:10 Alessandro Borghese - 4 Ristoranti",
+      "link": "ignoreme",
+      "info": "In onda: 12:10 - 13:25\n\nS11 Ep10 Modenese - Modena e la sua provincia sono la culla della cucina emiliana. Questo e il teatro della sfida per il miglior ristorante di cucina tradizionale.\n\nA seguire (13:25): Alessandro Borghese - 4 Ristoranti",
+      "thumbnail": "https://images.open-epg.com/19413.png"
+    },
+    {
+      "title": "ZONA DAZN.it - 12:00 Parma - Cagliari",
+      "link": "ignoreme",
+      "info": "In onda: 12:00 - 13:50\n\nCagliari - Serie A\n\nA seguire (13:50): Missione Bilbao",
+      "thumbnail": "https://images.open-epg.com/1700.png"
     },
     {
       "title": "Zona Dazn.it - 00:00 DAZN 1",
       "link": "ignoreme",
-      "info": "In onda: 00:00 - 23:30\n\nDAZN 1",
+      "info": "In onda: 00:00 - 00:00\n\nDAZN 1\n\nA seguire (00:00): DAZN 1",
       "thumbnail": "https://images.open-epg.com/7515557.png"
     }
   ]
