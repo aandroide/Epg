@@ -6,18 +6,18 @@
     {
       "title": "Androide - EPG",
       "link": "ignoreme",
-      "info": "Aggiornato: 23/03/2026 15:52"
+      "info": "Aggiornato: 23/03/2026 18:40"
     },
     {
-      "title": "DAZN 1.it - 15:13 Anem4 e Core: Il film dello Scudetto",
+      "title": "DAZN 1.it - 18:38 Inter - Cremonese",
       "link": "ignoreme",
-      "info": "In onda: 15:13 - 15:54\n\nIl percorso intrecciato tra Napoli e Inter che ha portato a trionfare la squadra di Antonio Conte. Rivivi tutto il percorso dello Scudetto del Napoli su DAZN!\n\nA seguire (15:54): Bologna - Lazio",
+      "info": "In onda: 18:38 - 20:21\n\nSerie A - 6a g. Ambizione, tattica e personalita: la stagione riparte con gli allenatori protagonisti, tra ritorni, rivoluzioni e conferme.\n\nA seguire (20:21): ABB Stadi",
       "thumbnail": "https://images.open-epg.com/19310.png"
     },
     {
-      "title": "DAZN 2.it - 11:00 Nessun evento in onda",
+      "title": "DAZN 2.it - 17:00 Nessun evento in onda",
       "link": "ignoreme",
-      "info": "In onda: 11:00 - 17:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (17:00): Nessun evento in onda",
+      "info": "In onda: 17:00 - 23:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (23:00): Nessun evento in onda",
       "thumbnail": "https://images.open-epg.com/19311.png"
     },
     {
@@ -27,141 +27,153 @@
       "thumbnail": "https://images.open-epg.com/1531.png"
     },
     {
-      "title": "Sky Arte.it - 15:40 Le fotografe",
+      "title": "Sky Arte.it - 18:35 Franco Battiato - Le nostre anime",
       "link": "ignoreme",
-      "info": "In onda: 15:40 - 16:10\n\nS1 Ep4 Carolina Amoretti: Fantagirl - Carolina ci racconta e mostra alcuni suoi scatti che hanno sdoganato, in tempi non sospetti, il tema di accettazione del corpo e di Body Positivity.\n\nA seguire (16:10): She, Othello. Una Questione Di Genere",
+      "info": "In onda: 18:35 - 19:20\n\nS1 Ep2 La stagione del pittore: Battiato tra tele e pennelli - Ripercorriamo i 50 anni di avventure musicali e ricerche sonore di Franco Battiato. Lartista ha vissuto un percorso unico: ricostruiamolo attraverso materiali darchivio rari.\n\nA seguire (20:15): Pompei. Eros e mito",
       "thumbnail": "https://images.open-epg.com/19379.png"
     },
     {
-      "title": "Sky Cinema Action.it - 15:40 Soldado",
+      "title": "Sky Atlantic.it - 18:30 Seal Team",
       "link": "ignoreme",
-      "info": "In onda: 15:40 - 17:50\n\nStefano Sollima dirige Benicio Del Toro e Josh Brolin nel sequel di\n\nA seguire (17:50): Jurassic World",
+      "info": "In onda: 18:30 - 19:15\n\nS7 Ep1 Caos nella calma - Dopo aver preso posizione contro il Comando per migliorare la salute dei soldati, il team Bravo e costretto a ritirarsi e viene inviato in Svezia per un incarico deludente.\n\nA seguire (19:15): Seal Team",
+      "thumbnail": "https://images.open-epg.com/19381.png"
+    },
+    {
+      "title": "Sky Cinema Action.it - 17:50 Jurassic World",
+      "link": "ignoreme",
+      "info": "In onda: 17:50 - 20:00\n\nChris Pratt e Bryce Dallas Howard nel primo capitolo della nuova trilogia prodotta da Spielberg. Per attrarre piu visitatori, gli scienziati progettano un dinosauro geneticamente modificato (USA 2015)\n\nA seguire (20:00): I predatori dellarca perduta",
       "thumbnail": "https://images.open-epg.com/19383.png"
     },
     {
-      "title": "Sky Cinema Comedy.it - 14:50 Qualunquemente",
+      "title": "Sky Cinema Comedy.it - 18:15 Una notte da leoni 3",
       "link": "ignoreme",
-      "info": "In onda: 14:50 - 16:35\n\nAntonio Albanese nei panni dello spassoso Cetto La Qualunque. Tornato in Italia dopo un periodo di latitanza, Cetto si candida a sindaco per difendere le sue proprieta dalla... legalita (ITA 2011)\n\nA seguire (16:35): Il premio",
+      "info": "In onda: 18:15 - 20:00\n\nTorna Bradley Cooper con i suoi pazzi compagni di avventura in unaltra folle notte. Il quartetto di amici finisce in un vortice di incredibili imprevisti dopo un inaspettato sequestro (USA 2013)\n\nA seguire (20:00): Scuola di polizia",
       "thumbnail": "https://images.open-epg.com/19384.png"
     },
     {
-      "title": "Sky Cinema Drama.it - 15:15 Alla vita",
+      "title": "Sky Cinema Drama.it - 16:55 Veloce come il vento",
       "link": "ignoreme",
-      "info": "In onda: 15:15 - 16:55\n\nRiccardo Scamarcio e Lou de Laage nellopera prima di Stephane Freiss. Una giovane, di famiglia ebrea ortodossa, incontra un uomo con cui esplora il desiderio di ribellarsi alla tradizione (ITA 2022)\n\nA seguire (16:55): Veloce come il vento",
+      "info": "In onda: 16:55 - 18:55\n\nMatteo Rovere dirige Stefano Accorsi e Matilda De Angelis. Dopo la morte del padre, una ragazza appassionata di motori ritrova suo fratello, pilota provetto diventato tossicodipendente (ITA 2016)\n\nA seguire (18:55): La stanza accanto",
       "thumbnail": "https://images.open-epg.com/19385.png"
     },
     {
-      "title": "Sky Cinema Due.it - 13:55 J. Edgar",
+      "title": "Sky Cinema Due.it - 18:10 Rush",
       "link": "ignoreme",
-      "info": "In onda: 13:55 - 16:10\n\nLeonardo DiCaprio nel capolavoro di Clint Eastwood che racconta la vita del leggendario capo dellFBI, John Edgar Hoover. Il ritratto di un uomo e della sua lotta contro la criminalita (USA 2011)\n\nA seguire (16:10): Il grande Lebowski",
+      "info": "In onda: 18:10 - 20:15\n\nRon Howard dirige Chris Hemsworth e Daniel Bruhl nel biopic sulla rivalita fra i piloti James Hunt e Niki Lauda, protagonisti di una memorabile stagione della Formula Uno (GBR/DEU 2013)\n\nA seguire (20:15): Le Mans 66 - La grande sfida",
       "thumbnail": "https://images.open-epg.com/19387.png"
     },
     {
-      "title": "Sky Cinema Family.it - 15:25 Biancaneve",
+      "title": "Sky Cinema Family.it - 17:15 Wicked",
       "link": "ignoreme",
-      "info": "In onda: 15:25 - 17:15\n\nJulia Roberts e la Regina Cattiva in unirriverente versione della famosa fiaba. Dopo la morte del padre, Biancaneve deve affrontare la perfida matrigna. Sara aiutata da 7 nanetti briganti (USA 2012)\n\nA seguire (17:15): Wicked",
+      "info": "In onda: 17:15 - 20:00\n\n2 Oscar e 1 Golden Globe al magico fantasy con Cynthia Erivo e Ariana Grande. Nel regno di Oz laspirante strega Galinda conosce la solitaria Elphaba. Versione con canzoni doppiate (USA 2024)\n\nA seguire (20:00): Animali fantastici e dove trovarli",
       "thumbnail": "https://images.open-epg.com/19388.png"
     },
     {
-      "title": "Sky Cinema Romance.it - 14:50 Secret Love",
+      "title": "Sky Cinema Romance.it - 18:20 Nessuno mi puo giudicare",
       "link": "ignoreme",
-      "info": "In onda: 14:50 - 16:40\n\nDramma romantico con Josh OConnor, Odessa Young, Olivia Colman e Colin Firth. Inghilterra, 1924: una cameriera incontra di nascosto lamante, che sta per sposare unaltra donna (GBR/DEU 2021)\n\nA seguire (16:40): Endless",
+      "info": "In onda: 18:20 - 20:00\n\nEsilarante commedia di Max Bruno con Paola Cortellesi, Raoul Bova, Rocco Papaleo e Anna Foglietta. Dopo la morte del marito, una donna decide di diventare una escort per pagare i debiti (ITA 2011)\n\nA seguire (20:00): Amici, amanti e...",
       "thumbnail": "https://images.open-epg.com/19389.png"
     },
     {
-      "title": "Sky Cinema Suspense.it - 14:05 Paradise Highway",
+      "title": "Sky Cinema Suspense.it - 18:25 Dead Shot - Vendetta disperata",
       "link": "ignoreme",
-      "info": "In onda: 14:05 - 16:05\n\nThriller on the road con Juliette Binoche, Frank Grillo e Morgan Freeman. Per aiutare il fratello in carcere una donna contrabbanda merci, ma lultima consegna si rivela diversa (USA 2022)\n\nA seguire (16:05): Caccia a Ottobre Rosso",
+      "info": "In onda: 18:25 - 20:00\n\nRevenge movie targato Sky Original con Colin Morgan, Felicity Jones e Mark Strong. Sopravvissuto allassassinio della moglie incinta, a un ex paramilitare non resta che la vendetta (GBR 2023)\n\nA seguire (20:00): Presence",
       "thumbnail": "https://images.open-epg.com/19390.png"
     },
     {
-      "title": "Sky Cinema Uno +24.it - 14:35 Inside Man: Most Wanted",
+      "title": "Sky Cinema Uno +24.it - 18:05 La valle dei sorrisi",
       "link": "ignoreme",
-      "info": "In onda: 14:35 - 16:25\n\nThriller ad alta tensione, sequel del cult diretto da Spike Lee. Dopo una rapina in banca, un negoziatore della polizia si allea con un agente dellFBI per salvare gli ostaggi (USA 2019)\n\nA seguire (16:25): Dead Of Winter - Sfida Nel Gelo",
+      "info": "In onda: 18:05 - 20:15\n\nOriginale film di Paolo Strippoli con Michele Riondino. Un professore si trasferisce in un paese di montagna i cui abitanti sono insolitamente felici, ma non tutto e come sembra (IT/SI 2025)\n\nA seguire (20:15): Le Deluge: Gli ultimi giorni di Maria Antonietta",
       "thumbnail": "https://images.open-epg.com/19391.png"
     },
     {
-      "title": "Sky Cinema Uno.it - 15:10 Lamborghini: The Man Behind the Legend",
+      "title": "Sky Cinema Uno.it - 16:50 Twisters",
       "link": "ignoreme",
-      "info": "In onda: 15:10 - 16:50\n\nIntenso biopic sul celebre imprenditore con Mira Sorvino, Frank Grillo e Gabriel Byrne. Dagli inizi modesti come costruttore di trattori alla famigerata rivalita con Enzo Ferrari (US/IT 2022)\n\nA seguire (16:50): Twisters",
+      "info": "In onda: 16:50 - 18:55\n\nIl celebre disaster movie ritorna con Daisy Edgar-Jones e Glen Powell. Dopo un fallimento, Kate abbandona le sue ricerche sui tornado, ma un amico la convince a tornare (USA 2024)\n\nA seguire (18:55): Avvocato Ligas",
       "thumbnail": "https://images.open-epg.com/19392.png"
     },
     {
-      "title": "Sky Crime.it - 15:45 Torso Killer: confessioni...",
+      "title": "Sky Classica.it - 17:10 Mozart - Il ratto dal serraglio",
       "link": "ignoreme",
-      "info": "In onda: 15:45 - 16:40\n\nS1 Ep3 Part 2 (A) - Il capo detective Robert Anzilotti continua la sua missione per far confessare a Cottingham tutti gli omicidi e i casi irrisolti di cui e sospettato.\n\nA seguire (16:40): Torso Killer: confessioni ...",
+      "info": "In onda: 17:10 - 19:30\n\nSingspiel in tre atti (1785) su libretto di G.Stephanie jr. - con D.Rancatore, J.Camarena, R.Nelsen, T.Ebenstein - Camerata Academica Salzburg - H.Graf, dir., A.Marthaler, reg. (Salisburgo, Aeroporto W.A.Mozart - 2013)\n\nA seguire (19:30): Almanacco di Bellezza",
+      "thumbnail": "https://images.open-epg.com/4100139.png"
+    },
+    {
+      "title": "Sky Crime.it - 18:15 Sei in arresto!",
+      "link": "ignoreme",
+      "info": "In onda: 18:15 - 18:45\n\nS2 Ep14 Arresto animale - Un uomo in tutina leopardata viene arrestato per un furto in un negozio di animali; una rapina a una stazione di servizio ha un colpevole...insolito. E molto altro!\n\nA seguire (19:10): Interrogation Cam",
       "thumbnail": "https://images.open-epg.com/19394.png"
     },
     {
-      "title": "Sky Documentaries +1.it - 15:15 Come Nasce Il Nazismo",
+      "title": "Sky Documentaries +1.it - 18:00 Luomo che sapeva tutto",
       "link": "ignoreme",
-      "info": "In onda: 15:15 - 16:15\n\nS1 Ep1 Primi passi - In che modo la Germania cadde nelle mani dei nazisti? Analizziamo lincredibile ascesa al potere di Hitler attraverso le parole di chi lo ha aiutato e chi ha tentato di fermarlo.\n\nA seguire (16:15): Universe",
+      "info": "In onda: 18:00 - 19:25\n\nIl ritratto di Federico Umberto DAmato, burocrate che ha plasmato la storia della Prima Repubblica, manovrando segreti, dossier e silenzi. Dietro il burocrate ombroso si nasconde un volto inaspettato: quello di un gastronomo raffinato.\n\nA seguire (19:25): Un avvertimento prima di iniziare",
       "thumbnail": "https://images.open-epg.com/nologo.png"
     },
     {
-      "title": "Sky Documentaries.it - 15:15 Universe",
+      "title": "Sky Documentaries.it - 18:25 Un avvertimento prima di iniziare",
       "link": "ignoreme",
-      "info": "In onda: 15:15 - 16:10\n\nS1 Ep1 Il sole - Stella Divina: esploriamo le origini dellUniverso dal momento in cui la prima stella ha illuminato il cosmo fino alla creazione del Sole.\n\nA seguire (16:10): Il Ponte Di Genova: Cronologia Di Un Disastro",
+      "info": "In onda: 18:25 - 19:15\n\nS1 Ep9 Valeria Collina - Mio figlio lattentatore di Londra. Pablo Trincia incontra Valeria, madre di Youssef, uno dei responsabili dellattentato di Londra del 2017.\n\nA seguire (19:15): Come Nasce Il Nazismo",
       "thumbnail": "https://images.open-epg.com/19396.png"
     },
     {
-      "title": "Sky Investigation.it - 15:45 NCIS",
+      "title": "Sky Investigation.it - 18:15 Delitti in Paradiso",
       "link": "ignoreme",
-      "info": "In onda: 15:45 - 16:35\n\nS14 Ep24 Rendezvous - Gibbs, McGee e Torres raggiungono una remota zona del Paraguay, controllata da una violenta fazione ribelle al governo, per indagare sulla scomparsa di un agente operativo.\n\nA seguire (16:35): NCIS: New Orleans",
+      "info": "In onda: 18:15 - 19:15\n\nS4 Ep7 Uccisa due volte - La dispotica titolare di unagenzia viaggi, sullisola con i colleghi per un team building, e uccisa a colpi di pistola. Goodman interroga gli altri membri della squadra.\n\nA seguire (19:15): Delitti in Paradiso",
       "thumbnail": "https://images.open-epg.com/19398.png"
     },
     {
-      "title": "Sky Nature.it - 15:30 Diario di unaquila",
+      "title": "Sky Nature.it - 18:20 I misteri del Mekong",
       "link": "ignoreme",
-      "info": "In onda: 15:30 - 16:30\n\nLa storia di due aquile calve americane mostra quali sfide debbano affrontare i giovani uccelli prima di raggiungere la maestria dei loro genitori in fatto di volo. Scopriamo cosa si nasconde dietro questi poteri quasi soprannaturali.\n\nA seguire (16:30): I nostri migliori amici animali",
+      "info": "In onda: 18:20 - 19:15\n\nS1 Ep9 Vietnam: Vivere nel delta - Nel Paese finale del viaggio del Mekong ce il suo immenso delta. Questa regione e il gioiello della corona, una collezione di tesori biologici.\n\nA seguire (19:15): I Grandi Fiumi Della Terra",
       "thumbnail": "https://images.open-epg.com/19393.png"
     },
     {
-      "title": "Sky News.it - 15:30 Sky News Today with Jayne Secker",
+      "title": "Sky News.it - 18:30 The News Hour with Mark Austin",
       "link": "ignoreme",
-      "info": "In onda: 15:30 - 16:00\n\nBreaking news, developing stories and live events from Sky News correspondents in the UK and around the world.\n\nA seguire (16:00): Sky News Today with Jayne Secker",
+      "info": "In onda: 18:30 - 19:00\n\nA comprehensive round-up of the days biggest news stories, including analysis and insight from Sky News correspondents.\n\nA seguire (20:00): UK Tonight With Sarah-Jane Mee",
       "thumbnail": "https://images.open-epg.com/19400.png"
     },
     {
-      "title": "Sky Serie.it - 15:45 This Is Us",
+      "title": "Sky Serie.it - 18:10 Dr. House: Medical Division",
       "link": "ignoreme",
-      "info": "In onda: 15:45 - 16:30\n\nS2 Ep13 Quello Sara Il Giorno - Kevin aiuta Randall e Beth a realizzare un progetto. Kate considera lidea di acquistare un grande regalo per Toby. Nel frattempo Jack e Rebecca parlano riguardo al loro futuro insieme.\n\nA seguire (16:30): This Is Us",
+      "info": "In onda: 18:10 - 18:55\n\nS1 Ep2 Problemi di adozione - Il dottor House si occupa di un adolescente che ha incubi e soffre di frequenti allucinazioni. Inoltre, un paziente intraprende unazione legale contro il dottor House.\n\nA seguire (19:45): Friends",
       "thumbnail": "https://images.open-epg.com/19402.png"
     },
     {
-      "title": "Sky Sport 4K.it - 14:25 GP Cina: Gara",
+      "title": "Sky Sport 4K.it - 18:15 GP Australia: Gara",
       "link": "ignoreme",
-      "info": "In onda: 14:25 - 16:30\n\nSeconda gara della stagione: dopo la doppietta Mercedes a Melbourne chi trionfera a Shanghai? Telecronaca di Carlo Vanzini, Marc Gene e Roberto Chinchero.\n\nA seguire (16:30): Udinese - Juventus",
+      "info": "In onda: 18:15 - 20:10\n\nLattesa e finita: scopriamo la nuova F1 con le monoposto rivoluzionarie del 2026 impegnate nella prima gara dellanno. Telecronaca di Carlo Vanzini, Marc Gene e Roberto Chinchero.\n\nA seguire (20:10): Roma - Lecce",
       "thumbnail": "https://images.open-epg.com/19403.png"
     },
     {
-      "title": "Sky Sport Calcio.it - 15:00 Tottenham - Nottingham Forest",
+      "title": "Sky Sport Calcio.it - 18:25 Goleador - Ep. 31 - Goleador Lora Dei Gol 22/03/2026",
       "link": "ignoreme",
-      "info": "In onda: 15:00 - 16:55\n\n... Premier League. - Dal Tottenham Hotspur Stadium di Londra, Inghilterra.\n\nA seguire (16:55): Ep.12",
+      "info": "In onda: 18:25 - 19:20\n\nLa trasmissione dedicata ai gol della Serie A, con la\n\nA seguire (19:20): Catania - Casarano",
       "thumbnail": "https://images.open-epg.com/19405.png"
     },
     {
-      "title": "Sky Sport F1.it - 15:00 F1 Sprint: GP CINA 14/03/2025",
+      "title": "Sky Sport F1.it - 18:05 Enzo Ferrari",
       "link": "ignoreme",
-      "info": "In onda: 15:00 - 16:00\n\nPrima gara del weekend sulla distanza di 100km: chi conquistera gli 8 punti in palio per il vincitore? Telecronaca di Carlo Vanzini, Marc Gene e Roberto Chinchero.\n\nA seguire (16:00): GP Cina: Gara",
+      "info": "In onda: 18:05 - 19:05\n\nLUomo, la Rossa, il Mito. Giorgio Porra racconta Enzo Ferrari: trionfi in pista, dolori privati e la storia di un visionario che ha reso Ferrari sinonimo di velocita ed eccellenza\n\nA seguire (19:05): Attacco Mondiale",
       "thumbnail": "https://images.open-epg.com/19406.png"
     },
     {
-      "title": "Sky Sport Golf.it - 15:30 Campionato Nazionale Open",
+      "title": "Sky Sport Golf.it - 16:00 Bahrain Championship, 4a giornata",
       "link": "ignoreme",
-      "info": "In onda: 15:30 - 16:00\n\nIl circuito che comprende i tornei Challenge Tour e Alps Tour disputati in Italia e il Campionato Nazionale Open.\n\nA seguire (16:00): Bahrain Championship, 4a giornata",
+      "info": "In onda: 16:00 - 19:00\n\n... Giorno 4 DP World Tour. - Tutti i tornei del tour europeo, il DP World Tour.\n\nA seguire (19:00): 4a Giornata",
       "thumbnail": "https://images.open-epg.com/19407.png"
     },
     {
-      "title": "Sky Sport Max.it - 15:30 Juventus - Sassuolo",
+      "title": "Sky Sport Max.it - 18:40 Rally du Maroc",
       "link": "ignoreme",
-      "info": "In onda: 15:30 - 17:25\n\nBianconeri quinti dopo l1-0 allUdinese. -1 dal Como. Il Sassuolo viene da 2 sconfitte di fila (Lazio e Bologna). Un solo successo nei 12 precedenti a Torino. TC: Gentile-Marocchi\n\nA seguire (17:25): Ep.25",
+      "info": "In onda: 18:40 - 19:10\n\n... Championship. - Tutto lo spettacolo delle gare del World Rally Raid Championship.\n\nA seguire (19:10): Motonautica On Board Ep.19 10/03/2026",
       "thumbnail": "https://images.open-epg.com/19408.png"
     },
     {
-      "title": "Sky Sport MotoGP.it - 15:45 04 Park",
+      "title": "Sky Sport MotoGP.it - 18:00 Stati Uniti, Americas 2016. MotoGP - MOTOGP",
       "link": "ignoreme",
-      "info": "In onda: 15:45 - 16:00\n\nDovi realizza il suo sogno: un parco con pista di motocross e minicross, MTB e pump track. Ma lo 04 Park e molto di piu: centro federale FMI, ristorante e soprattutto un posto per ritrovarsi con amici\n\nA seguire (16:00): GP Brasile: Gara",
+      "info": "In onda: 18:00 - 19:00\n\n... Storie di GP F1. - Terzo appuntamento del mondiale 2016. Da Austin, Texas, la gara della MotoGP. Marquez in pole position, in prima fila anche Lorenzo e Rossi. TC: Meda-Sanchini.\n\nA seguire (19:00): GP Brasile: Gara",
       "thumbnail": "https://images.open-epg.com/19409.png"
     },
     {
@@ -177,21 +189,21 @@
       "thumbnail": "https://images.open-epg.com/19410.png"
     },
     {
-      "title": "Sky TG24.it - 15:30 Speciale Referendum Giustizia (16:30)",
+      "title": "Sky TG24.it - 18:30 Speciale Referendum Giustizia (19:30)",
       "link": "ignoreme",
-      "info": "In onda: 15:30 - 16:00\n\nEp5 Speciale Referendum Giustizia - Sondaggi, risultati in diretta, ospiti e approfondimenti per raccontare latteso esito del referendum sulla giustizia\n\nA seguire (16:00): Speciale Referendum Giustizia (17:00)",
+      "info": "In onda: 18:30 - 19:00\n\nEp11 Speciale Referendum Giustizia - Sondaggi, risultati in diretta, ospiti e approfondimenti per raccontare latteso esito del referendum sulla giustizia\n\nA seguire (19:00): Speciale Referendum Giustizia (20:00)",
       "thumbnail": "https://images.open-epg.com/19411.png"
     },
     {
-      "title": "Sky Uno.it - 15:50 Pechino Express",
+      "title": "Sky Uno.it - 18:00 Alessandro Borghese - 4 Ristoranti",
       "link": "ignoreme",
-      "info": "In onda: 15:50 - 18:00\n\nNella seconda tappa, le coppie in gara dovranno percorrere 238 km e immergersi nella cultura indonesiana per riuscire ad arrivare al Tappeto Rosso.\n\nA seguire (18:00): Alessandro Borghese - 4 Ristoranti",
+      "info": "In onda: 18:00 - 19:10\n\nS6 Ep1 Venezia - Orietta, Nicola, Simone e Gipi sono i 4 ristoratori in gara. Dovranno presentare ad Alessandro una cena impeccabile e vincere il titolo di miglior ristorante sui canali di Venezia.\n\nA seguire (19:10): Alessandro Borghese - 4 Ristoranti",
       "thumbnail": "https://images.open-epg.com/19413.png"
     },
     {
-      "title": "ZONA DAZN.it - 15:13 Anem4 e Core: Il film dello Scudetto",
+      "title": "ZONA DAZN.it - 18:38 Inter - Cremonese",
       "link": "ignoreme",
-      "info": "In onda: 15:13 - 15:54\n\nIl percorso...\n\nA seguire (15:54): Bologna - Lazio - Stag. 2025 Ep. 30a g. - Bologna - Lazio",
+      "info": "In onda: 18:38 - 20:21\n\nCremonese - Serie A\n\nA seguire (20:21): ABB Stadi - Stag. 2025 Ep. 4 - Roma",
       "thumbnail": "https://images.open-epg.com/1700.png"
     },
     {
