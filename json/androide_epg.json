@@ -6,18 +6,18 @@
     {
       "title": "Androide - EPG",
       "link": "ignoreme",
-      "info": "Aggiornato: 27/03/2026 01:24"
+      "info": "Aggiornato: 27/03/2026 05:01"
     },
     {
-      "title": "DAZN 1.it - 00:00 DAZN 1",
+      "title": "DAZN 1.it - 05:00 DAZN 1",
       "link": "ignoreme",
-      "info": "In onda: 00:00 - 05:00\n\nDAZN 1\n\nA seguire (05:00): DAZN 1",
+      "info": "In onda: 05:00 - 07:00\n\nDAZN 1\n\nA seguire (07:00): Serie A",
       "thumbnail": "https://images.open-epg.com/19310.png"
     },
     {
-      "title": "DAZN 2.it - 23:00 Nessun evento in onda",
+      "title": "DAZN 2.it - 05:00 Nessun evento in onda",
       "link": "ignoreme",
-      "info": "In onda: 23:00 - 05:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (05:00): Nessun evento in onda",
+      "info": "In onda: 05:00 - 11:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (11:00): Nessun evento in onda",
       "thumbnail": "https://images.open-epg.com/19311.png"
     },
     {
@@ -27,183 +27,177 @@
       "thumbnail": "https://images.open-epg.com/1531.png"
     },
     {
-      "title": "Sky Arte.it - 01:00 Grandi maestri",
+      "title": "Sky Arte.it - 05:00 Raffaello - Il principe delle arti",
       "link": "ignoreme",
-      "info": "In onda: 01:00 - 01:30\n\nS1 Ep5 Correggio - Correggio e stato uno dei protagonisti dellarte del primo Cinquecento e la sua pittura, debitrice della lezione di Leonardo da Vinci, e straordinariamente luminosa e vibrante.\n\nA seguire (01:30): Grandi maestri",
+      "info": "In onda: 05:00 - 06:00\n\nUn grande successo al cinema. Un dialogo inedito tra arte e cinema, appassionato ed emozionale, sullartista simbolo del Rinascimento. Di L. Viotto. Con: F. Parenti, A. Curri e E. Lo Verso.\n\nA seguire (06:00): Godai - Il Festival Dei 5 Elementi",
       "thumbnail": "https://images.open-epg.com/19379.png"
     },
     {
-      "title": "Sky Atlantic.it - 01:00 The Walking Dead",
+      "title": "Sky Atlantic.it - 05:00 Avvocato Ligas",
       "link": "ignoreme",
-      "info": "In onda: 01:00 - 02:05\n\nS6 Ep16 Lultimo giorno sulla Terra - Finale di stagione. - Mentre Morgan continua a cercare Carol, per salvare uno del gruppo, Rick e i suoi sono costretti a uscire allo scoperto. Qualcosa per loro cambiera per sempre...\n\nA seguire (02:10): Avvocato Ligas - Luca Argentero Vs Barbara Chichiarelli",
+      "info": "In onda: 05:00 - 06:05\n\nLigas cerca riscatto personale e professionale, ma un nuovo caso e vecchi nemici mettono a dura prova il suo equilibrio.\n\nA seguire (06:05): Speciale: Avvocato Ligas",
       "thumbnail": "https://images.open-epg.com/19381.png"
     },
     {
-      "title": "Sky Cinema Action.it - 23:50 Pacific Rim",
+      "title": "Sky Cinema Comedy.it - 04:35 Bad Moms 2 - Mamme molto piu cattive",
       "link": "ignoreme",
-      "info": "In onda: 23:50 - 02:00\n\nSpettacolare blockbuster di Guillermo Del Toro con Idris Elba e Charlie Hunnam. Due coraggiosi piloti devono salvare il destino del pianeta Terra, minacciato da gigantesche creature aliene (USA 2013)\n\nA seguire (02:00): Upgrade",
-      "thumbnail": "https://images.open-epg.com/19383.png"
-    },
-    {
-      "title": "Sky Cinema Comedy.it - 01:05 2 gran figli di...",
-      "link": "ignoreme",
-      "info": "In onda: 01:05 - 03:00\n\nCommedia on the road con Owen Wilson, Ed Helms e Glenn Close. Alla ricerca del padre biologico, due gemelli attraversano lAmerica e scoprono il disinibito passato sessuale della madre (USA 2017)\n\nA seguire (03:00): Piuma",
+      "info": "In onda: 04:35 - 06:25\n\nMila Kunis e Susan Sarandon in uno scatenato sequel natalizio. A Natale tre amiche ricevono la visita delle rispettive mamme che porteranno ancora piu scompiglio nelle loro vite (USA 2017)\n\nA seguire (06:25): Tonno spiaggiato",
       "thumbnail": "https://images.open-epg.com/19384.png"
     },
     {
-      "title": "Sky Cinema Drama.it - 23:55 Morrison",
+      "title": "Sky Cinema Drama.it - 04:25 Gioventù bruciata",
       "link": "ignoreme",
-      "info": "In onda: 23:55 - 01:35\n\nFederico Zampaglione adatta il suo romanzo in un film con Lorenzo Zurzolo e Giovanni Calcagno. Roma: lincontro tra musicisti di eta diverse cambiera la vita di entrambi (ITA 2021)\n\nA seguire (01:35): La pazza gioia",
+      "info": "In onda: 04:25 - 06:15\n\nClassico intramontabile che ha consacrato il mito di James Dean. America, anni 50: un gruppo di ragazzi tormentati si ribella al mondo degli adulti. Golden Globe a Natalie Wood (USA 1955)\n\nA seguire (06:15): Malamore",
       "thumbnail": "https://images.open-epg.com/19385.png"
     },
     {
-      "title": "Sky Cinema Due.it - 22:55 Pulp fiction",
+      "title": "Sky Cinema Due.it - 03:30 The Post",
       "link": "ignoreme",
-      "info": "In onda: 22:55 - 01:30\n\n1 Oscar, 1 Golden Globe e Palma doro a Cannes per il film-simbolo di Quentin Tarantino con John Travolta, Uma Thurman e Bruce Willis in un intreccio di scene cult e personaggi stravaganti (USA 1994)\n\nA seguire (01:30): La teoria del tutto",
+      "info": "In onda: 03:30 - 05:25\n\nSteven Spielberg dirige Meryl Streep e Tom Hanks in un capolavoro sulla liberta di stampa. 1971: il Washington Post entra in possesso di documenti del Pentagono sulla guerra in Vietnam (USA 2017)\n\nA seguire (05:25): Diamanti",
       "thumbnail": "https://images.open-epg.com/19387.png"
     },
     {
-      "title": "Sky Cinema Family.it - 00:45 Kung Fu Panda 2",
+      "title": "Sky Cinema Family.it - 04:20 Lego Batman - Il film",
       "link": "ignoreme",
-      "info": "In onda: 00:45 - 02:20\n\nIl panda piu famoso del cinema torna a combattere a colpi di kung fu. Per conquistare uno sconosciuto e incredibile potere, il Guerriero Dragone Po dovra scavare nel proprio passato (USA 2011)\n\nA seguire (02:20): Speciale - Avvocato Ligas",
+      "info": "In onda: 04:20 - 06:10\n\nAnimazione digitale e mattoncini Lego si combinano di nuovo per unavventura targata DC. Batman si allea con la Justice League per sconfiggere i supercattivi capitanati da Joker (USA/DNK 2017)\n\nA seguire (06:10): 100% Lupo",
       "thumbnail": "https://images.open-epg.com/19388.png"
     },
     {
-      "title": "Sky Cinema Romance.it - 23:55 Promises",
+      "title": "Sky Cinema Romance.it - 03:40 Autumn in New York",
       "link": "ignoreme",
-      "info": "In onda: 23:55 - 01:45\n\nPierfrancesco Favino e Kelly Reilly nella love story di Amanda Sthers, tratta dal suo libro. Un padre di famiglia incontra una donna in procinto di sposarsi, ed e colpo di fulmine (ITA/FRA 2021)\n\nA seguire (01:45): Vicino all’orizzonte",
+      "info": "In onda: 03:40 - 05:30\n\nRichard Gere e Winona Ryder in una struggente love story. Sullo sfondo della Grande Mela, un uomo maturo si innamora di una ragazza affetta da una malattia incurabile (USA 2000)\n\nA seguire (05:30): Rifkins Festival",
       "thumbnail": "https://images.open-epg.com/19389.png"
     },
     {
-      "title": "Sky Cinema Suspense.it - 01:00 Un giorno di ordinaria follia",
+      "title": "Sky Cinema Suspense.it - 04:35 Tafanos",
       "link": "ignoreme",
-      "info": "In onda: 01:00 - 02:50\n\nViaggio allucinato nella follia omicida di un uomo qualunque con Michael Douglas. Intrappolato in un ingorgo stradale, un uomo perde la testa e comincia a uccidere chiunque gli capiti a tiro (USA 1993)\n\nA seguire (02:45): La ragazza del treno",
+      "info": "In onda: 04:35 - 06:00\n\nDivertente horror che rende omaggio ai B-movie degli anni 70. Un gruppo di amici usa un metodo stupefacente per difendersi da un pericolo mortale (ITA 2018)\n\nA seguire (06:00): State a casa",
       "thumbnail": "https://images.open-epg.com/19390.png"
     },
     {
-      "title": "Sky Cinema Uno +24.it - 00:10 xXx - Il ritorno di Xander Cage",
+      "title": "Sky Cinema Uno +24.it - 04:05 Assassinio sul Nilo",
       "link": "ignoreme",
-      "info": "In onda: 00:10 - 01:55\n\nVin Diesel nel terzo capitolo della saga action con Samuel L. Jackson e la partecipazione di Neymar. Unarma tecnologica finita nelle mani sbagliate costringe Cage a tornare in azione (USA 2017)\n\nA seguire (01:55): The Bourne Identity",
+      "info": "In onda: 04:05 - 06:15\n\nKenneth Branagh dirige e interpreta, con Gal Gadot e Annette Bening, ladattamento del giallo di Agatha Christie. In crociera sul Nilo, Poirot indaga sullomicidio di unereditiera (USA 2022)\n\nA seguire (06:15): Questo o quello - Speciale",
       "thumbnail": "https://images.open-epg.com/19391.png"
     },
     {
-      "title": "Sky Cinema Uno.it - 00:20 Hitch - Lui si che capisce le donne",
+      "title": "Sky Cinema Uno.it - 03:45 Matrix",
       "link": "ignoreme",
-      "info": "In onda: 00:20 - 02:15\n\nCommedia romantica con Will Smith, Eva Mendes e Kevin James. Un esperto in seduzione e bravo a dare i giusti consigli agli altri, ma non riesce ad aiutare se stesso (USA 2005)\n\nA seguire (02:15): Sympathy For The Devil",
+      "info": "In onda: 03:45 - 06:00\n\n4 Oscar a un autentico cult movie con Keanu Reeves e Laurence Fishburne. Un hacker scopre che la realta in cui viviamo e una simulazione architettata per tenere sotto scacco lumanita (USA/AUS 1999)\n\nA seguire (06:00): Operation Fortune",
       "thumbnail": "https://images.open-epg.com/19392.png"
     },
     {
-      "title": "Sky Classica.it - 01:10 Rossini - Mose in Egitto",
+      "title": "Sky Classica.it - 04:30 Rossini - Mose in Egitto",
       "link": "ignoreme",
-      "info": "In onda: 01:10 - 03:50\n\nOpera (1818) in tre atti su libretto di Andrea Leone Tottola - con R.Zanellato, A.Esposito, S.Ganassi - Orchestra Teatro Comunale Bologna - Roberto Abbado, dir. - Graham Vick, reg. (Rossini Opera Festival, Pesaro - 2011)\n\nA seguire (01:45): Kaiserwalzer: Kirill Petrenko",
+      "info": "In onda: 04:30 - 07:00\n\nOpera (1818) in tre atti su libretto di Andrea Leone Tottola - con R.Zanellato, A.Esposito, S.Ganassi - Orchestra Teatro Comunale Bologna - Roberto Abbado, dir. - Graham Vick, reg. (Rossini Opera Festival, Pesaro - 2011)\n\nA seguire (07:00): Kalman - La contessa Maritza",
       "thumbnail": "https://images.open-epg.com/4100139.png"
     },
     {
-      "title": "Sky Crime.it - 00:40 Fiumicino: Operazione Sex and Clean",
+      "title": "Sky Crime.it - 05:00 Online - Connessioni Pericolose",
       "link": "ignoreme",
-      "info": "In onda: 00:40 - 01:35\n\nS1 Ep1 GBL - La festa e finita - ...Clean: Un pacco sospetto svela una rete di narcotraffico globale. Unoperazione di polizia rivela laboratori clandestini e canali insospettabili.\n\nA seguire (01:35): Blood e Money",
+      "info": "In onda: 05:00 - 05:30\n\nS2 Ep3 Bluewhale: La Verita - Blue Whale e la sfida social che incita gli adolescenti ad affrontare 50 prove in cinquanta giorni, fino al suicidio, tutto documentato e ripreso con lo smartphone.\n\nA seguire (05:30): Lo scandalo P. Diddy",
       "thumbnail": "https://images.open-epg.com/19394.png"
     },
     {
-      "title": "Sky Documentaries +1.it - 00:55 Un avvertimento prima di iniziare",
+      "title": "Sky Documentaries +1.it - 04:15 The Royals",
       "link": "ignoreme",
-      "info": "In onda: 00:55 - 01:40\n\nS1 Ep9 Valeria Collina - Mio figlio lattentatore di Londra. Pablo Trincia incontra Valeria, madre di Youssef, uno dei responsabili dellattentato di Londra del 2017.\n\nA seguire (01:40): Universe",
+      "info": "In onda: 04:15 - 05:05\n\nS1 Ep6 Queen Mary - Esperti e storici rivelano come la devozione della Regina Maria di Tek per il suo dovere e il suo paese siano sempre venuti prima delle questioni personali.\n\nA seguire (05:05): Il testimone",
       "thumbnail": "https://images.open-epg.com/nologo.png"
     },
     {
-      "title": "Sky Documentaries.it - 00:40 Universe",
+      "title": "Sky Documentaries.it - 05:00 Luci Spente - Loris Stecca Story, A",
       "link": "ignoreme",
-      "info": "In onda: 00:40 - 01:35\n\nS1 Ep4 I buchi neri - Cuore di tenebra: un viaggio nelloscurita alla scoperta dei segreti dei buchi neri. Capaci di distruggere mondi e di fermare il tempo, sfidano il nostro concetto di realta.\n\nA seguire (02:25): The Royals",
+      "info": "In onda: 05:00 - 06:20\n\nLa vita travagliata dellex campione mondiale di boxe Loris Stecca, dal suo incredibile successo fino alla condanna per tentato omicidio\n\nA seguire (06:20): Ibiza Narcos",
       "thumbnail": "https://images.open-epg.com/19396.png"
     },
     {
-      "title": "Sky Investigation.it - 01:00 Delitti in Paradiso",
+      "title": "Sky Investigation.it - 05:00 La signora in giallo",
       "link": "ignoreme",
-      "info": "In onda: 01:00 - 01:55\n\nS5 Ep5 Identita perduta - Unanziana zia di Goodman e in visita a Saint Marie. La sua vacanza prende una brutta piega quando la signora diventa lunica testimone dellomicidio di un turista.\n\nA seguire (01:55): Delitti in Paradiso",
+      "info": "In onda: 05:00 - 06:05\n\nS8 Ep18 Trasfusione di morte - Una donna sta male durante una riunione di lavoro e muore poco dopo. Per il dr. Beckwith e unulcera trascurata. Seth, medico della vittima, ha dei dubbi.\n\nA seguire (06:05): Balthazar",
       "thumbnail": "https://images.open-epg.com/19398.png"
     },
     {
-      "title": "Sky Nature.it - 01:15 Super Shark - I signori degli abissi",
+      "title": "Sky Nature.it - 05:00 Nord America selvaggio",
       "link": "ignoreme",
-      "info": "In onda: 01:15 - 02:10\n\nS1 Ep4 Il social - Scopriamo come funzionano le gerarchie degli squali.\n\nA seguire (02:15): Balene con Steve Backshall",
+      "info": "In onda: 05:00 - 05:55\n\nS1 Ep4 Nel cuore dei mari corallini - Immergiti nelle acque tropicali tra coralli colorati e creature inaspettate.\n\nA seguire (05:55): Borneo da salvare",
       "thumbnail": "https://images.open-epg.com/19393.png"
     },
     {
-      "title": "Sky News.it - 01:00 Sky News",
+      "title": "Sky News.it - 05:00 Sky News",
       "link": "ignoreme",
-      "info": "In onda: 01:00 - 02:00\n\nA round up of all the latest news from the UK and around the world.\n\nA seguire (02:00): Sky News",
+      "info": "In onda: 05:00 - 06:00\n\nA round up of all the latest news from the UK and around the world.\n\nA seguire (06:00): Mornings with Jones and Melbourne",
       "thumbnail": "https://images.open-epg.com/19400.png"
     },
     {
-      "title": "Sky Serie.it - 01:20 This Is Us",
+      "title": "Sky Serie.it - 05:00 I segreti di Grosse Pointe",
       "link": "ignoreme",
-      "info": "In onda: 01:20 - 02:05\n\nS3 Ep1 Nove dollari - Mentre festeggiano il loro trentottesimo compleanno, Randall, Kate e Kevin si trovano a un bivio nelle loro vite. Kevin riflette sul suo passato, mentre Rebecca fa visita a Randall alluniversita.\n\nA seguire (02:05): This Is Us",
+      "info": "In onda: 05:00 - 05:45\n\nS1 Ep12 Periodo di stasi - Mentre emergono nuovi dettagli della notte del gala, Birdie, Catherine, Brett e Alice fanno i conti con le conseguenze dellafterparty.\n\nA seguire (05:45): I segreti di Grosse Pointe",
       "thumbnail": "https://images.open-epg.com/19402.png"
     },
     {
-      "title": "Sky Sport 4K.it - 00:30 Gara: GP Giappone",
+      "title": "Sky Sport 4K.it - 05:00 Attacco Mondiale",
       "link": "ignoreme",
-      "info": "In onda: 00:30 - 02:15\n\nTerza gara della stagione: dopo i successi di Norris in Australia e Piastri in Cina, chi trionfera sulla pista iconica di Suzuka? Telecronaca di Carlo Vanzini, Marc Gene e Roberto Chinchero.\n\nA seguire (02:15): F1 Paddock Live Pre Libere",
+      "info": "In onda: 05:00 - 05:30\n\nAttacco Mondiale\n\nA seguire (05:30): Gp Del Giappone",
       "thumbnail": "https://images.open-epg.com/19403.png"
     },
     {
-      "title": "Sky Sport Calcio.it - 01:00 Willian",
+      "title": "Sky Sport Calcio.it - 05:00 Italia - Irlanda del Nord",
       "link": "ignoreme",
-      "info": "In onda: 01:00 - 01:30\n\nUndici stagioni in Premier con Chelsea, Arsenal e Fulham. Inoltre, due partecipazioni al Mondiale con il Brasile. Willian, adesso in forza al Gremio, ripercorre la sua carriera.\n\nA seguire (01:30): Ep. 1",
+      "info": "In onda: 05:00 - 07:00\n\nGli azzurri hanno perso una sola volta (2-1 alle QM 1958) nei 6 precedenti (escluse le amichevoli), per il resto 3 vittorie e 2 pareggi. TC: Caressa-Bergomi\n\nA seguire (07:00): Kakà: tutti i gol in Champions League",
       "thumbnail": "https://images.open-epg.com/19405.png"
     },
     {
-      "title": "Sky Sport F1.it - 01:00 GP Giappone",
+      "title": "Sky Sport F1.it - 05:00 Attacco Mondiale",
       "link": "ignoreme",
-      "info": "In onda: 01:00 - 02:00\n\nEdizione n.75 del mondiale. 24 gran premi e 20 piloti con un solo obiettivo: dimostrare di essere il piu veloce. Telecronaca di Carlo Vanzini, Marc Gene e Roberto Chinchero.\n\nA seguire (02:00): F1 Paddock Live Pit Walk",
+      "info": "In onda: 05:00 - 05:30\n\nAttacco Mondiale\n\nA seguire (05:30): Camara con vista: F1",
       "thumbnail": "https://images.open-epg.com/19406.png"
     },
     {
-      "title": "Sky Sport Golf.it - 00:55 Campionato Nazionale Open",
+      "title": "Sky Sport Golf.it - 05:00 18a Giornata",
       "link": "ignoreme",
-      "info": "In onda: 00:55 - 01:30\n\nIl circuito che comprende i tornei Challenge Tour e Alps Tour disputati in Italia e il Campionato Nazionale Open.\n\nA seguire (01:30): Hero Indian Open: Giorno 1",
+      "info": "In onda: 05:00 - 07:00\n\nLe partite della TGL Golf League.\n\nA seguire (07:00): Jonsson Workwear Open",
       "thumbnail": "https://images.open-epg.com/19407.png"
     },
     {
-      "title": "Sky Sport Max.it - 01:00 FC Bayern Monaco - Atalanta",
+      "title": "Sky Sport Max.it - 05:00 Enzo Ferrari",
       "link": "ignoreme",
-      "info": "In onda: 01:00 - 03:00\n\n... Champions League. - Tedeschi virtualmente ai quarti di Champions per la settima volta consecutiva dopo il 6-1 dellandata. Atalanta praticamente fuori dai quarti come nel 2021. TC: Federico Zanon\n\nA seguire (03:00): Kenya Live Stage 4",
+      "info": "In onda: 05:00 - 06:00\n\nLUomo, la Rossa, il Mito. Giorgio Porra racconta Enzo Ferrari: trionfi in pista, dolori privati e la storia di un visionario che ha reso Ferrari sinonimo di velocita ed eccellenza\n\nA seguire (06:00): World Athletics Indoor Tour - Ep. 3 - World Athletics Indoor Tour Gold 2026 Ostrava 03/02/2026",
       "thumbnail": "https://images.open-epg.com/19408.png"
     },
     {
-      "title": "Sky Sport MotoGP.it - 00:55 Gp Americhe",
+      "title": "Sky Sport MotoGP.it - 05:00 Americhe 2017. MotoGP - MOTOGP",
       "link": "ignoreme",
-      "info": "In onda: 00:55 - 01:30\n\n... MotoGP. - Segui in esclusiva la conferenza stampa dei piloti della MotoGp, con tutte le anticipazioni del weekend, alla vigilia del gran premio.\n\nA seguire (01:30): MotoGP Paddock Pass",
+      "info": "In onda: 05:00 - 06:00\n\n... Storie di GP F1. - Terzo appuntamento del mondiale 2017: dal Circuit Of The Americas, la gara della MotoGP. Marquez in pole position, in prima fila anche le Yamaha di Vinales e Rossi. TC: Meda-Sanchini.\n\nA seguire (06:00): MotoGP Paddock Pass",
       "thumbnail": "https://images.open-epg.com/19409.png"
     },
     {
-      "title": "Sky Sport Tennis.it - 00:30 WTA: 2a Semifinale Singolare",
+      "title": "Sky Sport Tennis.it - 05:00 WTA: 1a Semifinale Singolare",
       "link": "ignoreme",
-      "info": "In onda: 00:30 - 02:30\n\n... Singolare Tennis: WTA 1000 Miami. - DallHard Rock Stadium di Miami, Stati Uniti.\n\nA seguire (02:30): ATP: 4^ Quarto Di Finale",
+      "info": "In onda: 05:00 - 07:00\n\n... WTA 1000 Miami. - DallHard Rock Stadium di Miami, Stati Uniti.\n\nA seguire (07:00): WTA: 2a Semifinale Singolare",
       "thumbnail": "https://images.open-epg.com/19404.png"
     },
     {
-      "title": "Sky Sport Uno.it - 00:30 WTA: 2a Semifinale Singolare",
+      "title": "Sky Sport Uno.it - 05:00 Don Bosco: Il santo dei giovani e...",
       "link": "ignoreme",
-      "info": "In onda: 00:30 - 02:25\n\n... Singolare Tennis: WTA 1000 Miami. - DallHard Rock Stadium di Miami, Stati Uniti.\n\nA seguire (02:25): GP Giappone: Prove libere 1",
+      "info": "In onda: 05:00 - 05:45\n\nDocumentario di Tommaso Liguori dedicato alla figura di San Giovanni Bosco attraverso i racconti e le interviste di chi anima ogni giorno i cortili e lo sport salesiano.\n\nA seguire (05:45): F1 Paddock Live Pre Libere",
       "thumbnail": "https://images.open-epg.com/19410.png"
     },
     {
-      "title": "Sky TG24.it - 01:00 TG24 Edicola",
+      "title": "Sky TG24.it - 05:00 TG24 Pagine",
       "link": "ignoreme",
-      "info": "In onda: 01:00 - 01:30\n\nTelegiornale con la lettura dei principali quotidiani.\n\nA seguire (01:30): TG24 Edicola",
+      "info": "In onda: 05:00 - 05:28\n\nTG24 Pagine - I quotidiani italiani e stranieri, i siti e i social nella rassegna di Sky TG24. Disponibile anche sul sito e su tutte le piattaforme.\n\nA seguire (05:28): TG24 Preview",
       "thumbnail": "https://images.open-epg.com/19411.png"
     },
     {
-      "title": "Sky Uno.it - 00:40 Quattro matrimoni",
+      "title": "Sky Uno.it - 05:00 Alessandro Borghese Kitchen Sound",
       "link": "ignoreme",
-      "info": "In onda: 00:40 - 01:40\n\nCostantino della Gherardesca mette in sfida 4 spose under 30, pronte a giudicare, con un voto da 0 a 10, abito, location, cibo ed evento generale dei matrimoni delle proprie avversarie.\n\nA seguire (01:40): La seconda casa non si scorda mai",
+      "info": "In onda: 05:00 - 05:30\n\nS9 Ep5 Kids - Tantissimi ospiti deccezione per una serie di portate strepitose! La cucina di ABKS ospitera chef del calibro di Stefano Cavada, Renato Bosco e Antonio Grazioli.\n\nA seguire (05:30): Alessandro Borghese Kitchen Sound",
       "thumbnail": "https://images.open-epg.com/19413.png"
     },
     {
-      "title": "ZONA DAZN.it - 00:00 Stag. 2019 - DAZN 1",
+      "title": "ZONA DAZN.it - 05:00 Stag. 2019 - DAZN 1",
       "link": "ignoreme",
-      "info": "In onda: 00:00 - 05:00\n\nDAZN 1 - DAZN 1\n\nA seguire (05:00): Stag. 2019 - DAZN 1",
+      "info": "In onda: 05:00 - 07:00\n\nDAZN 1 - DAZN 1\n\nA seguire (07:00): Serie A - Stag. 2025 Ep. 30a g. - Milan - Torino",
       "thumbnail": "https://images.open-epg.com/1700.png"
     },
     {
