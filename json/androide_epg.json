@@ -6,12 +6,12 @@
     {
       "title": "Androide - EPG",
       "link": "ignoreme",
-      "info": "Aggiornato: 29/03/2026 18:28"
+      "info": "Aggiornato: 29/03/2026 21:23"
     },
     {
-      "title": "DAZN 1.it - 17:55 Icone Laura Giuliani",
+      "title": "DAZN 1.it - 21:10 Bordocam Inter - Milan 2025/26",
       "link": "ignoreme",
-      "info": "In onda: 17:55 - 18:30\n\nIcone Laura Giuliani - Giovanni Barsotti, Omar Aamoum e Fabio Bazzani ci portano alla scoperta delle storie legate alle icone sportive con lospite Laura Giuliani, portiere di Milan e Nazionale Femminile.\n\nA seguire (18:30): Serie A1 F 2025 Milano - Scandicci",
+      "info": "In onda: 21:10 - 21:35\n\nLe emozioni di Inter-Milan. Dallingresso nel tunnel al triplice fischio finale: rivivi le immagini piu belle del derby di Milano da una posizione privilegiata con il Bordocam di Davide Bernardi.\n\nA seguire (21:35): Maurizio Sarri: mi diverto ancora",
       "thumbnail": "https://images.open-epg.com/19310.png"
     },
     {
@@ -21,81 +21,171 @@
       "thumbnail": "https://images.open-epg.com/19311.png"
     },
     {
-      "title": "DAZN.it - 13:00 Bayern Monaco - Norimberga",
+      "title": "DAZN.it - 14:00 Wolfsburg - Union Berlino",
       "link": "ignoreme",
-      "info": "In onda: 13:00 - 13:00\n\nLa capolista Bayern ospita il Norimberga nella 22esima giornata. Chi vincerà? Segui il meglio della Frauen Bundesliga su DAZN!\n\nA seguire (13:00): Athletic Brewing IRONMAN 70.3 Oceanside",
+      "info": "In onda: 14:00 - 14:00\n\nWolfsburg e Union Berlino si sfidano in unaltra coinvolgente giornata di Frauen Bundesliga: seguila su DAZN!\n\nA seguire (14:00): Manchester Basketball - Leicester Riders",
       "thumbnail": "https://images.open-epg.com/1531.png"
     },
     {
-      "title": "Sky Arte.it - 18:05 Michelangelo Pistoletto: artista a responsabilità illimitata",
+      "title": "Sky Arte.it - 20:50 Le fotografe",
       "link": "ignoreme",
-      "info": "In onda: 18:05 - 18:55\n\n... responsabilita illimitata. - Scopriamo il percorso artistico di Michelangelo Pistoletto; un artista che guarda al Rinascimento e vive nel futuro.\n\nA seguire (18:55): Il Telegiornale Dellarte 1^TV",
+      "info": "In onda: 20:50 - 21:25\n\nS1 Ep8 Simona Ghizzoni: Tutto parla di me - Simona con la sua fotografia racconta del rapporto con la natura, di se stessa e della sua adolescenza segnata da disturbi dellalimentazione.\n\nA seguire (21:25): ArtBox",
       "thumbnail": "https://images.open-epg.com/19379.png"
     },
     {
-      "title": "Sky Cinema Due.it - 17:10 Il postino",
+      "title": "Sky Atlantic.it - 21:10 Breaking Bad",
       "link": "ignoreme",
-      "info": "In onda: 17:10 - 19:15\n\nIl commovente addio al cinema di Massimo Troisi in un film premiato con lOscar alla miglior colonna sonora. Un umile postino viene iniziato ai segreti della poesia da Pablo Neruda (ITA/FRA 1994)\n\nA seguire (19:15): Ray",
+      "info": "In onda: 21:10 - 22:10\n\nS3 Ep2 Cavallo senza nome - Walt cerca di riconciliarsi con Skyler ma davanti al suo rifiuto prende una decisione drastica pur di rimettere insieme la sua famiglia.\n\nA seguire (22:10): Avvocato Ligas",
+      "thumbnail": "https://images.open-epg.com/19381.png"
+    },
+    {
+      "title": "Sky Cinema Action.it - 19:00 John Wick 4",
+      "link": "ignoreme",
+      "info": "In onda: 19:00 - 21:50\n\nKeanu Reeves nel quarto capitolo della saga action. Per chiudere i conti e conquistare la liberta, John Wick affronta un ultimo viaggio in giro per il mondo tra vecchi amici e nuovi nemici (USA 2023)\n\nA seguire (21:50): Spider-Man: No Way Home",
+      "thumbnail": "https://images.open-epg.com/19383.png"
+    },
+    {
+      "title": "Sky Cinema Comedy.it - 20:50 Gli anni belli",
+      "link": "ignoreme",
+      "info": "In onda: 20:50 - 22:30\n\nMaria Grazia Cucinotta e Ninni Bruschetta in una commedia ambientata negli anni 90. Costretta a passare le vacanze nel solito campeggio, la ribelle Elena vivra unestate indimenticabile (ITA/PRT 2022)\n\nA seguire (22:30): Figli",
+      "thumbnail": "https://images.open-epg.com/19384.png"
+    },
+    {
+      "title": "Sky Cinema Drama.it - 20:40 Senza sangue",
+      "link": "ignoreme",
+      "info": "In onda: 20:40 - 22:10\n\nAngelina Jolie dirige Salma Hayek in un intenso dramma ispirato al romanzo di Alessandro Baricco. Una donna ritrova dopo anni uno dei responsabili del massacro della sua famiglia e deve decidere come sia giusto vendicarsi (ITA/USA 2024)\n\nA seguire (22:10): Lovely Boy",
+      "thumbnail": "https://images.open-epg.com/19385.png"
+    },
+    {
+      "title": "Sky Cinema Due.it - 19:15 Ray",
+      "link": "ignoreme",
+      "info": "In onda: 19:15 - 21:50\n\n2 Oscar al biopic su Ray Charles con Jamie Foxx. Dallinfanzia al successo, passando per i suoi controversi lati oscuri, la vita del leggendario\n\nA seguire (21:50): Full Metal Jacket (Edizione Deluxe)",
       "thumbnail": "https://images.open-epg.com/19387.png"
     },
     {
-      "title": "Sky Cinema Uno +24.it - 16:55 The Equalizer - Il vendicatore",
+      "title": "Sky Cinema Family.it - 20:55 Non si scherza col fuoco",
       "link": "ignoreme",
-      "info": "In onda: 16:55 - 19:15\n\nDenzel Washington in un action ispirato alla serie anni 80\n\nA seguire (19:15): The Equalizer 2 - Senza perdono",
+      "info": "In onda: 20:55 - 22:35\n\nJohn Cena in una commedia per tutta la famiglia. Una squadra di vigili del fuoco salva 3 orfani da un incendio. In attesa dei servizi sociali, i pompieri dovranno fare i babysitter (USA 2019)\n\nA seguire (22:35): Speciale - Avvocato Ligas",
+      "thumbnail": "https://images.open-epg.com/19388.png"
+    },
+    {
+      "title": "Sky Cinema Romance.it - 20:45 Cinquanta sfumature di rosso",
+      "link": "ignoreme",
+      "info": "In onda: 20:45 - 22:35\n\nAnastasia e Christian, finalmente sposi, credono di essersi lasciati alle spalle il passato, ma un nuovo pericolo minaccia il loro legame (USA 2018)\n\nA seguire (22:35): Chocolat",
+      "thumbnail": "https://images.open-epg.com/19389.png"
+    },
+    {
+      "title": "Sky Cinema Suspense.it - 21:10 Frenzy",
+      "link": "ignoreme",
+      "info": "In onda: 21:10 - 23:15\n\nAlfred Hitchcock dirige un thriller ambientato a Londra. Incriminato ingiustamente da Scotland Yard per una serie di omicidi, un ex pilota deve smascherare il vero colpevole (GBR 1972)\n\nA seguire (23:15): Hannibal",
+      "thumbnail": "https://images.open-epg.com/19390.png"
+    },
+    {
+      "title": "Sky Cinema Uno +24.it - 21:20 Clean Up Crew - Specialisti in lavori sporchi",
+      "link": "ignoreme",
+      "info": "In onda: 21:20 - 23:00\n\n... sporchi. - Caccia allultimo sangue con Melissa Leo, Jonathan Rhys Meyers e Antonio Banderas. Una squadra di addetti alle pulizie trova dei soldi e decide di tenerli sfidando un boss mafioso (US 2024)\n\nA seguire (23:00): Jason Bourne",
       "thumbnail": "https://images.open-epg.com/19391.png"
     },
     {
-      "title": "Sky Cinema Uno.it - 17:00 La verità è che non gli piaci abbastanza",
+      "title": "Sky Cinema Uno.it - 20:55 Avvocato Ligas",
       "link": "ignoreme",
-      "info": "In onda: 17:00 - 19:15\n\n... abbastanza. - Spumeggiante commedia romantica con Jennifer Aniston, Ben Affleck, Jennifer Connelly e Scarlett Johansson. A Baltimora si intrecciano le vicende amorose di un gruppo di donne (USA/NLD 2009)\n\nA seguire (19:15): Poveri Noi",
+      "info": "In onda: 20:55 - 22:05\n\nLigas cerca riscatto personale e professionale, ma un nuovo caso e vecchi nemici mettono a dura prova il suo equilibrio.\n\nA seguire (22:05): Benvenuti al Sud",
       "thumbnail": "https://images.open-epg.com/19392.png"
     },
     {
-      "title": "Sky Classica.it - 16:50 Dante allOpera",
+      "title": "Sky Classica.it - 20:55 Cinderella - Frederick Ashton, cor.",
       "link": "ignoreme",
-      "info": "In onda: 16:50 - 18:30\n\nLe Donne nella Divina Commedia: per i 700 anni dalla morte di Dante, uno spettacolo con P.Maranghi, E.Tonello, L.Caridi - Orchestra e Coro Teatro Carlo Felice - M.Spotti, dir., P.Gavazzeni, P.Maranghi, reg.(Genova, 2021)\n\nA seguire (19:20): Mahler - Sinfonia n.7",
+      "info": "In onda: 20:55 - 23:00\n\nBalletto su musiche (1944) di Sergej Prokofev - con Marianela Nunez, Vadim Muntagirov, Gary Avis, Luca Acri - The Royal Ballet - Royal Opera House orch. - Koen Kessels, dir. - Frederick Ashton, cor. (Londra, 2023)\n\nA seguire (23:00): Generali 190: Persone e Storie - 1963",
       "thumbnail": "https://images.open-epg.com/4100139.png"
     },
     {
-      "title": "Sky Documentaries +1.it - 16:55 Alcatraz: le verità nascoste",
+      "title": "Sky Crime.it - 20:55 GURU - La storia di Matteo Cambi",
       "link": "ignoreme",
-      "info": "In onda: 16:55 - 17:50\n\nGrazie al supporto delle ultime tecnologie e degli effetti speciali, scopriamo cosa accadrebbe se lacqua intorno alla famosa isola di Alcatraz venisse prosciugata.\n\nA seguire (19:35): Un avvertimento prima di iniziare 1^TV",
+      "info": "In onda: 20:55 - 21:50\n\nS1 Ep1 Parte 1 - Lascesa e la caduta dellimprenditore Matteo Cambi che, nei primi anni Duemila, trasformo unintuizione in un brand iconico, simbolo di unepoca di eccessi e ambizione.\n\nA seguire (21:50): Calciopoli - Anatomia di...",
+      "thumbnail": "https://images.open-epg.com/19394.png"
+    },
+    {
+      "title": "Sky Documentaries +1.it - 20:20 Oliviero Toscani: Chi mi ama mi segua",
+      "link": "ignoreme",
+      "info": "In onda: 20:20 - 21:30\n\nRitratto intimo di Oliviero Toscani: vita, pensiero ed eredita del fotografo che ha rivoluzionato immaginario, societa e comunicazione visiva.\n\nA seguire (21:30): Gucci: Limpero dello scandalo",
       "thumbnail": "https://images.open-epg.com/nologo.png"
     },
     {
-      "title": "Sky Sport Calcio.it - 18:25 Gubbio - Ravenna",
+      "title": "Sky Documentaries.it - 20:30 Gucci: Limpero dello scandalo",
       "link": "ignoreme",
-      "info": "In onda: 18:25 - 20:30\n\nDallo Stadio Pietro Barbetti di Gubbio, Italia.\n\nA seguire (20:30): Seedorf e Ronaldinho",
+      "info": "In onda: 20:30 - 21:30\n\nDietro le quinte della maison Gucci tra lusso, faide familiari, lomicidio di Maurizio, lera Tom Ford e la guerra tra colossi del fashion per il controllo del brand.\n\nA seguire (21:30): Guru: La storia di Matteo Cambi 1^TV",
+      "thumbnail": "https://images.open-epg.com/19396.png"
+    },
+    {
+      "title": "Sky Investigation.it - 20:45 Law and Order: Special Victims Unit",
+      "link": "ignoreme",
+      "info": "In onda: 20:45 - 21:30\n\nS27 Ep5 Voglie da soddisfare - Quando una donna in travaglio viene rapita, Rollins e Curry chiedono alla sua doula di raccontare laccaduto. Carisi cerca di ottenere una confessione davanti alla giuria.\n\nA seguire (21:30): Law and Order: Special Victims Unit",
+      "thumbnail": "https://images.open-epg.com/19398.png"
+    },
+    {
+      "title": "Sky Nature.it - 21:10 Lincanto delle stagioni",
+      "link": "ignoreme",
+      "info": "In onda: 21:10 - 22:10\n\nS1 Ep3 Il delta dellOkavango - Una serie spettacolare su come la natura si adatti alle stagioni in alcuni tra i paesaggi piu mutevoli del pianeta: Svalbard, Okavango e New England.\n\nA seguire (22:10): David Attenborough e il mostro giurassico",
+      "thumbnail": "https://images.open-epg.com/19393.png"
+    },
+    {
+      "title": "Sky News.it - 21:00 The Wrap With Gillian Joseph",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 21:30\n\nDebate, analysis and insight on the biggest news stories of the day from the UK and around the world.\n\nA seguire (21:30): The Wrap With Gillian Joseph",
+      "thumbnail": "https://images.open-epg.com/19400.png"
+    },
+    {
+      "title": "Sky Serie.it - 20:45 Chicago P.D.",
+      "link": "ignoreme",
+      "info": "In onda: 20:45 - 21:35\n\nS12 Ep22 Promesse - Finale di stagione. - Costretti a sospendere le operazioni mentre sono sotto indagine degli Affari Interni, lIntelligence agisce fuori protocollo per incastrare Reid.\n\nA seguire (21:35): Outlander",
+      "thumbnail": "https://images.open-epg.com/19402.png"
+    },
+    {
+      "title": "Sky Sport 4K.it - 19:50 Roma - Lecce",
+      "link": "ignoreme",
+      "info": "In onda: 19:50 - 21:30\n\nGiallorossi sesti dopo il ko contro il Como. Lecce con 3 sconfitte in 4 turni. In corsa per la salvezza. Un solo successo in 20 sfide a Roma, 2 pari e 17 ko. TC: Borghi-Montolivo\n\nA seguire (21:30): Juventus - Sassuolo",
+      "thumbnail": "https://images.open-epg.com/19403.png"
+    },
+    {
+      "title": "Sky Sport Calcio.it - 21:00 Italia - Irlanda del Nord",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 23:00\n\n... Qualificazioni Coppa del Mondo FIFA 2026. - Gli azzurri hanno perso una sola volta (2-1 alle QM 1958) nei 6 precedenti (escluse le amichevoli), per il resto 3 vittorie e 2 pareggi. TC: Caressa-Bergomi\n\nA seguire (23:00): Kakà: tutti i gol in Champions League",
       "thumbnail": "https://images.open-epg.com/19405.png"
     },
     {
-      "title": "Sky Sport F1.it - 17:15 Motori Indycar Series - Ep. 4 - Motori Indycar Series 2026 Barber Motorsports Park 29/03/2026",
+      "title": "Sky Sport F1.it - 21:05 Race Anatomy F1 Ep.3 29/03/2026",
       "link": "ignoreme",
-      "info": "In onda: 17:15 - 19:30\n\n... Grand Prix: Gara IndyCar. - Dal Barber Motorsports Park di Birmingham in Alabama, USA.\n\nA seguire (19:30): Sulla Scia Di Kimi",
+      "info": "In onda: 21:05 - 22:05\n\n... Anatomy F1. - Lanalisi del Gran Premio disputato per commentare la gara insieme agli ospiti in studio. Riviviamo i brividi della corsa attraverso le immagini piu spettacolari e ascoltiamo i commenti a caldo dei protagonisti.\n\nA seguire (22:05): F1 Paddock Live Pre Gara",
       "thumbnail": "https://images.open-epg.com/19406.png"
     },
     {
-      "title": "Sky Sport Golf.it - 16:30 Hero Indian Open: Giorno 4",
+      "title": "Sky Sport Golf.it - 20:30 Hero Indian Open: Giorno 4",
       "link": "ignoreme",
-      "info": "In onda: 16:30 - 19:30\n\n... World Tour. - Dal DLF Golf and Country Club di Nuova Delhi, India.\n\nA seguire (19:30): Golf Dp World Tour Highlights - Ep. 27 - Golf Hl 2026 Hainan Classic Presented By Maextro 26/03/2026",
+      "info": "In onda: 20:30 - 23:30\n\n... World Tour. - Dal DLF Golf and Country Club di Nuova Delhi, India.\n\nA seguire (23:30): Ryder Cup Official Film 2025",
       "thumbnail": "https://images.open-epg.com/19407.png"
     },
     {
-      "title": "Sky Sport Max.it - 16:55 Calcio Futsal Coppa Italia - Ep. 3 - Calcio A 5 Coppa Italia Maschile 2026 Finale Serie A 29/03/2026",
+      "title": "Sky Sport Max.it - 20:00 Padel Premier Tour - Ep. 23 - Padel Premier Tour 2026 Miami P1 Finale Femminile 29/03/2026",
       "link": "ignoreme",
-      "info": "In onda: 16:55 - 19:00\n\n... A Elite. - ... Maschile 2026 Finale Serie A 29/03/2026 Calcio Futsal Coppa Italia. - Calcio Futsal Coppa Italia.\n\nA seguire (19:00): Tutti i gol di Del Piero in Champions",
+      "info": "In onda: 20:00 - 22:00\n\n... Premier Padel. - Seguiamo le gare del Premier Padel Major.\n\nA seguire (22:00): Padel Premier Tour - Ep. 24 - Padel Premier Tour 2026 Miami P1 Finale Maschile 29/03/2026",
       "thumbnail": "https://images.open-epg.com/19408.png"
     },
     {
-      "title": "Sky Sport Tennis.it - 16:30 WTA: Finale doppio",
+      "title": "Sky Sport MotoGP.it - 21:00 Moto GP Zona Rossa",
       "link": "ignoreme",
-      "info": "In onda: 16:30 - 18:45\n\n... WTA 1000 Miami. - DallHard Rock Stadium di Miami, Stati Uniti.\n\nA seguire (18:45): Studio Tennis 2026 29/03/2026",
+      "info": "In onda: 21:00 - 22:00\n\nLe interviste ai protagonisti, i commenti a caldo e le primissime analisi dopo la conclusione della gara della MotoGP.\n\nA seguire (22:00): Americhe",
+      "thumbnail": "https://images.open-epg.com/19409.png"
+    },
+    {
+      "title": "Sky Sport Tennis.it - 21:00 Studio Tennis 2026 29/03/2026",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 21:30\n\n... 29/03/2026 Studio Tennis. - Un approfondimento ricco di notizie, commenti, statistiche e curiosita sui tornei del circuito ATP, in programma nel corso della stagione, con interventi da parte degli ospiti in studio.\n\nA seguire (21:30): Padel Premier Tour - Ep. 23 - Padel Premier Tour 2026 Miami P1 Finale Femminile 29/03/2026",
       "thumbnail": "https://images.open-epg.com/19404.png"
     },
     {
-      "title": "Sky Sport Uno.it - 18:10 GP Stati Uniti: Gara",
+      "title": "Sky Sport Uno.it - 21:00 Moto GP Zona Rossa",
       "link": "ignoreme",
-      "info": "In onda: 18:10 - 19:15\n\nDal Circuito delle Americhe, Austin, Stati Uniti.\n\nA seguire (19:15): Americhe",
+      "info": "In onda: 21:00 - 22:00\n\nLe interviste ai protagonisti, i commenti a caldo e le primissime analisi dopo la conclusione della gara della MotoGP.\n\nA seguire (22:00): Americhe",
       "thumbnail": "https://images.open-epg.com/19410.png"
     },
     {
@@ -105,33 +195,33 @@
       "thumbnail": "https://images.open-epg.com/19382.png"
     },
     {
-      "title": "Sky TG24.it - 18:00 Ore 20",
+      "title": "Sky TG24.it - 21:00 TG24 mezzora",
       "link": "ignoreme",
-      "info": "In onda: 18:00 - 18:30\n\nOre 20 - Telegiornale in diretta. Le notizie dallItalia e dal mondo con collegamenti live, approfondimenti e analisi. Interviste e inchieste esclusive, i principali fatti del giorno aggiornati in tempo reale.\n\nA seguire (18:30): Ore 20",
+      "info": "In onda: 21:00 - 21:30\n\nTG24 mezzora - Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo.\n\nA seguire (21:30): TG24 mezzora",
       "thumbnail": "https://images.open-epg.com/19411.png"
     },
     {
-      "title": "Sky Uno.it - 17:05 Pechino Express",
+      "title": "Sky Uno.it - 21:20 Pechino Express",
       "link": "ignoreme",
-      "info": "In onda: 17:05 - 19:15\n\nI viaggiatori devono raggiungere uno dei vulcani piu imponenti di Giava, il monte Bromo. Le prime quattro coppie a classificarsi parteciperanno alla prima prova immunita.\n\nA seguire (19:15): Alessandro Borghese - Celebrity Chef",
+      "info": "In onda: 21:20 - 23:30\n\nI viaggiatori devono raggiungere uno dei vulcani piu imponenti di Giava, il monte Bromo. Le prime quattro coppie a classificarsi parteciperanno alla prima prova immunita.\n\nA seguire (23:30): Cucine da incubo",
       "thumbnail": "https://images.open-epg.com/19413.png"
     },
     {
-      "title": "ZONA DAZN.it - 17:55 Icone Laura Giuliani",
+      "title": "ZONA DAZN.it - 21:10 Bordocam Inter - Milan 2025/26",
       "link": "ignoreme",
-      "info": "In onda: 17:55 - 18:30\n\nIcone Laura Giuliani\n\nA seguire (18:30): Serie A1 F 2025 Milano - Scandicci",
+      "info": "In onda: 21:10 - 21:35\n\nMilan 2025/26 - Le emozioni di...\n\nA seguire (21:35): Maurizio Sarri: mi diverto ancora",
       "thumbnail": "https://images.open-epg.com/1700.png"
     },
     {
-      "title": "Zona Dazn 2.it - 23:00 Nessun evento in onda",
+      "title": "Zona Dazn 2.it - 16:00 Nessun evento in onda",
       "link": "ignoreme",
-      "info": "In onda: 23:00 - 23:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (23:00): Nessun evento in onda",
+      "info": "In onda: 16:00 - 23:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (23:00): Nessun evento in onda",
       "thumbnail": "https://images.open-epg.com/7515553.png"
     },
     {
-      "title": "Zona Dazn.it - 23:30 DAZN 1",
+      "title": "Zona Dazn.it - 21:10 Bordocam Inter - Milan 2025/26",
       "link": "ignoreme",
-      "info": "In onda: 23:30 - 23:30\n\nDAZN 1\n\nA seguire (23:30): DAZN 1",
+      "info": "In onda: 21:10 - 21:35\n\nLe emozioni di Inter-Milan. Dallingresso nel tunnel al triplice fischio finale: rivivi le immagini piu belle del derby di Milano da una posizione privilegiata con il Bordocam di Davide Bernardi.\n\nA seguire (21:35): Maurizio Sarri: mi diverto ancora",
       "thumbnail": "https://images.open-epg.com/7515557.png"
     }
   ]
