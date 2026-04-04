@@ -6,12 +6,12 @@
     {
       "title": "Androide - EPG",
       "link": "ignoreme",
-      "info": "Aggiornato: 04/04/2026 18:28"
+      "info": "Aggiornato: 04/04/2026 21:22"
     },
     {
-      "title": "DAZN 1.it - 18:15 DDR: Ambrosini intervista De Rossi",
+      "title": "DAZN 1.it - 21:15 Vanja Milinkovic-Savic",
       "link": "ignoreme",
-      "info": "In onda: 18:15 - 18:55\n\nDaniele De Rossi si e raccontato a Massimo Ambrosini. Le emozioni in vista del suo ritorno allOlimpico, il ritiro dal calcio giocato, lesonero da allenatore della Roma fino alla panchina del Genoa.\n\nA seguire (18:55): Atletico Madrid - Barcellona",
+      "info": "In onda: 21:15 - 21:40\n\nVanja Milinkovic-Savic - Insieme al Profeta Hernanes, il protagonista del terzo episodio della nuova stagione di MySkills e il portiere del Napoli, Vanja Milinkovic-Savic! Scopri i segreti del gigante serbo, alto 2.03 m.\n\nA seguire (21:40): Leonardo Bonucci",
       "thumbnail": "https://images.open-epg.com/19310.png"
     },
     {
@@ -21,69 +21,171 @@
       "thumbnail": "https://images.open-epg.com/19311.png"
     },
     {
-      "title": "DAZN.it - 14:00 Altrincham - FC Halifax Town",
+      "title": "DAZN.it - 10:30 Fiorentina - Juventus",
       "link": "ignoreme",
-      "info": "In onda: 14:00 - 14:00\n\nSegui la National League su DAZN.\n\nA seguire (14:00): Rochdale - Morecambe",
+      "info": "In onda: 10:30 - 10:30\n\nChampions League nel mirino per Fiorentina e Juve, attese al Viola Park per uno scontro diretto che può incidere sulla corsa al terzo posto. Le bianconere difendono il vantaggio in classifica, con le viola a soli tre punti e determinate a riscattare il 2-1 incassato proprio contro la squadra di Canzi in Coppa Italia. Come finirà? Segui la Serie A Women Athora su DAZN.\n\nA seguire (10:30): Napoli Women - Genoa",
       "thumbnail": "https://images.open-epg.com/1531.png"
     },
     {
-      "title": "Sky Arte.it - 17:20 Livio Garzanti. Il Gran Viziato - La Morale Nascosta Di Un Editore Formidabile",
+      "title": "Sky Arte.it - 20:40 Fabio Mauri - Ritratto a luce solida",
       "link": "ignoreme",
-      "info": "In onda: 17:20 - 18:40\n\n... morale nascosta di un editore formidabile. - Conosciamo Livio Garzanti, leditore dei talenti letterari del 900.\n\nA seguire (18:40): Echo: Quello che rimane 1^TV",
+      "info": "In onda: 20:40 - 21:45\n\nScopriamo il percorso artistico di Fabio Mauri, maestro dellavanguardia del secondo dopoguerra, in occasione della mostra\n\nA seguire (21:45): Echo: Quello che rimane",
       "thumbnail": "https://images.open-epg.com/19379.png"
     },
     {
-      "title": "Sky Cinema Due.it - 16:50 Mollys Game",
+      "title": "Sky Atlantic.it - 20:25 Tanti piccoli fuochi",
       "link": "ignoreme",
-      "info": "In onda: 16:50 - 19:15\n\nBiopic di Aaron Sorkin con Jessica Chastain, Idris Elba e Kevin Costner. Dopo un infortunio, la sciatrice olimpionica Molly Bloom cambia vita e diventa la regina del poker clandestino (USA/CAN 2017)\n\nA seguire (19:15): Ben Hur",
+      "info": "In onda: 20:25 - 21:40\n\nS1 Ep8 Trovare un modo - Finale di stagione. - Il rapporto tra Pearl e sua madre rischia di incrinarsi, mentre il verdetto della giuria innesca una serie di eventi che portano tre personaggi a lasciare Shaker Heights.\n\nA seguire (21:40): Avvocato Ligas",
+      "thumbnail": "https://images.open-epg.com/19381.png"
+    },
+    {
+      "title": "Sky Cinema Action.it - 20:45 The Outpost",
+      "link": "ignoreme",
+      "info": "In onda: 20:45 - 22:50\n\nScott Eastwood, Orlando Bloom e Milo Gibson in un war movie basato su una storia vera. Afghanistan 2009: 54 soldati americani subiscono lagguato di centinaia di combattenti talebani (USA/BGR 2020)\n\nA seguire (22:50): Pitch Black",
+      "thumbnail": "https://images.open-epg.com/19383.png"
+    },
+    {
+      "title": "Sky Cinema Comedy.it - 21:15 Maschi contro femmine",
+      "link": "ignoreme",
+      "info": "In onda: 21:15 - 23:10\n\nPaola Cortellesi, Fabio De Luigi e Alessandro Preziosi nella commedia sbanca-botteghino di Fausto Brizzi che intreccia storie di crisi sentimentali, tradimenti e ricerca della felicita (ITA 2010)\n\nA seguire (23:10): Ti presento i miei",
+      "thumbnail": "https://images.open-epg.com/19384.png"
+    },
+    {
+      "title": "Sky Cinema Drama.it - 21:05 Tartarughe allinfinito",
+      "link": "ignoreme",
+      "info": "In onda: 21:05 - 22:55\n\nAza Holmes, sedicenne affetta da disturbo ossessivo compulsivo e ansia, indaga sulla scomparsa di un miliardario, che e anche il padre di un suo vicino di casa (USA 2024)\n\nA seguire (22:55): Mystic River",
+      "thumbnail": "https://images.open-epg.com/19385.png"
+    },
+    {
+      "title": "Sky Cinema Due.it - 19:15 Ben Hur",
+      "link": "ignoreme",
+      "info": "In onda: 19:15 - 22:45\n\n11 Oscar per il leggendario kolossal di William Wyler con Charlton Heston. Il principe Ben Hur, caduto prigioniero per colpa di Messala, cerca vendetta nei confronti del suo nemico (USA 1959)\n\nA seguire (22:45): The Independent: Complotto per la Casa Bianca",
       "thumbnail": "https://images.open-epg.com/19387.png"
     },
     {
-      "title": "Sky Cinema Uno +24.it - 17:40 Black Site - La tana del lupo",
+      "title": "Sky Cinema Family.it - 21:05 10 giorni senza mamma",
       "link": "ignoreme",
-      "info": "In onda: 17:40 - 19:15\n\nAdrenalinico action con Michelle Monaghan, Jason Clarke e Jai Courtney. Un pericoloso detenuto tiene in scacco le vite di un gruppo di ufficiali in un bunker top secret (USA 2022)\n\nA seguire (19:15): La figlia del generale",
+      "info": "In onda: 21:05 - 22:45\n\nFabio De Luigi e Valentina Lodovini nella commedia campione dincassi di Alessandro Genovesi. Giulia si concede una vacanza a Cuba lasciando il marito ad occuparsi dei figli (ITA 2019)\n\nA seguire (22:45): Il prodigioso Maurice",
+      "thumbnail": "https://images.open-epg.com/19388.png"
+    },
+    {
+      "title": "Sky Cinema Romance.it - 21:05 After 2",
+      "link": "ignoreme",
+      "info": "In onda: 21:05 - 22:50\n\nDal libro di Anna Todd, romantico sequel con Josephine Langford e Hero Fiennes Tiffin. Dopo la fine della loro storia Tessa e Hardin hanno preso strade diverse, senza mai dimenticarsi (USA 2020)\n\nA seguire (22:50): La quattordicesima domenica del tempo ordinario",
+      "thumbnail": "https://images.open-epg.com/19389.png"
+    },
+    {
+      "title": "Sky Cinema Suspense.it - 21:00 Sotto il segno del pericolo",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 23:25\n\nRitorna Harrison Ford nei panni di Jack Ryan nel terzo film dai romanzi di spionaggio di Tom Clancy. Lagente sfida una banda di narcotrafficanti colombiani protetti dal governo americano (USA 1994)\n\nA seguire (23:25): Lo squalo",
+      "thumbnail": "https://images.open-epg.com/19390.png"
+    },
+    {
+      "title": "Sky Cinema Uno +24.it - 21:15 Poveri Noi",
+      "link": "ignoreme",
+      "info": "In onda: 21:15 - 23:00\n\nLa ricca famiglia Mariani affronta la rovina finanziaria ed e costretta a trasferirsi in una zona popolare, dove le persone che hanno sempre disprezzato in passato si rivelano le uniche disposte ad aiutarli (IT 2025)\n\nA seguire (23:00): La leggenda degli uomini straordinari",
       "thumbnail": "https://images.open-epg.com/19391.png"
     },
     {
-      "title": "Sky Cinema Uno.it - 16:50 Lamore non va in vacanza",
+      "title": "Sky Cinema Uno.it - 21:10 Fight Or Flight - Tensione ad alta quota",
       "link": "ignoreme",
-      "info": "In onda: 16:50 - 19:15\n\nCommedia romantica con Cameron Diaz, Kate Winslet, Jude Law e Jack Black. Deluse dallamore, due donne si scambiano lappartamento andando incontro a nuove opportunita (USA 2006)\n\nA seguire (19:15): Father Mother Sister Brother",
+      "info": "In onda: 21:10 - 22:55\n\nFolle action-comedy con Josh Hartnett protagonista. Un ex agente speciale viene reclutato per identificare su un volo un misterioso personaggio. Laereo pero, e pieno di assassini (US/GB 2025)\n\nA seguire (22:55): Fidanzata in affitto",
       "thumbnail": "https://images.open-epg.com/19392.png"
     },
     {
-      "title": "Sky Classica.it - 18:00 Prokofev - Sonata n.7",
+      "title": "Sky Classica.it - 19:15 Verdi - Il trovatore",
       "link": "ignoreme",
-      "info": "In onda: 18:00 - 18:30\n\nTalvolta chiamata Stalingrado, la Sonata n.7 in si bemolle maggiore (1943) e la seconda delle due suonate di guerra di Prokofev - Khatia Buniatishvili, pianoforte (Verbier, 2011)\n\nA seguire (18:30): Almanacco di Bellezza",
+      "info": "In onda: 19:15 - 22:00\n\nOpera in quattro parti (1853) su libretto di S.Cammarano - con Fabio Sartori, Maria Jose Siri, Riccardo Fassi - Coro e Orchestra del Maggio Musicale Fiorentino - Zubin Mehta, dir. - Cesare Lievi, reg. (Firenze, 2022)\n\nA seguire (22:00): Beethoven - Trio op.1 n.3",
       "thumbnail": "https://images.open-epg.com/4100139.png"
     },
     {
-      "title": "Sky Sport 4K.it - 18:00 Sky Saturday Night",
+      "title": "Sky Crime.it - 20:55 Un avvertimento prima di iniziare",
       "link": "ignoreme",
-      "info": "In onda: 18:00 - 18:40\n\nSky Saturday Night\n\nA seguire (18:40): Lazio - Parma",
+      "info": "In onda: 20:55 - 21:45\n\nS1 Ep10 Nada Cella - ...iniziare: Trincia costruisce un preludio avvincente che apre le porte a una storia fatta di svolte imprevedibili e riflessioni profonde.\n\nA seguire (21:45): Le prigioni oscure",
+      "thumbnail": "https://images.open-epg.com/19394.png"
+    },
+    {
+      "title": "Sky Documentaries +1.it - 20:50 One Strange Rock: pianeta Terra",
+      "link": "ignoreme",
+      "info": "In onda: 20:50 - 21:50\n\nS1 Ep2 La tempesta cosmica - Il nostro pianeta e frutto di una tempesta cosmica, causata da collisioni e scontri. Siamo qui sono per una fortunata coincidenza di eventi cosmici!\n\nA seguire (21:50): La costa atlantica",
+      "thumbnail": "https://images.open-epg.com/nologo.png"
+    },
+    {
+      "title": "Sky Documentaries.it - 20:50 La costa atlantica",
+      "link": "ignoreme",
+      "info": "In onda: 20:50 - 21:40\n\nS1 Ep1 La costa atlantica - Cavalli selvaggi che combattono, aquile che cacciano e squali che proteggono pesci piu piccoli. E una quercia di 130 anni che si prepara allarrivo dellinverno.\n\nA seguire (21:40): Il Messico",
+      "thumbnail": "https://images.open-epg.com/19396.png"
+    },
+    {
+      "title": "Sky Investigation.it - 20:50 Law and Order: Special Victims Unit",
+      "link": "ignoreme",
+      "info": "In onda: 20:50 - 21:35\n\nS27 Ep5 Voglie da soddisfare - Quando una donna in travaglio viene rapita, Rollins e Curry chiedono alla sua doula di raccontare laccaduto. Carisi cerca di ottenere una confessione davanti alla giuria.\n\nA seguire (21:35): NCIS: New Orleans",
+      "thumbnail": "https://images.open-epg.com/19398.png"
+    },
+    {
+      "title": "Sky Nature.it - 21:00 Le coste selvagge dellAfrica",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 21:50\n\nS1 Ep3 La foresta doro africana - Esploriamo vaste distese di alghe che costeggiano la costa sud-occidentale dellAfrica. La foresta di alghe accoglie una grande varieta di specie.\n\nA seguire (21:50): Le coste selvagge dellAfrica",
+      "thumbnail": "https://images.open-epg.com/19393.png"
+    },
+    {
+      "title": "Sky News.it - 21:00 The Wrap With Gillian Joseph",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 21:30\n\nDebate, analysis and insight on the biggest news stories of the day from the UK and around the world.\n\nA seguire (21:30): The Wrap With Gillian Joseph",
+      "thumbnail": "https://images.open-epg.com/19400.png"
+    },
+    {
+      "title": "Sky Serie.it - 20:20 Outlander",
+      "link": "ignoreme",
+      "info": "In onda: 20:20 - 21:25\n\nS8 Ep3 Abies Fraseri - Un nuovo vicino chiede aiuto ai Fraser mentre Jamie smaschera un falso alleato. Nel frattempo, William indaga sulle misteriose circostanze della morte di suo cugino.\n\nA seguire (21:25): Outlander",
+      "thumbnail": "https://images.open-epg.com/19402.png"
+    },
+    {
+      "title": "Sky Sport 4K.it - 20:45 Sky Saturday Night",
+      "link": "ignoreme",
+      "info": "In onda: 20:45 - 21:55\n\nSky Saturday Night\n\nA seguire (21:55): Lazio - Parma",
       "thumbnail": "https://images.open-epg.com/19403.png"
     },
     {
-      "title": "Sky Sport Calcio.it - 18:00 Sky Saturday Night",
+      "title": "Sky Sport Calcio.it - 20:45 Sky Saturday Night",
       "link": "ignoreme",
-      "info": "In onda: 18:00 - 18:40\n\nSky Saturday Night\n\nA seguire (18:40): Lazio - Parma",
+      "info": "In onda: 20:45 - 22:00\n\nSky Saturday Night\n\nA seguire (22:00): Mondo Bayern, Il Campus Del Futuro",
       "thumbnail": "https://images.open-epg.com/19405.png"
     },
     {
-      "title": "Sky Sport Golf.it - 16:00 Golf Augusta National Womens Amateur",
+      "title": "Sky Sport F1.it - 20:00 Sognando rosso",
       "link": "ignoreme",
-      "info": "In onda: 16:00 - 19:00\n\n... Womens Amateur 2026 3a Giornata 04/04/2026 Golf Augusta National Womens Amateur. - Golf Augusta National Womens Amateur\n\nA seguire (19:00): Golf Dp World Tour Highlights - Ep. 27 - Golf Hl 2026 Hainan Classic Presented By Maextro 26/03/2026",
+      "info": "In onda: 20:00 - 21:45\n\nLa storia come mai raccontata fino ad ora delluomo che ha ricostruito il sogno Ferrari: Luca Cordero di Montezemolo.\n\nA seguire (21:45): In pista con Jannik",
+      "thumbnail": "https://images.open-epg.com/19406.png"
+    },
+    {
+      "title": "Sky Sport Golf.it - 20:00 Golf Augusta National Womens Amateur - Ep. 3 - Golf Augusta National Womens Amateur 2026 3a Giornata 04/04/2026",
+      "link": "ignoreme",
+      "info": "In onda: 20:00 - 23:00\n\n... Amateur 2026 3a Giornata 04/04/2026 Golf Augusta National Womens Amateur. - Golf Augusta National Womens Amateur\n\nA seguire (23:00): 18a Giornata",
       "thumbnail": "https://images.open-epg.com/19407.png"
     },
     {
-      "title": "Sky Sport Tennis.it - 16:40 1a Semifinale",
+      "title": "Sky Sport Max.it - 21:00 Lazio - Parma",
       "link": "ignoreme",
-      "info": "In onda: 16:40 - 18:30\n\nDa Marrakesh, Marocco.\n\nA seguire (19:00): Tennis Atp 250 - Ep. 121 - Tennis Atp 250 2026 Houston 1a Semifinale 04/04/2026",
+      "info": "In onda: 21:00 - 22:45\n\nBiancocelesti reduci da 3 vittorie di fila. Il Parma viene da 2 ko (Torino e Cremonese). Non batte la Lazio allOlimpico da 17 anni, un pari e 10 ko. TC: Polizzi-Marchegiani\n\nA seguire (22:45): Ep.20",
+      "thumbnail": "https://images.open-epg.com/19408.png"
+    },
+    {
+      "title": "Sky Sport MotoGP.it - 20:55 GP Thailandia: Gara",
+      "link": "ignoreme",
+      "info": "In onda: 20:55 - 21:55\n\nPrimo appuntamento del mondiale 2026: a Buriram, in Thailandia, si accendono i motori per la gara della MotoGP. Telecronaca Meda - Sanchini\n\nA seguire (21:55): Portogallo: Gara Superpole",
+      "thumbnail": "https://images.open-epg.com/19409.png"
+    },
+    {
+      "title": "Sky Sport Tennis.it - 21:00 Tennis Atp 250 - Ep. 122 - Tennis Atp 250 2026 Houston 2a Semifinale 04/04/2026",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 22:55\n\n... 250 Houston. - Dal River Oaks Country Club di Houston, Stati Uniti.\n\nA seguire (22:55): Sky Tennis Club 2026 Ep.3 31/03/2026",
       "thumbnail": "https://images.open-epg.com/19404.png"
     },
     {
-      "title": "Sky Sport Uno.it - 18:25 Programmazione non disponibile",
+      "title": "Sky Sport Uno.it - 20:45 Sky Tennis Club 2026 Ep.3 31/03/2026",
       "link": "ignoreme",
-      "info": "In onda: 18:25 - 18:35\n\nHighlights Calcio\n\nA seguire (18:35): Cavese - Casertana",
+      "info": "In onda: 20:45 - 21:30\n\n... Sky Tennis Club. - Guarda le interviste e ottieni lanalisi degli esperti del mondo del tennis.\n\nA seguire (21:30): Friburgo - Bayern Monaco",
       "thumbnail": "https://images.open-epg.com/19410.png"
     },
     {
@@ -93,27 +195,33 @@
       "thumbnail": "https://images.open-epg.com/19382.png"
     },
     {
-      "title": "Sky Uno.it - 17:05 GialappaShow",
+      "title": "Sky TG24.it - 21:00 TG24 mezzora",
       "link": "ignoreme",
-      "info": "In onda: 17:05 - 19:40\n\nTorna lirriverente show della Gialappas Band e del Mago Forest, un appuntamento cult tra comicita surreale, grandi ospiti e commenti esilaranti alle trasmissioni piu amate.\n\nA seguire (19:40): Pechino Express",
+      "info": "In onda: 21:00 - 21:30\n\nTelegiornale in diretta. I giornali di oggi, lo Sport, il Meteo.\n\nA seguire (21:30): TG24 mezzora",
+      "thumbnail": "https://images.open-epg.com/19411.png"
+    },
+    {
+      "title": "Sky Uno.it - 19:40 Pechino Express",
+      "link": "ignoreme",
+      "info": "In onda: 19:40 - 21:50\n\nIn questa tappa i viaggiatori dovranno affrontare un malus molto particolare... la Lillo Flag!\n\nA seguire (21:50): Pechino Express",
       "thumbnail": "https://images.open-epg.com/19413.png"
     },
     {
-      "title": "ZONA DAZN.it - 18:15 DDR: Ambrosini intervista De Rossi",
+      "title": "ZONA DAZN.it - 21:15 Vanja Milinkovic-Savic",
       "link": "ignoreme",
-      "info": "In onda: 18:15 - 18:55\n\nDaniele De...\n\nA seguire (18:55): Atletico Madrid - Barcellona",
+      "info": "In onda: 21:15 - 21:40\n\nVanja Milinkovic\n\nA seguire (21:40): Leonardo Bonucci",
       "thumbnail": "https://images.open-epg.com/1700.png"
     },
     {
-      "title": "Zona Dazn 2.it - 22:00 Nessun evento in onda",
+      "title": "Zona Dazn 2.it - 16:00 Nessun evento in onda",
       "link": "ignoreme",
-      "info": "In onda: 22:00 - 22:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (22:00): Nessun evento in onda",
+      "info": "In onda: 16:00 - 22:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (22:00): Nessun evento in onda",
       "thumbnail": "https://images.open-epg.com/7515553.png"
     },
     {
-      "title": "Zona Dazn.it - 22:30 DAZN 1",
+      "title": "Zona Dazn.it - 21:15 Vanja Milinkovic-Savic",
       "link": "ignoreme",
-      "info": "In onda: 22:30 - 22:30\n\nDAZN 1\n\nA seguire (22:30): DAZN 1",
+      "info": "In onda: 21:15 - 21:40\n\nVanja Milinkovic-Savic - Insieme al Profeta Hernanes, il protagonista del terzo episodio della nuova stagione di MySkills e il portiere del Napoli, Vanja Milinkovic-Savic! Scopri i segreti del gigante serbo, alto 2.03 m.\n\nA seguire (21:40): Leonardo Bonucci",
       "thumbnail": "https://images.open-epg.com/7515557.png"
     }
   ]
