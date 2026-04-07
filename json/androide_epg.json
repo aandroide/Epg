@@ -6,7 +6,13 @@
     {
       "title": "Androide - EPG",
       "link": "ignoreme",
-      "info": "Aggiornato: 07/04/2026 18:50"
+      "info": "Aggiornato: 07/04/2026 21:35"
+    },
+    {
+      "title": "DAZN 1.it - 21:20 Cult - Collezionali tutti! 2026",
+      "link": "ignoreme",
+      "info": "In onda: 21:20 - 23:00\n\nI rookies Danilo Gallinari - Giovanni Barsotti, Omar Aamoum e Fabio Bazzani ci portano alla scoperta delle storie legate ai rookies con Danilo Gallinari, ex campione di basket che vanta quasi 800 partite in NBA.\n\nA seguire (23:00): DAZN 1",
+      "thumbnail": "https://images.open-epg.com/19310.png"
     },
     {
       "title": "DAZN 2.it - 16:00 Nessun evento in onda",
@@ -21,69 +27,165 @@
       "thumbnail": "https://images.open-epg.com/1531.png"
     },
     {
-      "title": "Sky Arte.it - 18:40 ArtBox 1^TV",
+      "title": "Sky Arte.it - 20:15 La Battaglia Di Pavia E Altre Storie",
       "link": "ignoreme",
-      "info": "In onda: 18:40 - 19:15\n\nS11 Ep20 Didi Gnocchi - Intervista a Didi Gnocchi, fondatrice e titolare di 3D Produzioni: ci parla di ArtBox e del rapporto tra arte e divulgazione.\n\nA seguire (19:15): Viaggi di.segno: Storie di bellezza...",
+      "info": "In onda: 20:15 - 22:20\n\nToni Servillo racconta Pavia: citta storicamente\n\nA seguire (22:20): ArtBox",
       "thumbnail": "https://images.open-epg.com/19379.png"
     },
     {
-      "title": "Sky Cinema Action.it - 16:30 Minority Report",
+      "title": "Sky Atlantic.it - 21:10 Il caso O.J. Simpson: American Crime...",
       "link": "ignoreme",
-      "info": "In onda: 16:30 - 19:00\n\nSteven Spielberg dirige Tom Cruise da un racconto di Philip K. Dick. 2054: tre veggenti prevedono i crimini prima che accadano, ma qualcosa va storto e il capo della polizia viene accusato (USA 2002)\n\nA seguire (19:00): The Accountant",
+      "info": "In onda: 21:10 - 22:10\n\n... Story. S1 Ep4 100% non colpevole - Lintervento dellavvocato Johnnie Cochran sembra ribaltare le sorti del processo. Intanto Faye Resnick, approfittando dellattenzione della stampa mondiale, pubblica un libro sul caso complicando ulteriormente lo svolgimento delludienza.\n\nA seguire (22:10): Avvocato Ligas",
+      "thumbnail": "https://images.open-epg.com/19381.png"
+    },
+    {
+      "title": "Sky Cinema Action.it - 21:10 Bad Boys",
+      "link": "ignoreme",
+      "info": "In onda: 21:10 - 23:10\n\nWill Smith e Martin Lawrence in un action dal regista di\n\nA seguire (23:10): 65 - Fuga dalla Terra",
       "thumbnail": "https://images.open-epg.com/19383.png"
     },
     {
-      "title": "Sky Cinema Due.it - 16:50 Prova a prendermi",
+      "title": "Sky Cinema Comedy.it - 20:40 Game Night - Indovina chi muore stasera?",
       "link": "ignoreme",
-      "info": "In onda: 16:50 - 19:15\n\nLeonardo DiCaprio e Tom Hanks in un biopic diretto da Steven Spielberg. La vera storia di Frank Abagnale, geniale truffatore sulle cui tracce si mette un caparbio agente dellFBI (USA 2002)\n\nA seguire (21:30): Il postino",
+      "info": "In onda: 20:40 - 22:25\n\nJason Bateman e Rachel McAdams in una mystery-comedy. Un gruppo di amici impegnati in un gioco di societa scoprono che il crimine su cui stanno indagando per finta e davvero accaduto (USA 2018)\n\nA seguire (22:25): Le amiche della sposa",
+      "thumbnail": "https://images.open-epg.com/19384.png"
+    },
+    {
+      "title": "Sky Cinema Drama.it - 20:45 Patagonia",
+      "link": "ignoreme",
+      "info": "In onda: 20:45 - 22:40\n\nEsordio alla regia del giovane Simone Bozzelli. Yuri ha ventanni quando incontra Agostino, un animatore girovago con cui inizia un viaggio alla ricerca del senso della liberta (ITA 2023)\n\nA seguire (22:40): La stanza accanto",
+      "thumbnail": "https://images.open-epg.com/19385.png"
+    },
+    {
+      "title": "Sky Cinema Due.it - 21:30 Il postino",
+      "link": "ignoreme",
+      "info": "In onda: 21:30 - 23:30\n\nIl commovente addio al cinema di Massimo Troisi in un film premiato con lOscar alla miglior colonna sonora. Un umile postino viene iniziato ai segreti della poesia da Pablo Neruda (ITA/FRA 1994)\n\nA seguire (23:30): Lettere da Iwo Jima",
       "thumbnail": "https://images.open-epg.com/19387.png"
     },
     {
-      "title": "Sky Cinema Uno.it - 17:05 Il Maestro",
+      "title": "Sky Cinema Family.it - 21:10 Qua la zampa 2 - Un amico è per sempre",
       "link": "ignoreme",
-      "info": "In onda: 17:05 - 19:15\n\nAndrea Di Stefano dirige Pierfrancesco Favino in un emozionante viaggio di formazione nel mondo del tennis tra un ex giocatore professionista e un giovane talento (IT 2026)\n\nA seguire (19:15): Delivery Man",
+      "info": "In onda: 21:10 - 23:00\n\nCommovente sequel con Dennis Quaid e Kathryn Prescott. Costretto a separarsi dalla sua piccola amica umana, il cane Bailey decide che nelle sue prossime vite la trovera e la proteggera (USA/HKG 2019)\n\nA seguire (23:00): Tutti per Uma",
+      "thumbnail": "https://images.open-epg.com/19388.png"
+    },
+    {
+      "title": "Sky Cinema Romance.it - 20:35 Lamore Che Non Muore",
+      "link": "ignoreme",
+      "info": "In onda: 20:35 - 23:20\n\nGrande successo in Francia per la pellicola di Gilles Lellouche. Una rapina finita male divide le strade di Jacqueline e Clotaire, ma la forza del primo amore restera intatta... (FRA 2024)\n\nA seguire (23:20): Cè post@ per te",
+      "thumbnail": "https://images.open-epg.com/19389.png"
+    },
+    {
+      "title": "Sky Cinema Suspense.it - 21:05 America Latina",
+      "link": "ignoreme",
+      "info": "In onda: 21:05 - 22:45\n\nElio Germano nello spiazzante thriller dei fratelli DInnocenzo. Latina: un dentista vive in una villa con la sua famiglia. Un giorno, scendendo nelle cantine, incontra lassurdo (ITA/FRA 2021)\n\nA seguire (22:45): In fondo al bosco",
+      "thumbnail": "https://images.open-epg.com/19390.png"
+    },
+    {
+      "title": "Sky Cinema Uno +24.it - 20:50 The Gentlemen",
+      "link": "ignoreme",
+      "info": "In onda: 20:50 - 22:45\n\nBrillante action di Guy Ritchie con Matthew McConaughey, Colin Farrell, Hugh Grant. La messa in vendita di una ricca attivita illecita scatena gli appetiti di uomini senza scrupoli (GBR 2019)\n\nA seguire (22:45): Ex - Amici come prima!",
+      "thumbnail": "https://images.open-epg.com/19391.png"
+    },
+    {
+      "title": "Sky Cinema Uno.it - 21:05 Father Mother Sister Brother",
+      "link": "ignoreme",
+      "info": "In onda: 21:05 - 23:00\n\nUn cast deccezione per la pellicola di Jim Jarmusch premiata a Venezia con il Leone dOro. Tre storie che raccontano le relazioni tra figli, fratelli e genitori distanti (USA/FRA 2025)\n\nA seguire (23:00): I morti non soffrono",
       "thumbnail": "https://images.open-epg.com/19392.png"
     },
     {
-      "title": "Sky Classica.it - 18:30 Almanacco di Bellezza",
+      "title": "Sky Classica.it - 21:00 Bach - Passione secondo Matteo BWV 244",
       "link": "ignoreme",
-      "info": "In onda: 18:30 - 19:15\n\nPiero Maranghi, direttore di Sky Classica, passa in rassegna, anniversari e ricorrenze legati la mondo dellarte, della cultura, della storia e dello sport. In studio con lui, il collezionista ed esperto darte Leonardo Piccinini\n\nA seguire (19:15): Poulenc - La voce umana",
+      "info": "In onda: 21:00 - 00:00\n\nPer soli, doppio coro e doppia orchestra - riconsegnata al patrimonio musicale grazie a Zelter e Felix Mendelssohn - con W.Guera, S.Morscheck, L.Crowe, C.Rice, N.Phan - Ensemble Orchestra de Paris - J.Nelson, dir. (2011)\n\nA seguire (00:00): Almanacco di Bellezza",
       "thumbnail": "https://images.open-epg.com/4100139.png"
     },
     {
-      "title": "Sky Nature.it - 18:15 Nel selvaggio blu",
+      "title": "Sky Crime.it - 21:15 Il delitto di Via Poma",
       "link": "ignoreme",
-      "info": "In onda: 18:15 - 19:15\n\nS2 Ep4 La vita segreta delle mante - Il vibrante ecosistema della barriera corallina di Raja Ampat e grande il doppio di Singapore. Guarda come vive la manta in queste acque.\n\nA seguire (19:15): I segreti delle acque incantate",
+      "info": "In onda: 21:15 - 22:10\n\nS1 Ep1 Parte 1 - Estate 1990: Simonetta Cesaroni viene trovata uccisa nellufficio di via Poma. Nessun testimone, poche tracce. Il caso scuote Roma e da inizio a unindagine piena di zone dombra.\n\nA seguire (22:10): Il delitto di Via Poma",
+      "thumbnail": "https://images.open-epg.com/19394.png"
+    },
+    {
+      "title": "Sky Documentaries +1.it - 21:10 I Persiani - La storia dellIran",
+      "link": "ignoreme",
+      "info": "In onda: 21:10 - 22:05\n\nI Templi del Fuoco, i bazar di Aladdin, un libro di fiabe diventato mito nazionale: Samira svela come lIran ha conservato con orgoglio la sua identita persiana.\n\nA seguire (22:05): A caccia di tombe egizie",
+      "thumbnail": "https://images.open-epg.com/nologo.png"
+    },
+    {
+      "title": "Sky Documentaries.it - 21:05 A caccia di tombe egizie",
+      "link": "ignoreme",
+      "info": "In onda: 21:05 - 21:55\n\nPartiamo per il sud dellEgitto per scoprire la moderna citta di Assuan e la necropoli di Qubbet el Hawa, dove sono state trovate circa sessanta tombe scavate nella roccia.\n\nA seguire (21:55): Apollo 11 - La storia mai raccontata",
+      "thumbnail": "https://images.open-epg.com/19396.png"
+    },
+    {
+      "title": "Sky Investigation.it - 20:50 Le indagini di Sister Boniface",
+      "link": "ignoreme",
+      "info": "In onda: 20:50 - 21:45\n\nS3 Ep6 Non e solo cricket - Quando un arrogante giocatore del Great Slaughter Cricket Club viene assassinato, Suor Boniface deve fare tutto il possibile per catturare lassassino.\n\nA seguire (21:45): Law and Order: Special Victims Unit",
+      "thumbnail": "https://images.open-epg.com/19398.png"
+    },
+    {
+      "title": "Sky Nature.it - 21:10 Isole selvagge",
+      "link": "ignoreme",
+      "info": "In onda: 21:10 - 22:00\n\nS1 Ep3 Baffin - Nel nostro viaggio sulla piu grande isola dellartico canadese incontriamo volpi artiche, beluga bianchi e un particolare Narvalo con due zanne, mai filmato prima.\n\nA seguire (22:00): Isole selvagge",
       "thumbnail": "https://images.open-epg.com/19393.png"
     },
     {
-      "title": "Sky Sport 4K.it - 18:00 Champions League Show - Ep. 25 - Champions League Show 07/04/2026",
+      "title": "Sky News.it - 21:30 The Wrap With Anna Botting",
       "link": "ignoreme",
-      "info": "In onda: 18:00 - 19:00\n\nIl riepilogo delle partite di Champions League con interviste ai protagonisti della giornata.\n\nA seguire (19:00): Real Madrid - FC Bayern Monaco",
+      "info": "In onda: 21:30 - 22:00\n\nDebate, analysis and insight on the biggest news stories of the day from the UK and around the world.\n\nA seguire (22:00): The Wrap With Anna Botting",
+      "thumbnail": "https://images.open-epg.com/19400.png"
+    },
+    {
+      "title": "Sky Serie.it - 21:15 Fire Country",
+      "link": "ignoreme",
+      "info": "In onda: 21:15 - 22:05\n\nS3 Ep7 Falso allarme - Alla stazione 42 una chiamata demergenza, che si rivela un falso allarme, rischia di trasformarsi in una pericolosa situazione per gli ostaggi.\n\nA seguire (22:05): Fire Country",
+      "thumbnail": "https://images.open-epg.com/19402.png"
+    },
+    {
+      "title": "Sky Sport 4K.it - 21:00 Champions League Show - Ep. 25 - Champions League Show 07/04/2026",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 22:00\n\nIl riepilogo delle partite di Champions League con interviste ai protagonisti della giornata.\n\nA seguire (22:00): Champions League Show - After Party - Ep. 25 - Champions League Show - After Party 07/04/2026",
       "thumbnail": "https://images.open-epg.com/19403.png"
     },
     {
-      "title": "Sky Sport Calcio.it - 18:45 Mondo Bayern, Il Campus Del Futuro",
+      "title": "Sky Sport Calcio.it - 21:00 Sporting Lisbona - Arsenal",
       "link": "ignoreme",
-      "info": "In onda: 18:45 - 19:00\n\nA Monaco con Niccolo Omini nel cuore di un top club: tra tecnica, filosofia e crescita personale, viaggio nel campus giovanile piu moderno e avanzato di Germania.\n\nA seguire (19:00): Real Madrid - FC Bayern Monaco",
+      "info": "In onda: 21:00 - 23:00\n\n... Champions League. - Nei 4 precedenti europei a Lisbona, lArsenal non ha mai perso con 2 vittorie (compreso l1-5 nellunico precedente di Champions del 2014) e 2 pareggi. TC: Nicola Roggero\n\nA seguire (23:00): Real Madrid - FC Bayern Monaco",
       "thumbnail": "https://images.open-epg.com/19405.png"
     },
     {
-      "title": "Sky Sport Max.it - 18:30 Virtus Bologna - Bayern Monaco",
+      "title": "Sky Sport F1.it - 21:00 GP Australia: Gara",
       "link": "ignoreme",
-      "info": "In onda: 18:30 - 20:30\n\n... Bayern Monaco Eurolega. - Dalla Virtus Segafredo Arena di Bologna, Italia.\n\nA seguire (20:30): Rally Wrc Highlight Show - Ep. 4 - Rally The Wrc Magazine 2026 Ep.4 07/04/2026",
+      "info": "In onda: 21:00 - 22:00\n\nLattesa e finita: scopriamo la nuova F1 con le monoposto rivoluzionarie del 2026 impegnate nella prima gara dellanno. Telecronaca di Carlo Vanzini, Marc Gene e Roberto Chinchero.\n\nA seguire (22:00): Attacco Mondiale",
+      "thumbnail": "https://images.open-epg.com/19406.png"
+    },
+    {
+      "title": "Sky Sport Golf.it - 21:00 2015",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 22:00\n\nRiviviamo tutte le emozioni delledizione 2015 del Masters di Golf, sullo storico percorso dellAugusta National Golf Club in Georgia.\n\nA seguire (22:00): Giornata finale",
+      "thumbnail": "https://images.open-epg.com/19407.png"
+    },
+    {
+      "title": "Sky Sport Max.it - 21:00 Valencia - Olimpia Milano",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 23:00\n\n... Milano Eurolega. - Dal Pabellon Fuente de San Luis di Valencia, Spagna.\n\nA seguire (23:00): Uefa EuropaandConference League Magazine Ep.16 06/04/2026",
       "thumbnail": "https://images.open-epg.com/19408.png"
     },
     {
-      "title": "Sky Sport Tennis.it - 17:00 3a Giornata",
+      "title": "Sky Sport MotoGP.it - 21:00 Motori World Superbike - Ep. 9 - Motori World Superbike 2026 Round 1 Australia - World Sbk Race 2 22/02/2026",
       "link": "ignoreme",
-      "info": "In onda: 17:00 - 20:30\n\nDal Monte-Carlo Country Club di Monte Carlo, Monaco.\n\nA seguire (20:30): Studi Tennis - Ep. 35 - Studio Tennis 2026 07/04/2026",
+      "info": "In onda: 21:00 - 22:00\n\nPrimo Round della stagione 2026. Da Phillip Island, in Australia, gara 2 della World Superbike. Telecronaca Vercellesi - Temporali\n\nA seguire (22:00): GP Stati Uniti: Gara",
+      "thumbnail": "https://images.open-epg.com/19409.png"
+    },
+    {
+      "title": "Sky Sport Tennis.it - 21:15 3a Giornata",
+      "link": "ignoreme",
+      "info": "In onda: 21:15 - 00:00\n\nDal Monte-Carlo Country Club di Monte Carlo, Monaco.\n\nA seguire (00:00): Tennis Monte-Carlo The Insider 2026 - Ep. 3 - Tennis Monte-Carlo The Insider 2026 Ep.3 07/04/2026",
       "thumbnail": "https://images.open-epg.com/19404.png"
     },
     {
-      "title": "Sky Sport Uno.it - 18:00 Champions League Show - Ep. 25 - Champions League Show 07/04/2026",
+      "title": "Sky Sport Uno.it - 21:00 Champions League Show - Ep. 25 - Champions League Show 07/04/2026",
       "link": "ignoreme",
-      "info": "In onda: 18:00 - 19:00\n\nIl riepilogo delle partite di Champions League con interviste ai protagonisti della giornata.\n\nA seguire (19:00): Diretta Gol Ucl 2025/2026",
+      "info": "In onda: 21:00 - 22:00\n\nIl riepilogo delle partite di Champions League con interviste ai protagonisti della giornata.\n\nA seguire (22:00): Champions League Show - After Party - Ep. 25 - Champions League Show - After Party 07/04/2026",
       "thumbnail": "https://images.open-epg.com/19410.png"
     },
     {
@@ -93,27 +195,33 @@
       "thumbnail": "https://images.open-epg.com/19382.png"
     },
     {
-      "title": "Sky TG24.it - 18:30 Ore 20",
+      "title": "Sky TG24.it - 21:30 Skyline",
       "link": "ignoreme",
-      "info": "In onda: 18:30 - 18:52\n\nTelegiornale in diretta. Le notizie dallItalia e dal mondo con collegamenti live, approfondimenti e analisi. Interviste e inchieste esclusive, i principali fatti del giorno aggiornati in tempo reale.\n\nA seguire (18:52): Extra Time",
+      "info": "In onda: 21:30 - 21:53\n\nCon Skyline, dal lunedi al venerdi, vi portiamo dentro tutte le notizie della giornata. Una scansione di quanto successo in Italia e nel mondo, con spazio agli ospiti e alle storie.\n\nA seguire (21:53): Sky Meteo24",
       "thumbnail": "https://images.open-epg.com/19411.png"
     },
     {
-      "title": "Sky Uno.it - 17:00 GialappaShow",
+      "title": "Sky Uno.it - 20:30 Bruno Barbieri - 4 Hotel",
       "link": "ignoreme",
-      "info": "In onda: 17:00 - 19:15\n\nTorna lirriverente show della Gialappas Band e del Mago Forest, un appuntamento cult tra comicita surreale, grandi ospiti e commenti esilaranti alle trasmissioni piu amate.\n\nA seguire (19:15): Bruno Barbieri - 4 Hotel",
+      "info": "In onda: 20:30 - 21:45\n\nS4 Ep5 Lecce - Bruno Barbieri e a Lecce, culla del barocco. E a sfidarsi saranno 4 bedandbreakfast dove Geltrude, Patrizia, Marco e Francesco tengono alta la bandiera dellaccoglienza salentina.\n\nA seguire (21:45): Pechino Express",
       "thumbnail": "https://images.open-epg.com/19413.png"
     },
     {
-      "title": "Zona Dazn 2.it - 22:00 Nessun evento in onda",
+      "title": "ZONA DAZN.it - 21:20 Cult - Collezionali tutti! 2026 - Stag. 2026 Ep. 4 - I rookies Danilo Gallinari",
       "link": "ignoreme",
-      "info": "In onda: 22:00 - 22:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (22:00): Nessun evento in onda",
+      "info": "In onda: 21:20 - 23:00\n\nCollezionali tutti! 2026 - Stag. 2026 Ep....\n\nA seguire (23:00): Stag. 2019 - DAZN 1",
+      "thumbnail": "https://images.open-epg.com/1700.png"
+    },
+    {
+      "title": "Zona Dazn 2.it - 16:00 Nessun evento in onda",
+      "link": "ignoreme",
+      "info": "In onda: 16:00 - 22:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (22:00): Nessun evento in onda",
       "thumbnail": "https://images.open-epg.com/7515553.png"
     },
     {
-      "title": "Zona Dazn.it - 23:00 DAZN 1",
+      "title": "Zona Dazn.it - 21:20 Cult - Collezionali tutti! 2026 - Stag. 2026 Ep. 4 - I rookies Danilo Gallinari",
       "link": "ignoreme",
-      "info": "In onda: 23:00 - 23:00\n\nDAZN 1\n\nA seguire (23:00): DAZN 1",
+      "info": "In onda: 21:20 - 23:00\n\nI rookies Danilo Gallinari - Giovanni Barsotti, Omar Aamoum e Fabio Bazzani ci portano alla scoperta delle storie legate ai rookies con Danilo Gallinari, ex campione di basket che vanta quasi 800 partite in NBA.\n\nA seguire (23:00): DAZN 1",
       "thumbnail": "https://images.open-epg.com/7515557.png"
     }
   ]
