@@ -6,12 +6,12 @@
     {
       "title": "Androide - EPG",
       "link": "ignoreme",
-      "info": "Aggiornato: 09/04/2026 18:51"
+      "info": "Aggiornato: 09/04/2026 21:39"
     },
     {
-      "title": "DAZN 1.it - 18:35 Leonardo Bonucci",
+      "title": "DAZN 1.it - 21:20 Bordocam Inter - Napoli",
       "link": "ignoreme",
-      "info": "In onda: 18:35 - 20:55\n\nLeonardo Bonucci - In viaggio con Pierluigi Pardo scopriamo i segreti delle icone della Serie A in collaborazione con Enilive. Protagonista della terza puntata, Leonardo Bonucci.\n\nA seguire (20:55): Vanja Milinkovic-Savic",
+      "info": "In onda: 21:20 - 21:40\n\nLo scontro diretto tra le ultime due vincitrici del campionato ha regalato tanto spettacolo e una serie di duelli da brivido. Rivivi le immagini piu belle con il Bordocam di Davide Bernardi.\n\nA seguire (21:40): Alessandro Nesta",
       "thumbnail": "https://images.open-epg.com/19310.png"
     },
     {
@@ -21,81 +21,201 @@
       "thumbnail": "https://images.open-epg.com/19311.png"
     },
     {
-      "title": "Sky Cinema Action.it - 17:00 The Gunman",
+      "title": "Sky Arte.it - 20:50 Vermeer - The Greatest Exhibition",
       "link": "ignoreme",
-      "info": "In onda: 17:00 - 19:00\n\nSean Penn e Javier Bardem in un action infuocato. Un ex agente speciale dallambiguo passato impugna le armi contro chi lo vuole morto, in un serrato susseguirsi di agguati (GBR/FRA 2015)\n\nA seguire (19:00): xXx - Il ritorno di Xander Cage",
+      "info": "In onda: 20:50 - 22:30\n\nAl Rijksmuseum di Amsterdam, in compagnia del Direttore del museo e dei curatori della mostra, ci addentriamo nella piu grande esposizione dedicata finora a Vermeer.\n\nA seguire (22:30): Il mistero dei capolavori perduti",
+      "thumbnail": "https://images.open-epg.com/19379.png"
+    },
+    {
+      "title": "Sky Atlantic.it - 20:55 Breaking Bad",
+      "link": "ignoreme",
+      "info": "In onda: 20:55 - 21:50\n\nS3 Ep5 Di piu - Gus cerca di far rientrare Walt nel business e crea una frattura tra Walt e Jesse mentre Marie confida nell aiuto di Skyler per la sua carriera.\n\nA seguire (21:50): Breaking Bad",
+      "thumbnail": "https://images.open-epg.com/19381.png"
+    },
+    {
+      "title": "Sky Cinema Action.it - 20:50 The Bourne Identity",
+      "link": "ignoreme",
+      "info": "In onda: 20:50 - 22:55\n\nMatt Damon nel primo capitolo della saga action. Ripescato in mare e sofferente di amnesia, lex agente segreto Jason Bourne cerca di ricostruire il suo passato e la sua identita (USA/DEU 2002)\n\nA seguire (22:55): Blade",
       "thumbnail": "https://images.open-epg.com/19383.png"
     },
     {
-      "title": "Sky Cinema Drama.it - 16:55 Ariaferma",
+      "title": "Sky Cinema Comedy.it - 20:45 Bye Bye Morons - Addio a tutti",
       "link": "ignoreme",
-      "info": "In onda: 16:55 - 19:00\n\nToni Servillo e Silvio Orlando nel dramma carcerario di Leonardo Di Costanzo che indaga il delicato rapporto tra secondini e detenuti, premiato con 2 David di Donatello 2022 (ITA 2021)\n\nA seguire (19:00): Nuovomondo",
+      "info": "In onda: 20:45 - 22:15\n\nVirginie Efira in una commedia amara vincitrice di 6 Cesar. Dopo aver scoperto di essere malata, una donna decide di cercare il figlio che aveva abbandonato da adolescente dopo il parto (FRA 2020)\n\nA seguire (22:15): Io sono la fine del mondo",
+      "thumbnail": "https://images.open-epg.com/19384.png"
+    },
+    {
+      "title": "Sky Cinema Drama.it - 21:00 Lultimo giorno sulla Terra",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 22:30\n\nSci-fi movie con Jean Reno e Hugo Becker, opera prima di Romain Quirot. 2050: un planetoide ha desertificato il globo e ora sta per distruggerlo. Paul e lunico astronauta che puo fermarlo (FRA 2020)\n\nA seguire (22:30): Holiday",
       "thumbnail": "https://images.open-epg.com/19385.png"
     },
     {
-      "title": "Sky Cinema Due.it - 16:40 Ray",
+      "title": "Sky Cinema Due.it - 20:50 Dunkirk",
       "link": "ignoreme",
-      "info": "In onda: 16:40 - 19:15\n\n2 Oscar al biopic su Ray Charles con Jamie Foxx. Dallinfanzia al successo, passando per i suoi controversi lati oscuri, la vita del leggendario\n\nA seguire (19:15): I guerrieri della notte",
+      "info": "In onda: 20:50 - 22:40\n\n3 Oscar al War Movie di Christopher Nolan che ripercorre la storica Operazione Dynamo. 1940: la difesa degli inglesi, attaccati dai nazisti, viene narrata da un triplice punto di vista (USA/GBR 2017)\n\nA seguire (22:40): Monster",
       "thumbnail": "https://images.open-epg.com/19387.png"
     },
     {
-      "title": "Sky Cinema Suspense.it - 16:55 Security",
+      "title": "Sky Cinema Family.it - 20:35 Dolcissime",
       "link": "ignoreme",
-      "info": "In onda: 16:55 - 19:00\n\nThriller Sky Original - di Peter Chelsom e con Marco DAmore - sui torbidi segreti di una nota localita turistica versiliese (ITA 2021)\n\nA seguire (19:00): Lesercito delle 12 scimmie",
+      "info": "In onda: 20:35 - 22:05\n\nDelicata commedia di Francesco Ghiaccio. Tre ragazze derise per il loro aspetto cercano il riscatto in una gara di nuoto sincronizzato. Nel cast Vinicio Marchioni e Valeria Solarino (ITA 2019)\n\nA seguire (22:05): Speciale - Avvocato Ligas",
+      "thumbnail": "https://images.open-epg.com/19388.png"
+    },
+    {
+      "title": "Sky Cinema Romance.it - 21:25 La Febbre",
+      "link": "ignoreme",
+      "info": "In onda: 21:25 - 23:25\n\nMario Bettini, un giovane geometra trentenne, si trova a ripensare alla propria vita, particolarmente dopo lincontro con una ballerina (ITA 2005)\n\nA seguire (23:25): Mamma mia! - Ci risiamo",
+      "thumbnail": "https://images.open-epg.com/19389.png"
+    },
+    {
+      "title": "Sky Cinema Suspense.it - 21:10 Domino",
+      "link": "ignoreme",
+      "info": "In onda: 21:10 - 22:40\n\nNikolaj Coster-Waldau, Carice van Houten e Guy Pearce in un thriller di Brian De Palma. Due agenti di Copenaghen, sulle tracce di un killer, vengono coinvolti in un intrigo internazionale (USA 2019)\n\nA seguire (22:40): Il settimo giorno",
       "thumbnail": "https://images.open-epg.com/19390.png"
     },
     {
-      "title": "Sky Cinema Uno +24.it - 18:10 Avvocato Ligas",
+      "title": "Sky Cinema Uno +24.it - 21:20 Ghost - Fantasma",
       "link": "ignoreme",
-      "info": "In onda: 18:10 - 19:15\n\nPartenze inattese e vecchie ferite portano Ligas al limite, ma un ritorno dal passato potrebbe rimettere tutto in discussione.\n\nA seguire (19:15): Il Maestro",
+      "info": "In onda: 21:20 - 23:30\n\n2 Oscar alla pellicola senza tempo con Patrick Swayze, Demi Moore e Whoopi Goldberg. Con laiuto di una medium, il fantasma di un uomo assassinato cerca di proteggere la fidanzata (USA 1990)\n\nA seguire (23:30): Come un gatto in tangenziale",
       "thumbnail": "https://images.open-epg.com/19391.png"
     },
     {
-      "title": "Sky Documentaries +1.it - 18:30 One Strange Rock: pianeta Terra",
+      "title": "Sky Cinema Uno.it - 21:05 Il Maestro",
       "link": "ignoreme",
-      "info": "In onda: 18:30 - 19:20\n\nS1 Ep2 La tempesta cosmica - Il nostro pianeta e frutto di una tempesta cosmica, causata da collisioni e scontri. Siamo qui sono per una fortunata coincidenza di eventi cosmici!\n\nA seguire (19:20): Le megastrutture di Hitler",
+      "info": "In onda: 21:05 - 23:10\n\nAndrea Di Stefano dirige Pierfrancesco Favino in un emozionante viaggio di formazione nel mondo del tennis tra un ex giocatore professionista e un giovane talento (IT 2025)\n\nA seguire (23:10): Aquaman",
+      "thumbnail": "https://images.open-epg.com/19392.png"
+    },
+    {
+      "title": "Sky Classica.it - 21:15 Puccini - Tosca",
+      "link": "ignoreme",
+      "info": "In onda: 21:15 - 23:25\n\nOpera in tre atti (1900) su libretto di G.Giacosa e L.Illica - con C.Giannattasio, A.Poli, C.Sgura - Coro Lirico V.Bellini - Orch. Fil. Marchigiana - D.Renzetti, dir. - V.Carrasco, reg. (Macerata, Sferisterio - 2022)\n\nA seguire (23:25): Almanacco di Bellezza",
+      "thumbnail": "https://images.open-epg.com/4100139.png"
+    },
+    {
+      "title": "Sky Crime.it - 21:05 Il Furto Del Secolo",
+      "link": "ignoreme",
+      "info": "In onda: 21:05 - 22:45\n\n16 luglio 1999: Massimo Carminati e la sua banda saccheggiano alcune delle cassette di sicurezza di una banca. Ma i criminali non erano alla ricerca di soldi...\n\nA seguire (23:35): Undercover - Agenti sotto ...",
+      "thumbnail": "https://images.open-epg.com/19394.png"
+    },
+    {
+      "title": "Sky Documentaries +1.it - 20:15 La zona di interesse - La vera storia",
+      "link": "ignoreme",
+      "info": "In onda: 20:15 - 22:00\n\nHans Jurgen Hoss, figlio di Rudolf Hoss, affronta il coinvolgimento di suo padre nellassassinio di oltre un milione di ebrei durante lOlocausto.\n\nA seguire (22:00): C per Complotto",
       "thumbnail": "https://images.open-epg.com/nologo.png"
     },
     {
-      "title": "Sky Documentaries.it - 18:20 Le megastrutture di Hitler",
+      "title": "Sky Documentaries.it - 21:00 C per Complotto",
       "link": "ignoreme",
-      "info": "In onda: 18:20 - 19:15\n\nS3 Ep3 La guerra lampo - Durante il primo anno della Seconda Guerra Mondiale, i tedeschi misero a segno numerose vittorie. Fu coniato un nuovo termine per descrivere questi incredibili successi: guerra lampo.\n\nA seguire (19:15): La zona di interesse - La vera storia",
+      "info": "In onda: 21:00 - 22:00\n\nUn sottomarino nucleare scompare statunitense scomparve misteriosamente durante la Guerra Fredda mentre sta spiando le manovre sovietiche. Il suo relitto viene ritrovato sul fondo delloceano.\n\nA seguire (22:00): C per Complotto",
       "thumbnail": "https://images.open-epg.com/19396.png"
     },
     {
-      "title": "Sky Sport MotoGP.it - 18:30 GP Stati Uniti: Sprint Race",
+      "title": "Sky Investigation.it - 20:45 Balthazar",
       "link": "ignoreme",
-      "info": "In onda: 18:30 - 19:15\n\nTerzo appuntamento del mondiale 2026: a Austin, in Texas, si accendono i motori per la Sprint della MotoGP. Telecronaca Meda - Sanchini\n\nA seguire (19:15): GP Stati Uniti: Gara",
+      "info": "In onda: 20:45 - 21:45\n\nS1 Ep3 Legittima difesa - Balthazar deve esaminare il corpo di una giovane ritrovato in un camion frigorifero. Lo stato di congelamento del corpo impedisce di capire lora e le condizioni del decesso.\n\nA seguire (21:45): Balthazar",
+      "thumbnail": "https://images.open-epg.com/19398.png"
+    },
+    {
+      "title": "Sky Nature.it - 21:00 Panorami nascosti",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 21:50\n\nS1 Ep2 Cile - Con oltre 1.000 km di estensione a ovest delle Ande, il deserto di Atacama e la regione non polare piu secca.\n\nA seguire (21:50): Cina - Antico regno animale",
+      "thumbnail": "https://images.open-epg.com/19393.png"
+    },
+    {
+      "title": "Sky News.it - 21:30 The Wrap With Anna Botting",
+      "link": "ignoreme",
+      "info": "In onda: 21:30 - 22:00\n\nDebate, analysis and insight on the biggest news stories of the day from the UK and around the world.\n\nA seguire (22:00): The Wrap With Anna Botting",
+      "thumbnail": "https://images.open-epg.com/19400.png"
+    },
+    {
+      "title": "Sky Serie.it - 20:55 Avvocato Ligas",
+      "link": "ignoreme",
+      "info": "In onda: 20:55 - 22:00\n\nFinale di stagione. - Partenze inattese e vecchie ferite portano Ligas al limite, ma un ritorno dal passato potrebbe rimettere tutto in discussione.\n\nA seguire (22:00): Outlander",
+      "thumbnail": "https://images.open-epg.com/19402.png"
+    },
+    {
+      "title": "Sky Sport 4K.it - 21:00 Europa e Conference League Postpartita",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 21:45\n\n... Postpartita. - Le immagini e i gol delle partite di UEFA Europa e Conference League, le interviste ai protagonisti e i commenti, nello studio condotto da Mario Giunta.\n\nA seguire (21:45): After Party Best Of Europe 2025 Ep.12 09/04/2026",
+      "thumbnail": "https://images.open-epg.com/19403.png"
+    },
+    {
+      "title": "Sky Sport Calcio.it - 21:30 Real Madrid - FC Bayern Monaco",
+      "link": "ignoreme",
+      "info": "In onda: 21:30 - 22:00\n\n... Champions League. - Dal Santiago Bernabeu di Madrid, Spagna.\n\nA seguire (22:00): Ep.41",
+      "thumbnail": "https://images.open-epg.com/19405.png"
+    },
+    {
+      "title": "Sky Sport F1.it - 21:00 GP Giappone: Gara",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 22:00\n\nTerza gara della stagione sulla mitica pista di Suzuka: la Mercedes ha vinto i primi due GP, la Ferrari non trionfa in Giappone dal 2004. Telecronaca di Carlo Vanzini, Marc Gene e Roberto Chinchero\n\nA seguire (22:00): Motori Indycar Series 2026 - Ep. 1 - Motori Indycar Series 2026 St.Petersburg 01/03/2026",
+      "thumbnail": "https://images.open-epg.com/19406.png"
+    },
+    {
+      "title": "Sky Sport Golf.it - 17:00 Giorno 1 Parte 2",
+      "link": "ignoreme",
+      "info": "In onda: 17:00 - 23:30\n\n... 2026 1a Giornata 2a Parte 09/04/2026 Golf Major The Masters. - Golf Major The Masters\n\nA seguire (23:30): 2017",
+      "thumbnail": "https://images.open-epg.com/19407.png"
+    },
+    {
+      "title": "Sky Sport Max.it - 21:00 EA7 Emporio Armani Milano - Bayern Monaco",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 23:00\n\nIl Forum ospita lultima partita europea della stagione: a Milano arrivano i campioni di Germania, capaci due giorni prima di vincere a casa della Virtus. TC: De Rosa-Pessina.\n\nA seguire (23:00): Ep.9",
+      "thumbnail": "https://images.open-epg.com/19408.png"
+    },
+    {
+      "title": "Sky Sport MotoGP.it - 21:00 GP Thailandia: Gara",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 22:00\n\nPrimo appuntamento del mondiale 2026: a Buriram, in Thailandia, si accendono i motori per la gara della MotoGP. Telecronaca Meda - Sanchini\n\nA seguire (22:00): Portogallo: Gara Superpole",
       "thumbnail": "https://images.open-epg.com/19409.png"
     },
     {
-      "title": "Sky Sport Tennis.it - 17:00 Tennis Atp World Tour Masters 1000 - Ep. 64 - Tennis Atp Masters 1000 2026 Monte-Carlo 5a Giornata (Solo Repl) 09/04/2026",
+      "title": "Sky Sport Tennis.it - 21:15 Tennis Atp World Tour Masters 1000 - Ep. 64 - Tennis Atp Masters 1000 2026 Monte-Carlo 5a Giornata (Solo Repl) 09/04/2026",
       "link": "ignoreme",
-      "info": "In onda: 17:00 - 20:30\n\nDal Monte-Carlo Country Club di Monte Carlo, Monaco.\n\nA seguire (20:30): Studio Tennis 2026 09/04/2026",
+      "info": "In onda: 21:15 - 00:00\n\nDal Monte-Carlo Country Club di Monte Carlo, Monaco.\n\nA seguire (00:00): Tennis Monte-Carlo The Insider 2026 Ep.2 09/04/2026",
       "thumbnail": "https://images.open-epg.com/19404.png"
+    },
+    {
+      "title": "Sky Sport Uno.it - 21:00 Europa e Conference League Postpartita",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 21:45\n\n... Postpartita. - Le immagini e i gol delle partite di UEFA Europa e Conference League, le interviste ai protagonisti e i commenti, nello studio condotto da Mario Giunta.\n\nA seguire (21:45): After Party Best Of Europe 2025 Ep.12 09/04/2026",
+      "thumbnail": "https://images.open-epg.com/19410.png"
     },
     {
       "title": "Sky Sport.it - 18:00 Diretta Gol Uel/ Uecl... (Diretta) - Ep. 16 - Diretta Gol Uel/ Uecl 09/04/2026",
       "link": "ignoreme",
-      "info": "In onda: 18:00 - 23:00\n\nDalle 18:45 Diretta Gol Europa League and Conference League.",
+      "info": "In onda: 18:00 - 23:00\n\nDalle 18:45 Diretta Gol Europa League and Conference League.\n\nA seguire (18:00): Roma - Pisa",
       "thumbnail": "https://images.open-epg.com/19382.png"
     },
     {
-      "title": "ZONA DAZN.it - 18:35 Leonardo Bonucci",
+      "title": "Sky TG24.it - 21:30 Skyline",
       "link": "ignoreme",
-      "info": "In onda: 18:35 - 20:55\n\nLeonardo Bonucci\n\nA seguire (20:55): Vanja Milinkovic-Savic",
+      "info": "In onda: 21:30 - 21:50\n\nCon Skyline, dal lunedi al venerdi, vi portiamo dentro tutte le notizie della giornata. Una scansione di quanto successo in Italia e nel mondo, con spazio agli ospiti e alle storie.\n\nA seguire (21:50): Sky Meteo24",
+      "thumbnail": "https://images.open-epg.com/19411.png"
+    },
+    {
+      "title": "Sky Uno.it - 21:30 Pechino Express",
+      "link": "ignoreme",
+      "info": "In onda: 21:30 - 23:45\n\nI viaggiatori raggiungono il secondo paese della rotta di questanno, la Cina! Ad accoglierli, una nuova inviata, Giulia Salemi.\n\nA seguire (23:45): Quattro matrimoni",
+      "thumbnail": "https://images.open-epg.com/19413.png"
+    },
+    {
+      "title": "ZONA DAZN.it - 21:20 Bordocam Inter - Napoli",
+      "link": "ignoreme",
+      "info": "In onda: 21:20 - 21:40\n\nNapoli - Lo scontro diretto tra...\n\nA seguire (21:40): Alessandro Nesta",
       "thumbnail": "https://images.open-epg.com/1700.png"
     },
     {
-      "title": "Zona Dazn 2.it - 22:00 Nessun evento in onda",
+      "title": "Zona Dazn 2.it - 16:00 Nessun evento in onda",
       "link": "ignoreme",
-      "info": "In onda: 22:00 - 22:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (22:00): Nessun evento in onda",
+      "info": "In onda: 16:00 - 22:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (22:00): Nessun evento in onda",
       "thumbnail": "https://images.open-epg.com/7515553.png"
     },
     {
-      "title": "Zona Dazn.it - 23:00 DAZN 1",
+      "title": "Zona Dazn.it - 21:20 Bordocam Inter - Napoli",
       "link": "ignoreme",
-      "info": "In onda: 23:00 - 23:00\n\nDAZN 1\n\nA seguire (23:00): DAZN 1",
+      "info": "In onda: 21:20 - 21:40\n\nLo scontro diretto tra le ultime due vincitrici del campionato ha regalato tanto spettacolo e una serie di duelli da brivido. Rivivi le immagini piu belle con il Bordocam di Davide Bernardi.\n\nA seguire (21:40): Alessandro Nesta",
       "thumbnail": "https://images.open-epg.com/7515557.png"
     }
   ]
