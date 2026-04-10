@@ -6,7 +6,13 @@
     {
       "title": "Androide - EPG",
       "link": "ignoreme",
-      "info": "Aggiornato: 10/04/2026 18:39"
+      "info": "Aggiornato: 10/04/2026 21:28"
+    },
+    {
+      "title": "DAZN 1.it - 21:10 Christian Pulisic: The Italian Dream",
+      "link": "ignoreme",
+      "info": "In onda: 21:10 - 21:35\n\nChristian Pulisic e il leggendario coach Dan Peterson in una chiacchierata, 1 to 1, parlano del momento del calciatore statunitense e di tutta la sua esperienza italiana e rossonera.\n\nA seguire (21:35): Lazio: Pedro",
+      "thumbnail": "https://images.open-epg.com/19310.png"
     },
     {
       "title": "DAZN 2.it - 16:00 Nessun evento in onda",
@@ -15,52 +21,136 @@
       "thumbnail": "https://images.open-epg.com/19311.png"
     },
     {
-      "title": "Sky Cinema Action.it - 16:35 Batman Begins",
+      "title": "Sky Arte.it - 21:05 33 giri Italian masters",
       "link": "ignoreme",
-      "info": "In onda: 16:35 - 19:00\n\nChristopher Nolan racconta la genesi di Batman con Christian Bale, Liam Neeson e Morgan Freeman. Dopo luccisione dei genitori, Bruce Wayne si sottopone a uno speciale addestramento (USA/GBR 2005)\n\nA seguire (19:00): Justice League",
+      "info": "In onda: 21:05 - 21:55\n\nS3 Ep4 Zucchero: Oro, incenso e birra - Ci sono album che hanno segnato la storia della musica italiana. Nellepisodio Zucchero ci racconta il suo album Oro incenso and birra.\n\nA seguire (21:55): Andrea Bocelli: Because I Believe",
+      "thumbnail": "https://images.open-epg.com/19379.png"
+    },
+    {
+      "title": "Sky Atlantic.it - 21:00 American Crime Story",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 21:50\n\nS1 Ep3 Il Dream Team - Una serie antologica dedicata ai crimini, e ai criminali, piu famosi degli Stati Uniti. La prima stagione si concentra su O. J. Simpson, la seconda racconta lomicidio di Gianni Versace mentre la terza parla dello scandalo\n\nA seguire (21:50): American Crime Story",
+      "thumbnail": "https://images.open-epg.com/19381.png"
+    },
+    {
+      "title": "Sky Cinema Action.it - 21:05 The Bourne Supremacy",
+      "link": "ignoreme",
+      "info": "In onda: 21:05 - 22:55\n\nPaul Greengrass dirige il secondo action con Matt Damon nei panni dellex agente della CIA. Lasciato indietro il passato, Bourne torna in campo per uningiusta accusa di omicidio (USA 2004)\n\nA seguire (22:55): Blade II",
       "thumbnail": "https://images.open-epg.com/19383.png"
     },
     {
-      "title": "Sky Cinema Suspense.it - 16:55 God is a Bullet",
+      "title": "Sky Cinema Comedy.it - 20:40 2 gran figli di...",
       "link": "ignoreme",
-      "info": "In onda: 16:55 - 19:00\n\nNikolaj Coster-Waldau, Maika Monroe e Jamie Foxx nel film Sky Original di Nick Cassavetes. Per salvare la figlia, il detective Bob Hightower si infiltra in una setta satanica (USA/MEX 2022)\n\nA seguire (19:00): Immaculate - La prescelta",
+      "info": "In onda: 20:40 - 22:35\n\nCommedia on the road con Owen Wilson, Ed Helms e Glenn Close. Alla ricerca del padre biologico, due gemelli attraversano lAmerica e scoprono il disinibito passato sessuale della madre (USA 2017)\n\nA seguire (22:35): Il principe abusivo",
+      "thumbnail": "https://images.open-epg.com/19384.png"
+    },
+    {
+      "title": "Sky Cinema Drama.it - 19:00 The Brutalist",
+      "link": "ignoreme",
+      "info": "In onda: 19:00 - 22:20\n\nSecondo Oscar per Adrien Brody diretto da Brady Corbet, premiato a Venezia. Un architetto, sopravvissuto ai lager, emigra negli USA. Un mecenate gli affidera unopera monumentale (USA/GBR 2024)\n\nA seguire (22:20): Il ladro di giorni",
+      "thumbnail": "https://images.open-epg.com/19385.png"
+    },
+    {
+      "title": "Sky Cinema Due.it - 21:10 Red Rocket",
+      "link": "ignoreme",
+      "info": "In onda: 21:10 - 23:25\n\nIl regista premio Oscar Sean Baker dirige una commedia dolceamara. Caduto in disgrazia, un disonesto attore porno torna nella sua citta natale a vivere con lex moglie e la suocera (US 2021)\n\nA seguire (23:25): Soldato Jane",
+      "thumbnail": "https://images.open-epg.com/19387.png"
+    },
+    {
+      "title": "Sky Cinema Family.it - 20:50 Jumanji",
+      "link": "ignoreme",
+      "info": "In onda: 20:50 - 22:35\n\nAvventure fantasy per Robin Williams. Due ragazzi rimangono intrappolati nei pericolosi labirinti di un gioco da tavolo e affrontano ogni tipo di insidia per liberarsi (USA 1995)\n\nA seguire (22:35): Genitori vs Influencer",
+      "thumbnail": "https://images.open-epg.com/19388.png"
+    },
+    {
+      "title": "Sky Cinema Romance.it - 20:45 La rivolta delle ex",
+      "link": "ignoreme",
+      "info": "In onda: 20:45 - 22:30\n\nMatthew McConaughey e Jennifer Garner in una commedia romantica dal tocco soprannaturale. Un celebre fotografo, incallito playboy, viene perseguitato dai fantasmi delle sue ex (USA 2009)\n\nA seguire (22:30): Quello che non so di te",
+      "thumbnail": "https://images.open-epg.com/19389.png"
+    },
+    {
+      "title": "Sky Cinema Suspense.it - 20:35 Suburra",
+      "link": "ignoreme",
+      "info": "In onda: 20:35 - 22:55\n\nPierfrancesco Favino, Elio Germano, Claudio Amendola e Alessandro Borghi nel noir di Stefano Sollima. Tra corruzione dilagante e malavita si consuma la feroce lotta per il potere a Roma (ITA 2015)\n\nA seguire (22:55): Split",
       "thumbnail": "https://images.open-epg.com/19390.png"
     },
     {
-      "title": "Sky Classica.it - 15:15 Pathetique - M.Schlaepfer, cor.",
+      "title": "Sky Cinema Uno +24.it - 21:05 Il Maestro",
       "link": "ignoreme",
-      "info": "In onda: 15:15 - 17:30\n\nSulle note della Sesta sinfonia di Cajkovskij e di unaria di Haendel, Schlaepfer firma la coreografia di Pathetique - con F.Ilie, L.Kusztrich, S.Hopkins - Wiener Staatsoper Orchestra - Wiener Staatsballet (Vienna, 2025)\n\nA seguire (19:15): Generali 190: Persone e Storie - 1989",
+      "info": "In onda: 21:05 - 23:10\n\nAndrea Di Stefano dirige Pierfrancesco Favino in un emozionante viaggio di formazione nel mondo del tennis tra un ex giocatore professionista e un giovane talento (IT 2025)\n\nA seguire (23:10): Aquaman",
+      "thumbnail": "https://images.open-epg.com/19391.png"
+    },
+    {
+      "title": "Sky Cinema Uno.it - 20:45 Grazie ragazzi",
+      "link": "ignoreme",
+      "info": "In onda: 20:45 - 22:45\n\nAntonio Albanese e Vinicio Marchioni in una commedia di Riccardo Milani. Un attore disoccupato accetta di insegnare teatro a una classe di detenuti e mette in scena\n\nA seguire (22:45): Now you see me - I maghi del crimine",
+      "thumbnail": "https://images.open-epg.com/19392.png"
+    },
+    {
+      "title": "Sky Classica.it - 20:55 Poulenc - La voce umana",
+      "link": "ignoreme",
+      "info": "In onda: 20:55 - 21:55\n\nBasato sul testo teatrale di Cocteau, protagonista e Danielle de Niese, atta a restituire le sfumature della progressione psicologica di Elle - Orchestra Royal Opera House - A.Pappano, dir. - J.Kent, reg. (Londra, 2023)\n\nA seguire (21:55): Kaiserwalzer",
       "thumbnail": "https://images.open-epg.com/4100139.png"
     },
     {
-      "title": "Sky Documentaries +1.it - 18:30 C per Complotto",
+      "title": "Sky Crime.it - 20:45 Traccia criminale",
       "link": "ignoreme",
-      "info": "In onda: 18:30 - 19:20\n\nLa scomparsa dellaviatrice Amelia Earhart e uno dei piu grandi misteri irrisolti. Gli esperti analizzano dei resti umani che potrebbero costituire una prova certa del luogo in cui si trova.\n\nA seguire (19:20): Le megastrutture di Hitler",
+      "info": "In onda: 20:45 - 21:40\n\nS1 Ep8 Amore avvelenato - Unimprovvisa e fatale malattia sconvolge la famiglia di unamatissima dottoressa.\n\nA seguire (21:40): Le recensioni del killer",
+      "thumbnail": "https://images.open-epg.com/19394.png"
+    },
+    {
+      "title": "Sky Documentaries +1.it - 21:25 AG4IN: Il film del quarto scudetto del Napoli",
+      "link": "ignoreme",
+      "info": "In onda: 21:25 - 23:20\n\n... del Napoli. - Le emozioni e i retroscena della corsa del Napoli alla conquista del quarto scudetto. Un viaggio attraverso lintimita di una squadra che, pur non partendo favorita, e riuscita a conquistare lo scudetto in extremis, con grande sacrificio di gruppo.\n\nA seguire (23:20): Echo: Quello che rimane",
       "thumbnail": "https://images.open-epg.com/nologo.png"
     },
     {
-      "title": "Sky Documentaries.it - 18:20 Le megastrutture di Hitler",
+      "title": "Sky Documentaries.it - 20:25 AG4IN: Il film del quarto scudetto del Napoli",
       "link": "ignoreme",
-      "info": "In onda: 18:20 - 19:15\n\nS3 Ep4 I sottomarini killer - Allinizio del 1943, la Germania nazista perde la battaglia sul versante Atlantico, ma gli ingegneri di Hitler progettarono un sottomarino in grado di superare i rivali.\n\nA seguire (19:15): The City Game",
+      "info": "In onda: 20:25 - 22:20\n\n... del Napoli. - Le emozioni e i retroscena della corsa del Napoli alla conquista del quarto scudetto. Un viaggio attraverso lintimita di una squadra che, pur non partendo favorita, e riuscita a conquistare lo scudetto in extremis, con grande sacrificio di gruppo.\n\nA seguire (22:20): Echo: Quello che rimane",
       "thumbnail": "https://images.open-epg.com/19396.png"
     },
     {
-      "title": "Sky Serie.it - 18:30 Friends",
+      "title": "Sky Investigation.it - 21:20 NCIS",
       "link": "ignoreme",
-      "info": "In onda: 18:30 - 18:50\n\nS3 Ep2 Minuti contati - Ce una serata di beneficenza al museo, ma sono tutti in ritardo. Rachel non sa cosa indossare, Joey e Chandler discutono e Phoebe si macchia il vestito.\n\nA seguire (18:50): Friends",
+      "info": "In onda: 21:20 - 22:05\n\nS22 Ep18 Dopo la tempesta - Un uomo viene trovato sporco di sangue vicino ad un motel in cui sono stati uccisi tre veterani della Marina e dice di voler parlare solo con Sam Hanna. Luomo sembra essere lautore degli omicidi, ma Sam e convinto del contrario.\n\nA seguire (22:05): NCIS",
+      "thumbnail": "https://images.open-epg.com/19398.png"
+    },
+    {
+      "title": "Sky Nature.it - 20:50 Il Selvaggio West",
+      "link": "ignoreme",
+      "info": "In onda: 20:50 - 21:35\n\nS1 Ep3 Il Selvaggio West - I serpenti a sonagli spuntano a centinaia, i picchi si danno da fare per immagazzinare cibo e le gru si radunano a centinaia durante la loro secolare migrazione.\n\nA seguire (21:35): LAmazzonia",
+      "thumbnail": "https://images.open-epg.com/19393.png"
+    },
+    {
+      "title": "Sky News.it - 21:00 The Wrap With Gillian Joseph",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 21:30\n\nDebate, analysis and insight on the biggest news stories of the day from the UK and around the world.\n\nA seguire (21:30): The Wrap With Gillian Joseph",
+      "thumbnail": "https://images.open-epg.com/19400.png"
+    },
+    {
+      "title": "Sky Serie.it - 20:50 Doc",
+      "link": "ignoreme",
+      "info": "In onda: 20:50 - 21:40\n\nS1 Ep1 Se non riesci al primo tentativo... - La dottoressa Amy Larsen, primario al Westside Hospital, e un genio della medicina, ma, per il suo atteggiamento arrogante, si attira lantipatia di molti. Rimasta vittima di un drammatico incidente dauto, viene operata per un grave trauma cranico.\n\nA seguire (21:40): Doc",
       "thumbnail": "https://images.open-epg.com/19402.png"
     },
     {
-      "title": "Sky Sport 4K.it - 18:00 Sky Friday Night Football Prepartita",
+      "title": "Sky Sport 4K.it - 20:45 Sky Friday Night Football Postpartita",
       "link": "ignoreme",
-      "info": "In onda: 18:00 - 18:45\n\n... Football... (Diretta). - La presentazione del match di Serie A, le immagini e le interviste ai protagonisti. Nello studio di Giorgia Cenni, anche calcio internazionale e le news di tutti gli sport di Sky.\n\nA seguire (20:45): Sky Friday Night Football Postpartita",
+      "info": "In onda: 20:45 - 22:00\n\n... Football... (Diretta) Friday Night Football. - Immagini, interviste, commenti sulla partita Serie A e sul calcio internazionale e le ultime news di tutti gli sport di Sky, nello studio condotto da Giorgia Cenni.\n\nA seguire (22:00): Roma - Pisa",
       "thumbnail": "https://images.open-epg.com/19403.png"
     },
     {
-      "title": "Sky Sport Calcio.it - 18:00 Sky Friday Night Football Prepartita",
+      "title": "Sky Sport Calcio.it - 20:45 Sky Friday Night Football Postpartita",
       "link": "ignoreme",
-      "info": "In onda: 18:00 - 18:45\n\n... Football... (Diretta). - La presentazione del match di Serie A, le immagini e le interviste ai protagonisti. Nello studio di Giorgia Cenni, anche calcio internazionale e le news di tutti gli sport di Sky.\n\nA seguire (20:45): Sky Friday Night Football Postpartita",
+      "info": "In onda: 20:45 - 22:00\n\n... Football... (Diretta) Friday Night Football. - Immagini, interviste, commenti sulla partita Serie A e sul calcio internazionale e le ultime news di tutti gli sport di Sky, nello studio condotto da Giorgia Cenni.\n\nA seguire (22:00): I Testa A Testa Da Titolo",
       "thumbnail": "https://images.open-epg.com/19405.png"
+    },
+    {
+      "title": "Sky Sport F1.it - 21:00 GP Cina: Gara",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 22:00\n\nSeconda gara della stagione: dopo la doppietta Mercedes a Melbourne chi trionfera a Shanghai? Telecronaca di Carlo Vanzini, Marc Gene e Roberto Chinchero.\n\nA seguire (22:00): Good Ranchers 250",
+      "thumbnail": "https://images.open-epg.com/19406.png"
     },
     {
       "title": "Sky Sport Golf.it - 17:00 Golf Major The Masters - Ep. 5 - Golf Major The Masters 2026 2a Giornata 2a Parte 10/04/2026",
@@ -69,15 +159,27 @@
       "thumbnail": "https://images.open-epg.com/19407.png"
     },
     {
-      "title": "Sky Sport Tennis.it - 17:00 3^ Quarto Di Finale",
+      "title": "Sky Sport Max.it - 21:00 Virtus Bologna - Baskonia",
       "link": "ignoreme",
-      "info": "In onda: 17:00 - 18:45\n\n... Monte-Carlo. - ... Monte-Carlo. - ... Tennis: ATP 1000 Monte-Carlo. - DallHard Rock Stadium di Miami, Stati Uniti.\n\nA seguire (20:30): Studio Tennis 2026 10/04/2026",
+      "info": "In onda: 21:00 - 22:50\n\nLa Virtus nellultima in casa della sua Eurolega ospita i baschi di coach Galbiati, anchessi fuori dalla corsa playoff ma freschi vincitori della Coppa del Re. TC: Fumagalli-Meneghin.\n\nA seguire (22:50): I Testa A Testa Da Titolo",
+      "thumbnail": "https://images.open-epg.com/19408.png"
+    },
+    {
+      "title": "Sky Sport MotoGP.it - 21:00 GP Stati Uniti: Gara",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 22:00\n\nTerzo appuntamento del mondiale 2026: a Austin, in Texas, si accendono i motori per la gara della MotoGP. Telecronaca Guido Meda e Mauro Sanchini\n\nA seguire (22:00): Australia: Gara Superpole",
+      "thumbnail": "https://images.open-epg.com/19409.png"
+    },
+    {
+      "title": "Sky Sport Tennis.it - 21:15 1^ Quarto Di Finale",
+      "link": "ignoreme",
+      "info": "In onda: 21:15 - 23:15\n\n... Monte-Carlo. - Dal Monte-Carlo Country Club di Monte Carlo, Monaco.\n\nA seguire (23:15): Studio Tennis 2026 10/04/2026",
       "thumbnail": "https://images.open-epg.com/19404.png"
     },
     {
-      "title": "Sky Sport Uno.it - 18:30 Virtus Bologna - Baskonia",
+      "title": "Sky Sport Uno.it - 21:15 Roma - Pisa",
       "link": "ignoreme",
-      "info": "In onda: 18:30 - 20:30\n\n... Eurolega. - La Virtus nellultima in casa della sua Eurolega ospita i baschi di coach Galbiati, anchessi fuori dalla corsa playoff ma freschi vincitori della Coppa del Re. TC: Fumagalli-Meneghin.\n\nA seguire (20:30): I Testa A Testa Da Titolo",
+      "info": "In onda: 21:15 - 23:05\n\nGiallorossi sesti a -4 dalla Champions dopo il 5-2 contro lInter. Pisa sempre ultimo con appena 2 vittorie. Un solo successo a Roma (1991) in 7 sfide di A, 6 ko. TC: Polizzi-Gobbi\n\nA seguire (23:05): I Testa A Testa Da Titolo",
       "thumbnail": "https://images.open-epg.com/19410.png"
     },
     {
@@ -87,27 +189,33 @@
       "thumbnail": "https://images.open-epg.com/19382.png"
     },
     {
-      "title": "Sky Uno.it - 17:00 Pechino Express",
+      "title": "Sky TG24.it - 21:00 Skyline",
       "link": "ignoreme",
-      "info": "In onda: 17:00 - 19:15\n\nI viaggiatori raggiungono il secondo paese della rotta di questanno, la Cina! Ad accoglierli, una nuova inviata, Giulia Salemi.\n\nA seguire (19:15): Bruno Barbieri - 4 Hotel",
+      "info": "In onda: 21:00 - 21:30\n\nCon Skyline, dal lunedi al venerdi, vi portiamo dentro tutte le notizie della giornata. Una scansione di quanto successo in Italia e nel mondo, con spazio agli ospiti e alle storie.\n\nA seguire (21:30): Skyline",
+      "thumbnail": "https://images.open-epg.com/19411.png"
+    },
+    {
+      "title": "Sky Uno.it - 20:30 Pechino Express",
+      "link": "ignoreme",
+      "info": "In onda: 20:30 - 22:45\n\nI viaggiatori raggiungono il secondo paese della rotta di questanno, la Cina! Ad accoglierli, una nuova inviata, Giulia Salemi.\n\nA seguire (22:45): Alessandro Borghese - 4 Ristoranti",
       "thumbnail": "https://images.open-epg.com/19413.png"
     },
     {
-      "title": "ZONA DAZN.it - 18:35 Giovanni Simeone: la mia ispirazione",
+      "title": "ZONA DAZN.it - 21:10 Christian Pulisic: The Italian Dream",
       "link": "ignoreme",
-      "info": "In onda: 18:35 - 19:00\n\nStorie...\n\nA seguire (19:00): Real Madrid - Girona - Stag. 2025 Ep. 31a g. - Real Madrid - Girona",
+      "info": "In onda: 21:10 - 21:35\n\nChristian...\n\nA seguire (21:35): Lazio: Pedro",
       "thumbnail": "https://images.open-epg.com/1700.png"
     },
     {
-      "title": "Zona Dazn 2.it - 22:00 Nessun evento in onda",
+      "title": "Zona Dazn 2.it - 16:00 Nessun evento in onda",
       "link": "ignoreme",
-      "info": "In onda: 22:00 - 22:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (22:00): Nessun evento in onda",
+      "info": "In onda: 16:00 - 22:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (22:00): Nessun evento in onda",
       "thumbnail": "https://images.open-epg.com/7515553.png"
     },
     {
-      "title": "Zona Dazn.it - 23:00 DAZN 1",
+      "title": "Zona Dazn.it - 21:10 Christian Pulisic: The Italian Dream",
       "link": "ignoreme",
-      "info": "In onda: 23:00 - 23:00\n\nDAZN 1\n\nA seguire (23:00): DAZN 1",
+      "info": "In onda: 21:10 - 21:35\n\nChristian Pulisic e il leggendario coach Dan Peterson in una chiacchierata, 1 to 1, parlano del momento del calciatore statunitense e di tutta la sua esperienza italiana e rossonera.\n\nA seguire (21:35): Lazio: Pedro",
       "thumbnail": "https://images.open-epg.com/7515557.png"
     }
   ]
