@@ -6,7 +6,13 @@
     {
       "title": "Androide - EPG",
       "link": "ignoreme",
-      "info": "Aggiornato: 14/04/2026 18:59"
+      "info": "Aggiornato: 14/04/2026 21:42"
+    },
+    {
+      "title": "DAZN 1.it - 21:10 Icone Laura Giuliani",
+      "link": "ignoreme",
+      "info": "In onda: 21:10 - 23:00\n\nIcone Laura Giuliani - Giovanni Barsotti, Omar Aamoum e Fabio Bazzani ci portano alla scoperta delle storie legate alle icone sportive con lospite Laura Giuliani, portiere di Milan e Nazionale Femminile.\n\nA seguire (23:00): DAZN 1",
+      "thumbnail": "https://images.open-epg.com/19310.png"
     },
     {
       "title": "DAZN 2.it - 16:00 Nessun evento in onda",
@@ -15,69 +21,165 @@
       "thumbnail": "https://images.open-epg.com/19311.png"
     },
     {
-      "title": "Sky Arte.it - 18:40 ArtBox 1^TV",
+      "title": "Sky Arte.it - 21:40 Modernissimo: Conversazioni di design",
       "link": "ignoreme",
-      "info": "In onda: 18:40 - 19:15\n\nS11 Ep21 ArtBox 1^TV - Alla scoperta delle migliori e piu accattivanti mostre darte in Italia e nel mondo in compagnia di esperti darte, collezionisti e curatori. Uno spazio dedicato ad incontri con artisti e critici.\n\nA seguire (19:15): Design. Aspettando Il Futuro",
+      "info": "In onda: 21:40 - 21:55\n\nS1 Ep4 Dove abita ma moda con Alessandra Pellegrino - Dove abita la moda - Paolo Stella incontra la giornalista Alessandra Pellegrino negli spazi della Triennale di Milano.\n\nA seguire (21:55): Design. Aspettando Il Futuro",
       "thumbnail": "https://images.open-epg.com/19379.png"
     },
     {
-      "title": "Sky Atlantic.it - 18:15 Romanzo criminale - La serie",
+      "title": "Sky Atlantic.it - 21:10 Euphoria",
       "link": "ignoreme",
-      "info": "In onda: 18:15 - 19:15\n\nFinale di stagione. - Diversi anni dopo il processo, il Freddo torna a Roma per una vendetta personale. Mentre Scialoja non smette di incalzare i superstiti della banda, Roma si prepara ad una guerra totale.\n\nA seguire (19:15): Il caso O.J. Simpson: American Crime...",
+      "info": "In onda: 21:10 - 22:15\n\nUn gruppo di amici dinfanzia si confronta con il valore della fede, la possibilita della redenzione e il problema del male.\n\nA seguire (22:15): Avvocato Ligas",
       "thumbnail": "https://images.open-epg.com/19381.png"
     },
     {
-      "title": "Sky Cinema Drama.it - 16:50 A Good Person",
+      "title": "Sky Cinema Action.it - 21:05 300 - Lalba di un impero",
       "link": "ignoreme",
-      "info": "In onda: 16:50 - 19:00\n\nFlorence Pugh e Morgan Freeman in un film Sky Original di Zach Braff. Sopravvissuta a un incidente, una giovane donna prova a ricostruire la sua vita con laiuto dellaspirante suocero (USA/CAN 2023)\n\nA seguire (19:00): Enzo",
+      "info": "In onda: 21:05 - 22:50\n\nSullivan Stapleton ed Eva Green nellepico sequel di\n\nA seguire (22:50): 800 eroi",
+      "thumbnail": "https://images.open-epg.com/19383.png"
+    },
+    {
+      "title": "Sky Cinema Comedy.it - 21:10 Viva lItalia",
+      "link": "ignoreme",
+      "info": "In onda: 21:10 - 23:15\n\nGraffiante commedia con Michele Placido, Alessandro Gassmann, Raoul Bova e Ambra Angiolini. Colpito da improvvisa demenza, un senatore perde ogni inibizione e non riesce piu a mentire (ITA 2012)\n\nA seguire (23:15): Questo O Quello - Cinema E Serie Aprile",
+      "thumbnail": "https://images.open-epg.com/19384.png"
+    },
+    {
+      "title": "Sky Cinema Drama.it - 20:50 Mystic River",
+      "link": "ignoreme",
+      "info": "In onda: 20:50 - 23:10\n\nOscar e Golden Globe a Sean Penn e Tim Robbins, in un capolavoro di Clint Eastwood. Lomicidio di una ragazza riporta alla luce un caso di pedofilia che coinvolse tre bambini di Boston (USA/AUS 2003)\n\nA seguire (23:10): Sulla giostra",
       "thumbnail": "https://images.open-epg.com/19385.png"
     },
     {
-      "title": "Sky Cinema Due.it - 16:50 Forrest Gump",
+      "title": "Sky Cinema Due.it - 21:20 Piccole donne",
       "link": "ignoreme",
-      "info": "In onda: 16:50 - 19:15\n\n6 Oscar a una commedia cult degli anni 90, con Tom Hanks per la regia di Robert Zemeckis. Le incredibili vicende di un uomo ingenuo ma ottimista sullo sfondo di 30 anni di storia americana (USA 1994)\n\nA seguire (19:15): Revolutionary Road",
+      "info": "In onda: 21:20 - 23:40\n\nRilettura di un classico diretto da Greta Gerwig con Saoirse Ronan, Emma Watson, Laura Dern e Meryl Streep. La storia delle sorelle March nellAmerica della Guerra Civile. Oscar ai costumi (USA 2019)\n\nA seguire (23:40): Scarface",
       "thumbnail": "https://images.open-epg.com/19387.png"
     },
     {
-      "title": "Sky Cinema Suspense.it - 16:55 Out of Sight",
+      "title": "Sky Cinema Family.it - 20:50 Ritorno al futuro - Parte II",
       "link": "ignoreme",
-      "info": "In onda: 16:55 - 19:00\n\nGeorge Clooney e Jennifer Lopez in un thriller di Steven Soderbergh, tratto da un romanzo di Elmore Leonard. Un rapinatore gentiluomo evade dal carcere e prende in ostaggio una poliziotta (USA 1998)\n\nA seguire (19:00): The Hurt Locker",
+      "info": "In onda: 20:50 - 22:40\n\nSecondo capitolo della trilogia di Robert Zemeckis con Michael J. Fox e Christopher Lloyd. Marty e Doc volano nel 2015, innescando una serie di eventi che cambieranno anche il passato (USA 1989)\n\nA seguire (22:40): 10 giorni con Babbo Natale",
+      "thumbnail": "https://images.open-epg.com/19388.png"
+    },
+    {
+      "title": "Sky Cinema Romance.it - 19:00 Il dottor Zivago",
+      "link": "ignoreme",
+      "info": "In onda: 19:00 - 22:15\n\n5 Oscar alla storia damore fra Omar Sharif e Julie Christie, dal romanzo di Pasternak. Sullo sfondo della Rivoluzione russa, un medico si innamora perdutamente di uninfermiera (USA 1965)\n\nA seguire (22:15): Una sirena a Parigi",
+      "thumbnail": "https://images.open-epg.com/19389.png"
+    },
+    {
+      "title": "Sky Cinema Suspense.it - 21:15 Run",
+      "link": "ignoreme",
+      "info": "In onda: 21:15 - 22:50\n\nThriller psicologico con Sarah Paulson e Keira Allen. Costretta su una sedia a rotelle, la giovane Chloe scopre che le amorevoli cure di sua madre nascondono una verita inaspettata (USA 2020)\n\nA seguire (22:50): I falchi della notte",
       "thumbnail": "https://images.open-epg.com/19390.png"
     },
     {
-      "title": "Sky Cinema Uno +24.it - 17:35 The Old Way",
+      "title": "Sky Cinema Uno +24.it - 21:10 Amiche da morire",
       "link": "ignoreme",
-      "info": "In onda: 17:35 - 19:15\n\nLa tranquillita di un ex pistolero viene sconvolta dallomicidio della moglie. In preda alla sete di vendetta, inizia una furiosa caccia agli assassini che coinvolgera anche sua figlia, decisa a seguire le orme del padre (US 2023)\n\nA seguire (19:15): Vita Privata",
+      "info": "In onda: 21:10 - 22:55\n\nClaudia Gerini, Cristiana Capotondi e Sabrina Impacciatore in una commedia al femminile. In unisola del Sud, tre donne, coinvolte in un omicidio, attirano i sospetti del commissario (ITA 2013)\n\nA seguire (22:55): Se son rose",
       "thumbnail": "https://images.open-epg.com/19391.png"
     },
     {
-      "title": "Sky Sport Calcio.it - 18:30 Premier League Remix",
+      "title": "Sky Cinema Uno.it - 21:20 Black Site - La tana del lupo",
       "link": "ignoreme",
-      "info": "In onda: 18:30 - 19:00\n\nLa Premier League regala sempre spettacolo e sorprese. Riviviamo tutti i gol e le principali azioni del turno di gioco.\n\nA seguire (19:00): Atletico Madrid - FC Barcellona",
+      "info": "In onda: 21:20 - 22:55\n\nAdrenalinico action con Michelle Monaghan, Jason Clarke e Jai Courtney. Un pericoloso detenuto tiene in scacco le vite di un gruppo di ufficiali in un bunker top secret (USA 2022)\n\nA seguire (22:55): La casa sul lago del tempo",
+      "thumbnail": "https://images.open-epg.com/19392.png"
+    },
+    {
+      "title": "Sky Classica.it - 21:00 Brahms - Un requiem tedesco op.45",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 22:30\n\nComposizione sacra in sette movimenti (1868) per soli, coro e orchestra - con Valentina Farcas, Matthias Goerne - State Choir Latvija - Deutsche Kammerphilharmonie Bremen - Paavo Jaervi, dir. (Brema, 2018)\n\nA seguire (22:30): Almanacco di Bellezza",
+      "thumbnail": "https://images.open-epg.com/4100139.png"
+    },
+    {
+      "title": "Sky Crime.it - 20:55 GURU - La storia di Matteo Cambi",
+      "link": "ignoreme",
+      "info": "In onda: 20:55 - 21:55\n\nS1 Ep2 Parte 2 - Lascesa e la caduta dellimprenditore Matteo Cambi che, nei primi anni Duemila, trasformo unintuizione in un brand iconico, simbolo di unepoca di eccessi e ambizione.\n\nA seguire (21:55): Fantasma - Il caso Unabomber",
+      "thumbnail": "https://images.open-epg.com/19394.png"
+    },
+    {
+      "title": "Sky Documentaries +1.it - 21:15 I Persiani - La storia dellIran",
+      "link": "ignoreme",
+      "info": "In onda: 21:15 - 22:10\n\nSamira si dirige verso le rovine di unantica citta fortificata e racconta di Genghis Khan, portatore di distruzione, ma anche di prosperita per larte persiana.\n\nA seguire (22:10): Pompei and Tutankhamon - A caccia di...",
+      "thumbnail": "https://images.open-epg.com/nologo.png"
+    },
+    {
+      "title": "Sky Documentaries.it - 21:10 Pompei and Tutankhamon - A caccia di...",
+      "link": "ignoreme",
+      "info": "In onda: 21:10 - 22:05\n\n... misteri. S1 Ep1 I segreti di Tutankhamon - Scavando tra i segreti di Tutankhamon emergono storie oscure di intrighi reali e risposte sfuggite agli egittologi per decenni.\n\nA seguire (22:05): Pompei and Tutankhamon - A caccia di...",
+      "thumbnail": "https://images.open-epg.com/19396.png"
+    },
+    {
+      "title": "Sky Investigation.it - 21:40 Law and Order: Special Victims Unit",
+      "link": "ignoreme",
+      "info": "In onda: 21:40 - 22:30\n\nS27 Ep7 Falsi idoli - LUnita Speciale deve distinguere la realta dalla fantasia quando un famoso autore distorce i dettagli di un grave crimine. Fin, nel frattempo, ha una giornata difficile al lavoro.\n\nA seguire (22:30): Law and Order - I due volti della...",
+      "thumbnail": "https://images.open-epg.com/19398.png"
+    },
+    {
+      "title": "Sky Nature.it - 21:10 Isole selvagge",
+      "link": "ignoreme",
+      "info": "In onda: 21:10 - 22:05\n\nS1 Ep5 Okavango - Le iene rivendicano lisola piu grande del delta. Elefanti e ippopotami fendono i corsi dacqua creando nuove case per creature piu piccole.\n\nA seguire (22:05): Isole selvagge",
+      "thumbnail": "https://images.open-epg.com/19393.png"
+    },
+    {
+      "title": "Sky News.it - 21:30 The Wrap With Anna Botting",
+      "link": "ignoreme",
+      "info": "In onda: 21:30 - 22:00\n\nDebate, analysis and insight on the biggest news stories of the day from the UK and around the world.\n\nA seguire (22:00): The Wrap With Anna Botting",
+      "thumbnail": "https://images.open-epg.com/19400.png"
+    },
+    {
+      "title": "Sky Serie.it - 21:00 Fire Country",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 21:45\n\nS3 Ep9 Fuoco e verita - Con lincendio della Chezem Valley fuori controllo, Bode e Audrey cercano di salvarsi, Manny rischia la liberta per la figlia scomparsa, mentre Eve tenta di proteggere il padre.\n\nA seguire (21:45): Fire Country",
+      "thumbnail": "https://images.open-epg.com/19402.png"
+    },
+    {
+      "title": "Sky Sport 4K.it - 21:00 Champions League Show - Ep. 27 - Champions League Show 14/04/2026",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 22:00\n\n... 14/04/2026 Champions League Show. - Il riepilogo delle partite di Champions League con interviste ai protagonisti della giornata.\n\nA seguire (22:00): Champions League Show - After Party - Ep. 27 - Champions League Show - After Party 14/04/2026",
+      "thumbnail": "https://images.open-epg.com/19403.png"
+    },
+    {
+      "title": "Sky Sport Calcio.it - 21:30 Premier League Remix",
+      "link": "ignoreme",
+      "info": "In onda: 21:30 - 22:00\n\nLa Premier League regala sempre spettacolo e sorprese. Riviviamo tutti i gol e le principali azioni del turno di gioco.\n\nA seguire (22:00): Liverpool - Paris Saint-Germain",
       "thumbnail": "https://images.open-epg.com/19405.png"
     },
     {
-      "title": "Sky Sport Golf.it - 17:00 Hero Indian Open: Giorno 4",
+      "title": "Sky Sport F1.it - 21:00 GP Cina: Gara",
       "link": "ignoreme",
-      "info": "In onda: 17:00 - 20:00\n\nDal DLF Golf and Country Club di Nuova Delhi, India.\n\nA seguire (20:00): Giorno 4",
+      "info": "In onda: 21:00 - 22:00\n\nSeconda gara della stagione: dopo la doppietta Mercedes a Melbourne chi trionfera a Shanghai? Telecronaca di Carlo Vanzini, Marc Gene e Roberto Chinchero.\n\nA seguire (22:00): Good Ranchers 250",
+      "thumbnail": "https://images.open-epg.com/19406.png"
+    },
+    {
+      "title": "Sky Sport Golf.it - 20:00 Giorno 4",
+      "link": "ignoreme",
+      "info": "In onda: 20:00 - 23:00\n\nDallAugusta National Golf Club di Augusta, Stati Uniti.\n\nA seguire (23:00): 3a giornata",
       "thumbnail": "https://images.open-epg.com/19407.png"
     },
     {
-      "title": "Sky Sport Max.it - 18:15 Ep.4",
+      "title": "Sky Sport Max.it - 21:00 Rio de Janeiro: Day 2",
       "link": "ignoreme",
-      "info": "In onda: 18:15 - 19:00\n\nGuarda le interviste e ottieni lanalisi degli esperti del mondo del tennis.\n\nA seguire (19:00): Croazia: Stage 4",
+      "info": "In onda: 21:00 - 22:30\n\nLe gare del SailGP.\n\nA seguire (22:30): I Testa A Testa Da Titolo",
       "thumbnail": "https://images.open-epg.com/19408.png"
     },
     {
-      "title": "Sky Sport Tennis.it - 09:00 Tennis AtpandWta - Ep. 59 - Tennis AtpandWta 2026 14/04/2026",
+      "title": "Sky Sport MotoGP.it - 21:00 Portogallo: Gara 2",
       "link": "ignoreme",
-      "info": "In onda: 09:00 - 20:30\n\n... 14/04/2026 Tennis: ATP and WTA. - ... Tennis: ATP and WTA. - ... 14/04/2026 Tennis AtpandWta. - Tennis AtpandWta\n\nA seguire (20:30): Ep.4",
+      "info": "In onda: 21:00 - 22:00\n\nSecondo Round della stagione 2026. Da Portimao, in Portogallo, gara 2 della World Superbike. Telecronaca Vercellesi - Temporali\n\nA seguire (22:00): GP Brasile: Gara",
+      "thumbnail": "https://images.open-epg.com/19409.png"
+    },
+    {
+      "title": "Sky Sport Tennis.it - 21:15 Tennis Monte-Carlo The Insider 2026 Ep.5 12/04/2026",
+      "link": "ignoreme",
+      "info": "In onda: 21:15 - 21:45\n\n... Ep.5 12/04/2026 Tennis: The Insider Monte-Carlo. - Immagini e interviste esclusive per raccontare ledizione 2026 dal Masters 1000 di Monte-Carlo, con Stefano Meloccaro ed i talent di Sky Sport Tennis\n\nA seguire (21:45): Tennis AtpandWta - Ep. 59 - Tennis AtpandWta 2026 14/04/2026",
       "thumbnail": "https://images.open-epg.com/19404.png"
     },
     {
-      "title": "Sky Sport Uno.it - 18:00 Champions League Show - Ep. 27 - Champions League Show 14/04/2026",
+      "title": "Sky Sport Uno.it - 21:00 Champions League Show - Ep. 27 - Champions League Show 14/04/2026",
       "link": "ignoreme",
-      "info": "In onda: 18:00 - 19:00\n\n... 14/04/2026 Champions League Show. - Il riepilogo delle partite di Champions League con interviste ai protagonisti della giornata.\n\nA seguire (19:00): 14/04/2026",
+      "info": "In onda: 21:00 - 22:00\n\n... 14/04/2026 Champions League Show. - Il riepilogo delle partite di Champions League con interviste ai protagonisti della giornata.\n\nA seguire (22:00): Champions League Show - After Party - Ep. 27 - Champions League Show - After Party 14/04/2026",
       "thumbnail": "https://images.open-epg.com/19410.png"
     },
     {
@@ -87,10 +189,22 @@
       "thumbnail": "https://images.open-epg.com/19382.png"
     },
     {
-      "title": "Sky Uno.it - 17:00 GialappaShow",
+      "title": "Sky TG24.it - 21:30 Skyline",
       "link": "ignoreme",
-      "info": "In onda: 17:00 - 19:15\n\nS7 Ep3 Gialappashow S.7 Ep.03 - Torna lirriverente show della Gialappas Band e del Mago Forest, un appuntamento cult tra comicita surreale, grandi ospiti e commenti esilaranti alle trasmissioni piu amate.\n\nA seguire (19:15): Bruno Barbieri - 4 Hotel",
+      "info": "In onda: 21:30 - 21:53\n\nCon Skyline, dal lunedi al venerdi, vi portiamo dentro tutte le notizie della giornata. Una scansione di quanto successo in Italia e nel mondo, con spazio agli ospiti e alle storie.\n\nA seguire (21:53): Sky Meteo24",
+      "thumbnail": "https://images.open-epg.com/19411.png"
+    },
+    {
+      "title": "Sky Uno.it - 20:30 Bruno Barbieri - 4 Hotel",
+      "link": "ignoreme",
+      "info": "In onda: 20:30 - 21:45\n\nS4 Ep7 Abruzzo: Costa dei Trabocchi - 4 Hotel\n\nA seguire (21:45): Pechino Express",
       "thumbnail": "https://images.open-epg.com/19413.png"
+    },
+    {
+      "title": "ZONA DAZN.it - 21:10 Icone Laura Giuliani",
+      "link": "ignoreme",
+      "info": "In onda: 21:10 - 23:00\n\nIcone Laura Giuliani\n\nA seguire (23:00): Stag. 2019 - DAZN 1",
+      "thumbnail": "https://images.open-epg.com/1700.png"
     },
     {
       "title": "Zona Dazn 2.it - 16:00 Nessun evento in onda",
