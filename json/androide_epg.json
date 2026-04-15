@@ -6,12 +6,12 @@
     {
       "title": "Androide - EPG",
       "link": "ignoreme",
-      "info": "Aggiornato: 15/04/2026 19:01"
+      "info": "Aggiornato: 15/04/2026 21:42"
     },
     {
-      "title": "DAZN 1.it - 15:19 Sassuolo - Fiorentina",
+      "title": "DAZN 1.it - 20:46 Parma - Napoli",
       "link": "ignoreme",
-      "info": "In onda: 15:19 - 20:46\n\nSerie A - 14a g. Ambizione, tattica e personalita: la stagione riparte con gli allenatori protagonisti, tra ritorni, rivoluzioni e conferme.\n\nA seguire (20:46): Parma - Napoli",
+      "info": "In onda: 20:46 - 22:32\n\nSerie A - 32a g. Ambizione, tattica e personalita: la stagione riparte con gli allenatori protagonisti, tra ritorni, rivoluzioni e conferme.\n\nA seguire (22:32): Serie A 2025/26 Matchday Highlights 2025 30a g.",
       "thumbnail": "https://images.open-epg.com/19310.png"
     },
     {
@@ -21,135 +21,201 @@
       "thumbnail": "https://images.open-epg.com/19311.png"
     },
     {
-      "title": "Sky Cinema Action.it - 19:00 Le belve",
+      "title": "Sky Arte.it - 21:00 Sound gigante - Storia alternativa...",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 21:15\n\nBlake Lively, Aaron Johnson e Taylor Kitsch in un thriller di Oliver Stone. Due giovani coltivatori di marijuana entrano in conflitto con i crudeli narcotrafficanti messicani (USA 2012)\n\nA seguire (21:15): Mortal Kombat",
+      "info": "In onda: 21:00 - 21:50\n\n... della musica italiana. S1 Ep4 Edonismo e anarchia - Fine anni 70, a sancire il crollo dellutopia e la nascita dellindividualismo la disco music da un lato, il punk dallaltro.\n\nA seguire (21:50): Kissing Gorbaciov",
+      "thumbnail": "https://images.open-epg.com/19379.png"
+    },
+    {
+      "title": "Sky Atlantic.it - 21:05 Breaking Bad",
+      "link": "ignoreme",
+      "info": "In onda: 21:05 - 22:05\n\nS3 Ep7 Un minuto - Hank viene fatto credere che sua moglie ha avuto un incidente e Jesse ne paga le conseguenze. Il nuovo assistente di laboratorio intanto rovina tutto.\n\nA seguire (22:05): Breaking Bad",
+      "thumbnail": "https://images.open-epg.com/19381.png"
+    },
+    {
+      "title": "Sky Cinema Action.it - 21:15 Mortal Kombat",
+      "link": "ignoreme",
+      "info": "In onda: 21:15 - 23:10\n\nLa nuova esplosiva avventura ispirata alla celebre saga di videogame. I piu grandi campioni della Terra sfidano i nemici dellOutworld in una battaglia per il destino dellUniverso (USA/AUS 2021)\n\nA seguire (23:10): Contraband",
       "thumbnail": "https://images.open-epg.com/19383.png"
     },
     {
-      "title": "Sky Cinema Comedy.it - 19:00 Senza arte ne parte",
+      "title": "Sky Cinema Comedy.it - 20:30 Beetlejuice Beetlejuice",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 20:35\n\nVincenzo Salemme e Giuseppe Battiston in una commedia sullarte di arrangiarsi. Rimasti disoccupati, tre operai accettano di fare da custodi a una collezione di opere darte... (ITA 2011)\n\nA seguire (20:35): Beetlejuice Beetlejuice",
+      "info": "In onda: 20:30 - 22:20\n\nDopo piu di 30 anni Tim Burton riporta al cinema lincontenibile spiritello interpretato da Michael Keaton, affiancato da un cast strepitoso in un secondo capitolo di successo (USA 2024)\n\nA seguire (22:20): Ammore e malavita",
       "thumbnail": "https://images.open-epg.com/19384.png"
     },
     {
-      "title": "Sky Cinema Drama.it - 19:00 18 regali",
+      "title": "Sky Cinema Drama.it - 20:55 Lordine del tempo",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 21:00\n\nIspirato a una storia vera, Francesco Amato dirige Vittoria Puccini, Benedetta Porcaroli ed Edoardo Leo. Una donna incinta reagisce a un destino crudele con unidea speciale per sua figlia (ITA 2020)\n\nA seguire (21:00): Lordine del tempo",
+      "info": "In onda: 20:55 - 22:50\n\nEdoardo Leo, Claudia Gerini e un grande cast italiano in un film di Liliana Cavani. Alcuni amici si trovano in una villa sul mare quando scoprono che un asteroide potrebbe colpire la Terra (ITA 2023)\n\nA seguire (22:50): Gran Torino",
       "thumbnail": "https://images.open-epg.com/19385.png"
     },
     {
-      "title": "Sky Cinema Family.it - 19:00 Z La formica",
+      "title": "Sky Cinema Due.it - 20:45 Notre-Dame in fiamme",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 20:30\n\nSpettacolari avventure in un gioiello danimazione della Dreamworks. Per fare colpo sulla Principessa Bala, Z si finge formica-soldato e si trova coinvolto nella guerra contro le termiti (USA 1998)\n\nA seguire (20:30): Ritorno al futuro - Parte III",
+      "info": "In onda: 20:45 - 22:40\n\nLa pellicola Sky Original di Jean-Jacques Annaud sullincendio che colpi la cattedrale parigina nel 2019 e su coloro che sfidarono le fiamme per mettere in salvo tesori inestimabili (FRA 2022)\n\nA seguire (22:40): Duel",
+      "thumbnail": "https://images.open-epg.com/19387.png"
+    },
+    {
+      "title": "Sky Cinema Family.it - 20:25 Ritorno al futuro - Parte III",
+      "link": "ignoreme",
+      "info": "In onda: 20:25 - 22:20\n\nSi chiude nel Far West la trilogia cult con Michael J. Fox per la regia di Robert Zemeckis. Marty viaggia indietro nel tempo fino al 1885 per salvare la vita dellamico Doc Brown (USA 1990)\n\nA seguire (22:20): E.T. Lextra-terrestre",
       "thumbnail": "https://images.open-epg.com/19388.png"
     },
     {
-      "title": "Sky Cinema Romance.it - 19:00 Innamorarsi",
+      "title": "Sky Cinema Romance.it - 20:50 Il diavolo veste Prada",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 20:50\n\nUna storia romantica con Robert De Niro e Meryl Streep. Un uomo e una donna si incontrano ogni giorno sul treno e si innamorano. Entrambi sposati, lottano contro i sensi di colpa (USA 1984)\n\nA seguire (20:50): Il diavolo veste Prada",
+      "info": "In onda: 20:50 - 22:45\n\nMeryl Streep e Anne Hathaway in una commedia cult. Una giornalista viene assunta da una prestigiosa rivista di moda, ma la dispotica direttrice le rendera la vita impossibile (USA 2006)\n\nA seguire (22:45): Ex - Amici come prima!",
       "thumbnail": "https://images.open-epg.com/19389.png"
     },
     {
-      "title": "Sky Cinema Suspense.it - 19:00 Possession - Lappartamento del diavolo",
+      "title": "Sky Cinema Suspense.it - 20:50 Humane",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 20:50\n\nHorror ispirato a una storia vera. 1976: giunta a Madrid in cerca di un futuro migliore, la famiglia Olmedo prende possesso di una casa infestata da spaventose presenze soprannaturali (ESP 2020)\n\nA seguire (20:50): Humane",
+      "info": "In onda: 20:50 - 22:30\n\nIl primo film della figlia darte Caitlin Cronenberg e una satira distopica con Jay Baruchel. La Terra e sullorlo del collasso quando una cena di famiglia finisce nel caos (CAN 2024)\n\nA seguire (22:30): Indiana Jones - Speciale - Ep. 304 - Indiana Jones - Speciale",
       "thumbnail": "https://images.open-epg.com/19390.png"
     },
     {
-      "title": "Sky News.it - 19:00 UK Tonight With Sarah-Jane Mee",
+      "title": "Sky Cinema Uno +24.it - 21:20 Black Site - La tana del lupo",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 19:30\n\nSarah-Jane Mee has all the latest news from across the UK.\n\nA seguire (19:30): UK Tonight With Sarah-Jane Mee",
+      "info": "In onda: 21:20 - 22:55\n\nAdrenalinico action con Michelle Monaghan, Jason Clarke e Jai Courtney. Un pericoloso detenuto tiene in scacco le vite di un gruppo di ufficiali in un bunker top secret (USA 2022)\n\nA seguire (22:55): La casa sul lago del tempo",
+      "thumbnail": "https://images.open-epg.com/19391.png"
+    },
+    {
+      "title": "Sky Cinema Uno.it - 21:25 La Riunione Di Condominio",
+      "link": "ignoreme",
+      "info": "In onda: 21:25 - 23:00\n\nIn un edificio nel centro di Madrid, una normale assemblea tra vicini per decidere della sostituzione dellascensore si trasforma in una guerra. Tutto perche si viene a sapere che un nuovo inquilino con problemi di mentali affittera un appartamento (ES 2025)\n\nA seguire (23:00): Godzilla e Kong - Il nuovo impero",
+      "thumbnail": "https://images.open-epg.com/19392.png"
+    },
+    {
+      "title": "Sky Classica.it - 21:25 Sei solo a violino di Bach - 2",
+      "link": "ignoreme",
+      "info": "In onda: 21:25 - 21:50\n\nSonata n.2 in la minore per violino (1720), seconda delle sei sonate e partite per violino solo senza accompagnamento di Johann Sebastian Bach (BWV 1001-1006) - Thomas Zehetmair, violino (Festival di Salisburgo, 2021)\n\nA seguire (21:50): Generali 190: Persone e Storie - 1989",
+      "thumbnail": "https://images.open-epg.com/4100139.png"
+    },
+    {
+      "title": "Sky Crime.it - 20:55 Homicide Squad: New Orleans",
+      "link": "ignoreme",
+      "info": "In onda: 20:55 - 21:45\n\nS2 Ep4 Ricerca nelle paludi - Due casi paralleli impegnano la squadra: lomicidio di un uomo dopo una lite e luccisione di una giovane madre, seguita dal rapimento della figlia.\n\nA seguire (21:45): Hells Angels - Gli angeli...",
+      "thumbnail": "https://images.open-epg.com/19394.png"
+    },
+    {
+      "title": "Sky Documentaries +1.it - 21:05 The Americas",
+      "link": "ignoreme",
+      "info": "In onda: 21:05 - 21:55\n\nS1 Ep4 LAmazzonia - La piu grande foresta pluviale del pianeta: qui gli alberi ospitano scimmie e aquile, le acque lontre giganti, cuccioli di tartaruga e caimani.\n\nA seguire (21:55): One Strange Rock: Pianeta Terra Ep.03",
+      "thumbnail": "https://images.open-epg.com/nologo.png"
+    },
+    {
+      "title": "Sky Documentaries.it - 20:55 One Strange Rock: Pianeta Terra Ep.03",
+      "link": "ignoreme",
+      "info": "In onda: 20:55 - 21:50\n\nS1 Ep3 One Strange Rock: Pianeta Terra Ep.03 - One Strange Rock: Pianeta Terra\n\nA seguire (21:50): One Strange Rock: Pianeta Terra Ep.04",
+      "thumbnail": "https://images.open-epg.com/19396.png"
+    },
+    {
+      "title": "Sky Investigation.it - 21:10 The Equalizer",
+      "link": "ignoreme",
+      "info": "In onda: 21:10 - 21:55\n\nS3 Ep15 Senza scampo - Zia Vi chiede aiuto a McCall e alla sua squadra: si e resa conto che la sua massaggiatrice e vittima di abusi domestici, e vuole aiutarla.\n\nA seguire (21:55): The Equalizer",
+      "thumbnail": "https://images.open-epg.com/19398.png"
+    },
+    {
+      "title": "Sky Nature.it - 21:00 Predatori letali dAustralia",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 21:55\n\nS1 Ep1 Foreste - Le vite segrete delle creature piu note e letali dAustralia. Gli intricati rami delle foreste australiane ospitano predatori letali.\n\nA seguire (21:55): Predatori letali dAustralia",
+      "thumbnail": "https://images.open-epg.com/19393.png"
+    },
+    {
+      "title": "Sky News.it - 21:30 The Wrap With Anna Botting",
+      "link": "ignoreme",
+      "info": "In onda: 21:30 - 22:00\n\nDebate, analysis and insight on the biggest news stories of the day from the UK and around the world.\n\nA seguire (22:00): The Wrap With Anna Botting",
       "thumbnail": "https://images.open-epg.com/19400.png"
     },
     {
-      "title": "Sky Serie.it - 18:50 Friends",
+      "title": "Sky Serie.it - 20:55 Fire Country",
       "link": "ignoreme",
-      "info": "In onda: 18:50 - 19:15\n\nS3 Ep9 La coppa Geller - I ragazzi organizzano una partita di football. In palio ce la Coppa Geller, che Monica e Ross si giocavano da ragazzi. Ma nessuno vuole Rachel in squadra.\n\nA seguire (19:15): Fire Country",
+      "info": "In onda: 20:55 - 21:45\n\nS3 Ep11 Indietro nel tempo - La squadra risponde a una chiamata dalla fiera rinascimentale locale dopo che un giocoliere ha perso lequilibrio dando fuoco a un tendone pieno di fuochi dartificio.\n\nA seguire (21:45): Fire Country",
       "thumbnail": "https://images.open-epg.com/19402.png"
     },
     {
-      "title": "Sky Sport 4K.it - 19:00 Calcio Uefa Champions League - Ep. 176 - Calcio Ucl Quarti Di Finale (Ritorno) Arsenal/ Sporting Cp 15/04/2026",
+      "title": "Sky Sport 4K.it - 21:00 Champions League Show - Ep. 28 - Champions League Show 15/04/2026",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 21:00\n\n... UEFA Champions League. - Gunners per la seconda semifinale consecutiva. Sporting per la prima storica semifinale di Champions. Sconfitto 1-0 allandata. TC: Marianella-Marchegiani\n\nA seguire (21:00): Champions League Show - Ep. 28 - Champions League Show 15/04/2026",
+      "info": "In onda: 21:00 - 22:00\n\n... 15/04/2026 Champions League Show. - Il riepilogo delle partite di Champions League con interviste ai protagonisti della giornata.\n\nA seguire (22:00): Champions League Show - After Party 15/04/2026",
       "thumbnail": "https://images.open-epg.com/19403.png"
     },
     {
-      "title": "Sky Sport Calcio.it - 19:00 Calcio Uefa Champions League - Ep. 176 - Calcio Ucl Quarti Di Finale (Ritorno) Arsenal/ Sporting Cp 15/04/2026",
+      "title": "Sky Sport Calcio.it - 21:00 Ep.17",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 21:00\n\n... UEFA Champions League. - Gunners per la seconda semifinale consecutiva. Sporting per la prima storica semifinale di Champions. Sconfitto 1-0 allandata. TC: Marianella-Marchegiani\n\nA seguire (21:00): Ep.17",
+      "info": "In onda: 21:00 - 22:00\n\n... League Magazine. - Notizie, interviste e analisi delle squadre di Europa League e Conference League.\n\nA seguire (22:00): Atletico Madrid - FC Barcellona",
       "thumbnail": "https://images.open-epg.com/19405.png"
     },
     {
-      "title": "Sky Sport F1.it - 19:00 GP Australia: Gara",
+      "title": "Sky Sport F1.it - 21:30 Attacco Mondiale",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 20:00\n\nLattesa e finita: scopriamo la nuova F1 con le monoposto rivoluzionarie del 2026 impegnate nella prima gara dellanno. Telecronaca di Carlo Vanzini, Marc Gene e Roberto Chinchero.\n\nA seguire (20:00): Motori Formula 2 - Ep. 4 - Motori Formula 2 2026 [F2 Gp Australia F.Race 26] 08/03/2026",
+      "info": "In onda: 21:30 - 22:00\n\nAttacco Mondiale\n\nA seguire (22:00): Arlington: Gara",
       "thumbnail": "https://images.open-epg.com/19406.png"
     },
     {
-      "title": "Sky Sport Golf.it - 17:30 Giorno 4",
+      "title": "Sky Sport Golf.it - 20:20 5a giornata",
       "link": "ignoreme",
-      "info": "In onda: 17:30 - 20:30\n\nDallAugusta National Golf Club di Augusta, Stati Uniti.\n\nA seguire (20:30): 5a giornata",
+      "info": "In onda: 20:20 - 22:30\n\nLe partite della TGL Golf League.\n\nA seguire (22:30): PGTI Open",
       "thumbnail": "https://images.open-epg.com/19407.png"
     },
     {
-      "title": "Sky Sport Max.it - 17:15 Baseball Mlb - Ep. 9 - Baseball Mlb 2026 St Louis/ Cleveland 15/04/2026",
+      "title": "Sky Sport Max.it - 21:30 SVG Luneburg - Gas Sales Bluenergy Piacenza",
       "link": "ignoreme",
-      "info": "In onda: 17:15 - 20:45\n\n... Cleveland Guardians Baseball Mlb. - From Busch Stadium in St. Louis, Mi.\n\nA seguire (20:45): I Testa A Testa Da Titolo",
+      "info": "In onda: 21:30 - 23:00\n\n... Champions League M. - ... Piacenza. - - ... Svg Luneburg/ Piacenza 15/04/2026 Volley Coppa Cev. - Volley Coppa Cev\n\nA seguire (23:00): Laureus Spirit Of Sport - Ep. 15 - Laureus Spirit Of Sport Ep.15 30/03/2026",
       "thumbnail": "https://images.open-epg.com/19408.png"
     },
     {
-      "title": "Sky Sport MotoGP.it - 19:00 GP Stati Uniti: Sprint Race",
+      "title": "Sky Sport MotoGP.it - 21:00 GP Thailandia: Gara",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 19:45\n\nTerzo appuntamento del mondiale 2026: a Austin, in Texas, si accendono i motori per la Sprint della MotoGP. Telecronaca Meda - Sanchini\n\nA seguire (19:45): GP Stati Uniti: Gara",
+      "info": "In onda: 21:00 - 22:00\n\nPrimo appuntamento del mondiale 2026: a Buriram, in Thailandia, si accendono i motori per la gara della MotoGP. Telecronaca Meda - Sanchini\n\nA seguire (22:00): GP Stati Uniti: Gara",
       "thumbnail": "https://images.open-epg.com/19409.png"
     },
     {
-      "title": "Sky Sport Tennis.it - 09:00 Tennis AtpandWta - Ep. 60 - Tennis AtpandWta 2026 15/04/2026",
+      "title": "Sky Sport Tennis.it - 21:00 Ep.4",
       "link": "ignoreme",
-      "info": "In onda: 09:00 - 20:30\n\n... 15/04/2026 Tennis: ATP and WTA. - ... 15/04/2026 Tennis AtpandWta. - Tennis AtpandWta\n\nA seguire (20:30): Tennis Monte-Carlo The Insider 2026 Ep.5 12/04/2026",
+      "info": "In onda: 21:00 - 21:45\n\nGuarda le interviste e ottieni lanalisi degli esperti del mondo del tennis.\n\nA seguire (21:45): 15/04/2026",
       "thumbnail": "https://images.open-epg.com/19404.png"
     },
     {
-      "title": "Sky Sport Uno.it - 19:00 Calcio Uefa Champions League - Ep. 176 - Calcio Ucl Quarti Di Finale (Ritorno) Arsenal/ Sporting Cp 15/04/2026",
+      "title": "Sky Sport Uno.it - 21:00 Champions League Show - Ep. 28 - Champions League Show 15/04/2026",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 21:00\n\n... UEFA Champions League. - Gunners per la seconda semifinale consecutiva. Sporting per la prima storica semifinale di Champions. Sconfitto 1-0 allandata. TC: Marianella-Marchegiani\n\nA seguire (21:00): Champions League Show - Ep. 28 - Champions League Show 15/04/2026",
+      "info": "In onda: 21:00 - 22:00\n\n... 15/04/2026 Champions League Show. - Il riepilogo delle partite di Champions League con interviste ai protagonisti della giornata.\n\nA seguire (22:00): Champions League Show - After Party 15/04/2026",
       "thumbnail": "https://images.open-epg.com/19410.png"
     },
     {
-      "title": "Sky Sport.it - 18:00 Calcio Uefa Champions League - Ep. 176 - Calcio Ucl Quarti Di Finale (Ritorno) Arsenal/ Sporting Cp 15/04/2026",
+      "title": "Sky Sport.it - 18:00 Arsenal - Sporting Lisbona",
       "link": "ignoreme",
       "info": "In onda: 18:00 - 23:30\n\nCod. 412097 - UEFA Champions League - Quarti di Finale (Ritorno). Calcio dinizio ore 21:00.\n\nA seguire (18:00): 16/04/2026",
       "thumbnail": "https://images.open-epg.com/19382.png"
     },
     {
-      "title": "Sky TG24.it - 19:00 TG24 mezzora",
+      "title": "Sky TG24.it - 21:30 Skyline",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 19:37\n\nTelegiornale in diretta. I giornali di oggi, lo Sport, il Meteo.\n\nA seguire (19:37): Wow",
+      "info": "In onda: 21:30 - 21:50\n\nCon Skyline, dal lunedi al venerdi, vi portiamo dentro tutte le notizie della giornata. Una scansione di quanto successo in Italia e nel mondo, con spazio agli ospiti e alle storie.\n\nA seguire (21:50): Sky Meteo24",
       "thumbnail": "https://images.open-epg.com/19411.png"
     },
     {
-      "title": "Sky Uno.it - 16:55 Pechino Express",
+      "title": "Sky Uno.it - 20:20 GialappaShow",
       "link": "ignoreme",
-      "info": "In onda: 16:55 - 19:15\n\nI viaggiatori raggiungono il secondo paese della rotta di questanno, la Cina! Ad accoglierli, una nuova inviata, Giulia Salemi.\n\nA seguire (19:15): Foodish",
+      "info": "In onda: 20:20 - 22:50\n\nS7 Ep3 Gialappashow S.7 Ep.03 - Torna lirriverente show della Gialappas Band e del Mago Forest, un appuntamento cult tra comicita surreale, grandi ospiti e commenti esilaranti alle trasmissioni piu amate.\n\nA seguire (22:50): Pechino Express",
       "thumbnail": "https://images.open-epg.com/19413.png"
     },
     {
-      "title": "ZONA DAZN.it - 15:19 Sassuolo - Fiorentina - Stag. 2025 Ep. 14a g. - Sassuolo - Fiorentina",
+      "title": "ZONA DAZN.it - 20:46 Parma - Napoli",
       "link": "ignoreme",
-      "info": "In onda: 15:19 - 20:46\n\nFiorentina - Stag. 2025 Ep. 14a g....\n\nA seguire (20:46): Parma - Napoli",
+      "info": "In onda: 20:46 - 22:32\n\nNapoli - Serie A\n\nA seguire (22:32): Serie A 2025/26 Matchday Highlights 2025 30a g. - Stag. 2025 - 30a g.",
       "thumbnail": "https://images.open-epg.com/1700.png"
     },
     {
-      "title": "Zona Dazn 2.it - 22:00 Nessun evento in onda",
+      "title": "Zona Dazn 2.it - 16:00 Nessun evento in onda",
       "link": "ignoreme",
-      "info": "In onda: 22:00 - 22:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.",
+      "info": "In onda: 16:00 - 22:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (22:00): Nessun evento in onda",
       "thumbnail": "https://images.open-epg.com/7515553.png"
     },
     {
-      "title": "Zona Dazn.it - 23:00 DAZN 1",
+      "title": "Zona Dazn.it - 20:46 Parma - Napoli",
       "link": "ignoreme",
-      "info": "In onda: 23:00 - 23:00\n\nDAZN 1",
+      "info": "In onda: 20:46 - 22:32\n\nSerie A - 32a g. Ambizione, tattica e personalita: la stagione riparte con gli allenatori protagonisti, tra ritorni, rivoluzioni e conferme.\n\nA seguire (22:32): Serie A 2025/26 Matchday Highlights 2025 30a g. - Stag. 2025 - 30a g.",
       "thumbnail": "https://images.open-epg.com/7515557.png"
     }
   ]
