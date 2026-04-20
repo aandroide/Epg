@@ -6,7 +6,7 @@
     {
       "title": "Androide - EPG",
       "link": "ignoreme",
-      "info": "Aggiornato: 20/04/2026 18:52"
+      "info": "Aggiornato: 20/04/2026 21:38"
     },
     {
       "title": "DAZN 1.it - 18:00 Lecce - Fiorentina",
@@ -21,76 +21,178 @@
       "thumbnail": "https://images.open-epg.com/19311.png"
     },
     {
-      "title": "Sky Atlantic.it - 18:15 Gomorra - La serie",
+      "title": "Sky Arte.it - 21:15 Il Caravaggio Perduto",
       "link": "ignoreme",
-      "info": "In onda: 18:15 - 19:15\n\nS1 Ep2 Ti fidi di me? - Pietro vuole scoprire il traditore fra i suoi uomini. Per Genny, figlio del boss, e il momento delliniziazione. Ciro, braccio destro di Pietro, deve aiutarlo. Regia di S. Sollima.\n\nA seguire (19:15): Euphoria 1^TV",
+      "info": "In onda: 21:15 - 22:40\n\nLa storia dellEcce homo, dipinto smarrito in una casa di Madrid e valutato ad un prezzo irrisorio, che ha suscitato interesse globale per la possibilita di essere un Caravaggio.\n\nA seguire (22:40): Art Crimes",
+      "thumbnail": "https://images.open-epg.com/19379.png"
+    },
+    {
+      "title": "Sky Atlantic.it - 21:25 Euphoria",
+      "link": "ignoreme",
+      "info": "In onda: 21:25 - 22:30\n\nUn gruppo di studenti delle scuole superiori alla scoperta della propria identita. I ragazzi esplorano il proprio mondo fatto di droghe, sesso, traumi, social media, amore e amicizia.\n\nA seguire (22:30): Euphoria",
       "thumbnail": "https://images.open-epg.com/19381.png"
     },
     {
-      "title": "Sky Cinema Action.it - 16:35 Hunger Games",
+      "title": "Sky Cinema Action.it - 21:15 Spy Game",
       "link": "ignoreme",
-      "info": "In onda: 16:35 - 19:00\n\nJennifer Lawrence e la coraggiosa protagonista di un visionario action. In una societa distopica, 24 ragazzi si giocano la vita in un reality show (USA 2012)\n\nA seguire (19:00): Need for Speed",
+      "info": "In onda: 21:15 - 23:25\n\nTony Scott dirige Robert Redford e Brad Pitt. Un agente segreto scopre che un collega sta per essere ucciso in Cina. Lindifferenza della CIA lo spinge ad agire da solo per salvarlo (USA/GBR 2001)\n\nA seguire (23:25): Safe House - Nessuno è al sicuro",
       "thumbnail": "https://images.open-epg.com/19383.png"
     },
     {
-      "title": "Sky Cinema Drama.it - 15:40 The Brutalist",
+      "title": "Sky Cinema Comedy.it - 20:45 Come un gatto in tangenziale - Ritorno a Coccia di Morto",
       "link": "ignoreme",
-      "info": "In onda: 15:40 - 19:00\n\nSecondo Oscar per Adrien Brody diretto da Brady Corbet, premiato a Venezia. Un architetto, sopravvissuto ai lager, emigra negli USA. Un mecenate gli affidera unopera monumentale (USA/GBR 2024)\n\nA seguire (19:00): Orlando",
+      "info": "In onda: 20:45 - 22:40\n\n... Ritorno a Coccia di Morto. - Antonio Albanese e Paola Cortellesi nel sequel di Riccardo Milani. Tre anni dopo la fine della loro storia, Monica si rivolge a Giovanni per tirarsi fuori dai guai (ITA 2021)\n\nA seguire (22:40): Game Night - Indovina chi muore stasera?",
+      "thumbnail": "https://images.open-epg.com/19384.png"
+    },
+    {
+      "title": "Sky Cinema Drama.it - 21:10 Julieta",
+      "link": "ignoreme",
+      "info": "In onda: 21:10 - 22:50\n\nIspirandosi a tre racconti di Alice Munro, Pedro Almodovar dipinge un ritratto femminile. Una donna ripercorre il passato per raccontare alla figlia i segreti della propria vita (ESP 2016)\n\nA seguire (22:50): Blue Jasmine",
       "thumbnail": "https://images.open-epg.com/19385.png"
     },
     {
-      "title": "Sky Cinema Uno +24.it - 17:00 Ghost - Fantasma",
+      "title": "Sky Cinema Due.it - 21:20 12 anni schiavo",
       "link": "ignoreme",
-      "info": "In onda: 17:00 - 19:15\n\n2 Oscar alla pellicola senza tempo con Patrick Swayze, Demi Moore e Whoopi Goldberg. Con laiuto di una medium, il fantasma di un uomo assassinato cerca di proteggere la fidanzata (USA 1990)\n\nA seguire (19:15): La camera di consiglio",
+      "info": "In onda: 21:20 - 23:40\n\nSteve McQueen dirige Chiwetel Ejiofor e Michael Fassbender in un biopic premiato con 3 Oscar. Nella Louisiana dell800, un violinista afroamericano viene rapito e ridotto in schiavitu (USA/GBR 2013)\n\nA seguire (23:40): Red Rocket",
+      "thumbnail": "https://images.open-epg.com/19387.png"
+    },
+    {
+      "title": "Sky Cinema Family.it - 20:35 Alla fine ci sei tu",
+      "link": "ignoreme",
+      "info": "In onda: 20:35 - 22:15\n\nAsa Butterfield e Maisie Williams in una storia di crescita. Un ragazzo ipocondriaco affronta le sue peggiori paure quando accetta di esaudire gli ultimi desideri di una coetanea malata (USA 2018)\n\nA seguire (22:15): Indiana Jones - Speciale - Ep. 304 - Indiana Jones - Speciale",
+      "thumbnail": "https://images.open-epg.com/19388.png"
+    },
+    {
+      "title": "Sky Cinema Romance.it - 20:35 Cuori ribelli",
+      "link": "ignoreme",
+      "info": "In onda: 20:35 - 23:00\n\nTom Cruise e Nicole Kidman nel film romantico di Ron Howard. Due giovani irlandesi, Shannon e Joseph, si trasferiscono a Boston in cerca di fortuna affrontando mille peripezie (USA 1992)\n\nA seguire (23:00): Aline - La voce dellamore",
+      "thumbnail": "https://images.open-epg.com/19389.png"
+    },
+    {
+      "title": "Sky Cinema Suspense.it - 20:50 Il giorno sbagliato",
+      "link": "ignoreme",
+      "info": "In onda: 20:50 - 22:25\n\nThriller al cardiopalma con Russell Crowe. Una donna suona il clacson nel traffico con insistenza, scatenando la rabbia di un autista psicopatico che inizia a perseguitarla (USA 2020)\n\nA seguire (22:25): Limmortale",
+      "thumbnail": "https://images.open-epg.com/19390.png"
+    },
+    {
+      "title": "Sky Cinema Uno +24.it - 21:00 Robin Hood principe dei ladri",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 23:25\n\nKevin Costner, Alan Rickman e Morgan Freeman nellavventuroso cult anni 90. Robin Hood addestra un gruppo di ribelli per sconfiggere la tirannia dello sceriffo di Nottingham (USA 1991)\n\nA seguire (23:25): Poveri Noi",
       "thumbnail": "https://images.open-epg.com/19391.png"
     },
     {
-      "title": "Sky Classica.it - 18:30 Almanacco di Bellezza",
+      "title": "Sky Cinema Uno.it - 21:15 Fuochi dartificio",
       "link": "ignoreme",
-      "info": "In onda: 18:30 - 19:15\n\nPiero Maranghi, direttore di Sky Classica, passa in rassegna, anniversari e ricorrenze legati la mondo dellarte, della cultura, della storia e dello sport. In studio con lui, il collezionista ed esperto darte Leonardo Piccinini\n\nA seguire (19:15): Mestiere Teatro",
+      "info": "In onda: 21:15 - 22:55\n\nLeonardo Pieraccioni dirige e interpreta una commedia con Massimo Ceccherini e Claudia Gerini. Alle Maldive, Ottone conosce uno psicanalista e lo assilla con domande sullamore (ITA 1997)\n\nA seguire (22:55): La valle dei sorrisi",
+      "thumbnail": "https://images.open-epg.com/19392.png"
+    },
+    {
+      "title": "Sky Classica.it - 21:35 Berg - Wozzeck",
+      "link": "ignoreme",
+      "info": "In onda: 21:35 - 23:20\n\nOpera in tre atti e quindici quadri (1925) su libretto dellautore - con M.Goerne, A.Grigorian, J.Daszak, M.Peter, G.Siegel - Wiener Philharmoniker - V.Jurowski, dir. - W.Kentridge, reg. (Salisburgo, 2017)\n\nA seguire (23:15): Shostakovich - Quintetto op.57",
       "thumbnail": "https://images.open-epg.com/4100139.png"
     },
     {
-      "title": "Sky Investigation.it - 18:15 Delitti in Paradiso",
+      "title": "Sky Crime.it - 20:55 Real Time Crime",
       "link": "ignoreme",
-      "info": "In onda: 18:15 - 19:15\n\nS9 Ep8 Niente e come sembra - Unattrice non vedente e lunica testimone dellomicidio di suo marito. Parker cerca di capire quanta fiducia dare alla sua complicata testimonianza.\n\nA seguire (19:15): NCIS: New Orleans",
+      "info": "In onda: 20:55 - 21:50\n\nS1 Ep1 Senza via di fuga - Durante un normale controllo stradale in New Mexico, la radio di un agente smette improvvisamente di trasmettere, dando il via a una frenetica caccia alluomo ripresa in\n\nA seguire (21:50): Citta in giallo",
+      "thumbnail": "https://images.open-epg.com/19394.png"
+    },
+    {
+      "title": "Sky Documentaries +1.it - 20:15 Papa Francesco - Un uomo di parola",
+      "link": "ignoreme",
+      "info": "In onda: 20:15 - 22:05\n\nPapa Francesco risponde alle domande provenienti dal mondo globalizzato di oggi, esprimendo profonda preoccupazione per i poveri e le disuguaglianze sociali che minano la pace.\n\nA seguire (22:05): Andrea Bocelli: Because I Believe",
+      "thumbnail": "https://images.open-epg.com/nologo.png"
+    },
+    {
+      "title": "Sky Documentaries.it - 21:05 Andrea Bocelli: Because I Believe",
+      "link": "ignoreme",
+      "info": "In onda: 21:05 - 23:00\n\nAndrea Bocelli si racconta dagli inizi al successo globale. Un ritratto intimo tra carriera, famiglia e testimonianze di chi lo conosce davvero.\n\nA seguire (23:00): Echo: Quello che rimane",
+      "thumbnail": "https://images.open-epg.com/19396.png"
+    },
+    {
+      "title": "Sky Investigation.it - 21:30 Le indagini di Sister Boniface",
+      "link": "ignoreme",
+      "info": "In onda: 21:30 - 22:25\n\nS3 Ep7 Un mondo bellissimo - La signora Clam si infiltra sotto copertura quando delle bellissime venditrici porta a porta arrivano a Great Slaughter, portando con loro nuovi look e omicidi.\n\nA seguire (22:25): Law and Order - I due volti della...",
       "thumbnail": "https://images.open-epg.com/19398.png"
     },
     {
-      "title": "Sky Nature.it - 18:15 Patagonia selvaggia",
+      "title": "Sky Nature.it - 20:50 La Costa del Golfo",
       "link": "ignoreme",
-      "info": "In onda: 18:15 - 19:15\n\nS1 Ep3 Vita alla fine del mondo - Una costa di 4.000 miglia: dai pinguini di Capo Horn ai leoni marini del nord. Orche cacciano foche, mentre gli umani raccolgono il mare. Non e per i deboli.\n\nA seguire (19:15): Patagonia - La vita ai confini del mondo",
+      "info": "In onda: 20:50 - 21:40\n\nS1 Ep6 La Costa del Golfo - Le paludi e le zone umide ospitano orsi neri e alligatori. Ma anche lamantini, gufi alla ricerca dellamore e perfino un raro esemplare di ocelot.\n\nA seguire (21:40): Patagonia - La vita ai confini del mondo",
       "thumbnail": "https://images.open-epg.com/19393.png"
     },
     {
-      "title": "Sky Sport Calcio.it - 18:25 Premier League Remix",
+      "title": "Sky News.it - 21:30 The Wrap With Anna Botting",
       "link": "ignoreme",
-      "info": "In onda: 18:25 - 18:55\n\nLa Premier League regala sempre spettacolo e sorprese. Riviviamo tutti i gol e le principali azioni del turno di gioco.\n\nA seguire (18:55): Calcio Premier League - Ep. 336 - Calcio Premier League 33ga Crystal P./ West Ham 20/04/2026",
+      "info": "In onda: 21:30 - 22:00\n\nDebate, analysis and insight on the biggest news stories of the day from the UK and around the world.\n\nA seguire (22:00): The Wrap With Anna Botting",
+      "thumbnail": "https://images.open-epg.com/19400.png"
+    },
+    {
+      "title": "Sky Serie.it - 21:25 Outlander",
+      "link": "ignoreme",
+      "info": "In onda: 21:25 - 22:30\n\nS8 Ep6 Beati i misericordiosi - I Fraser e i MacKenzie si riprendono dalle rispettive battaglie e riflettono sulle mosse successive. Ian e Rachel incontrano una persona che sperano possa aiutarli a trovare Emily.\n\nA seguire (22:30): A casa tutti bene - La serie",
+      "thumbnail": "https://images.open-epg.com/19402.png"
+    },
+    {
+      "title": "Sky Sport 4K.it - 21:00 Calcio Campionato Italiano Serie A - Stag. Calcio Campionato Italiano Serie A 2025/2026 - Calcio Serie A 33ga Inter/ Cagliari 17/04/2026",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 22:50\n\nSerie A - Nerazzurri sempre in vetta nonostante il 2-2 del Tardini. Sardi a +6 sulla terzultima dopo lo 0-0 di Empoli. Non vincono a San Siro da 9 anni, 2 pari e 5 ko. TC: Andrea Marinozzi\n\nA seguire (22:50): GP Australia: Gara",
+      "thumbnail": "https://images.open-epg.com/19403.png"
+    },
+    {
+      "title": "Sky Sport Calcio.it - 21:30 Goleador - Ep. 35 - Goleador Lora Dei Gol 19/04/2026",
+      "link": "ignoreme",
+      "info": "In onda: 21:30 - 22:30\n\nLa trasmissione dedicata ai gol della Serie A, con la\n\nA seguire (22:30): Premier League Remix",
       "thumbnail": "https://images.open-epg.com/19405.png"
     },
     {
-      "title": "Sky Sport Golf.it - 18:45 Joburg Open",
+      "title": "Sky Sport F1.it - 21:00 GP Giappone: Gara",
       "link": "ignoreme",
-      "info": "In onda: 18:45 - 19:00\n\nI momenti salienti del Joburg Open 2026, svoltosi presso lHoughton Golf Club dal 5 al 9 marzo.\n\nA seguire (19:00): Magical Kenya Open: Giorno 4",
+      "info": "In onda: 21:00 - 22:00\n\nTerza gara della stagione sulla mitica pista di Suzuka: la Mercedes ha vinto i primi due GP, la Ferrari non trionfa in Giappone dal 2004. Telecronaca di Carlo Vanzini, Marc Gene e Roberto Chinchero\n\nA seguire (22:00): Melbourne: Feature Race",
+      "thumbnail": "https://images.open-epg.com/19406.png"
+    },
+    {
+      "title": "Sky Sport Golf.it - 19:00 Magical Kenya Open: Giorno 4",
+      "link": "ignoreme",
+      "info": "In onda: 19:00 - 22:00\n\nMagical Kenya Open: Giorno 4 - Tutti i tornei del tour europeo, il DP World Tour.\n\nA seguire (22:00): 4a Giornata",
       "thumbnail": "https://images.open-epg.com/19407.png"
     },
     {
-      "title": "Sky Sport MotoGP.it - 18:45 Americhe",
+      "title": "Sky Sport Max.it - 20:30 Roma - Atalanta",
       "link": "ignoreme",
-      "info": "In onda: 18:45 - 19:00\n\nIl dietro le quinte del team Ducati Lenovo del gran premio degli USA, raccontato attraverso le immagini e le parole dei piloti e dei tecnici del team di Borgo Panigale\n\nA seguire (19:00): Spagna, Jerez 2019. MotoGP - MOTOGP",
+      "info": "In onda: 20:30 - 22:15\n\nSerie A - Giallorossi sesti dopo il 3-0 al Pisa. Atalanta reduce dal ko con la Juve (0-1). -4 dalla Roma.Imbattuta nelle ultime 3 allOlimpico, 2 vittorie e un pari. TC: Gentile-Montolivo\n\nA seguire (22:15): Mondo Bayern, Il Campus Del Futuro",
+      "thumbnail": "https://images.open-epg.com/19408.png"
+    },
+    {
+      "title": "Sky Sport MotoGP.it - 21:00 Olanda: Gara 2",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 22:00\n\nWorldSBK - Terzo Round della stagione 2026. Da Assen, in Olanda, la seconda gara del weekend della World Superbike. Telecronaca Vercellesi - Temporali\n\nA seguire (22:00): Spagna, Jerez 2016. MotoGP - MOTOGP",
       "thumbnail": "https://images.open-epg.com/19409.png"
     },
     {
-      "title": "Sky Sport Tennis.it - 17:00 Tennis Atp 500 - Ep. 94 - Tennis Atp 500 2026 Monaco Di Baviera Finale 19/04/2026",
+      "title": "Sky Sport Tennis.it - 19:40 Finale Singolare",
       "link": "ignoreme",
-      "info": "In onda: 17:00 - 18:55\n\nCobolli - Shelton - ATP 500 Monaco di Baviera\n\nA seguire (19:40): Finale Singolare",
+      "info": "In onda: 19:40 - 22:20\n\n... Tennis: ATP 1000 Monte-Carlo. - Dal Monte-Carlo Country Club di Monte Carlo, Monaco.\n\nA seguire (22:20): Finale",
       "thumbnail": "https://images.open-epg.com/19404.png"
     },
     {
-      "title": "Sky TG24.it - 18:50 Extra Time",
+      "title": "Sky Sport Uno.it - 21:00 Ep.4",
       "link": "ignoreme",
-      "info": "In onda: 18:50 - 19:00\n\nTelegiornale.\n\nA seguire (19:45): TG24 mezzora",
+      "info": "In onda: 21:00 - 21:45\n\nEp.4 - Unanalisi della vittoria di Sinner con lavia Pennetta, Stefano Pescosolido, Renzo Furlan e Caressa\n\nA seguire (21:45): Olanda: Gara 2",
+      "thumbnail": "https://images.open-epg.com/19410.png"
+    },
+    {
+      "title": "Sky TG24.it - 21:30 Skyline",
+      "link": "ignoreme",
+      "info": "In onda: 21:30 - 21:50\n\nCon Skyline, dal lunedi al venerdi, vi portiamo dentro tutte le notizie della giornata. Una scansione di quanto successo in Italia e nel mondo, con spazio agli ospiti e alle storie.\n\nA seguire (21:50): Sky Meteo24",
       "thumbnail": "https://images.open-epg.com/19411.png"
+    },
+    {
+      "title": "Sky Uno.it - 19:30 GialappaShow 1^TV",
+      "link": "ignoreme",
+      "info": "In onda: 19:30 - 22:00\n\nS7 Ep4 Gialappashow S.7 Ep.04 - Torna lirriverente show della Gialappas Band e del Mago Forest, un appuntamento cult tra comicita surreale, grandi ospiti e commenti esilaranti alle trasmissioni piu amate.\n\nA seguire (22:00): GialappaShow",
+      "thumbnail": "https://images.open-epg.com/19413.png"
     },
     {
       "title": "ZONA DAZN.it - 18:00 Lecce - Fiorentina",
@@ -99,15 +201,15 @@
       "thumbnail": "https://images.open-epg.com/1700.png"
     },
     {
-      "title": "Zona Dazn 2.it - 22:00 Nessun evento in onda",
+      "title": "Zona Dazn 2.it - 16:00 Nessun evento in onda",
       "link": "ignoreme",
-      "info": "In onda: 22:00 - 22:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (22:00): Nessun evento in onda",
+      "info": "In onda: 16:00 - 22:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (22:00): Nessun evento in onda",
       "thumbnail": "https://images.open-epg.com/7515553.png"
     },
     {
-      "title": "Zona Dazn.it - 23:00 DAZN 1",
+      "title": "Zona Dazn.it - 18:00 Lecce - Fiorentina",
       "link": "ignoreme",
-      "info": "In onda: 23:00 - 23:00\n\nDAZN 1\n\nA seguire (23:00): DAZN 1",
+      "info": "In onda: 18:00 - 23:00\n\nSerie A - 33a g. Ambizione, tattica e personalita: la stagione riparte con gli allenatori protagonisti, tra ritorni, rivoluzioni e conferme.\n\nA seguire (23:00): DAZN 1",
       "thumbnail": "https://images.open-epg.com/7515557.png"
     }
   ]
