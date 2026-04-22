@@ -6,7 +6,13 @@
     {
       "title": "Androide - EPG",
       "link": "ignoreme",
-      "info": "Aggiornato: 22/04/2026 18:59"
+      "info": "Aggiornato: 22/04/2026 21:42"
+    },
+    {
+      "title": "DAZN 1.it - 21:25 Maurizio Sarri: mi diverto ancora",
+      "link": "ignoreme",
+      "info": "In onda: 21:25 - 21:52\n\nI grandi personaggi della Serie A. In questo episodio Maurizio Sarri racconta il ritorno alla Lazio, le sue passioni, il rapporto con il calcio e il sogno di chiudere la carriera al Flaminio.\n\nA seguire (21:52): Nicolò Zaniolo: Rivincita",
+      "thumbnail": "https://images.open-epg.com/19310.png"
     },
     {
       "title": "DAZN 2.it - 16:00 Nessun evento in onda",
@@ -15,93 +21,201 @@
       "thumbnail": "https://images.open-epg.com/19311.png"
     },
     {
-      "title": "Sky Cinema Action.it - 16:55 The Chronicles of Riddick",
+      "title": "Sky Arte.it - 21:05 Abba: 50 anni di musica",
       "link": "ignoreme",
-      "info": "In onda: 16:55 - 19:00\n\nVin Diesel nel fanta-action sequel di\n\nA seguire (19:00): Sicario",
+      "info": "In onda: 21:05 - 21:55\n\nGli ABBA vincono lEurovision Song Contest nel 74 e conquistano le classifiche europee con Waterloo. La band deve fare i conti con le proteste nel proprio Paese e con le emittenti radiofoniche britanniche.\n\nA seguire (21:55): Abba: 50 anni di musica",
+      "thumbnail": "https://images.open-epg.com/19379.png"
+    },
+    {
+      "title": "Sky Atlantic.it - 21:05 Breaking Bad",
+      "link": "ignoreme",
+      "info": "In onda: 21:05 - 22:00\n\nS3 Ep9 Atmosfere - I conti dellospedale di Hank crescono a dismisura mentre Walt e Gus trovano un accordo grazie al fatto che Jesse cerca nuove opportunita.\n\nA seguire (22:00): Breaking Bad",
+      "thumbnail": "https://images.open-epg.com/19381.png"
+    },
+    {
+      "title": "Sky Cinema Action.it - 21:05 I mercenari 2",
+      "link": "ignoreme",
+      "info": "In onda: 21:05 - 22:50\n\nSylvester Stallone e le migliori star dellaction in un trascinante sequel. La squadra di mercenari al soldo della Cia deve vendicare lomicidio di un collega, ucciso da un terrorista (USA 2012)\n\nA seguire (22:50): Matrix",
       "thumbnail": "https://images.open-epg.com/19383.png"
     },
     {
-      "title": "Sky Cinema Drama.it - 16:55 Tre ciotole",
+      "title": "Sky Cinema Comedy.it - 20:45 Tre uomini e una gamba",
       "link": "ignoreme",
-      "info": "In onda: 16:55 - 19:00\n\nToccante pellicola con Alba Rohrwacher ed Elio Germano, dallomonimo libro di Michela Murgia. Dopo un litigio, Marta e Antonio si lasciano reagendo in modi diversi alla separazione (ITA 2025)\n\nA seguire (19:00): Il padrino della mafia",
+      "info": "In onda: 20:45 - 22:30\n\nRisate on the road nel primo film con il trio comico piu amato dItalia. In viaggio verso la Puglia per il matrimonio di uno di loro, tre colleghi affrontano divertenti imprevisti (ITA 1997)\n\nA seguire (22:30): Brave ragazze",
+      "thumbnail": "https://images.open-epg.com/19384.png"
+    },
+    {
+      "title": "Sky Cinema Drama.it - 21:25 Non odiare",
+      "link": "ignoreme",
+      "info": "In onda: 21:25 - 23:05\n\nAlessandro Gassmann, premiato a Venezia, nellopera prima di Mauro Mancini. Un chirurgo ebreo lascia morire un uomo per una svastica tatuata sul petto, ma viene travolto dai sensi di colpa (ITA/POL 2020)\n\nA seguire (23:05): Lultima tentazione di Cristo",
       "thumbnail": "https://images.open-epg.com/19385.png"
     },
     {
-      "title": "Sky Cinema Due.it - 16:45 Into the Wild - Nelle terre selvagge",
+      "title": "Sky Cinema Due.it - 20:55 Mollys Game",
       "link": "ignoreme",
-      "info": "In onda: 16:45 - 19:15\n\nLe musiche di Eddie Vedder e la regia di Sean Penn per un film che celebra la ricerca della liberta. Un diciottenne lascia agi e vincoli familiari per un intimo viaggio a contatto con la natura (USA 2007)\n\nA seguire (19:15): Il ritratto del Duca",
+      "info": "In onda: 20:55 - 23:20\n\nBiopic di Aaron Sorkin con Jessica Chastain, Idris Elba e Kevin Costner. Dopo un infortunio, la sciatrice olimpionica Molly Bloom cambia vita e diventa la regina del poker clandestino (USA/CAN 2017)\n\nA seguire (23:20): Eden",
       "thumbnail": "https://images.open-epg.com/19387.png"
     },
     {
-      "title": "Sky Cinema Uno.it - 17:10 Lee Miller",
+      "title": "Sky Cinema Family.it - 20:35 Trash",
       "link": "ignoreme",
-      "info": "In onda: 17:10 - 19:15\n\nKate Winslet nellintenso ritratto della fotoreporter dallanimo inquieto: dal mondo degli artisti nella Parigi degli anni 20 al fronte per documentare la brutalita della guerra (GBR 2023)\n\nA seguire (19:15): Un piccolo favore",
+      "info": "In onda: 20:35 - 22:05\n\nAnimazione ecologista, opera prima di Luca Della Grotta e Francesco Dafano. Una banda di simpatici rifiuti parte alla ricerca della Piramide magica, il luogo dove potranno essere riciclati (ITA 2020)\n\nA seguire (22:05): Willy Wonka e la fabbrica di cioccolato",
+      "thumbnail": "https://images.open-epg.com/19388.png"
+    },
+    {
+      "title": "Sky Cinema Romance.it - 19:00 Vi presento Joe Black",
+      "link": "ignoreme",
+      "info": "In onda: 19:00 - 22:00\n\nAnthony Hopkins e Brad Pitt in una suggestiva pellicola sullamore e la morte. Un miliardario accoglie il tenebroso fidanzato della figlia, ma e ignaro della sua vera identita (USA 1998)\n\nA seguire (22:00): La verità, vi spiego, sullamore",
+      "thumbnail": "https://images.open-epg.com/19389.png"
+    },
+    {
+      "title": "Sky Cinema Suspense.it - 20:45 Presence",
+      "link": "ignoreme",
+      "info": "In onda: 20:45 - 22:15\n\nSteven Soderbergh dirige una ghost story dalla soggettiva del fantasma. Dopo il trasloco, una famiglia sperimenta fenomeni inspiegabili nella nuova casa. Nel cast Lucy Liu (US 2025)\n\nA seguire (22:15): God is a Bullet",
+      "thumbnail": "https://images.open-epg.com/19390.png"
+    },
+    {
+      "title": "Sky Cinema Uno +24.it - 21:15 The Equalizer 2 - Senza perdono",
+      "link": "ignoreme",
+      "info": "In onda: 21:15 - 23:20\n\nDenzel Washington nel secondo capitolo action diretto da Antoine Fuqua. Lex agente segreto Robert McCall torna a combattere il crimine quando una sua amica viene assassinata (USA 2018)\n\nA seguire (23:20): Assassinio sul Nilo",
+      "thumbnail": "https://images.open-epg.com/19391.png"
+    },
+    {
+      "title": "Sky Cinema Uno.it - 21:15 La camera di consiglio",
+      "link": "ignoreme",
+      "info": "In onda: 21:15 - 23:00\n\nUn dramma giudiziario che ripercorre il momento decisivo del Maxiprocesso contro la mafia del 1987: otto giurati si chiudono in un appartamento allinterno del carcere dellUcciardone a Palermo per decidere condanne e assoluzioni di 470 imputati (ITA 2025)\n\nA seguire (23:00): Father Mother Sister Brother",
       "thumbnail": "https://images.open-epg.com/19392.png"
     },
     {
-      "title": "Sky Documentaries +1.it - 18:15 Le grandi civilta della storia",
+      "title": "Sky Classica.it - 21:15 Handel - Silla",
       "link": "ignoreme",
-      "info": "In onda: 18:15 - 19:15\n\nS1 Ep1 Roma - Ascesa e caduta di quattro civilta leggendarie: romani, egiziani, giapponesi e aztechi. Scopriamo le cause del loro declino.\n\nA seguire (19:15): Le grandi civilta della storia",
+      "info": "In onda: 21:15 - 23:30\n\nOpera in tre atti (1713) su libretto di G.Rossi - con S.Prina, H. Summers, S.Im, V.Genaux, R.Invernizzi - Europa Galante - Fabio Biondi, dir. - Tadashi Miroku reg. (Kanagawa Prefectural Music Hall, Yokohama - 2022)\n\nA seguire (23:30): Almanacco di Bellezza",
+      "thumbnail": "https://images.open-epg.com/4100139.png"
+    },
+    {
+      "title": "Sky Crime.it - 20:55 Homicide Squad: New Orleans",
+      "link": "ignoreme",
+      "info": "In onda: 20:55 - 21:45\n\nS2 Ep5 Un sospettato inatteso - Un artista viene trovato morto nella propria abitazione. Con pochissime prove a disposizione, il detective Nick Davis segue ogni indizio fino a una svolta decisiva.\n\nA seguire (21:45): Hells Angels - Gli angeli...",
+      "thumbnail": "https://images.open-epg.com/19394.png"
+    },
+    {
+      "title": "Sky Documentaries +1.it - 21:05 La Costa del Golfo",
+      "link": "ignoreme",
+      "info": "In onda: 21:05 - 21:55\n\nS1 Ep6 La Costa del Golfo - Le paludi e le zone umide ospitano orsi neri e alligatori. Ma anche lamantini, gufi alla ricerca dellamore e perfino un raro esemplare di ocelot.\n\nA seguire (21:55): One Strange Rock: Pianeta Terra",
       "thumbnail": "https://images.open-epg.com/nologo.png"
     },
     {
-      "title": "Sky Documentaries.it - 18:15 Le grandi civilta della storia",
+      "title": "Sky Documentaries.it - 20:55 One Strange Rock: Pianeta Terra",
       "link": "ignoreme",
-      "info": "In onda: 18:15 - 19:15\n\nS1 Ep2 Egitto - Ascesa e caduta di quattro civilta leggendarie: romani, egiziani, giapponesi e aztechi. Scopriamo le cause del loro declino.\n\nA seguire (19:15): The Americas",
+      "info": "In onda: 20:55 - 21:50\n\nS1 Ep5 Sopravvivere - La Terra e un posto che e costantemente minacciata. Scopriamo quali sono i fattori che evitano o accelerano le estinzioni di massa e la distruzione di alcune specie.\n\nA seguire (21:50): One Strange Rock: pianeta Terra",
       "thumbnail": "https://images.open-epg.com/19396.png"
     },
     {
-      "title": "Sky Sport 4K.it - 18:45 Calcio Coppa Di Germania - Ep. 7 - Calcio Coppa Di Germania Semifinale Bayer Leverkusen/ Bayern Monaco 22/04/2026",
+      "title": "Sky Investigation.it - 21:10 The Equalizer",
       "link": "ignoreme",
-      "info": "In onda: 18:45 - 20:45\n\n... Monaco Coppa di Germania. - Negli 8 precedenti di coppa di Germania, Bayern Monaco in vantaggio 6 a 2, tra cui 2 vittorie in semifinale (2003 e 2018) e una in finale nel 2020. TC: Pietro Nicolodi\n\nA seguire (20:45): Calcio Uefa Champions League - Ep. 16 - Calcio Ucl Amazon Quarti Di Finale (Ritorno) Bayern/ Real Madrid 15/04/2026",
+      "info": "In onda: 21:10 - 22:00\n\nS3 Ep17 Senso di colpa - McCall trova un indizio che la conduce a trovare lauto di suo padre, e di conseguenza ad affrontare fatti dolorosi avvenuti 30 anni prima.\n\nA seguire (22:00): The Equalizer",
+      "thumbnail": "https://images.open-epg.com/19398.png"
+    },
+    {
+      "title": "Sky Nature.it - 21:20 Il futuro del pianeta 1^TV",
+      "link": "ignoreme",
+      "info": "In onda: 21:20 - 22:25\n\nS1 Ep3 Foreste - Dai mari alle praterie, dalle foreste alle comunita umane, osserviamo come ecosistemi sani possano ridurre il carbonio e contribuire a fermare il riscaldamento globale.\n\nA seguire (22:25): Il futuro del pianeta 1^TV",
+      "thumbnail": "https://images.open-epg.com/19393.png"
+    },
+    {
+      "title": "Sky News.it - 21:30 The Wrap With Anna Botting",
+      "link": "ignoreme",
+      "info": "In onda: 21:30 - 22:00\n\nDebate, analysis and insight on the biggest news stories of the day from the UK and around the world.\n\nA seguire (22:00): The Wrap With Anna Botting",
+      "thumbnail": "https://images.open-epg.com/19400.png"
+    },
+    {
+      "title": "Sky Serie.it - 20:55 Fire Country",
+      "link": "ignoreme",
+      "info": "In onda: 20:55 - 21:50\n\nS3 Ep13 Lultima partita - La stazione 42 interviene per un incendio al campo da baseball prima dellannuale partita della contea. Nel frattempo, lex ragazza di Vince fa il suo ritorno.\n\nA seguire (21:50): Fire Country",
+      "thumbnail": "https://images.open-epg.com/19402.png"
+    },
+    {
+      "title": "Sky Sport 4K.it - 21:15 GP Cina: Gara",
+      "link": "ignoreme",
+      "info": "In onda: 21:15 - 22:15\n\nDallo Shanghai International Circuit, Cina.\n\nA seguire (22:15): Calcio Coppa Di Germania - Ep. 7 - Calcio Coppa Di Germania Semifinale Bayer Leverkusen/ Bayern Monaco 22/04/2026",
       "thumbnail": "https://images.open-epg.com/19403.png"
     },
     {
-      "title": "Sky Sport Calcio.it - 18:45 Calcio Coppa Di Germania - Ep. 7 - Calcio Coppa Di Germania Semifinale Bayer Leverkusen/ Bayern Monaco 22/04/2026",
+      "title": "Sky Sport Calcio.it - 21:35 Paris Saint-Germain - Nantes",
       "link": "ignoreme",
-      "info": "In onda: 18:45 - 20:45\n\n... Monaco Coppa di Germania. - Negli 8 precedenti di coppa di Germania, Bayern Monaco in vantaggio 6 a 2, tra cui 2 vittorie in semifinale (2003 e 2018) e una in finale nel 2020. TC: Pietro Nicolodi\n\nA seguire (20:45): Mondo Bayern, Il Campus Del Futuro",
+      "info": "In onda: 21:35 - 23:25\n\nDal Parco dei Principi di Parigi, Francia.\n\nA seguire (23:25): Atletico Madrid - FC Barcellona",
       "thumbnail": "https://images.open-epg.com/19405.png"
     },
     {
-      "title": "Sky Sport Max.it - 17:00 Paris Saint-Germain - Nantes",
+      "title": "Sky Sport F1.it - 21:00 Enzo Ferrari",
       "link": "ignoreme",
-      "info": "In onda: 17:00 - 19:00\n\n... Nantes Ligue 1. - Dal Parco dei Principi di Parigi, Francia.\n\nA seguire (19:00): Bournemouth - Leeds United",
+      "info": "In onda: 21:00 - 22:00\n\nEnzo Ferrari - LUomo, la Rossa, il Mito. Giorgio Porra racconta Enzo Ferrari: trionfi in pista, dolori privati e la storia di un visionario che ha reso Ferrari sinonimo di velocita ed eccellenza\n\nA seguire (22:00): Motori Indycar Series 2026 - Ep. 1 - Motori Indycar Series 2026 St.Petersburg 01/03/2026",
+      "thumbnail": "https://images.open-epg.com/19406.png"
+    },
+    {
+      "title": "Sky Sport Golf.it - 19:00 Giorno 4",
+      "link": "ignoreme",
+      "info": "In onda: 19:00 - 22:00\n\nGiorno 4 - DallAugusta National Golf Club di Augusta, Stati Uniti\n\nA seguire (22:00): Magical Kenya Open: Giorno 4",
+      "thumbnail": "https://images.open-epg.com/19407.png"
+    },
+    {
+      "title": "Sky Sport Max.it - 21:30 Finale Ritorno Piacenza - Svg Luneburg",
+      "link": "ignoreme",
+      "info": "In onda: 21:30 - 23:10\n\nFinale Ritorno Piacenza - Svg Luneburg - Piacenza e a un passo dal suo primo trofeo europeo dopo il 3-0 dellandata in Germania. Tc Locatelli-Zorzi\n\nA seguire (23:10): Ep.3",
       "thumbnail": "https://images.open-epg.com/19408.png"
     },
     {
-      "title": "Sky Sport Tennis.it - 09:00 Tennis AtpandWta - Ep. 144 - Tennis Atp Masters 1000andWta 1000 2026 Madrid 2a Giornata (Ss Tennis) 22/04/2026",
+      "title": "Sky Sport MotoGP.it - 20:30 MotoGP Gara: GP Spagna",
       "link": "ignoreme",
-      "info": "In onda: 09:00 - 19:00\n\n... WTA 1000 Madrid. - ATP and WTA 1000 Madrid\n\nA seguire (19:00): 2a Giornata",
+      "info": "In onda: 20:30 - 21:45\n\nGP Spagna: Gara - Quarto appuntamento del mondiale 2024: da Jerez in Spagna, la gara della MotoGP. Telecronaca di Guido Meda e Mauro Sanchini.\n\nA seguire (21:45): Reparto Corse Moto GP",
+      "thumbnail": "https://images.open-epg.com/19409.png"
+    },
+    {
+      "title": "Sky Sport Tennis.it - 19:00 2a Giornata",
+      "link": "ignoreme",
+      "info": "In onda: 19:00 - 22:00\n\n2a Giornata - ATP and WTA 1000 Madrid\n\nA seguire (22:00): 22/04/2026",
       "thumbnail": "https://images.open-epg.com/19404.png"
     },
     {
-      "title": "Sky Sport Uno.it - 09:00 Tennis AtpandWta - Ep. 143 - Tennis Atp Masters 1000andWta 1000 2026 Madrid 2a Giornata (Ss Uno) 22/04/2026",
+      "title": "Sky Sport Uno.it - 21:00 George Best",
       "link": "ignoreme",
-      "info": "In onda: 09:00 - 19:00\n\n... WTA 1000 Madrid. - ATP and WTA 1000 Madrid\n\nA seguire (19:00): Burnley - Manchester City",
+      "info": "In onda: 21:00 - 22:00\n\n... Campioni. - Un appassionante viaggio nella storia del campione nordirlandese, nella citta dove tutto ha avuto inizio: Belfast. Perche\n\nA seguire (22:00): 2a Giornata",
       "thumbnail": "https://images.open-epg.com/19410.png"
     },
     {
       "title": "Sky Sport.it - 18:30 Bournemouth - Leeds United",
       "link": "ignoreme",
-      "info": "In onda: 18:30 - 22:00\n\nCalcio Premier League 34a giornata. Calcio dinizio ore 21:00",
+      "info": "In onda: 18:30 - 22:00\n\nCalcio Premier League 34a giornata. Calcio dinizio ore 21:00\n\nA seguire (18:00): RB Lipsia - Union Berlino",
       "thumbnail": "https://images.open-epg.com/19382.png"
     },
     {
-      "title": "Sky Uno.it - 16:55 Pechino Express",
+      "title": "Sky TG24.it - 21:30 Skyline",
       "link": "ignoreme",
-      "info": "In onda: 16:55 - 19:15\n\nLa sesta puntata si apre nellantica citta cinese di Huizhou, dove Costantino scombussola i viaggiatori comunicando loro che in questa tappa viaggeranno mescolati.\n\nA seguire (19:15): Foodish",
+      "info": "In onda: 21:30 - 21:50\n\nCon Skyline, dal lunedi al venerdi, vi portiamo dentro tutte le notizie della giornata. Una scansione di quanto successo in Italia e nel mondo, con spazio agli ospiti e alle storie.\n\nA seguire (21:50): Sky Meteo24",
+      "thumbnail": "https://images.open-epg.com/19411.png"
+    },
+    {
+      "title": "Sky Uno.it - 20:20 GialappaShow",
+      "link": "ignoreme",
+      "info": "In onda: 20:20 - 22:50\n\nTorna lirriverente show della Gialappas Band e del Mago Forest, un appuntamento cult tra comicita surreale, grandi ospiti e commenti esilaranti alle trasmissioni piu amate.\n\nA seguire (22:50): Pechino Express",
       "thumbnail": "https://images.open-epg.com/19413.png"
     },
     {
-      "title": "Zona Dazn 2.it - 22:00 Nessun evento in onda",
+      "title": "ZONA DAZN.it - 21:25 Maurizio Sarri: mi diverto ancora",
       "link": "ignoreme",
-      "info": "In onda: 22:00 - 22:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (22:00): Nessun evento in onda",
+      "info": "In onda: 21:25 - 21:52\n\nI grandi personaggi...\n\nA seguire (21:52): Nicolò Zaniolo: Rivincita",
+      "thumbnail": "https://images.open-epg.com/1700.png"
+    },
+    {
+      "title": "Zona Dazn 2.it - 16:00 Nessun evento in onda",
+      "link": "ignoreme",
+      "info": "In onda: 16:00 - 22:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (22:00): Nessun evento in onda",
       "thumbnail": "https://images.open-epg.com/7515553.png"
     },
     {
-      "title": "Zona Dazn.it - 23:00 DAZN 1",
+      "title": "Zona Dazn.it - 21:25 Maurizio Sarri: mi diverto ancora",
       "link": "ignoreme",
-      "info": "In onda: 23:00 - 23:00\n\nDAZN 1\n\nA seguire (23:00): DAZN 1",
+      "info": "In onda: 21:25 - 21:52\n\nI grandi personaggi della Serie A. In questo episodio Maurizio Sarri racconta il ritorno alla Lazio, le sue passioni, il rapporto con il calcio e il sogno di chiudere la carriera al Flaminio.\n\nA seguire (21:52): Nicolò Zaniolo: Rivincita",
       "thumbnail": "https://images.open-epg.com/7515557.png"
     }
   ]
