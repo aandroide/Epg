@@ -6,7 +6,7 @@
     {
       "title": "Androide - EPG",
       "link": "ignoreme",
-      "info": "Aggiornato: 26/04/2026 18:38"
+      "info": "Aggiornato: 26/04/2026 21:29"
     },
     {
       "title": "DAZN 1.it - 17:30 Milan - Juventus",
@@ -21,51 +21,135 @@
       "thumbnail": "https://images.open-epg.com/19311.png"
     },
     {
-      "title": "Sky Arte.it - 17:55 Jovayork: La musica dellanima",
+      "title": "Sky Arte.it - 21:15 Ifis Art: Il valore della bellezza",
       "link": "ignoreme",
-      "info": "In onda: 17:55 - 18:55\n\nJovanotti ci porta alla scoperta dellanima musicale di New York, raccontando il suo legame con la citta e svelando il\n\nA seguire (18:55): Il Telegiornale Dellarte 1^TV",
+      "info": "In onda: 21:15 - 22:10\n\nCollezioni darte, restauri e mecenatismo: Banca Ifis, col progetto Ifis art, si prende cura della bellezza, dai capolavori del passato alle ricerche contemporanee.\n\nA seguire (22:10): ArtBox",
       "thumbnail": "https://images.open-epg.com/19379.png"
     },
     {
-      "title": "Sky Cinema Action.it - 16:45 Battleship",
+      "title": "Sky Atlantic.it - 21:00 Euphoria",
       "link": "ignoreme",
-      "info": "In onda: 16:45 - 19:00\n\nEpica battaglia nellOceano Pacifico con Taylor Kitsch, Rihanna e Liam Neeson. Le forze navali americane e giapponesi si alleano per difendere la Terra da una flotta di astronavi aliene (USA 2012)\n\nA seguire (19:00): Venom: La furia di Carnage",
+      "info": "In onda: 21:00 - 22:05\n\nS3 Ep2 Lamerica E Il Mio Sogno - Dopo aver lavorato come assistente di un importante agente di Hollywood, Maddy decide di crearsi una propria clientela. Nel frattempo, Rue inizia a lavorare per Alamo Brown.\n\nA seguire (22:05): Breaking Bad",
+      "thumbnail": "https://images.open-epg.com/19381.png"
+    },
+    {
+      "title": "Sky Cinema Action.it - 20:40 Star Trek Beyond",
+      "link": "ignoreme",
+      "info": "In onda: 20:40 - 22:50\n\nJustin Lin dirige il terzo capitolo della saga reboot prodotta da J.J. Abrams. Negli angoli remoti dello spazio, un nuovo e misterioso nemico attende lequipaggio dellEnterprise (USA 2016)\n\nA seguire (22:50): xXx - Il ritorno di Xander Cage",
       "thumbnail": "https://images.open-epg.com/19383.png"
     },
     {
-      "title": "Sky Cinema Drama.it - 17:00 La pazza gioia",
+      "title": "Sky Cinema Comedy.it - 20:40 Con chi viaggi",
       "link": "ignoreme",
-      "info": "In onda: 17:00 - 19:00\n\nValeria Bruni Tedeschi e Micaela Ramazzotti nel road movie al femminile di Paolo Virzi. Due donne fuggono da una clinica psichiatrica e si avventurano a riassaporare il mondo (ITA/FRA 2016)\n\nA seguire (19:00): La stanza accanto",
+      "info": "In onda: 20:40 - 21:55\n\nGli YouNuts! dirigono una comedy on the road con Fabio Rovazzi, Lillo, Alessandra Mastronardi e Michela De Rossi. Una app di Car-Sharing riunisce 4 sconosciuti in un viaggio avventuroso (ITA 2022)\n\nA seguire (21:55): Insospettabili sospetti",
+      "thumbnail": "https://images.open-epg.com/19384.png"
+    },
+    {
+      "title": "Sky Cinema Drama.it - 20:50 Il ladro di giorni",
+      "link": "ignoreme",
+      "info": "In onda: 20:50 - 22:40\n\nGuido Lombardi dirige un road movie con Riccardo Scamarcio e Massimo Popolizio. Uscito di prigione, Vincenzo riallaccia i rapporti con il figlio durante un viaggio dal nord fino in Puglia (ITA 2020)\n\nA seguire (22:40): Le cose che non ti ho detto",
       "thumbnail": "https://images.open-epg.com/19385.png"
     },
     {
-      "title": "Sky Cinema Due.it - 16:25 Django Unchained",
+      "title": "Sky Cinema Due.it - 21:10 Lansky",
       "link": "ignoreme",
-      "info": "In onda: 16:25 - 19:15\n\n2 Oscar e 2 Golden Globe al western di Quentin Tarantino con Christoph Waltz, Jamie Foxx e Leonardo DiCaprio. Uno schiavo nero riacquista la liberta e corre a salvare anche sua moglie (USA 2012)\n\nA seguire (19:15): Blade Runner : Directors Cut",
+      "info": "In onda: 21:10 - 23:15\n\nBiopic con Harvey Keitel e Sam Worthington. Sotto custodia dellFBI, lanziano mafioso bielorusso Meyer Lansky, esponente del Sindacato ebraico, racconta la sua vita a un giornalista (USA 2021)\n\nA seguire (23:15): Margin Call",
       "thumbnail": "https://images.open-epg.com/19387.png"
     },
     {
-      "title": "Sky Cinema Romance.it - 17:00 Hitch - Lui si che capisce le donne",
+      "title": "Sky Cinema Family.it - 20:50 Animali fantastici: i crimini di Grindelwald",
       "link": "ignoreme",
-      "info": "In onda: 17:00 - 19:05\n\nCommedia romantica con Will Smith, Eva Mendes e Kevin James. Un esperto in seduzione e bravo a dare i giusti consigli agli altri, ma non riesce ad aiutare se stesso (USA 2005)\n\nA seguire (19:05): The Land of Dreams",
+      "info": "In onda: 20:50 - 23:00\n\n... Grindelwald. - Eddie Redmayne, Johnny Depp e Jude Law nel secondo spin-off della saga di\n\nA seguire (23:00): Belle and Sebastien - Amici per sempre",
+      "thumbnail": "https://images.open-epg.com/19388.png"
+    },
+    {
+      "title": "Sky Cinema Romance.it - 21:00 Il grande Gatsby",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 23:30\n\nBaz Luhrmann dirige Leonardo DiCaprio nelladattamento del capolavoro di F.S. Fitzgerald. America, anni 20: un aspirante scrittore entra nel mondo di un misterioso milionario (USA/AUS 2013)\n\nA seguire (23:30): Sex And The City",
       "thumbnail": "https://images.open-epg.com/19389.png"
     },
     {
-      "title": "Sky Cinema Uno +24.it - 17:05 World war Z",
+      "title": "Sky Cinema Suspense.it - 21:05 Gli uccelli",
       "link": "ignoreme",
-      "info": "In onda: 17:05 - 19:15\n\nMarc Forster dirige Brad Pitt in un disaster-movie di successo. Un impiegato dellONU deve salvare lumanita da un virus che trasforma gli uomini in mostri affamati di carne umana (USA/MLT 2012)\n\nA seguire (19:15): Amata",
+      "info": "In onda: 21:05 - 23:10\n\nAlfred Hitchcock dirige Tippi Hedren in un capolavoro assoluto del thriller. Gli abitanti di una cittadina vengono assaliti da stormi di uccelli che si sono coalizzati contro gli umani (USA 1963)\n\nA seguire (23:10): Final Destination: Bloodlines",
+      "thumbnail": "https://images.open-epg.com/19390.png"
+    },
+    {
+      "title": "Sky Cinema Uno +24.it - 20:55 Ti amo in tutte le lingue del mondo",
+      "link": "ignoreme",
+      "info": "In onda: 20:55 - 22:40\n\nLironia di Leonardo Pieraccioni in una commedia con Massimo Ceccherini e Giorgio Panariello. Un professore del liceo e perseguitato da una studentessa minorenne innamorata di lui (ITA 2005)\n\nA seguire (22:40): Boston - Caccia alluomo",
       "thumbnail": "https://images.open-epg.com/19391.png"
     },
     {
-      "title": "Sky Sport Calcio.it - 18:00 Anteprima Sky Calcio Club",
+      "title": "Sky Cinema Uno.it - 19:15 12 Soldiers",
       "link": "ignoreme",
-      "info": "In onda: 18:00 - 18:40\n\nQuindici minuti di notizie, immagini, gol e interviste che costituiscono il menu di Sky Calcio Club. In onda subito dopo.\n\nA seguire (18:40): Olympique Marsiglia - OGC Nizza",
+      "info": "In onda: 19:15 - 21:30\n\nChris Hemsworth e Michael Shannon in un war-movie tratto da una storia vera. Dopo l11 settembre, una squadra speciale Usa sbarca in Afghanistan per organizzare la guerra contro Al Qaeda (USA 2018)\n\nA seguire (21:30): Bolero",
+      "thumbnail": "https://images.open-epg.com/19392.png"
+    },
+    {
+      "title": "Sky Classica.it - 20:20 Janacek - La piccola volpe astuta",
+      "link": "ignoreme",
+      "info": "In onda: 20:20 - 22:00\n\nLe avventure della volpe Bystrouska - Opera in tre atti (1924) su libretto del compositore - con R.Trekel, P.Rumetz, C.Reiss - Coro e Orchestra Wiener Staatsoper - Tomas Netopil, dir. - Otto Schenk, reg. (Vienna, 2016)\n\nA seguire (22:00): Al presente - Carlo Boccadoro",
+      "thumbnail": "https://images.open-epg.com/4100139.png"
+    },
+    {
+      "title": "Sky Crime.it - 21:25 Sei in arresto!",
+      "link": "ignoreme",
+      "info": "In onda: 21:25 - 21:55\n\nS2 Ep3 Alligatore al supermercato - Un uomo porta un alligatore a fare la spesa, un ladro usa un trucco assurdo per nascondersi e un fuggitivo si infila in un posto davvero stretto.\n\nA seguire (21:55): Sei in arresto!",
+      "thumbnail": "https://images.open-epg.com/19394.png"
+    },
+    {
+      "title": "Sky Documentaries +1.it - 20:35 Chernobyl - I nastri perduti",
+      "link": "ignoreme",
+      "info": "In onda: 20:35 - 22:20\n\nGrazie a filmati inediti recentemente scoperti ricostruiamo la vera storia di uno degli eventi piu catastrofici del nostro tempo: il disastro di Chernobyl.\n\nA seguire (22:20): Un avvertimento prima di iniziare",
+      "thumbnail": "https://images.open-epg.com/nologo.png"
+    },
+    {
+      "title": "Sky Documentaries.it - 21:20 Un avvertimento prima di iniziare",
+      "link": "ignoreme",
+      "info": "In onda: 21:20 - 22:25\n\nS1 Ep14 Il mio incubo in Scientology - Il mio incubo in Scientology. Pablo Trincia incontra Raffaella, ex Scientology, che ci racconta la sua esperienza tra regole e punizioni, dagli anni in Florida fino allespulsione.\n\nA seguire (22:25): Ignoto 1 - Yara, DNA di unindagine",
+      "thumbnail": "https://images.open-epg.com/19396.png"
+    },
+    {
+      "title": "Sky Investigation.it - 20:50 Law and Order: Special Victims Unit",
+      "link": "ignoreme",
+      "info": "In onda: 20:50 - 21:35\n\nS27 Ep9 Purezza - La caccia a un sospettato rivela un crimine con implicazioni etiche e legali sconcertanti. Bruno protegge la squadra durante una perquisizione. Carisi e Price collaborano in aula.\n\nA seguire (21:35): Law and Order: Special Victims Unit",
+      "thumbnail": "https://images.open-epg.com/19398.png"
+    },
+    {
+      "title": "Sky Nature.it - 21:10 Wild Alaska",
+      "link": "ignoreme",
+      "info": "In onda: 21:10 - 22:10\n\nS1 Ep3 Inverno - Durante linverno e la selvaggia Alaska si trasforma. I mari si congelano e gli animali fanno del loro meglio per superare questa stagione difficile.\n\nA seguire (22:10): Eden - Pianeta selvaggio",
+      "thumbnail": "https://images.open-epg.com/19393.png"
+    },
+    {
+      "title": "Sky News.it - 21:00 The Wrap With Gillian Joseph",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 21:30\n\nDebate, analysis and insight on the biggest news stories of the day from the UK and around the world.\n\nA seguire (21:30): The Wrap With Gillian Joseph",
+      "thumbnail": "https://images.open-epg.com/19400.png"
+    },
+    {
+      "title": "Sky Serie.it - 20:50 Chicago P.D.",
+      "link": "ignoreme",
+      "info": "In onda: 20:50 - 21:40\n\nS13 Ep4 Causa alla radice - LUnita dIntelligence corre contro il tempo quando un uomo del quartiere di Torres viene rapito.\n\nA seguire (21:40): Outlander",
+      "thumbnail": "https://images.open-epg.com/19402.png"
+    },
+    {
+      "title": "Sky Sport 4K.it - 21:20 Aston Villa - Bologna",
+      "link": "ignoreme",
+      "info": "In onda: 21:20 - 23:15\n\nAston Villa - Bologna - Villans per ritrovare una semifinale dopo quella in UECL del 2024. Bologna per ritrovarla dopo quella in coppa UEFA del 1999. Ha perso 3-1 allandata. TC: Ciarravano-Marocchi\n\nA seguire (23:15): Calcio Campionato Italiano Serie A - Ep. 101 - Calcio Serie A 34ga Torino/ Inter 26/04/2026",
+      "thumbnail": "https://images.open-epg.com/19403.png"
+    },
+    {
+      "title": "Sky Sport Calcio.it - 20:45 Sky Calcio Club",
+      "link": "ignoreme",
+      "info": "In onda: 20:45 - 22:00\n\nFabio Caressa, Beppe Bergomi e altri grandi ospiti commentano il posticipo di serie A e tutti gol, le azioni salienti e le maggiori curiosita delle partite del weekend.\n\nA seguire (22:00): Sky Calcio Club Senza Giacca",
       "thumbnail": "https://images.open-epg.com/19405.png"
     },
     {
-      "title": "Sky Sport F1.it - 18:30 Ep.2",
+      "title": "Sky Sport F1.it - 21:05 Shanghai: Gara 2",
       "link": "ignoreme",
-      "info": "In onda: 18:30 - 19:00\n\nEp.2 - Alle origini del nuovo talento italiano della F1: in questo episodio il percorso di Antonelli nella massima categoria. Gli alti e bassi dellanno da rookie, prima della definitiva esplosione del 2026.\n\nA seguire (19:00): GP Giappone: Gara",
+      "info": "In onda: 21:05 - 22:00\n\nSul circuito di Shanghai la gara piu importante del weekend, quella che assegna punteggio pieno: chi prendera i 25 punti che spettano alla vincitrice? Telecronaca di Andrea Sillitti e Vicky Piria.\n\nA seguire (22:00): Long Beach",
       "thumbnail": "https://images.open-epg.com/19406.png"
     },
     {
@@ -75,15 +159,15 @@
       "thumbnail": "https://images.open-epg.com/19407.png"
     },
     {
-      "title": "Sky Sport Max.it - 18:30 Brussels P2: Finale maschile",
+      "title": "Sky Sport Max.it - 20:30 Calcio Campionato Italiano Serie A - Ep. 101 - Calcio Serie A 34ga Torino/ Inter 26/04/2026",
       "link": "ignoreme",
-      "info": "In onda: 18:30 - 20:30\n\nBrussels P2: Finale maschile - Seguiamo le gare del Premier Padel Major.\n\nA seguire (20:30): Calcio Campionato Italiano Serie A - Ep. 101 - Calcio Serie A 34ga Torino/ Inter 26/04/2026",
+      "info": "In onda: 20:30 - 22:15\n\nTorino - Inter - Granata con 7 punti in 3 giornate. Inter a quota 78. Mancano 4 punti per lo scudetto n. 21. Imbattuta nelle ultime 6 sfide a Torino, 5 vittorie e un pareggio. TC: Borghi-Gobbi\n\nA seguire (22:15): Italia - Scozia",
       "thumbnail": "https://images.open-epg.com/19408.png"
     },
     {
-      "title": "Sky Sport MotoGP.it - 18:00 Spagna",
+      "title": "Sky Sport MotoGP.it - 21:00 GP Spagna: Gara",
       "link": "ignoreme",
-      "info": "In onda: 18:00 - 19:00\n\nSpagna - Le analisi e gli approfondimenti sul Gran Premio di Spagna con Cristiana Buonamano e i suoi ospiti in studio e dal circuito\n\nA seguire (19:00): GP Spagna: Gara",
+      "info": "In onda: 21:00 - 22:00\n\nGP Spagna: Gara - Quarto appuntamento del mondiale 2026: a Jerez, in Spagna, si accendono i motori per la gara della MotoGP. Telecronaca Meda - Sanchini\n\nA seguire (22:00): GP Spagna: Gara",
       "thumbnail": "https://images.open-epg.com/19409.png"
     },
     {
@@ -99,39 +183,33 @@
       "thumbnail": "https://images.open-epg.com/19410.png"
     },
     {
-      "title": "Sky Sport.it - 15:00 Torino - Inter",
+      "title": "Sky TG24.it - 21:00 TG24 mezzora",
       "link": "ignoreme",
-      "info": "In onda: 15:00 - 19:15\n\nCod. 412279 - Serie A - 34a giornata. Calcio dinizio ore 18:00.\n\nA seguire (18:00): Lazio - Udinese",
-      "thumbnail": "https://images.open-epg.com/19382.png"
-    },
-    {
-      "title": "Sky TG24.it - 18:30 Ore 20",
-      "link": "ignoreme",
-      "info": "In onda: 18:30 - 18:50\n\nTelegiornale in diretta. Le notizie dallItalia e dal mondo con collegamenti live, approfondimenti e analisi. Interviste e inchieste esclusive, i principali fatti del giorno aggiornati in tempo reale.\n\nA seguire (18:50): Extra Time",
+      "info": "In onda: 21:00 - 21:30\n\nTelegiornale in diretta. I giornali di oggi, lo Sport, il Meteo.\n\nA seguire (21:30): TG24 mezzora",
       "thumbnail": "https://images.open-epg.com/19411.png"
     },
     {
-      "title": "Sky Uno.it - 17:00 Pechino Express",
+      "title": "Sky Uno.it - 20:30 Cucine da incubo",
       "link": "ignoreme",
-      "info": "In onda: 17:00 - 19:15\n\nIn questa puntata i viaggiatori dovranno affrontare molte difficolta: percorrere oltre 800 km ed evitare Giulia Salemi con la Fariba Flag!\n\nA seguire (19:15): Cucine da incubo 1^TV",
+      "info": "In onda: 20:30 - 21:45\n\nAntonino Cannavacciuolo aiutera Ciro e Lanfranco, amici e proprietari del ristorante I Carnaloni, aperto da meno di due anni a Torre del Greco ma gia in crisi.\n\nA seguire (21:45): Cucine da incubo",
       "thumbnail": "https://images.open-epg.com/19413.png"
     },
     {
-      "title": "ZONA DAZN.it - 18:25 BordoCam Roma - Juventus 2025/26",
+      "title": "ZONA DAZN.it - 17:30 Milan - Juventus",
       "link": "ignoreme",
-      "info": "In onda: 18:25 - 18:45\n\nJuventus 2025/26 - A 12 minuti...\n\nA seguire (18:45): Milan - Juventus",
+      "info": "In onda: 17:30 - 23:00\n\nJuventus - Serie A\n\nA seguire (23:00): Stag. 2019 - DAZN 1",
       "thumbnail": "https://images.open-epg.com/1700.png"
     },
     {
-      "title": "Zona Dazn 2.it - 22:00 Nessun evento in onda",
+      "title": "Zona Dazn 2.it - 16:00 Nessun evento in onda",
       "link": "ignoreme",
-      "info": "In onda: 22:00 - 22:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (22:00): Nessun evento in onda",
+      "info": "In onda: 16:00 - 22:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (22:00): Nessun evento in onda",
       "thumbnail": "https://images.open-epg.com/7515553.png"
     },
     {
-      "title": "Zona Dazn.it - 18:25 BordoCam Roma - Juventus 2025/26",
+      "title": "Zona Dazn.it - 17:30 Milan - Juventus",
       "link": "ignoreme",
-      "info": "In onda: 18:25 - 18:45\n\nA 12 minuti dalla fine la Roma era sopra 3-1 ma la Juventus si e tenuta in vita tenendo tutto completamente aperto per la corsa al quarto posto. Rivivi la partita con il Bordocam di Davide Bernardi.\n\nA seguire (18:45): Milan - Juventus",
+      "info": "In onda: 17:30 - 23:00\n\nSerie A - 34a g. Ambizione, tattica e personalita: la stagione riparte con gli allenatori protagonisti, tra ritorni, rivoluzioni e conferme.\n\nA seguire (23:00): DAZN 1",
       "thumbnail": "https://images.open-epg.com/7515557.png"
     }
   ]
