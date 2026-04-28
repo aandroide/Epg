@@ -6,7 +6,13 @@
     {
       "title": "Androide - EPG",
       "link": "ignoreme",
-      "info": "Aggiornato: 28/04/2026 19:20"
+      "info": "Aggiornato: 28/04/2026 21:50"
+    },
+    {
+      "title": "DAZN 1.it - 21:02 Mandela Keita",
+      "link": "ignoreme",
+      "info": "In onda: 21:02 - 23:00\n\nMandela Keita - Un format che parla dellidentita, del peso specifico, della memoria e del futuro: ospite Mandela Keita, centrocampista del Parma.\n\nA seguire (23:00): DAZN 1",
+      "thumbnail": "https://images.open-epg.com/19310.png"
     },
     {
       "title": "DAZN 2.it - 16:00 Nessun evento in onda",
@@ -15,171 +21,201 @@
       "thumbnail": "https://images.open-epg.com/19311.png"
     },
     {
-      "title": "Sky Arte.it - 19:15 Grand Tour - Viaggio in Italia",
+      "title": "Sky Arte.it - 21:45 Grand Tour - Viaggio in Italia",
       "link": "ignoreme",
-      "info": "In onda: 19:15 - 19:50\n\nS1 Ep1 Venezia - In un moderno Grand Tour, alla ricerca dei luoghi che incantavano i viaggiatori nel passato, Alessandro Sperduti ci porta a Venezia.\n\nA seguire (19:50): Grand Tour - Viaggio in Italia",
+      "info": "In onda: 21:45 - 22:20\n\nS1 Ep1 Venezia - In un moderno Grand Tour, alla ricerca dei luoghi che incantavano i viaggiatori nel passato, Alessandro Sperduti ci porta a Venezia.\n\nA seguire (22:20): Grand Tour - Viaggio in Italia",
       "thumbnail": "https://images.open-epg.com/19379.png"
     },
     {
-      "title": "Sky Atlantic.it - 19:15 Il caso O.J. Simpson: American Crime...",
+      "title": "Sky Atlantic.it - 21:30 Euphoria",
       "link": "ignoreme",
-      "info": "In onda: 19:15 - 20:10\n\n... Story. S1 Ep9 I nastri della verita - Latmosfera del processo diventa sempre piu tesa quando gli avvocati della difesa portano in tribunale alcuni video con lintenzione di screditare il detective Mark Fuhrman agli occhi dell opinione pubblica.\n\nA seguire (20:10): Il caso O.J. Simpson: American Crime...",
+      "info": "In onda: 21:30 - 22:35\n\nS3 Ep3 The Ballad Of Paladin - Nel corso della storia degli Stati Uniti ci sono stati periodi in cui chiunque poteva ambire a diventare ricco... Jules, forse, aveva trovato la sua occasione.\n\nA seguire (22:35): S.W.A.T.",
       "thumbnail": "https://images.open-epg.com/19381.png"
     },
     {
-      "title": "Sky Cinema Action.it - 19:00 Extraction",
+      "title": "Sky Cinema Action.it - 20:35 Aquaman",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 20:35\n\nBruce Willis ostaggio dei terroristi in un action adrenalinico. Un ex agente della CIA viene rapito. Suo figlio lancera unoperazione di salvataggio che svelera un complotto internazionale (USA/CAN 2015)\n\nA seguire (20:35): Aquaman",
+      "info": "In onda: 20:35 - 23:05\n\nJason Momoa e Amber Heard nel fanta-action sulle origini del supereroe DC Comics. Arthur Curry scopre di essere figlio della Regina di Atlantide e in possesso di poteri straordinari (USA/AUS 2018)\n\nA seguire (23:05): Jack Reacher - La prova decisiva",
       "thumbnail": "https://images.open-epg.com/19383.png"
     },
     {
-      "title": "Sky Cinema Comedy.it - 19:00 Ammore e malavita",
+      "title": "Sky Cinema Comedy.it - 21:20 Io sono Tempesta",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 21:25\n\nGiampaolo Morelli, Claudia Gerini e Serena Rossi in una black comedy musicale dei Manetti bros. Napoli: un boss si finge morto per cambiare vita, ma una testimone rovina i suoi piani (ITA 2017)\n\nA seguire (21:25): Io sono Tempesta",
+      "info": "In onda: 21:20 - 23:10\n\nMarco Giallini ed Elio Germano in una pellicola di Daniele Luchetti. Un affarista senza scrupoli viene condannato ai servizi sociali, dove conosce un padre in gravi difficolta economiche (ITA 2018)\n\nA seguire (23:10): Belli ciao",
       "thumbnail": "https://images.open-epg.com/19384.png"
     },
     {
-      "title": "Sky Cinema Drama.it - 19:00 The Son",
+      "title": "Sky Cinema Drama.it - 21:10 Vita segreta di Maria Capasso",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 21:10\n\nHugh Jackman, Laura Dern, Vanessa Kirby e Anthony Hopkins in un toccante dramma familiare. Segnato dal divorzio dei genitori, un adolescente problematico chiede di stare con il padre (GBR/FRA 2022)\n\nA seguire (21:10): Vita segreta di Maria Capasso",
+      "info": "In onda: 21:10 - 22:50\n\nLuisa Ranieri nella storia di una donna che scala il mondo del crimine. Una vedova napoletana in difficolta accetta laiuto di un malavitoso, finendo per diventarne amante e complice (ITA 2019)\n\nA seguire (22:50): Ogni cosa è illuminata",
       "thumbnail": "https://images.open-epg.com/19385.png"
     },
     {
-      "title": "Sky Cinema Due.it - 19:15 A.I. - Intelligenza Artificiale",
+      "title": "Sky Cinema Due.it - 21:45 The Outfit",
       "link": "ignoreme",
-      "info": "In onda: 19:15 - 21:45\n\nDa unidea di Stanley Kubrick, unopera di fantascienza di Steven Spielberg. Un androide bambino, in grado di provare emozioni, intraprende un lungo viaggio per scoprire le proprie origini (USA 2001)\n\nA seguire (21:45): The Outfit",
+      "info": "In onda: 21:45 - 23:35\n\nThriller che segna lesordio alla regia per Graham Moore, con Mark Rylance e Zoey Deutch. Chicago, anni 50: la bottega di un sarto inglese diventa lepicentro di una faida tra gangster (USA/GBR 2022)\n\nA seguire (23:35): Finale a sorpresa - Official Competition",
       "thumbnail": "https://images.open-epg.com/19387.png"
     },
     {
-      "title": "Sky Cinema Family.it - 19:00 Il cacciatore e la regina di ghiaccio",
+      "title": "Sky Cinema Family.it - 20:55 Sonic 3 - Il film",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 21:00\n\nPrequel di Biancaneve e il cacciatore con Charlize Theron, Chris Hemsworth e Jessica Chastain. Un cacciatore e una guerriera difendono la Terra incantata da due streghe maligne (USA 2016)\n\nA seguire (21:00): Sonic 3 - Il film",
+      "info": "In onda: 20:55 - 22:50\n\nJim Carrey e James Marsden nel terzo capitolo della saga campione dincassi. Quando il potente Shadow viene rianimato, Sonic e i suoi amici sono costretti a uninsolita alleanza (USA/JPN 2024)\n\nA seguire (22:50): Caterina va in città",
       "thumbnail": "https://images.open-epg.com/19388.png"
     },
     {
-      "title": "Sky Cinema Romance.it - 19:00 One for the Money",
+      "title": "Sky Cinema Romance.it - 20:35 Ti va di ballare?",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 20:35\n\nDalle pagine di un best seller, una divertente commedia con Katherine Heigl. Una trentenne diventa cacciatrice di taglie per il recupero crediti, ma il primo caso e un suo ex (USA 2012)\n\nA seguire (20:35): Ti va di ballare?",
+      "info": "In onda: 20:35 - 22:35\n\nAntonio Banderas a passo di danza in una pellicola tratta da una storia vera. Un ballerino professionista accetta di insegnare in una scuola frequentata da ragazzi disadattati (USA 2006)\n\nA seguire (22:35): Cafe Society",
       "thumbnail": "https://images.open-epg.com/19389.png"
     },
     {
-      "title": "Sky Cinema Suspense.it - 19:00 Il settimo giorno",
+      "title": "Sky Cinema Suspense.it - 20:35 Armi chimiche",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 20:35\n\nGuy Pearce e Stephen Lang in un horror satanico. Un esperto esorcista conduce un giovane sacerdote nel mondo delle possessioni demoniache in un terrificante percorso di iniziazione (USA 2021)\n\nA seguire (20:35): Armi chimiche",
+      "info": "In onda: 20:35 - 22:30\n\nBen Kingsley e Monica Bellucci in uno spy-thriller. Una donna avvenente e fatale complica i piani di un anziano agente del Mossad, alle prese con lultima missione della sua vita (GBR/ISR 2019)\n\nA seguire (22:30): Companion",
       "thumbnail": "https://images.open-epg.com/19390.png"
     },
     {
-      "title": "Sky Cinema Uno +24.it - 19:15 Venom: The Last Dance",
+      "title": "Sky Cinema Uno +24.it - 21:10 Paycheck",
       "link": "ignoreme",
-      "info": "In onda: 19:15 - 21:10\n\nTerzo capitolo della saga con Tom Hardy protagonista. Eddie e Venom sono tornati sulla loro terra, ma devono guardarsi dalle forze dellordine e da misteriosi mostri alieni (USA 2024)\n\nA seguire (21:10): Paycheck",
+      "info": "In onda: 21:10 - 23:10\n\nJohn Woo dirige Ben Affleck, dal racconto di Philip K. Dick. Un ingegnere, costretto a cancellare i ricordi al termine di ogni progetto top secret, scopre di essere vittima di un complotto (USA 2003)\n\nA seguire (23:10): La Riunione Di Condominio",
       "thumbnail": "https://images.open-epg.com/19391.png"
     },
     {
-      "title": "Sky Cinema Uno.it - 19:15 Lultima notte di Amore",
+      "title": "Sky Cinema Uno.it - 21:30 Amata",
       "link": "ignoreme",
-      "info": "In onda: 19:15 - 21:30\n\nPierfrancesco Favino nel noir di Andrea Di Stefano amato da pubblico e critica. Milano: lultima notte in servizio di un onesto poliziotto lo trascinera in una spirale criminosa (ITA 2023)\n\nA seguire (21:30): Amata",
+      "info": "In onda: 21:30 - 23:10\n\nMiriam Leone, Stefano Accorsi e Tecla Insolia in una pellicola sulla complessita della maternita. La storia incrociata di due donne e di una neonata che unisce due mondi diversi (IT 2025)\n\nA seguire (23:10): Dragon Trainer",
       "thumbnail": "https://images.open-epg.com/19392.png"
     },
     {
-      "title": "Sky Classica.it - 19:15 Offenbach - La belle Helene",
+      "title": "Sky Classica.it - 21:45 Britten - War Requiem",
       "link": "ignoreme",
-      "info": "In onda: 19:15 - 20:30\n\nOperetta in tre atti (1864) su libretto di H.Meilhac e L.Halevy - con A.Moffo, R.Kollo, J.Meinrad, I.Rebroff, H.Serafin - Orchestra Sinfonia della Radio di Stoccarda - Franz Allers, dir. - Axel von Ambesser, reg. (1974)\n\nA seguire (20:30): Retinsky - Anaphora",
+      "info": "In onda: 21:45 - 23:15\n\nComposizione per soli, cori e orchestra (1962) - con E.Stikhina, M.Padmore, M.Volle - Royal Concertgebouw Orchestra - Netherlands Radio Choir e Flemish Radio Choir - G.Noseda, dir. (Amsterdam, Royal Concertgebouw - 2018)\n\nA seguire (23:15): Almanacco di Bellezza",
       "thumbnail": "https://images.open-epg.com/4100139.png"
     },
     {
-      "title": "Sky Crime.it - 19:15 Il delitto di Via Poma",
+      "title": "Sky Crime.it - 21:10 Delitti - Benno",
       "link": "ignoreme",
-      "info": "In onda: 19:15 - 20:10\n\nS1 Ep1 Parte 1 - Estate 1990: Simonetta Cesaroni viene trovata uccisa nellufficio di via Poma. Nessun testimone, poche tracce. Il caso scuote Roma e da inizio a unindagine piena di zone dombra.\n\nA seguire (20:10): Il delitto di Via Poma",
+      "info": "In onda: 21:10 - 22:45\n\nBolzano, 5 gennaio 2021. Benno Neumair denuncia la scomparsa dei genitori. Ma nasconde un segreto: lassassino e lui. Li ha strangolati in casa e poi gettati nellAdige.\n\nA seguire (22:45): Il delitto Varani",
       "thumbnail": "https://images.open-epg.com/19394.png"
     },
     {
-      "title": "Sky Documentaries.it - 19:15 Aztechi",
+      "title": "Sky Documentaries +1.it - 21:15 Le grandi civilta della storia 1^TV",
       "link": "ignoreme",
-      "info": "In onda: 19:15 - 20:10\n\nS1 Ep3 Aztechi - Ascesa e caduta di quattro civilta leggendarie: romani, egiziani, giapponesi e aztechi. Scopriamo le cause del loro declino.\n\nA seguire (20:10): Le grandi civilta della storia 1^TV",
+      "info": "In onda: 21:15 - 22:20\n\nS1 Ep4 Giappone - Ascesa e caduta di quattro civilta leggendarie: romani, egiziani, giapponesi e aztechi. Scopriamo le cause del loro declino.\n\nA seguire (22:20): Aztechi",
+      "thumbnail": "https://images.open-epg.com/nologo.png"
+    },
+    {
+      "title": "Sky Documentaries.it - 21:20 Aztechi",
+      "link": "ignoreme",
+      "info": "In onda: 21:20 - 22:25\n\nS1 Ep3 Aztechi - Ascesa e caduta di quattro civilta leggendarie: romani, egiziani, giapponesi e aztechi. Scopriamo le cause del loro declino.\n\nA seguire (22:25): Le grandi civilta della storia",
       "thumbnail": "https://images.open-epg.com/19396.png"
     },
     {
-      "title": "Sky Investigation.it - 19:15 Sister Boniface Mysteries 04 Ep.01 - Biff! Pow! Zap!",
+      "title": "Sky Investigation.it - 21:45 Spaventapasseri assassino",
       "link": "ignoreme",
-      "info": "In onda: 19:15 - 20:05\n\nS4 Ep1 Sister Boniface Mysteries 04 Ep.01 - Biff! Pow! Zap! - Sorella Boniface indaga sul caso della misteriosa morte di un membro del cast durante le prove della pantomima della Great Slaughter Amateur Dramatics Society.\n\nA seguire (20:05): Sister Boniface Mysteries 04 Ep.02 - Spaventapasseri Assassino",
+      "info": "In onda: 21:45 - 22:40\n\nS4 Ep2 Spaventapasseri assassino - Sorella Boniface indaga su un incidente di scena provocato da un sabotaggio, dopo che lattrice protagonista della serie precipita e muore.\n\nA seguire (22:40): Law and Order - I due volti della...",
       "thumbnail": "https://images.open-epg.com/19398.png"
     },
     {
-      "title": "Sky Nature.it - 19:15 Nord America selvaggio",
+      "title": "Sky Nature.it - 21:10 Shark with Steve Backshall",
       "link": "ignoreme",
-      "info": "In onda: 19:15 - 20:15\n\nS1 Ep1 La costa e le sue stagioni - Vivi un viaggio emozionante tra i luoghi piu straordinari dellAlaska.\n\nA seguire (20:15): Nord America selvaggio",
+      "info": "In onda: 21:10 - 22:00\n\nS1 Ep2 Gli squali dellOceano Indiano - Steve scopre gli squali dellOceano Indiano, che affrontano le minacce del cambiamento climatico, dellinquinamento e della pesca eccessiva.\n\nA seguire (22:00): Balene con Steve Backshall",
       "thumbnail": "https://images.open-epg.com/19393.png"
     },
     {
-      "title": "Sky News.it - 19:00 UK Tonight With Sarah-Jane Mee",
+      "title": "Sky News.it - 21:30 The Wrap With Anna Botting",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 19:30\n\nSarah-Jane Mee has all the latest news from across the UK.\n\nA seguire (19:30): UK Tonight With Sarah-Jane Mee",
+      "info": "In onda: 21:30 - 22:00\n\nDebate, analysis and insight on the biggest news stories of the day from the UK and around the world.\n\nA seguire (22:00): The Wrap With Anna Botting",
       "thumbnail": "https://images.open-epg.com/19400.png"
     },
     {
-      "title": "Sky Serie.it - 19:15 A casa tutti bene - La serie",
+      "title": "Sky Serie.it - 21:50 Fire Country",
       "link": "ignoreme",
-      "info": "In onda: 19:15 - 20:05\n\nCarlo e Riccardo avrebbero trovato un accordo per la gestione del ristorante quando dei malviventi attaccano il\n\nA seguire (20:05): A casa tutti bene - La serie",
+      "info": "In onda: 21:50 - 22:35\n\nS3 Ep14 Trappola mortale - Mentre la squadra sta controllando la casa di un accumulatore compulsivo, scoppia un incendio. Nel frattempo, Vince e Sharon affrontano i problemi cognitivi del padre di Vince.\n\nA seguire (22:35): Friends",
       "thumbnail": "https://images.open-epg.com/19402.png"
     },
     {
-      "title": "Sky Sport 4K.it - 19:00 Psg - Bayern Monaco",
+      "title": "Sky Sport 4K.it - 21:00 Champions League Show - Ep. 29 - Champions League Show 28/04/2026",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 21:00\n\nPsg - Bayern Monaco - Francesi alla 3a semifinale di fila in Champions. Bayern alla 2a nelle ultime 3 stagioni. Ha vinto gli ultimi 5 precedenti di UCL, tra cui 3 a Parigi. TC: Marianella-Montolivo\n\nA seguire (21:00): Champions League Show - Ep. 29 - Champions League Show 28/04/2026",
+      "info": "In onda: 21:00 - 22:00\n\nChampions League Show Il riepilogo delle partite di Champions League con interviste ai protagonisti della giornata.\n\nA seguire (22:00): Champions League Show - After Party - Ep. 29 - Champions League Show - After Party 28/04/2026",
       "thumbnail": "https://images.open-epg.com/19403.png"
     },
     {
-      "title": "Sky Sport Calcio.it - 19:00 Goleador - Ep. 36 - Goleador Lora Dei Gol 26/04/2026",
+      "title": "Sky Sport Calcio.it - 21:15 Psg - Bayern Monaco",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 20:00\n\nEp.36 - Tutti i gol e le immagini piu belle della Serie A, della Premier League e della Bundesliga. Senza dimenticare le spettacolari coppe europee. In studio Giorgia Cenni.\n\nA seguire (20:00): Uefa EuropaandConference League Preview Ep.18 27/04/2026",
+      "info": "In onda: 21:15 - 23:15\n\nPsg - Bayern Monaco - Francesi alla 3a semifinale di fila in Champions. Bayern alla 2a nelle ultime 3 stagioni. Ha vinto gli ultimi 5 precedenti di UCL, tra cui 3 a Parigi. TC: Marianella-Montolivo\n\nA seguire (23:15): Premier League Review",
       "thumbnail": "https://images.open-epg.com/19405.png"
     },
     {
-      "title": "Sky Sport F1.it - 19:00 GP Miami",
+      "title": "Sky Sport F1.it - 21:00 Stati Uniti 2000 Indianapolis - F1",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 20:00\n\nEdizione n.74 del mondiale. 24 gran premi e 20 piloti con un solo obiettivo: dimostrare di essere il piu veloce. Telecronaca di Carlo Vanzini, Marc Gene e Roberto Chinchero.\n\nA seguire (20:00): Ep.1",
+      "info": "In onda: 21:00 - 22:05\n\nStati Uniti 2000 - Vittorioso a Monza, Schumacher tallona Hakkinen a due punti, quando siamo a tre gare dal termine del mondiale 2000. Il ritorno a Indy vede la pole di Schumi davanti a Coulthard.\n\nA seguire (22:05): Stati Uniti 1984 - F1",
       "thumbnail": "https://images.open-epg.com/19406.png"
     },
     {
-      "title": "Sky Sport Golf.it - 19:00 Joburg Open: Giorno 4",
+      "title": "Sky Sport Golf.it - 21:50 Giorno 4",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 22:00\n\nJoburg Open: Giorno 4 - Da Houghton Golf Club, Johannesburg, Sudafrica\n\nA seguire (22:00): Giorno 4",
+      "info": "In onda: 21:50 - 00:55\n\nGiorno 4 - DallAugusta National Golf Club di Augusta, Stati Uniti\n\nA seguire (00:55): Dubai Classic: Giorno 4",
       "thumbnail": "https://images.open-epg.com/19407.png"
     },
     {
-      "title": "Sky Sport MotoGP.it - 19:00 Misano, Supersport 600: Gara 1",
+      "title": "Sky Sport Max.it - 21:45 Icarus Ultra - Stag. Icarus Ultra 2025 - Icarus Ultra 2025 Ep.30 27/04/2026",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 19:45\n\nMisano, Supersport 600: Gara 1 - Tutta la sintesi delle piu importanti gare del Campionato Italiano Velocita (CIV).\n\nA seguire (19:45): Misano, Superbike: Gara 1",
+      "info": "In onda: 21:45 - 22:15\n\nEp.30 - Avventure, sfide, imprese e curiosita dal mondo degli sport outdoor: da 18 anni Icarus Ultra racconta storie straordinarie di donne e uomini ordinari.\n\nA seguire (22:15): Italia - Scozia",
+      "thumbnail": "https://images.open-epg.com/19408.png"
+    },
+    {
+      "title": "Sky Sport MotoGP.it - 21:15 Misano, Moto3: Gara 1",
+      "link": "ignoreme",
+      "info": "In onda: 21:15 - 22:00\n\nPrimo appuntamento con il Campionato Italiano Velocita del 2026 - Classe Moto3, in pista a Misano per la race 1. Telecronaca di Andrea Minerva\n\nA seguire (22:00): Reparto Corse Moto GP",
       "thumbnail": "https://images.open-epg.com/19409.png"
     },
     {
-      "title": "Sky Sport Uno.it - 19:00 Psg - Bayern Monaco",
+      "title": "Sky Sport Tennis.it - 20:00 8a giornata",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 21:00\n\nPsg - Bayern Monaco - Francesi alla 3a semifinale di fila in Champions. Bayern alla 2a nelle ultime 3 stagioni. Ha vinto gli ultimi 5 precedenti di UCL, tra cui 3 a Parigi. TC: Marianella-Montolivo\n\nA seguire (21:00): Champions League Show - Ep. 29 - Champions League Show 28/04/2026",
+      "info": "In onda: 20:00 - 22:00\n\n8a giornata - ATP and WTA 1000 Madrid\n\nA seguire (22:00): Tennis AtpandWta - Ep. 174 - Tennis Atp Masters 1000andWta 1000 2026 Madrid 8a Giornata (Solo Repl) 28/04/2026",
+      "thumbnail": "https://images.open-epg.com/19404.png"
+    },
+    {
+      "title": "Sky Sport Uno.it - 21:00 Champions League Show - Ep. 29 - Champions League Show 28/04/2026",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 22:00\n\nChampions League Show Il riepilogo delle partite di Champions League con interviste ai protagonisti della giornata.\n\nA seguire (22:00): Champions League Show - After Party - Ep. 29 - Champions League Show - After Party 28/04/2026",
       "thumbnail": "https://images.open-epg.com/19410.png"
     },
     {
       "title": "Sky Sport.it - 18:00 Psg - Bayern Monaco",
       "link": "ignoreme",
-      "info": "In onda: 18:00 - 23:00\n\nCod. 412974 - UEFA Champions League - Semifinale (Andata). Calcio dinizio ore 21:00.",
+      "info": "In onda: 18:00 - 23:00\n\nCod. 412974 - UEFA Champions League - Semifinale (Andata). Calcio dinizio ore 21:00.\n\nA seguire (18:00): 30/04/2026",
       "thumbnail": "https://images.open-epg.com/19382.png"
     },
     {
-      "title": "Sky Uno.it - 19:15 Cucine da incubo",
+      "title": "Sky TG24.it - 21:50 Sky Meteo24",
       "link": "ignoreme",
-      "info": "In onda: 19:15 - 20:30\n\nA due passi da Prato ce\n\nA seguire (20:30): Cucine da incubo",
+      "info": "In onda: 21:50 - 22:00\n\nPrevisioni meteo dettagliate e sempre aggiornate 24 ore al giorno. Le previsioni regionali, nazionali ed internazionali.\n\nA seguire (22:00): Skyline",
+      "thumbnail": "https://images.open-epg.com/19411.png"
+    },
+    {
+      "title": "Sky Uno.it - 20:50 Cucine da incubo",
+      "link": "ignoreme",
+      "info": "In onda: 20:50 - 22:05\n\nS12 Ep1 I Carnaloni. Torre del Greco - Antonino Cannavacciuolo aiutera Ciro e Lanfranco, amici e proprietari del ristorante I Carnaloni, aperto da meno di due anni a Torre del Greco ma gia in crisi.\n\nA seguire (22:05): Cucine da incubo",
       "thumbnail": "https://images.open-epg.com/19413.png"
     },
     {
-      "title": "Zona Dazn 2.it - 22:00 Nessun evento in onda",
+      "title": "ZONA DAZN.it - 21:02 Mandela Keita",
       "link": "ignoreme",
-      "info": "In onda: 22:00 - 22:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (22:00): Nessun evento in onda",
+      "info": "In onda: 21:02 - 23:00\n\nMandela Keita\n\nA seguire (23:00): Stag. 2019 - DAZN 1",
+      "thumbnail": "https://images.open-epg.com/1700.png"
+    },
+    {
+      "title": "Zona Dazn 2.it - 16:00 Nessun evento in onda",
+      "link": "ignoreme",
+      "info": "In onda: 16:00 - 22:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (22:00): Nessun evento in onda",
       "thumbnail": "https://images.open-epg.com/7515553.png"
     },
     {
-      "title": "Zona Dazn.it - 22:30 DAZN 1",
+      "title": "Zona Dazn.it - 21:02 Mandela Keita",
       "link": "ignoreme",
-      "info": "In onda: 22:30 - 22:30\n\nDAZN 1\n\nA seguire (22:30): DAZN 1",
+      "info": "In onda: 21:02 - 23:00\n\nMandela Keita - Un format che parla dellidentita, del peso specifico, della memoria e del futuro: ospite Mandela Keita, centrocampista del Parma.\n\nA seguire (23:00): DAZN 1",
       "thumbnail": "https://images.open-epg.com/7515557.png"
     }
   ]
