@@ -6,7 +6,13 @@
     {
       "title": "Androide - EPG",
       "link": "ignoreme",
-      "info": "Aggiornato: 05/05/2026 19:05"
+      "info": "Aggiornato: 05/05/2026 21:54"
+    },
+    {
+      "title": "DAZN 1.it - 20:24 Bostik: La Bodega de D10S",
+      "link": "ignoreme",
+      "info": "In onda: 20:24 - 22:00\n\nLa storia di Antonio Esposito, noto come Bostik nei Quartieri Spagnoli di Napoli che negli anni 90 fece realizzare un murales in onore del Pibe de Oro. Oggi la piazza dellopera e meta turistica.\n\nA seguire (22:00): DAZN 1",
+      "thumbnail": "https://images.open-epg.com/19310.png"
     },
     {
       "title": "DAZN 2.it - 16:00 Nessun evento in onda",
@@ -15,165 +21,201 @@
       "thumbnail": "https://images.open-epg.com/19311.png"
     },
     {
-      "title": "Sky Arte.it - 18:40 ArtBox 1^TV",
+      "title": "Sky Arte.it - 21:35 Sa.L.A.D. - San Lorenzo Art District",
       "link": "ignoreme",
-      "info": "In onda: 18:40 - 19:15\n\nS11 Ep24 ArtBox - Partiamo alla scoperta di una nuova mostra darte in Italia e nel mondo, in compagnia di esperti darte, collezionisti e curatori. Uno spazio dedicato ad incontri con artisti e critici.\n\nA seguire (19:15): Grand Tour - Viaggio in Italia",
+      "info": "In onda: 21:35 - 22:05\n\nSan Lorenzo, il piu grande distretto artistico dItalia: un viaggio tra studi, spazi espositivi e librerie indipendenti, la rete creativa che anima il quartiere.\n\nA seguire (22:05): Grand Tour - Viaggio in Italia",
       "thumbnail": "https://images.open-epg.com/19379.png"
     },
     {
-      "title": "Sky Cinema Action.it - 19:00 The Bourne Identity",
+      "title": "Sky Atlantic.it - 21:15 Euphoria",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 21:00\n\nMatt Damon nel primo capitolo della saga action. Ripescato in mare e sofferente di amnesia, lex agente segreto Jason Bourne cerca di ricostruire il suo passato e la sua identita (USA/DEU 2002)\n\nA seguire (21:00): Nemico pubblico",
+      "info": "In onda: 21:15 - 22:25\n\nMentre a Rue viene proposto un accordo rischioso, Nate si scontra con il consiglio comunale, Maddy affida a Cassie un incarico e Lexi chiede a Jules di realizzare un dipinto.\n\nA seguire (22:25): S.W.A.T.",
+      "thumbnail": "https://images.open-epg.com/19381.png"
+    },
+    {
+      "title": "Sky Cinema Action.it - 21:00 Nemico pubblico",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 23:25\n\nMichael Mann dirige Johnny Depp, Christian Bale e Marion Cotillard nella biografia di John Dillinger, il famigerato gangster che impauri e affascino lAmerica degli anni 30 (USA 2009)\n\nA seguire (23:25): Battleship",
       "thumbnail": "https://images.open-epg.com/19383.png"
     },
     {
-      "title": "Sky Cinema Comedy.it - 19:00 Le ragazze del Pandoras Box",
+      "title": "Sky Cinema Comedy.it - 20:40 Nati stanchi",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 20:40\n\nJackie Weaver e Lucy Liu nel mondo delle drag queen. Dopo la morte del figlio, ripudiato in passato per la sua omosessualita, Maybelline accetta di gestirne il night club di San Francisco (CAN 2020)\n\nA seguire (20:40): Nati stanchi",
+      "info": "In onda: 20:40 - 22:05\n\nPrima commedia da protagonisti per Ficarra e Picone. Due giovani siciliani disoccupati e svogliati partecipano ai concorsi e si presentano ai colloqui facendo in modo di non essere assunti (ITA 2001)\n\nA seguire (22:05): I delitti del BarLume - Il telefono senza fili",
       "thumbnail": "https://images.open-epg.com/19384.png"
     },
     {
-      "title": "Sky Cinema Drama.it - 19:00 Per niente al mondo",
+      "title": "Sky Cinema Drama.it - 20:50 Conclave",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 20:50\n\nGuido Caprino prova a riprendere in mano la sua vita nel film di Ciro DEmilio. La vita di Bernardo cambia drasticamente quando viene incarcerato con laccusa di associazione a delinquere (ITA 2022)\n\nA seguire (20:50): Conclave",
+      "info": "In onda: 20:50 - 22:55\n\nUn Oscar e un Golden Globe allacclamato film di Edward Berger ambientato nel mondo della Chiesa con Ralph Fiennes, Stanley Tucci, Sergio Castellitto e Isabella Rossellini (USA/GBR 2024)\n\nA seguire (22:55): Senza sangue",
       "thumbnail": "https://images.open-epg.com/19385.png"
     },
     {
-      "title": "Sky Cinema Family.it - 19:00 Sinbad - La leggenda dei sette mari",
+      "title": "Sky Cinema Due.it - 21:25 Il campione",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 20:30\n\nIl magico mondo del leggendario pirata in un gioiello danimazione targato Dreamworks. Sinbad viene ingiustamente accusato del furto dellinestimabile libro della pace. Per recuperarlo e salvare la vita dellamico Proteo dovra affrontare Eris, la terribile Dea del Caos (USA 2003)\n\nA seguire (20:30): Come far litigare mamma e papà",
+      "info": "In onda: 21:25 - 23:20\n\nEmozionante pellicola di Leonardo DAgostini con Stefano Accorsi e Andrea Carpenzano. Per disciplinare un giovane fuoriclasse, il presidente gli affianca un insegnante privato (ITA 2019)\n\nA seguire (23:20): Million Dollar Baby",
+      "thumbnail": "https://images.open-epg.com/19387.png"
+    },
+    {
+      "title": "Sky Cinema Family.it - 20:30 Come far litigare mamma e papà",
+      "link": "ignoreme",
+      "info": "In onda: 20:30 - 22:05\n\nBrillante commedia per tutta la famiglia con Giampaolo Morelli e Carolina Crescentini. Invidioso dei compagni di classe, Gabriele elabora un piano per far separare i suoi genitori (ITA 2024)\n\nA seguire (22:05): Wicked",
       "thumbnail": "https://images.open-epg.com/19388.png"
     },
     {
-      "title": "Sky Cinema Romance.it - 19:00 La verità è che non gli piaci abbastanza",
+      "title": "Sky Cinema Romance.it - 21:15 Big Wedding",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 21:15\n\n... abbastanza. - Spumeggiante commedia romantica con Jennifer Aniston, Ben Affleck, Jennifer Connelly e Scarlett Johansson. A Baltimora si intrecciano le vicende amorose di un gruppo di donne (USA/NLD 2009)\n\nA seguire (21:15): Big Wedding",
+      "info": "In onda: 21:15 - 22:50\n\nCommedia con Robert De Niro, Katherine Heigl, Susan Sarandon e Diane Keaton. In occasione delle nozze del figlio adottivo, due coniugi, separati da anni, fingono di andare daccordo (USA 2013)\n\nA seguire (22:50): Che cosa aspettarsi quando si aspetta",
       "thumbnail": "https://images.open-epg.com/19389.png"
     },
     {
-      "title": "Sky Cinema Suspense.it - 19:00 Inside Man",
+      "title": "Sky Cinema Suspense.it - 21:10 Inside Man: Most Wanted",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 21:15\n\nClive Owen, Denzel Washington e Jodie Foster in un thriller di Spike Lee. Una banda di rapinatori irrompe in una banca di New York. Un detective tratta la liberazione degli ostaggi (USA/GBR 2006)\n\nA seguire (21:15): Inside Man: Most Wanted",
+      "info": "In onda: 21:10 - 23:05\n\nThriller ad alta tensione, sequel del cult diretto da Spike Lee. Dopo una rapina in banca, un negoziatore della polizia si allea con un agente dellFBI per salvare gli ostaggi (USA 2019)\n\nA seguire (23:05): Nella morsa del ragno",
       "thumbnail": "https://images.open-epg.com/19390.png"
     },
     {
-      "title": "Sky Cinema Uno +24.it - 17:15 Testa o croce?",
+      "title": "Sky Cinema Uno +24.it - 20:55 No Other Choice - Non cè altra scelta",
       "link": "ignoreme",
-      "info": "In onda: 17:15 - 19:15\n\nAlessandro Borghi e John C. Reilly in un originale western presentato a Cannes. Dopo luccisione del marito, Rosa e Santino fuggono, ma su di lui pende una grossa taglia (US/IT 2026)\n\nA seguire (19:15): Breve storia damore",
+      "info": "In onda: 20:55 - 23:20\n\nLe contraddizioni della societa coreana nel successo di Park Chan-wook presentato a Venezia. Licenziato dopo 25 anni, un uomo rischia di vedere sgretolata la sua vita\n\nA seguire (23:20): Luomo dacciaio",
       "thumbnail": "https://images.open-epg.com/19391.png"
     },
     {
-      "title": "Sky Cinema Uno.it - 16:50 Robin Hood",
+      "title": "Sky Cinema Uno.it - 21:15 Giorni di tuono",
       "link": "ignoreme",
-      "info": "In onda: 16:50 - 19:15\n\nRidley Scott dirige Russell Crowe e Cate Blanchett. Tornato in patria dopo aver combattuto per lInghilterra, un arciere si ribella allusurpatore del trono di re Riccardo I (USA/GBR 2010)\n\nA seguire (19:15): Sotto attacco",
+      "info": "In onda: 21:15 - 23:05\n\nAction ad alta velocita con Tom Cruise, Nicole Kidman e Robert Duvall. Dopo un incidente, un pilota automobilistico cerca di rimettersi in pista grazie allaiuto di una bella neurologa (USA 1990)\n\nA seguire (23:05): Assassinio sul Nilo",
       "thumbnail": "https://images.open-epg.com/19392.png"
     },
     {
-      "title": "Sky Classica.it - 16:40 TAO: Tutti allOpera! - ep.7",
+      "title": "Sky Classica.it - 19:15 Wagner - Loro del Reno",
       "link": "ignoreme",
-      "info": "In onda: 16:40 - 17:15\n\nIl meraviglioso mondo della lirica a portata di tutti, raccontato dagli spazi trasformati delle Officine Grandi Riparazioni di Torino: alla scoperta della Turandot di Giacomo Puccini - a cura di Mario Acampa (2018)\n\nA seguire (19:15): Wagner - Loro del Reno",
+      "info": "In onda: 19:15 - 22:00\n\nDramma musicale in un atto su libretto dello stesso compositore (1851-54) - con M.Volle, R.Villazon, J.M.Kraenzle - C.Thielemann, dir. - D.Tcherniakov, reg. (Berlino, Staatsoper unter den Linden - 2022)\n\nA seguire (22:00): Beethoven - Sinfonia n.1",
       "thumbnail": "https://images.open-epg.com/4100139.png"
     },
     {
-      "title": "Sky Crime.it - 19:05 Limpostore: La storia di Alessandro Proto",
+      "title": "Sky Crime.it - 21:50 GURU - La storia di Matteo Cambi",
       "link": "ignoreme",
-      "info": "In onda: 19:05 - 20:55\n\n...Alessandro Proto: La storia di Alessandro Proto, che ha ingannato numerose vittime con promesse di guadagni facili.\n\nA seguire (20:55): GURU - La storia di Matteo Cambi",
+      "info": "In onda: 21:50 - 22:45\n\nS1 Ep2 Parte 2 - Lascesa e la caduta dellimprenditore Matteo Cambi che, nei primi anni Duemila, trasformo unintuizione in un brand iconico, simbolo di unepoca di eccessi e ambizione.\n\nA seguire (22:45): Delitti",
       "thumbnail": "https://images.open-epg.com/19394.png"
     },
     {
-      "title": "Sky Investigation.it - 18:15 Delitti in Paradiso",
+      "title": "Sky Documentaries +1.it - 21:05 Stonehenge: The Hidden Truth",
       "link": "ignoreme",
-      "info": "In onda: 18:15 - 19:15\n\nS12 Ep6 Un omicidio annunciato - Neville riceve una lettera con scritto che quel giorno stesso un omicidio sarebbe stato compiuto.\n\nA seguire (19:15): Le indagini di Sister Boniface 1^TV",
+      "info": "In onda: 21:05 - 22:00\n\nNuove tecnologie svelano un enorme anello nascosto a Stonehenge rivelando il suo ultimo grande monumento.\n\nA seguire (22:00): Pompei. Eros e mito",
+      "thumbnail": "https://images.open-epg.com/nologo.png"
+    },
+    {
+      "title": "Sky Documentaries.it - 21:00 Pompei. Eros e mito",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 22:25\n\nUn viaggio cinematografico tra arte e mistero alla scoperta del sito archeologico piu conosciuto al mondo: Pompei. A condurci attraverso le sue strade sara Isabella Rossellini\n\nA seguire (22:25): Echo: Quello che rimane",
+      "thumbnail": "https://images.open-epg.com/19396.png"
+    },
+    {
+      "title": "Sky Investigation.it - 21:45 Le indagini di Sister Boniface",
+      "link": "ignoreme",
+      "info": "In onda: 21:45 - 22:40\n\nS4 Ep4 Tacchi da urlo - Quando un membro di una banda viene ucciso, Suor Boniface deve catturare lassassino alla festa di compleanno della signora Clam.\n\nA seguire (22:40): Speciale: Rosa Elettrica",
       "thumbnail": "https://images.open-epg.com/19398.png"
     },
     {
-      "title": "Sky Nature.it - 18:20 Nel selvaggio blu",
+      "title": "Sky Nature.it - 21:10 Shark with Steve Backshall",
       "link": "ignoreme",
-      "info": "In onda: 18:20 - 19:15\n\nS1 Ep4 Belize - La barriera corallina del Belize e la seconda barriera corallina piu grande del mondo e le sue acque ospitano un ecosistema marino che include pesci rari ed esotici.\n\nA seguire (19:15): Nord America selvaggio",
+      "info": "In onda: 21:10 - 22:00\n\nS1 Ep3 Gli squali dellOceano Pacifico - Steve Backshall esplora lOceano Pacifico sulle tracce degli squali che qui si riproducono, ma che ora sono minacciati dalla pesca intensiva.\n\nA seguire (22:00): Balene con Steve Backshall",
       "thumbnail": "https://images.open-epg.com/19393.png"
     },
     {
-      "title": "Sky News.it - 19:00 UK Tonight With Sarah-Jane Mee",
+      "title": "Sky News.it - 21:30 The Wrap With Anna Botting",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 19:30\n\nSarah-Jane Mee has all the latest news from across the UK.\n\nA seguire (19:30): UK Tonight With Sarah-Jane Mee",
+      "info": "In onda: 21:30 - 22:00\n\nDebate, analysis and insight on the biggest news stories of the day from the UK and around the world.\n\nA seguire (22:00): The Wrap With Anna Botting",
       "thumbnail": "https://images.open-epg.com/19400.png"
     },
     {
-      "title": "Sky Sport 4K.it - 19:00 Calcio Uefa Champions League - Ep. 178 - Calcio Ucl Semifinali (Ritorno) Arsenal/ Atletico Madrid 05/05/2026",
+      "title": "Sky Serie.it - 21:50 Fire Country",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 21:00\n\n... UEFA Champions League. - Gunners per ritrovare una finale di Champions League dopo 20 anni. Atletico Madrid dopo 10 anni. 1-1 il risultato della gara dandata. TC: Zancan-Marchegiani\n\nA seguire (21:00): Champions League Show 05/05/2026",
+      "info": "In onda: 21:50 - 22:35\n\nS3 Ep16 Soldi sporchi - Bode e sua zia, lo sceriffo Mickey Fox, indagano sul tentato omicidio del loro ex padre, Wes Fox.\n\nA seguire (22:35): Friends",
+      "thumbnail": "https://images.open-epg.com/19402.png"
+    },
+    {
+      "title": "Sky Sport 4K.it - 21:00 Champions League Show 05/05/2026",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 22:00\n\n... League Show. - Il riepilogo delle partite di Champions League con interviste ai protagonisti della giornata.\n\nA seguire (22:00): Champions League Show - After Party - Ep. 31 - Champions League Show - After Party 05/05/2026",
       "thumbnail": "https://images.open-epg.com/19403.png"
     },
     {
-      "title": "Sky Sport Calcio.it - 19:00 Ep.37",
+      "title": "Sky Sport Calcio.it - 21:35 Calcio Campionato Italiano Serie A - Stag. Calcio Campionato Italiano Serie A 2025/2026 - Calcio Serie A 35ga Roma/ Fiorentina 04/05/2026",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 20:00\n\nLa trasmissione dedicata ai gol della Serie A, con la\n\nA seguire (20:00): Uefa EuropaandConference League Magazine - Ep. 19 - Uefa EuropaandConference League Magazine Ep.19 04/05/2026",
+      "info": "In onda: 21:35 - 22:05\n\nGiallorossi sesti con 7 punti in 3 giornate. Viola imbattuti da 7 turni con 3 vittorie e 4 pareggi.Non vincono allOlimpico da 7 stagioni, 2 pari e 5 ko. TC: Compagnoni-Montolivo\n\nA seguire (22:05): Calcio Uefa Champions League - Ep. 178 - Calcio Ucl Semifinali (Ritorno) Arsenal/ Atletico Madrid 05/05/2026",
       "thumbnail": "https://images.open-epg.com/19405.png"
     },
     {
-      "title": "Sky Sport F1.it - 19:00 GP Miami: Gara Sprint",
+      "title": "Sky Sport F1.it - 21:00 Motori Race Anatomy F1 - Stag. Motori Race Anatomy F1 2026 - Motori Race Anatomy F1 2026 Ep.4 Miami 03/05/2026",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 20:00\n\nGP Miami: Gara Sprint - Prima gara del weekend sulla distanza di 100km: chi conquistera gli 8 punti in palio per il vincitore? Telecronaca di Carlo Vanzini, Marc Gene e Roberto Chinchero.\n\nA seguire (20:00): GP Miami: Gara",
+      "info": "In onda: 21:00 - 22:00\n\nMiami - Lanalisi del Gran Premio disputato per commentare la gara insieme agli ospiti in studio. Riviviamo i brividi della corsa attraverso le immagini piu spettacolari e ascoltiamo i commenti a caldo dei protagonisti.\n\nA seguire (22:00): GP Giappone: Gara",
       "thumbnail": "https://images.open-epg.com/19406.png"
     },
     {
-      "title": "Sky Sport Golf.it - 19:00 Giorno 4",
+      "title": "Sky Sport Golf.it - 19:05 Giorno 4",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 22:00\n\nGiorno 4 - DallAugusta National Golf Club di Augusta, Stati Uniti\n\nA seguire (22:00): South African Open Championship, 4a giornata",
+      "info": "In onda: 19:05 - 22:00\n\nGiorno 4 - DallAugusta National Golf Club di Augusta, Stati Uniti\n\nA seguire (22:00): South African Open Championship, 4a giornata",
       "thumbnail": "https://images.open-epg.com/19407.png"
     },
     {
-      "title": "Sky Sport Max.it - 19:00 Ep.2",
+      "title": "Sky Sport Max.it - 21:25 Ep.6",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 19:30\n\nEp.2 - Alle origini del nuovo talento italiano della F1: in questo episodio il percorso di Antonelli nella massima categoria. Gli alti e bassi dellanno da rookie, prima della definitiva esplosione del 2026.\n\nA seguire (19:30): Ep.3",
+      "info": "In onda: 21:25 - 22:00\n\nRiviviamo le fasi piu emozionanti delle gare del World Rally Championship.\n\nA seguire (22:00): Nairobi",
       "thumbnail": "https://images.open-epg.com/19408.png"
     },
     {
-      "title": "Sky Sport MotoGP.it - 19:00 Motori Moto Gp 2021",
+      "title": "Sky Sport MotoGP.it - 21:00 Ungheria: Gara 2",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 20:00\n\nMotori Moto Gp 2021 [Gp Francia 21 Motogp] Gara Motori Moto Gp 2021\n\nA seguire (20:00): Reparto Corse Moto GP",
+      "info": "In onda: 21:00 - 22:00\n\nQuarto Round della stagione 2026. Dal Balaton Park, in Ungheria, la Race 2 della World Superbike. Telecronaca Vercellesi - Temporali\n\nA seguire (22:00): Francia, Le Mans 2005. MotoGP - MOTOGP",
       "thumbnail": "https://images.open-epg.com/19409.png"
     },
     {
-      "title": "Sky Sport Tennis.it - 18:30 Tennis AtpandWta - Stag. Tennis AtpandWta 2026 - Tennis Atp Masters 1000andWta 1000 2026 Roma 1a Giornata (Solo Repl) 05/05/2026",
+      "title": "Sky Sport Tennis.it - 21:45 Anteprima",
       "link": "ignoreme",
-      "info": "In onda: 18:30 - 21:00\n\nATP and WTA 1000 Roma\n\nA seguire (21:00): Panatta and Bertolucci Tennis Heroes 2026 Ep.1 01/05/2026",
+      "info": "In onda: 21:45 - 22:00\n\n... Internazionali dItalia. - Immagini e racconti dietro le quinte degli Internazionali dItalia di tennis. Stefano Meloccaro, nel ruolo di\n\nA seguire (22:00): Internazionali dItalia",
       "thumbnail": "https://images.open-epg.com/19404.png"
     },
     {
-      "title": "Sky Sport Uno.it - 19:00 Calcio Uefa Champions League - Ep. 178 - Calcio Ucl Semifinali (Ritorno) Arsenal/ Atletico Madrid 05/05/2026",
+      "title": "Sky Sport Uno.it - 21:00 Champions League Show 05/05/2026",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 21:00\n\n... UEFA Champions League. - Gunners per ritrovare una finale di Champions League dopo 20 anni. Atletico Madrid dopo 10 anni. 1-1 il risultato della gara dandata. TC: Zancan-Marchegiani\n\nA seguire (21:00): Champions League Show 05/05/2026",
+      "info": "In onda: 21:00 - 22:00\n\nIl riepilogo delle partite di Champions League con interviste ai protagonisti della giornata.\n\nA seguire (22:00): Champions League Show - After Party - Ep. 31 - Champions League Show - After Party 05/05/2026",
       "thumbnail": "https://images.open-epg.com/19410.png"
     },
     {
       "title": "Sky Sport.it - 18:00 Calcio Uefa Champions League - Ep. 178 - Calcio Ucl Semifinali (Ritorno) Arsenal/ Atletico Madrid 05/05/2026",
       "link": "ignoreme",
-      "info": "In onda: 18:00 - 23:00\n\nCod. 412985 - UEFA Champions League - Semifinale (Ritorno). Calcio dinizio ore 21:00.",
+      "info": "In onda: 18:00 - 23:00\n\nCod. 412985 - UEFA Champions League - Semifinale (Ritorno). Calcio dinizio ore 21:00.\n\nA seguire (08:45): 3a giornata",
       "thumbnail": "https://images.open-epg.com/19382.png"
     },
     {
-      "title": "Sky TG24.it - 19:00 TG24 mezzora",
+      "title": "Sky TG24.it - 21:50 Sky Meteo24",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 19:37\n\nTelegiornale in diretta. I giornali di oggi, lo Sport, il Meteo.\n\nA seguire (19:37): Wow",
+      "info": "In onda: 21:50 - 22:00\n\nPrevisioni meteo dettagliate e sempre aggiornate 24 ore al giorno. Le previsioni regionali, nazionali ed internazionali.\n\nA seguire (22:00): Skyline",
       "thumbnail": "https://images.open-epg.com/19411.png"
     },
     {
-      "title": "Sky Uno.it - 17:00 GialappaShow",
+      "title": "Sky Uno.it - 20:40 Cucine da incubo",
       "link": "ignoreme",
-      "info": "In onda: 17:00 - 19:25\n\nTorna lirriverente show della Gialappas Band e del Mago Forest, un appuntamento cult tra comicita surreale, grandi ospiti e commenti esilaranti alle trasmissioni piu amate.\n\nA seguire (19:25): Cucine da incubo",
+      "info": "In onda: 20:40 - 21:55\n\nS12 Ep2 La Furba. Prato - A due passi da Prato ce\n\nA seguire (21:55): Cucine da incubo",
       "thumbnail": "https://images.open-epg.com/19413.png"
     },
     {
-      "title": "Zona Dazn 2.it - 22:00 Nessun evento in onda",
+      "title": "ZONA DAZN.it - 20:24 Bostik: La Bodega de D10S",
       "link": "ignoreme",
-      "info": "In onda: 22:00 - 22:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (22:00): Nessun evento in onda",
+      "info": "In onda: 20:24 - 22:00\n\nLa storia di Antonio...\n\nA seguire (22:00): Stag. 2019 - DAZN 1",
+      "thumbnail": "https://images.open-epg.com/1700.png"
+    },
+    {
+      "title": "Zona Dazn 2.it - 16:00 Nessun evento in onda",
+      "link": "ignoreme",
+      "info": "In onda: 16:00 - 22:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (22:00): Nessun evento in onda",
       "thumbnail": "https://images.open-epg.com/7515553.png"
     },
     {
-      "title": "Zona Dazn.it - 22:30 DAZN 1",
+      "title": "Zona Dazn.it - 20:24 Bostik: La Bodega de D10S",
       "link": "ignoreme",
-      "info": "In onda: 22:30 - 22:30\n\nDAZN 1\n\nA seguire (22:30): DAZN 1",
+      "info": "In onda: 20:24 - 22:00\n\nLa storia di Antonio Esposito, noto come Bostik nei Quartieri Spagnoli di Napoli che negli anni 90 fece realizzare un murales in onore del Pibe de Oro. Oggi la piazza dellopera e meta turistica.\n\nA seguire (22:00): DAZN 1",
       "thumbnail": "https://images.open-epg.com/7515557.png"
     }
   ]
