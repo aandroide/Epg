@@ -6,7 +6,13 @@
     {
       "title": "Androide - EPG",
       "link": "ignoreme",
-      "info": "Aggiornato: 08/05/2026 19:04"
+      "info": "Aggiornato: 08/05/2026 21:51"
+    },
+    {
+      "title": "DAZN 1.it - 19:18 Cesc Fabregas",
+      "link": "ignoreme",
+      "info": "In onda: 19:18 - 22:00\n\nCesc Fabregas - Puntata speciale con il Profeta Hernanes e Cesc Fabregas! Lallenatore del Como, da leggenda del calcio internazionale, e uno degli ex giocatori appena tornati nel gioco, per la campagna Future Stars.\n\nA seguire (22:00): DAZN 1",
+      "thumbnail": "https://images.open-epg.com/19310.png"
     },
     {
       "title": "DAZN 2.it - 16:00 Nessun evento in onda",
@@ -15,124 +21,178 @@
       "thumbnail": "https://images.open-epg.com/19311.png"
     },
     {
-      "title": "Sky Cinema Action.it - 19:00 Fight Or Flight - Tensione ad alta quota",
+      "title": "Sky Arte.it - 21:15 Patti Smith Electric Poet",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 20:50\n\nFolle action-comedy con Josh Hartnett protagonista. Un ex agente speciale viene reclutato per identificare su un volo un misterioso personaggio. Laereo pero, e pieno di assassini (US/GB 2025)\n\nA seguire (20:50): Upgrade",
+      "info": "In onda: 21:15 - 22:10\n\nPoetessa, attrice, musicista. Patti Smith arrivo a New York negli anni Sessanta diventando unicona vivente del rock, senza mai cedere al richiamo della celebrita.\n\nA seguire (22:10): Marley",
+      "thumbnail": "https://images.open-epg.com/19379.png"
+    },
+    {
+      "title": "Sky Atlantic.it - 21:05 Rosa Elettrica - In fuga con il nemico",
+      "link": "ignoreme",
+      "info": "In onda: 21:05 - 22:00\n\nRosa lavora nel reparto Nucleo Protezione Testimoni e come primo incarico le viene affidato Cociss, giovane e imprevedibile baby boss camorrista.\n\nA seguire (22:00): Rosa Elettrica - In fuga con il nemico",
+      "thumbnail": "https://images.open-epg.com/19381.png"
+    },
+    {
+      "title": "Sky Cinema Action.it - 20:50 Upgrade",
+      "link": "ignoreme",
+      "info": "In onda: 20:50 - 22:35\n\nAction fantascientifico con Logan Marshall-Green. Rimasto paralizzato dopo unaggressione in cui ha perso la moglie, Grey si fa impiantare un chip sperimentale per vendicarsi (AUS 2018)\n\nA seguire (22:35): Il gladiatore II",
       "thumbnail": "https://images.open-epg.com/19383.png"
     },
     {
-      "title": "Sky Cinema Comedy.it - 19:00 La leggenda di Al, John e Jack",
+      "title": "Sky Cinema Comedy.it - 20:50 Laereo più pazzo del mondo",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 20:50\n\nNel mondo dei gangster per una parodia con Aldo, Giovanni e Giacomo. New York, anni 50: dopo lennesimo incarico fallito, tre improbabili malavitosi devono nascondersi dal boss (ITA 2002)\n\nA seguire (20:50): Laereo più pazzo del mondo",
+      "info": "In onda: 20:50 - 22:20\n\nCult del cinema demenziale con Leslie Nielsen. Un tassista si imbarca sul volo dove lex fidanzata lavora come hostess per riconquistarla. Quando i motori vanno in avaria, inizia il delirio (USA 1980)\n\nA seguire (22:20): I delitti del BarLume - La loggia del cinghiale",
       "thumbnail": "https://images.open-epg.com/19384.png"
     },
     {
-      "title": "Sky Cinema Drama.it - 19:00 Lamico fedele",
+      "title": "Sky Cinema Drama.it - 21:05 Lultimo giorno sulla Terra",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 21:05\n\nNaomi Watts e Bill Murray in un toccante film tratto dal romanzo di Sigrid Nunez. Dopo la perdita di un caro amico, una scrittrice prende in custodia il suo adorato alano (USA 2024)\n\nA seguire (21:05): Lultimo giorno sulla Terra",
+      "info": "In onda: 21:05 - 22:35\n\nSci-fi movie con Jean Reno e Hugo Becker, opera prima di Romain Quirot. 2050: un planetoide ha desertificato il globo e ora sta per distruggerlo. Paul e lunico astronauta che puo fermarlo (FRA 2020)\n\nA seguire (22:35): Dogman (2018)",
       "thumbnail": "https://images.open-epg.com/19385.png"
     },
     {
-      "title": "Sky Cinema Due.it - 16:45 A.I. - Intelligenza Artificiale",
+      "title": "Sky Cinema Due.it - 21:10 Rosa Elettrica - In fuga con il nemico",
       "link": "ignoreme",
-      "info": "In onda: 16:45 - 19:15\n\nDa unidea di Stanley Kubrick, unopera di fantascienza di Steven Spielberg. Un androide bambino, in grado di provare emozioni, intraprende un lungo viaggio per scoprire le proprie origini (USA 2001)\n\nA seguire (19:15): Rosa Elettrica - In fuga con il nemico",
+      "info": "In onda: 21:10 - 22:10\n\nRosa lavora nel reparto Nucleo Protezione Testimoni e come primo incarico le viene affidato Cociss, giovane e imprevedibile baby boss camorrista.\n\nA seguire (22:10): Rosa Elettrica - In fuga con il nemico",
       "thumbnail": "https://images.open-epg.com/19387.png"
     },
     {
-      "title": "Sky Cinema Family.it - 19:00 Baby Boss 2 - Affari di famiglia",
+      "title": "Sky Cinema Family.it - 20:50 Il giorno piu bello del mondo",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 20:50\n\nSequel dellanimazione di successo targata Dreamworks. Tim e Ted sono diventati adulti e si sono allontanati luno dallaltro, finche una missione top secret non li costringe a riunirsi (USA 2021)\n\nA seguire (20:50): Il giorno piu bello del mondo",
+      "info": "In onda: 20:50 - 22:35\n\nCommedia di grande successo per tutta la famiglia diretta e interpretata da Alessandro Siani. Un impresario teatrale deve difendere un bambino speciale da un team di scienziati (ITA 2019)\n\nA seguire (22:35): Questo O Quello - Sergio Leone",
       "thumbnail": "https://images.open-epg.com/19388.png"
     },
     {
-      "title": "Sky Cinema Romance.it - 19:00 Ghost - Fantasma",
+      "title": "Sky Cinema Romance.it - 21:10 Quel mostro di suocera",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 21:10\n\n2 Oscar alla pellicola senza tempo con Patrick Swayze, Demi Moore e Whoopi Goldberg. Con laiuto di una medium, il fantasma di un uomo assassinato cerca di proteggere la fidanzata (USA 1990)\n\nA seguire (21:10): Quel mostro di suocera",
+      "info": "In onda: 21:10 - 22:55\n\nJennifer Lopez e Jane Fonda in una brillante commedia a tinte rosa. Una ragazza sta per sposare luomo ideale, ma linvadente futura suocera fara di tutto per renderle la vita un inferno (USA 2005)\n\nA seguire (22:55): Hotspot - Amore senza rete",
       "thumbnail": "https://images.open-epg.com/19389.png"
     },
     {
-      "title": "Sky Cinema Suspense.it - 19:00 Mon Crime - La colpevole sono io",
+      "title": "Sky Cinema Suspense.it - 20:50 Nosferatu",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 20:50\n\nFrancois Ozon dirige una commedia a tinte gialle nella Parigi degli anni 30. Una giovane aspirante attrice viene accusata dellomicidio di un famoso produttore. Nel cast Isabelle Huppert (FRA 2022)\n\nA seguire (20:50): Nosferatu",
+      "info": "In onda: 20:50 - 23:05\n\nBill Skarsgard, Lily-Rose Depp, Nicholas Hoult e Willem Dafoe nel remake di un classico dellhorror gotico, diretto da Robert Eggers. Un agente immobiliare viene inviato nei Carpazi, nello spettrale castello di un ambiguo conte, ossessionato dalla sposa del suo ospite (USA 2024)\n\nA seguire (23:05): Gli uccelli",
       "thumbnail": "https://images.open-epg.com/19390.png"
     },
     {
-      "title": "Sky Cinema Uno +24.it - 16:30 Troy",
+      "title": "Sky Cinema Uno +24.it - 21:05 Breve storia damore",
       "link": "ignoreme",
-      "info": "In onda: 16:30 - 19:15\n\nBrad Pitt, Eric Bana e Orlando Bloom nel kolossal ispirato al poema omerico. Dopo il rapimento di Elena da parte di Paride, Agamennone guida gli spartani contro i troiani (USA/GBR 2004)\n\nA seguire (19:15): Scordato",
+      "info": "In onda: 21:05 - 22:50\n\nTradimento e ossessione nel film di Ludovica Rampoldi con Pilar Fogliati, Adriano Giannini e Valeria Golino. Due amanti segreti vedono la loro relazione cambiare radicalmente (IT 2025)\n\nA seguire (22:50): Benvenuti al Nord",
       "thumbnail": "https://images.open-epg.com/19391.png"
     },
     {
-      "title": "Sky Cinema Uno.it - 17:00 Schegge di paura",
+      "title": "Sky Cinema Uno.it - 21:00 Angeli E Demoni",
       "link": "ignoreme",
-      "info": "In onda: 17:00 - 19:15\n\nRichard Gere ed Edward Norton, premiato con il Golden Globe, in un thriller giudiziario. Un avvocato accetta di difendere un chierichetto accusato dellomicidio di un alto prelato (USA 1996)\n\nA seguire (19:15): Ipotesi di reato",
+      "info": "In onda: 21:00 - 23:20\n\nRon Howard dirige nuovamente Tom Hanks in un thriller tratto dal bestseller di Dan Brown. Uno studioso e chiamato a decifrare un simbolo enigmatico. E linizio di una serie di misteri (ITA/USA 2009)\n\nA seguire (23:20): Omicidio a Los Angeles",
       "thumbnail": "https://images.open-epg.com/19392.png"
     },
     {
-      "title": "Sky Classica.it - 15:40 Chaplin - M.Schroeder, cor.",
+      "title": "Sky Classica.it - 21:45 Wagner - Loro del Reno",
       "link": "ignoreme",
-      "info": "In onda: 15:40 - 17:15\n\nUno spettacolo del coreografo Mario Schroeder sulla vita e lopera di Charlie Chaplin - con Tyler Galster (Charlot), A.Waller, U.L.Garcia - Leipzig Ballet - Gewandhaus Orchestra - Matthias Foremny, dir. (Lipsia, 2013)\n\nA seguire (19:10): Generali 190: Persone e Storie - 2021",
+      "info": "In onda: 21:45 - 00:30\n\nDramma musicale in un atto su libretto dello stesso compositore (1851-54) - con M.Volle, R.Villazon, J.M.Kraenzle - C.Thielemann, dir. - D.Tcherniakov, reg. (Berlino, Staatsoper unter den Linden - 2022)\n\nA seguire (00:30): Almanacco di Bellezza",
       "thumbnail": "https://images.open-epg.com/4100139.png"
     },
     {
-      "title": "Sky Documentaries +1.it - 17:05 Steve Jobs - Luomo nella macchina",
+      "title": "Sky Crime.it - 21:50 Delitti",
       "link": "ignoreme",
-      "info": "In onda: 17:05 - 19:20\n\nUn film schietto e sincero che rivela la vera essenza del fondatore di Apple, la cui eredita permea ancora oggi la Silicon Valley e lintera industria tecnologica.\n\nA seguire (19:20): Le megastrutture di Hitler",
+      "info": "In onda: 21:50 - 22:50\n\nS4 Ep5 Le stragi di Ludwig - Castiglione delle Stiviere, 1984. Due studenti modello, due feroci assassini: Wolfgang Abel e Marco Furlan. Nome di battaglia: Ludwig.\n\nA seguire (22:50): Real Cops",
+      "thumbnail": "https://images.open-epg.com/19394.png"
+    },
+    {
+      "title": "Sky Documentaries +1.it - 20:15 Brazil 2002",
+      "link": "ignoreme",
+      "info": "In onda: 20:15 - 21:55\n\nGrazie a filmati inediti registrati dal calciatore Juliano Belletti riviviamo le emozioni di una delle edizioni piu iconiche della Coppa del Mondo: quella vinta dal Brasile nel 2002.\n\nA seguire (21:55): Buffa and C. raccontano: il Futebol a Rio",
       "thumbnail": "https://images.open-epg.com/nologo.png"
     },
     {
-      "title": "Sky Investigation.it - 18:15 Delitti ai Caraibi",
+      "title": "Sky Documentaries.it - 21:25 Brazil 2002",
       "link": "ignoreme",
-      "info": "In onda: 18:15 - 19:15\n\nS1 Ep4 Influencer - Un giovane personaggio diventato famoso su Internet viene ucciso. Melissa e Gaelle fanno presto a scoprire che la vita della vittima era tutta una menzogna.\n\nA seguire (19:15): Balthazar",
+      "info": "In onda: 21:25 - 22:55\n\nGrazie a filmati inediti registrati dal calciatore Juliano Belletti riviviamo le emozioni di una delle edizioni piu iconiche della Coppa del Mondo: quella vinta dal Brasile nel 2002.\n\nA seguire (22:55): Buffa and C. raccontano: il Futebol a Rio",
+      "thumbnail": "https://images.open-epg.com/19396.png"
+    },
+    {
+      "title": "Sky Investigation.it - 21:15 NCIS: New Orleans",
+      "link": "ignoreme",
+      "info": "In onda: 21:15 - 22:05\n\nS1 Ep5 E successo ieri sera - Quando la moglie di un ufficiale delle forze speciali viene rapita, la squadra lotta contro il tempo per salvarle la vita. Lagente dellFBI Fornell arriva in citta in aiuto della squadra.\n\nA seguire (22:05): NCIS: New Orleans",
       "thumbnail": "https://images.open-epg.com/19398.png"
     },
     {
-      "title": "Sky News.it - 19:00 Sky News",
+      "title": "Sky Nature.it - 21:45 Big Birds: Le ali dei giganti",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 19:30\n\nA comprehensive round-up of the main news stories of the day from the UK and around the world.\n\nA seguire (19:30): Sky News",
+      "info": "In onda: 21:45 - 22:40\n\nAlla scoperta delle specie piu strane con David Attenborough: kiwi, emu e altri esemplari ormai estinti.\n\nA seguire (22:40): Ningaloo - Meraviglie sottomarine...",
+      "thumbnail": "https://images.open-epg.com/19393.png"
+    },
+    {
+      "title": "Sky News.it - 21:30 The Wrap With Gillian Joseph",
+      "link": "ignoreme",
+      "info": "In onda: 21:30 - 22:00\n\nDebate, analysis and insight on the biggest news stories of the day from the UK and around the world.\n\nA seguire (22:00): The Wrap With Gillian Joseph",
       "thumbnail": "https://images.open-epg.com/19400.png"
     },
     {
-      "title": "Sky Serie.it - 19:00 Outlander",
+      "title": "Sky Serie.it - 21:50 Rosa Elettrica - In fuga con il nemico",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 20:00\n\nS8 Ep8 Nella foresta - Claire e Jamie ricevono una visita inaspettata a Frasers Ridge.\n\nA seguire (20:00): Rosa Elettrica - In fuga con il... 1^TV",
+      "info": "In onda: 21:50 - 22:45\n\nRosa lavora nel reparto Nucleo Protezione Testimoni e come primo incarico le viene affidato Cociss, giovane e imprevedibile baby boss camorrista.\n\nA seguire (22:45): Rosa Elettrica - In fuga con il nemico",
       "thumbnail": "https://images.open-epg.com/19402.png"
     },
     {
-      "title": "Sky Sport F1.it - 19:00 GP Miami: Gara Sprint",
+      "title": "Sky Sport 4K.it - 21:15 Calcio Campionato Italiano Serie A - Ep. 104 - Calcio Serie A 35ga Juventus/ Verona 03/05/2026",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 20:00\n\nGP Miami: Gara Sprint - Prima gara del weekend sulla distanza di 100km: chi conquistera gli 8 punti in palio per il vincitore? Telecronaca di Carlo Vanzini, Marc Gene e Roberto Chinchero.\n\nA seguire (20:00): GP Miami: Gara",
+      "info": "In onda: 21:15 - 23:00\n\nReduci da uno 0-0 rispettivamente contro Milan e Lecce. Juve in corsa per il 4^ posto. Verona in zona retrocessione. Un successo a Torino (1963) in 45 sfide. TC: Gentile-Marocchi\n\nA seguire (23:00): Calcio Campionato Italiano Serie A - Stag. Calcio Campionato Italiano Serie A 2025/2026 - Calcio Serie A 35ga Roma/ Fiorentina 04/05/2026",
+      "thumbnail": "https://images.open-epg.com/19403.png"
+    },
+    {
+      "title": "Sky Sport Calcio.it - 20:45 Sky Friday Night Football Postpartita",
+      "link": "ignoreme",
+      "info": "In onda: 20:45 - 22:00\n\n... (Diretta) (Diretta). - Immagini, interviste, commenti sulla partita Serie A e sul calcio internazionale e le ultime news di tutti gli sport di Sky, nello studio condotto da Giorgia Cenni.\n\nA seguire (22:00): Craven Cottage - Una Casa Nello Stadio",
+      "thumbnail": "https://images.open-epg.com/19405.png"
+    },
+    {
+      "title": "Sky Sport F1.it - 21:00 Australia",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 22:00\n\nAustralia - Lanalisi del Gran Premio disputato per commentare la gara insieme agli ospiti in studio. Riviviamo i brividi della corsa attraverso le immagini piu spettacolari e ascoltiamo i commenti a caldo dei protagonisti.\n\nA seguire (22:00): Motori Formula 2 - Ep. 4 - Motori Formula 2 2026 [F2 Gp Australia F.Race 26] 08/03/2026",
       "thumbnail": "https://images.open-epg.com/19406.png"
     },
     {
-      "title": "Sky Sport Golf.it - 17:30 Golf Dp World Tour - Ep. 66 - Golf Dp World Tour 2026 Catalunya Championship 2a Giornata 08/05/2026",
+      "title": "Sky Sport Golf.it - 21:30 Golf Dp World Tour - Ep. 66 - Golf Dp World Tour 2026 Catalunya Championship 2a Giornata 08/05/2026",
       "link": "ignoreme",
-      "info": "In onda: 17:30 - 20:30\n\nEstrella Damm Catalunya Championship: Giorno 2 - Tutti i tornei del tour europeo, il DP World Tour.\n\nA seguire (20:30): Cape Town Open",
+      "info": "In onda: 21:30 - 00:30\n\nEstrella Damm Catalunya Championship: Giorno 2 - Tutti i tornei del tour europeo, il DP World Tour.\n\nA seguire (00:30): NTT Data Pro Am",
       "thumbnail": "https://images.open-epg.com/19407.png"
     },
     {
-      "title": "Sky Sport Tennis.it - 17:00 Tennis AtpandWta - Ep. 188 - Tennis Atp Masters 1000andWta 1000 2026 Roma 4a Giornata (Ss Tennis) 08/05/2026",
+      "title": "Sky Sport Max.it - 21:00 Doha",
       "link": "ignoreme",
-      "info": "In onda: 17:00 - 20:30\n\n... WTA 1000 Roma. - ATP and WTA 1000 Roma\n\nA seguire (20:30): 08/05/2026",
-      "thumbnail": "https://images.open-epg.com/19404.png"
+      "info": "In onda: 21:00 - 23:00\n\nIl piu importante torneo di atletica del mondo, dove si sfidano campioni provenienti da ogni paese.\n\nA seguire (23:00): Speciale Inter: Il Film Del Campionato",
+      "thumbnail": "https://images.open-epg.com/19408.png"
     },
     {
-      "title": "Sky Sport Uno.it - 17:00 4a giornata",
+      "title": "Sky Sport MotoGP.it - 20:45 GP Francia: Pre Qualifiche",
       "link": "ignoreme",
-      "info": "In onda: 17:00 - 20:30\n\n... WTA 1000 Roma. - ATP and WTA 1000 Roma\n\nA seguire (20:30): 08/05/2026",
+      "info": "In onda: 20:45 - 22:00\n\nQuinto appuntamento del mondiale 2026: a Le Mans, in Francia, si accendono i motori per le pre qualifiche della MotoGP. Telecronaca Meda - Sanchini\n\nA seguire (22:00): MotoGP Paddock Live Show",
+      "thumbnail": "https://images.open-epg.com/19409.png"
+    },
+    {
+      "title": "Sky Sport Uno.it - 21:30 Craven Cottage - Una Casa Nello Stadio",
+      "link": "ignoreme",
+      "info": "In onda: 21:30 - 22:00\n\n... Stadio Di Canio Premier Special. - Paolo di Canio racconta le storie e le rivalita delle squadre della Premier League inglese.\n\nA seguire (22:00): Blab Magazine - Ep. 25 - Sport Dataroom 2025/2026 Ep.25 08/05/2026",
       "thumbnail": "https://images.open-epg.com/19410.png"
     },
     {
-      "title": "Sky TG24.it - 19:00 TG24 mezzora",
+      "title": "Sky TG24.it - 21:30 Skyline",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 19:37\n\nTelegiornale in diretta. I giornali di oggi, lo Sport, il Meteo.\n\nA seguire (19:37): Wow",
+      "info": "In onda: 21:30 - 21:53\n\nCon Skyline, dal lunedi al venerdi, vi portiamo dentro tutte le notizie della giornata. Una scansione di quanto successo in Italia e nel mondo, con spazio agli ospiti e alle storie.\n\nA seguire (21:53): Sky Meteo24",
       "thumbnail": "https://images.open-epg.com/19411.png"
     },
     {
-      "title": "Sky Uno.it - 17:00 Pechino Express",
+      "title": "Sky Uno.it - 20:30 Pechino Express",
       "link": "ignoreme",
-      "info": "In onda: 17:00 - 19:15\n\nLe coppie arrivano in Giappone, terzo e ultimo paese della rotta di questanno. Ad attenderli, un nuovo inviato: Guido Meda!\n\nA seguire (19:15): Cucine da incubo",
+      "info": "In onda: 20:30 - 22:45\n\nLe coppie arrivano in Giappone, terzo e ultimo paese della rotta di questanno. Ad attenderli, un nuovo inviato: Guido Meda!\n\nA seguire (22:45): Cucine da incubo",
       "thumbnail": "https://images.open-epg.com/19413.png"
+    },
+    {
+      "title": "ZONA DAZN.it - 19:18 Cesc Fabregas",
+      "link": "ignoreme",
+      "info": "In onda: 19:18 - 22:00\n\nCesc Fabregas\n\nA seguire (22:00): Stag. 2019 - DAZN 1",
+      "thumbnail": "https://images.open-epg.com/1700.png"
     },
     {
       "title": "Zona Dazn 2.it - 22:00 Nessun evento in onda",
