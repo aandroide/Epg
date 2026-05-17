@@ -6,55 +6,151 @@
     {
       "title": "Androide - EPG",
       "link": "ignoreme",
-      "info": "Aggiornato: 17/05/2026 18:54"
+      "info": "Aggiornato: 17/05/2026 21:44"
     },
     {
-      "title": "DAZN 1.it - 18:30 Udinese - Cremonese",
+      "title": "DAZN 1.it - 21:20 Cult - Collezionali tutti! 2026",
       "link": "ignoreme",
-      "info": "In onda: 18:30 - 20:49\n\nSerie A - 37a g. Ambizione, tattica e personalita': la stagione riparte con gli allenatori protagonisti, tra ritorni, rivoluzioni e conferme.\n\nA seguire (20:49): My Skills 1 Marco Palestra",
+      "info": "In onda: 21:20 - 21:52\n\nTra Joga Bonito e Saudade Aldair - Nella settima puntata, Giovanni Barsotti, Omar Aamoum ed Emanuele Giaccherini ci portano alla scoperta del Brasile e della 'saudade' con il campione del mondo ex Roma Aldair.\n\nA seguire (21:52): Cult - Collezionali tutti! 2026",
       "thumbnail": "https://images.open-epg.com/19310.png"
     },
     {
-      "title": "DAZN 2.it - 18:30 Cagliari - Torino",
+      "title": "DAZN 2.it - 21:00 Nessun evento in onda",
       "link": "ignoreme",
-      "info": "In onda: 18:30 - 21:00\n\nSerie A - 37a g. Ambizione, tattica e personalita': la stagione riparte con gli allenatori protagonisti, tra ritorni, rivoluzioni e conferme.\n\nA seguire (21:00): Nessun evento in onda",
+      "info": "In onda: 21:00 - 22:00\n\nDAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (22:00): Nessun evento in onda",
       "thumbnail": "https://images.open-epg.com/19311.png"
     },
     {
-      "title": "Sky Cinema Action.it - 16:30 Bad Boys II",
+      "title": "Sky Arte.it - 21:15 ArtBox",
       "link": "ignoreme",
-      "info": "In onda: 16:30 - 19:00\n\nWill Smith e Martin Lawrence tornano in azione in un travolgente sequel diretto da Michael Bay. I due detective della Squadra Narcotici di Miami devono fermare un traffico di ecstasy (USA 2003)\n\nA seguire (19:00): Black Site - La tana del lupo",
+      "info": "In onda: 21:15 - 21:50\n\nS11 Ep25 ArtBox - Al Castello di Miradolo, la mostra\n\nA seguire (21:50): Gradus. Il Teatro Di Domani",
+      "thumbnail": "https://images.open-epg.com/19379.png"
+    },
+    {
+      "title": "Sky Atlantic.it - 21:10 Euphoria",
+      "link": "ignoreme",
+      "info": "In onda: 21:10 - 22:15\n\nS3 Ep5 Questo Porcellino - Con l'aumento degli iscritti, Cassie e Maddy arrivano allo scontro. Rue capisce di essersi spinta troppo oltre con Alamo sempre piu' sospettoso, mentre la relazione di Jules vacilla\n\nA seguire (22:15): Rosa Elettrica - In fuga con il nemico",
+      "thumbnail": "https://images.open-epg.com/19381.png"
+    },
+    {
+      "title": "Sky Cinema Action.it - 20:35 Collateral",
+      "link": "ignoreme",
+      "info": "In onda: 20:35 - 22:45\n\nTom Cruise e Jamie Foxx in un thriller di Michael Mann. Un killer sequestra un tassista e lo costringe ad accompagnarlo per le vie di Los Angeles alla ricerca delle sue 5 vittime (USA 2004)\n\nA seguire (22:45): Into Darkness - Star Trek",
       "thumbnail": "https://images.open-epg.com/19383.png"
     },
     {
-      "title": "Sky Cinema Uno +24.it - 17:15 Primavera",
+      "title": "Sky Cinema Comedy.it - 20:30 Now You See Me 2 - I maghi del crimine",
       "link": "ignoreme",
-      "info": "In onda: 17:15 - 19:15\n\nTecla Insolia e Michele Riondino nel sorprendente film di Damiano Michieletto. Il destino di una straordinaria violinista cambia grazie all'incontro con il maestro Antonio Vivaldi (IT/FR 2026)\n\nA seguire (19:15): Salt",
+      "info": "In onda: 20:30 - 22:45\n\nTorna la banda di illusionisti in un thriller con Jesse Eisenberg, Mark Ruffalo, Michael Caine e Morgan Freeman. I Quattro Cavalieri elaborano un piano per smascherare un corrotto magnate (USA/CAN 2016)\n\nA seguire (22:45): I delitti del BarLume - Compro oro",
+      "thumbnail": "https://images.open-epg.com/19384.png"
+    },
+    {
+      "title": "Sky Cinema Drama.it - 21:25 Nata per te",
+      "link": "ignoreme",
+      "info": "In onda: 21:25 - 23:20\n\nSky Original ispirato a una storia vera e piena d'amore diretta da Fabio Mollo. Luca, single e omosessuale con un forte desiderio di paternita', lotta per ottenere l'affidamento di Alba (ITA 2024)\n\nA seguire (23:20): Tartarughe all'infinito",
+      "thumbnail": "https://images.open-epg.com/19385.png"
+    },
+    {
+      "title": "Sky Cinema Due.it - 21:05 Sentimental Value",
+      "link": "ignoreme",
+      "info": "In onda: 21:05 - 23:25\n\nUn Oscar e Gran premio della giuria a Cannes per il film di Joachim Trier. Due sorelle molto unite affrontano il ritorno del padre, regista carismatico ma assente nelle loro vite (NOR 2025)\n\nA seguire (23:25): A History of Violence",
+      "thumbnail": "https://images.open-epg.com/19387.png"
+    },
+    {
+      "title": "Sky Cinema Family.it - 20:35 Un film Minecraft",
+      "link": "ignoreme",
+      "info": "In onda: 20:35 - 22:15\n\nSuccesso in sala per la commedia fantastica con Jason Momoa e Jack Black ambientata nel popolare videogame. Un misterioso portale attira quattro ragazzi nel cubico Overworld (USA/SWE 2025)\n\nA seguire (22:15): Questo o quello - Speciale",
+      "thumbnail": "https://images.open-epg.com/19388.png"
+    },
+    {
+      "title": "Sky Cinema Romance.it - 21:30 Nessuno mi puo' giudicare",
+      "link": "ignoreme",
+      "info": "In onda: 21:30 - 23:15\n\nEsilarante commedia di Max Bruno con Paola Cortellesi, Raoul Bova, Rocco Papaleo e Anna Foglietta. Dopo la morte del marito, una donna decide di diventare una escort per pagare i debiti (ITA 2011)\n\nA seguire (23:15): La rivolta delle ex",
+      "thumbnail": "https://images.open-epg.com/19389.png"
+    },
+    {
+      "title": "Sky Cinema Suspense.it - 21:10 L'uomo di neve",
+      "link": "ignoreme",
+      "info": "In onda: 21:10 - 23:15\n\nDal bestseller di Jo Nesbo, un thriller con Michael Fassbender, Rebecca Ferguson e Charlotte Gainsbourg. Nell'inverno norvegese, un detective indaga sulla scomparsa di una donna (GBR 2017)\n\nA seguire (23:15): L'ombra del dubbio",
+      "thumbnail": "https://images.open-epg.com/19390.png"
+    },
+    {
+      "title": "Sky Cinema Uno +24.it - 21:00 The Running Man",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 23:15\n\nAction esplosivo di Edgar Wright con Glenn Powell protagonista, dal romanzo di Stephen King. In cerca di soldi per salvare la figlia malata, Ben partecipa a un programma tv mortale (US/GB 2025)\n\nA seguire (23:15): Ma cosa ci dice il cervello",
       "thumbnail": "https://images.open-epg.com/19391.png"
     },
     {
-      "title": "Sky Documentaries +1.it - 18:40 Forti come un leone",
+      "title": "Sky Cinema Uno.it - 21:30 Rosa Elettrica - In fuga con il nemico",
       "link": "ignoreme",
-      "info": "In onda: 18:40 - 19:30\n\n... Lassu' qualcuno ti ama. - Il Torino sogna il sorpasso alla Juve con Pulici-Graziani: 36 gol in due, illuminati dagli assist del capitano Claudio Sala, il\n\nA seguire (19:30): Un avvertimento prima di iniziare 1^TV",
+      "info": "In onda: 21:30 - 22:30\n\nRosa viene chiamata a prendere una scelta: darsi per vinta e scontare le conseguenze delle sue azioni o credere in se' stessa e andare avanti?\n\nA seguire (22:30): Rosa Elettrica - In fuga con il nemico",
+      "thumbnail": "https://images.open-epg.com/19392.png"
+    },
+    {
+      "title": "Sky Classica.it - 20:10 Peer Gynt - Edward Clug, cor.",
+      "link": "ignoreme",
+      "info": "In onda: 20:10 - 22:05\n\nBalletto del coreografo rumeno Edward Clug sulle musiche che Edvard Grieg scrisse per il dramma di Ibsen nel 1876 - con D.Cherevychko, N.Polakova, E.Peci, Z.Torok, F.Wallner-Hollinek - Wiener Staatsballet (Vienna, 2018)\n\nA seguire (22:05): Claudio Abbado: Gala di S.Silvestro - 1",
+      "thumbnail": "https://images.open-epg.com/4100139.png"
+    },
+    {
+      "title": "Sky Crime.it - 21:00 Bande criminali italiane",
+      "link": "ignoreme",
+      "info": "In onda: 21:00 - 22:00\n\nS1 Ep4 La Banda di Via Padova - Quattro storie di Bande italiane tra mito e terrore: fughe, lusso e violenze. Quattro storie di ribellione, fascino oscuro e disprezzo per la societa.\n\nA seguire (22:00): Bande criminali italiane",
+      "thumbnail": "https://images.open-epg.com/19394.png"
+    },
+    {
+      "title": "Sky Documentaries +1.it - 21:15 Roma di piombo - Diario di una lotta",
+      "link": "ignoreme",
+      "info": "In onda: 21:15 - 22:10\n\nS1 Ep3 Dalla parte sbagliata - Nelle Brigate Rosse cominciano le prime fratture. Intanto le indagini della Sezione proseguono, anche grazie all'aiuto dei primi pentiti.\n\nA seguire (22:10): L'uomo che sapeva tutto",
       "thumbnail": "https://images.open-epg.com/nologo.png"
     },
     {
-      "title": "Sky Documentaries.it - 18:30 Un avvertimento prima di iniziare 1^TV",
+      "title": "Sky Documentaries.it - 21:10 L'uomo che sapeva tutto",
       "link": "ignoreme",
-      "info": "In onda: 18:30 - 19:20\n\nS1 Ep17 Benedetta Vitali - Mia sorella morta nella strage di Corinaldo. Pablo Trincia incontra Francesco Vitali, il fratello di Benedetta, morta nel 2018 nella tragedia di Corinaldo.\n\nA seguire (19:20): Roma di piombo - Diario di una lotta",
+      "info": "In onda: 21:10 - 22:40\n\nIl ritratto di Federico Umberto D'Amato, burocrate che ha plasmato la storia della Prima Repubblica, manovrando segreti, dossier e silenzi. Dietro il burocrate ombroso si nasconde un volto inaspettato: quello di un gastronomo raffinato.\n\nA seguire (22:40): Vedere oltre - Pionieri d'eccellenza",
       "thumbnail": "https://images.open-epg.com/19396.png"
     },
     {
-      "title": "Sky News.it - 18:30 Trevor Phillips: Highlights",
+      "title": "Sky Investigation.it - 21:40 Law & Order: Special Victims Unit",
       "link": "ignoreme",
-      "info": "In onda: 18:30 - 19:00\n\nAnother chance to see the key interviews from Sunday Morning with Trevor Phillips.\n\nA seguire (19:00): Sky News",
+      "info": "In onda: 21:40 - 22:30\n\nS27 Ep11 Law & Order: Special Victims Unit 27 Ep.11 - Psicopatico In Carriera - Quando uno sconosciuto minaccia la vita di Rollins e Carisi, i due sospettano che esista un collegamento con un caso a cui hanno lavorato insieme.\n\nA seguire (22:30): Law & Order - I due volti della...",
+      "thumbnail": "https://images.open-epg.com/19398.png"
+    },
+    {
+      "title": "Sky Nature.it - 21:10 Giappone selvaggio",
+      "link": "ignoreme",
+      "info": "In onda: 21:10 - 22:15\n\nS1 Ep1 L'isola delle meraviglie - Dal nord ghiacciato alle isole tropicali, il Giappone rivela paesaggi estremi e spettacolari variando tra vulcani, foreste e oceani.\n\nA seguire (22:15): Odissee vulcaniche",
+      "thumbnail": "https://images.open-epg.com/19393.png"
+    },
+    {
+      "title": "Sky News.it - 21:30 The Wrap With Gillian Joseph",
+      "link": "ignoreme",
+      "info": "In onda: 21:30 - 22:00\n\nDebate, analysis and insight on the biggest news stories of the day from the UK and around the world.\n\nA seguire (22:00): The Wrap With Gillian Joseph",
       "thumbnail": "https://images.open-epg.com/19400.png"
     },
     {
-      "title": "Sky Sport 4K.it - 18:40 Calcio Campionato Italiano Serie A - Ep. 111 - Calcio Serie A 37ga Sassuolo/ Lecce 17/05/2026",
+      "title": "Sky Serie.it - 20:55 Chicago P.D.",
       "link": "ignoreme",
-      "info": "In onda: 18:40 - 20:45\n\nEntrambe reduci da una sconfitta rispettivamente contro Torino e Juventus. Lecce a +1 sulla terzultima. Un solo successo nelle 4 sfide a Reggio Emilia. TC: Massara-Minotti\n\nA seguire (20:45): Sunday Night",
+      "info": "In onda: 20:55 - 21:50\n\nS13 Ep7 Reazioni incontrollate - I sospetti di Voight si rivelano fondati quando un'aggressione riporta l'Unita' d'Intelligence a una figura inquietante.\n\nA seguire (21:50): Outlander",
+      "thumbnail": "https://images.open-epg.com/19402.png"
+    },
+    {
+      "title": "Sky Sport 4K.it - 20:45 Sunday Night",
+      "link": "ignoreme",
+      "info": "In onda: 20:45 - 22:00\n\nStudi\n\nA seguire (22:00): FC Bayern Monaco - Paris Saint-Germain",
       "thumbnail": "https://images.open-epg.com/19403.png"
+    },
+    {
+      "title": "Sky Sport Calcio.it - 20:45 Sunday Night",
+      "link": "ignoreme",
+      "info": "In onda: 20:45 - 22:00\n\nStudi\n\nA seguire (22:00): Forti come un leone",
+      "thumbnail": "https://images.open-epg.com/19405.png"
+    },
+    {
+      "title": "Sky Sport F1.it - 19:55 Motori Indycar Series - Ep. 17 - Motori Indycar Series 2026 Indianapolis 500 Qualifiche 17/05/2026",
+      "link": "ignoreme",
+      "info": "In onda: 19:55 - 23:00\n\n... Indianapolis 500: Qualifiche IndyCar. - la 500 Miglia di Indianapolis targata 110 inizia raccontera' un altro pezzettino di storia del Motorsport; la corsa piu' veloce di tutte ha sempre il suo fascino\n\nA seguire (23:00): Ep.3",
+      "thumbnail": "https://images.open-epg.com/19406.png"
     },
     {
       "title": "Sky Sport Golf.it - 15:00 Golf Major Us Pga Championship - Ep. 4 - Golf Major Us Pga Championship 2026 4a Giornata 17/05/2026",
@@ -63,21 +159,27 @@
       "thumbnail": "https://images.open-epg.com/19407.png"
     },
     {
-      "title": "Sky Sport Max.it - 18:40 Budoni",
+      "title": "Sky Sport Max.it - 21:30 Finale: Da definire - Da definire",
       "link": "ignoreme",
-      "info": "In onda: 18:40 - 18:55\n\nTra mare e sentieri, Budoni si conferma la meta definitiva per chi vive di sport e avventura.\n\nA seguire (18:55): Stade Rochelais - Tolosa",
+      "info": "In onda: 21:30 - 23:25\n\n... Champions League M. - Dalla Inalpi Arena di Torino, Italia.\n\nA seguire (23:25): Ep.32",
       "thumbnail": "https://images.open-epg.com/19408.png"
     },
     {
-      "title": "Sky Sport MotoGP.it - 18:00 Catalunya",
+      "title": "Sky Sport MotoGP.it - 21:05 Cechia: Gara 2",
       "link": "ignoreme",
-      "info": "In onda: 18:00 - 19:00\n\nLe analisi e gli approfondimenti sul Gran Premio di Catalunya con Cristiana Buonamano e i suoi ospiti in studio e dal circuito\n\nA seguire (19:00): GP Catalogna: Gara",
+      "info": "In onda: 21:05 - 22:05\n\nQuinto Round della stagione 2026. Da Most, in Repubblica Ceca, la Race 2 della World Sportbike. Telecronaca Vercellesi - Temporali\n\nA seguire (22:05): GP Catalogna: Gara",
       "thumbnail": "https://images.open-epg.com/19409.png"
     },
     {
-      "title": "Sky Sport Uno.it - 18:35 Lecco - Catania",
+      "title": "Sky Sport Tennis.it - 20:00 Buenos Aires P1: Finale Maschile",
       "link": "ignoreme",
-      "info": "In onda: 18:35 - 20:45\n\nNei 16 precedenti, fra serie A e B, Catania in vantaggio 4 a 2, 10 pareggi. Ma negli 8 precedenti a Lecco, i rossazzurri non hanno mai vinto, 6 pareggi e 2 ko. TC: Antonio Nucera\n\nA seguire (20:45): 4a giornata, Us Pga Championship",
+      "info": "In onda: 20:00 - 22:00\n\n... Maschile Premier Padel. - Seguiamo le gare del Premier Padel Major.\n\nA seguire (22:00): Ep.12",
+      "thumbnail": "https://images.open-epg.com/19404.png"
+    },
+    {
+      "title": "Sky Sport Uno.it - 20:45 4a giornata, Us Pga Championship",
+      "link": "ignoreme",
+      "info": "In onda: 20:45 - 23:00\n\n... Championship Golf: DP World Tour. - Dall'Aronimink Golf Club di Newtown Square, Stati Uniti.\n\nA seguire (23:00): Ep.12",
       "thumbnail": "https://images.open-epg.com/19410.png"
     },
     {
@@ -87,15 +189,15 @@
       "thumbnail": "https://images.open-epg.com/19382.png"
     },
     {
-      "title": "Sky TG24.it - 18:50 Extra Time",
+      "title": "Sky TG24.it - 21:30 TG24 mezz'ora",
       "link": "ignoreme",
-      "info": "In onda: 18:50 - 19:00\n\nTelegiornale.\n\nA seguire (19:00): TG24 mezz'ora",
+      "info": "In onda: 21:30 - 21:50\n\nTelegiornale in diretta. I giornali di oggi, lo Sport, il Meteo.\n\nA seguire (21:50): Sky Meteo24",
       "thumbnail": "https://images.open-epg.com/19411.png"
     },
     {
-      "title": "Sky Uno.it - 16:55 Pechino Express",
+      "title": "Sky Uno.it - 20:30 Cucine da incubo",
       "link": "ignoreme",
-      "info": "In onda: 16:55 - 19:15\n\nFinale di stagione. - Siamo finalmente giunti alla tappa finale della rotta di quest'anno: chi vincera' Pechino Express?\n\nA seguire (19:15): Cucine da incubo 1^TV",
+      "info": "In onda: 20:30 - 21:45\n\nS12 Ep4 Bollicine. San vittore Olona - Il proprietario del ristorante Bollicine e' burbero e poco aperto al dialogo con la sua famiglia, che lavora nel locale con lui. Antonino dovra' aiutarlo a cambiare atteggiamento.\n\nA seguire (21:45): Cucine da incubo",
       "thumbnail": "https://images.open-epg.com/19413.png"
     },
     {
@@ -105,15 +207,15 @@
       "thumbnail": "https://images.open-epg.com/1700.png"
     },
     {
-      "title": "Zona Dazn 2.it - 22:00 Nessun evento in onda",
+      "title": "Zona Dazn 2.it - 21:00 Nessun evento in onda",
       "link": "ignoreme",
-      "info": "In onda: 22:00 - 22:00\n\nDAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (22:00): Nessun evento in onda",
+      "info": "In onda: 21:00 - 22:00\n\nDAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (22:00): Nessun evento in onda",
       "thumbnail": "https://images.open-epg.com/7515553.png"
     },
     {
-      "title": "Zona Dazn.it - 22:30 DAZN 1",
+      "title": "Zona Dazn.it - 21:20 Cult - Collezionali tutti! 2026",
       "link": "ignoreme",
-      "info": "In onda: 22:30 - 22:00\n\nDAZN 1\n\nA seguire (22:00): DAZN 1",
+      "info": "In onda: 21:20 - 21:52\n\nTra Joga Bonito e Saudade Aldair - Nella settima puntata, Giovanni Barsotti, Omar Aamoum ed Emanuele Giaccherini ci portano alla scoperta del Brasile e della 'saudade' con il campione del mondo ex Roma Aldair.\n\nA seguire (21:52): Cult - Collezionali tutti! 2026",
       "thumbnail": "https://images.open-epg.com/7515557.png"
     }
   ]
