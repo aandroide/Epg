@@ -6,7 +6,13 @@
     {
       "title": "Androide - EPG",
       "link": "ignoreme",
-      "info": "Aggiornato: 19/05/2026 17:33"
+      "info": "Aggiornato: 19/05/2026 19:42"
+    },
+    {
+      "title": "DAZN 1.it - 19:33 Legends Road 2025 Ciro Ferrara",
+      "link": "ignoreme",
+      "info": "In onda: 19:33 - 19:59\n\nCiro Ferrara - In viaggio con Pierluigi Pardo scopriamo i segreti delle icone della Serie A in collaborazione con Enilive: nel nuovo episodio a Napoli incontriamo Ciro Ferrara nella sua citta' natale.\n\nA seguire (19:59): Remember the name 2026 Weston McKennie",
+      "thumbnail": "https://images.open-epg.com/19310.png"
     },
     {
       "title": "DAZN 2.it - 16:00 Nessun evento in onda",
@@ -15,100 +21,154 @@
       "thumbnail": "https://images.open-epg.com/19311.png"
     },
     {
-      "title": "Sky Arte.it - 16:50 Indie Jungle",
+      "title": "Sky Arte.it - 19:15 Palermo Capitale del Mediterraneo",
       "link": "ignoreme",
-      "info": "In onda: 16:50 - 17:45\n\nS2 Ep8 Tutti Fenomeni - Una serata esclusiva alla scoperta della sonorita' e delle storie dei protagonisti della scena indie italiana. In questa puntata: Tutti Fenomeni.\n\nA seguire (19:15): Palermo Capitale del Mediterraneo",
+      "info": "In onda: 19:15 - 20:15\n\nAlla scoperta di Palermo e del suo patrimonio unico, attraverso l'esplorazione dei luoghi simbolo e interviste a personaggi dell'arte e della cultura, tra gli altri Simonetta Agnello Hornby.\n\nA seguire (20:15): Ragusa e Ibla - Fiori di pietra",
       "thumbnail": "https://images.open-epg.com/19379.png"
     },
     {
-      "title": "Sky Atlantic.it - 17:30 Gomorra - La serie",
+      "title": "Sky Atlantic.it - 19:15 American Crime Story",
       "link": "ignoreme",
-      "info": "In onda: 17:30 - 18:20\n\nPer evitare una nuova guerra tra i clan Patrizia dovra' dimostrare di aver imparato che cosa significa essere il reggente del clan piu' potente di Napoli.\n\nA seguire (18:20): Gomorra - La serie",
+      "info": "In onda: 19:15 - 20:15\n\nS2 Ep5 Coming Out - Giugno 1995. A Milano, Gianni Versace, da poco guarito dopo un'esperienza che gli e' quasi costata la vita, si prepara per un'intervista in cui svelera' il suo orientamento sessuale. La sorella di Gianni, Donatella, non pensa che sia una buona idea.\n\nA seguire (20:15): American Crime Story",
       "thumbnail": "https://images.open-epg.com/19381.png"
     },
     {
-      "title": "Sky Cinema Action.it - 16:50 Bad Boys for Life",
+      "title": "Sky Cinema Action.it - 19:00 The Bourne Ultimatum - Il ritorno dello sciacallo",
       "link": "ignoreme",
-      "info": "In onda: 16:50 - 19:00\n\nTerzo capitolo della saga action con Will Smith e Martin Lawrence. I detective Mike e Marcus fanno di nuovo squadra per scoprire l'identita' di un sicario misterioso e vendicativo (USA/MEX 2020)\n\nA seguire (19:00): The Bourne Ultimatum - Il ritorno dello sciacallo",
+      "info": "In onda: 19:00 - 21:00\n\nMatt Damon nel terzo capitolo della saga action di Paul Greengrass, vincitore di 3 Oscar. Inseguito dalla Cia, Jason Bourne rincorre la verita' sul proprio passato (USA 2007)\n\nA seguire (21:00): The Chronicles of Riddick",
       "thumbnail": "https://images.open-epg.com/19383.png"
     },
     {
-      "title": "Sky Cinema Comedy.it - 17:05 Quando",
+      "title": "Sky Cinema Comedy.it - 19:00 Uno di famiglia",
       "link": "ignoreme",
-      "info": "In onda: 17:05 - 19:00\n\nNeri Marcore' e Valeria Solarino in un film di Walter Veltroni. Entrato in coma ai funerali di Berlinguer nel 1984, un uomo si risveglia dopo 31 anni. Sara' per lui una nuova rinascita (ITA 2023)\n\nA seguire (19:00): Uno di famiglia",
+      "info": "In onda: 19:00 - 20:45\n\nIronica commedia sull'Italia di oggi con Pietro Sermonti, Nino Frassica e Lucia Ocone. Un insegnante di dizione salva la vita a uno studente che appartiene a una famiglia di malavitosi (ITA 2018)\n\nA seguire (20:45): Un fantastico via vai",
       "thumbnail": "https://images.open-epg.com/19384.png"
     },
     {
-      "title": "Sky Cinema Family.it - 17:30 Cicogne in missione",
+      "title": "Sky Cinema Drama.it - 19:00 Orlando",
       "link": "ignoreme",
-      "info": "In onda: 17:30 - 19:00\n\nPellicola d'animazione dai creatori di\n\nA seguire (19:00): Wicked",
+      "info": "In onda: 19:00 - 21:10\n\nDaniele Vicari dirige una favola moderna con un intenso Michele Placido. In Belgio per rivedere il figlio ricoverato in ospedale, un anziano contadino scopre di avere una nipote (ITA 2022)\n\nA seguire (21:10): Il posto dell'anima",
+      "thumbnail": "https://images.open-epg.com/19385.png"
+    },
+    {
+      "title": "Sky Cinema Due.it - 19:15 Le buone stelle - Broker",
+      "link": "ignoreme",
+      "info": "In onda: 19:15 - 21:30\n\nKore-eda dirige Song Kang-ho (Parasite), premiato a Cannes. Due benevoli contrabbandieri di bambini intercettano un bebe' abbandonato in una 'baby box', ma la polizia e' sulle loro tracce (KOR/JPN 2022)\n\nA seguire (21:30): Mystic River",
+      "thumbnail": "https://images.open-epg.com/19387.png"
+    },
+    {
+      "title": "Sky Cinema Family.it - 19:00 Wicked",
+      "link": "ignoreme",
+      "info": "In onda: 19:00 - 21:50\n\n2 Oscar e 1 Golden Globe al magico fantasy con Cynthia Erivo e Ariana Grande. Nel regno di Oz, l'aspirante strega Galinda conosce la solitaria Elphaba. Canzoni in lingua originale (USA 2024)\n\nA seguire (21:50): Genitori vs Influencer",
       "thumbnail": "https://images.open-epg.com/19388.png"
     },
     {
-      "title": "Sky Cinema Romance.it - 17:15 Una sirena a Parigi",
+      "title": "Sky Cinema Romance.it - 19:00 Love Again",
       "link": "ignoreme",
-      "info": "In onda: 17:15 - 19:00\n\nMarilyn Lima e Nicolas Duvauchelle in una magica avventura su un amore impossibile. Un cantante si prende cura di una sirena ferita, ma cade vittima della sua voce ammaliante (FRA 2020)\n\nA seguire (19:00): Love Again",
+      "info": "In onda: 19:00 - 20:50\n\nCommedia romantica con la partecipazione di Celine Dion. Per lenire il dolore, Mira continua a inviare messaggi al fidanzato defunto, ignara che il numero e' stato riassegnato (USA 2023)\n\nA seguire (20:50): The Good House",
       "thumbnail": "https://images.open-epg.com/19389.png"
     },
     {
-      "title": "Sky Cinema Uno.it - 17:25 Delivery Man",
+      "title": "Sky Cinema Suspense.it - 19:00 The Prestige",
       "link": "ignoreme",
-      "info": "In onda: 17:25 - 19:15\n\nVince Vaughn nel remake di\n\nA seguire (19:15): L'uomo dei ghiacci - The Ice Road",
+      "info": "In onda: 19:00 - 21:15\n\nMeraviglia e suspense con Hugh Jackman e Christian Bale, per la regia di Christopher Nolan. La Londra di fine 800 fa da sfondo all'accesa e ossessiva rivalita' tra due illusionisti (USA/GBR 2006)\n\nA seguire (21:15): Cop Land",
+      "thumbnail": "https://images.open-epg.com/19390.png"
+    },
+    {
+      "title": "Sky Cinema Uno +24.it - 19:15 Le cose non dette",
+      "link": "ignoreme",
+      "info": "In onda: 19:15 - 21:15\n\nUn grande cast italiano per il nuovo successo di Gabriele Muccino sulla fragilita' delle relazioni. Due coppie in crisi affrontano un viaggio a Tangeri che cambiera' ogni equilibrio (ITA 2026)\n\nA seguire (21:15): 12 Soldiers",
+      "thumbnail": "https://images.open-epg.com/19391.png"
+    },
+    {
+      "title": "Sky Cinema Uno.it - 19:15 L'uomo dei ghiacci - The Ice Road",
+      "link": "ignoreme",
+      "info": "In onda: 19:15 - 21:10\n\nMissione impossibile per Liam Neeson in un action con Laurence Fishburne. Per salvare un gruppo di minatori intrappolati, tre camionisti devono attraversare un lago ghiacciato in primavera (USA/CAN 2021)\n\nA seguire (21:10): Captain Phillips - Attacco in mare aperto",
       "thumbnail": "https://images.open-epg.com/19392.png"
     },
     {
-      "title": "Sky Classica.it - 16:00 Discovering Beethoven - ep.3",
+      "title": "Sky Classica.it - 19:15 Wagner - Siegfried",
       "link": "ignoreme",
-      "info": "In onda: 16:00 - 17:15\n\nChristian Thielemann ci accompagna alla scoperta della terza sinfonia di Beethoven, composta nel 1803 ed eseguita due anni dopo a Vienna, in mi bemolle maggiore, detta Eroica - con il musicologo Joachim Kaiser (2011)\n\nA seguire (19:15): Wagner - Siegfried",
+      "info": "In onda: 19:15 - 23:30\n\nTerzo titolo della tetralogia, dramma musicale in tre atti (1876) su libretto del compositore - con A.Schager, M.Volle, J.M.Kraenzle - C.Thielemann, dir., D.Tcherniakov, reg. (Berlino, Staatsoper unter den Linden - 2022)\n\nA seguire (23:30): Almanacco di Bellezza",
       "thumbnail": "https://images.open-epg.com/4100139.png"
     },
     {
-      "title": "Sky Crime.it - 16:55 Calciopoli - Anatomia di...",
+      "title": "Sky Crime.it - 19:05 Te lo taglio",
       "link": "ignoreme",
-      "info": "In onda: 16:55 - 18:00\n\nS1 Ep2 Parte 2 - ...un processo: Sul banco degli imputati si alternano personaggi importanti dello sport. Si analizzano partite falsate, in tutti gli aspetti. L'8 novembre 2011 arriva la sentenza.\n\nA seguire (19:05): Te lo taglio",
+      "info": "In onda: 19:05 - 20:00\n\nS1 Ep1 Parte 1 - Il caso Bobbitt ha scioccato il mondo, ma non e' stato un episodio isolato.\n\nA seguire (20:00): Te lo taglio",
       "thumbnail": "https://images.open-epg.com/19394.png"
     },
     {
-      "title": "Sky Documentaries +1.it - 16:30 Franco Battiato - Le nostre anime",
+      "title": "Sky Documentaries +1.it - 19:15 C per Complotto",
       "link": "ignoreme",
-      "info": "In onda: 16:30 - 17:35\n\nS1 Ep1 1945-1964 Cariocinesi: L'infanzia e l'incontro con la musica - Ripercorriamo i 50 anni di avventure musicali e ricerche sonore di Franco Battiato. L'artista ha vissuto un percorso unico: ricostruiamolo attraverso materiali d'archivio rari.\n\nA seguire (17:35): Franco Battiato - Le nostre anime",
+      "info": "In onda: 19:15 - 20:15\n\nSi dice che tre detenuti siano evasi dalla prigione di Alcatraz. Nuove prove potrebbero finalmente risolvere questo famoso caso irrisolto, grazie all'uso della scienza forense e di tecnologie all'avanguardia.\n\nA seguire (20:15): Pompei & Tutankhamon - A caccia di...",
       "thumbnail": "https://images.open-epg.com/nologo.png"
     },
     {
-      "title": "Sky Documentaries.it - 17:20 33 giri Italian masters",
+      "title": "Sky Documentaries.it - 19:15 Pompei & Tutankhamon - A caccia di...",
       "link": "ignoreme",
-      "info": "In onda: 17:20 - 18:15\n\nS6 Ep7 Mia Martini: Nel mondo, una cosa - Ci sono album che hanno segnato la storia della musica italiana. In questo episodio la voce grintosa e intensa della giovane Mia Martini.\n\nA seguire (18:15): C per Complotto",
+      "info": "In onda: 19:15 - 20:10\n\n... misteri. S1 Ep1 I segreti di Tutankhamon - Scavando tra i segreti di Tutankhamon emergono storie oscure di intrighi reali e risposte sfuggite agli egittologi per decenni.\n\nA seguire (20:10): Pompei & Tutankhamon - A caccia di...",
       "thumbnail": "https://images.open-epg.com/19396.png"
     },
     {
-      "title": "Sky Investigation.it - 17:10 Delitti ai Tropici",
+      "title": "Sky Investigation.it - 19:15 Le indagini di Sister Boniface 1^TV",
       "link": "ignoreme",
-      "info": "In onda: 17:10 - 18:10\n\nS3 Ep1 Un caso in alto mare - Durante la celebrazione del matrimonio di Gaelle, il commissario riceve la notizia che e' stato trovato un cadavere sulla spiaggia. La sposa sente, e interrompe la cerimonia...\n\nA seguire (19:15): Le indagini di Sister Boniface 1^TV",
+      "info": "In onda: 19:15 - 20:05\n\nS4 Ep7 La famiglia piu' felice - Il fine settimana di Sam, Felix e Peggy prende una piega tragica quando il capo rivale Winthrop viene trovato morto in una stanza chiusa a chiave.\n\nA seguire (20:05): Le indagini di Sister Boniface",
       "thumbnail": "https://images.open-epg.com/19398.png"
     },
     {
-      "title": "Sky Serie.it - 17:00 Dr. House: Medical Division",
+      "title": "Sky Nature.it - 19:15 I relitti delle barriere coralline",
       "link": "ignoreme",
-      "info": "In onda: 17:00 - 17:55\n\nS4 Ep14 Vivere il sogno - House e' convinto che uno degli attori della sua soap opera preferita abbia un problema e decide di intervenire. Intanto, Wilson e Amber discutono per la prima volta.\n\nA seguire (17:55): Friends",
+      "info": "In onda: 19:15 - 20:15\n\nS1 Ep1 I relitti di Bonaire - Bonaire, una piccola isola dei Caraibi Sudoccidentali, ospita uno degli ecosistemi corallini piu' pittoreschi e numerosi, sorprendenti relitti.\n\nA seguire (20:15): I relitti delle barriere coralline",
+      "thumbnail": "https://images.open-epg.com/19393.png"
+    },
+    {
+      "title": "Sky News.it - 19:30 UK Tonight With Sarah-Jane Mee",
+      "link": "ignoreme",
+      "info": "In onda: 19:30 - 20:00\n\nSarah-Jane Mee has all the latest news from across the UK.\n\nA seguire (20:00): The World with Yalda Hakim",
+      "thumbnail": "https://images.open-epg.com/19400.png"
+    },
+    {
+      "title": "Sky Serie.it - 19:15 Rosa Elettrica - In fuga con il nemico",
+      "link": "ignoreme",
+      "info": "In onda: 19:15 - 20:15\n\nRosa viene chiamata a prendere una scelta: darsi per vinta e scontare le conseguenze delle sue azioni o credere in se' stessa e andare avanti?\n\nA seguire (20:15): Rosa Elettrica - In fuga con il nemico",
       "thumbnail": "https://images.open-epg.com/19402.png"
     },
     {
-      "title": "Sky Sport 4K.it - 17:30 GP Cina: Gara",
+      "title": "Sky Sport 4K.it - 18:30 Bournemouth - Manchester City",
       "link": "ignoreme",
-      "info": "In onda: 17:30 - 18:30\n\nSeconda gara della stagione: dopo la doppietta Mercedes a Melbourne chi trionfera' a Shanghai? Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero.\n\nA seguire (18:30): Bournemouth - Manchester City",
+      "info": "In onda: 18:30 - 20:30\n\n... City Premier League. - Dal Vitality Stadium di Bournemouth, Inghilterra.\n\nA seguire (20:30): FC Bayern Monaco - Paris Saint-Germain",
       "thumbnail": "https://images.open-epg.com/19403.png"
     },
     {
-      "title": "Sky Sport Calcio.it - 16:00 Manchester United - Nottingham Forest",
+      "title": "Sky Sport Calcio.it - 19:15 Chelsea - Tottenham",
       "link": "ignoreme",
-      "info": "In onda: 16:00 - 18:00\n\n... Forest Premier League. - Dall'Old Trafford di Manchester, Inghilterra.\n\nA seguire (19:15): Chelsea - Tottenham",
+      "info": "In onda: 19:15 - 21:15\n\n... Premier League. - Dallo Stamford Bridge di Londra, Inghilterra.\n\nA seguire (21:15): Uefa Europa&Conference League Magazine - Ep. 20 - Uefa Europa&Conference League Magazine Ep.20 18/05/2026",
       "thumbnail": "https://images.open-epg.com/19405.png"
     },
     {
-      "title": "Sky Sport Golf.it - 15:00 Golf Dp World Tour - Ep. 64 - Golf Dp World Tour 2026 Turkish Airlines Open 4a Giornata 03/05/2026",
+      "title": "Sky Sport F1.it - 19:00 GP Canada",
       "link": "ignoreme",
-      "info": "In onda: 15:00 - 18:00\n\n... World Tour. - Tutti i tornei del tour europeo, il DP World Tour.\n\nA seguire (19:00): Giorno 4",
+      "info": "In onda: 19:00 - 20:00\n\nEdizione n.74. 20 piloti e un solo obiettivo: diventare il nuovo campione del mondo! Verstappen in pole position. TC: Vanzini-Gene'-Chinchero. Analisi e aggiornamenti con Bobbi e Sangiorgio.\n\nA seguire (20:00): Ep.1",
+      "thumbnail": "https://images.open-epg.com/19406.png"
+    },
+    {
+      "title": "Sky Sport Golf.it - 19:00 Giorno 4",
+      "link": "ignoreme",
+      "info": "In onda: 19:00 - 22:00\n\nDall'Augusta National Golf Club di Augusta, Stati Uniti\n\nA seguire (22:00): Hero Indian Open: Giorno 4",
       "thumbnail": "https://images.open-epg.com/19407.png"
+    },
+    {
+      "title": "Sky Sport Max.it - 19:00 Shanghai",
+      "link": "ignoreme",
+      "info": "In onda: 19:00 - 21:00\n\nIl piu' importante torneo di atletica del mondo, dove si sfidano campioni provenienti da ogni paese.\n\nA seguire (21:00): Finale: Da definire - Da definire",
+      "thumbnail": "https://images.open-epg.com/19408.png"
+    },
+    {
+      "title": "Sky Sport MotoGP.it - 19:00 GP Catalogna: Sprint Race",
+      "link": "ignoreme",
+      "info": "In onda: 19:00 - 19:45\n\nSesto appuntamento del mondiale 2026: al Montmelo', in Spagna, si accendono i motori per la Sprint della MotoGP. Telecronaca Meda - Sanchini\n\nA seguire (19:45): GP Catalogna: Gara",
+      "thumbnail": "https://images.open-epg.com/19409.png"
     },
     {
       "title": "Sky Sport Tennis.it - 08:30 19/05/2026",
@@ -117,15 +177,15 @@
       "thumbnail": "https://images.open-epg.com/19404.png"
     },
     {
-      "title": "Sky Sport Uno.it - 08:30 19/05/2026",
+      "title": "Sky TG24.it - 19:37 Wow",
       "link": "ignoreme",
-      "info": "In onda: 08:30 - 17:45\n\nTutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani.\n\nA seguire (17:45): Forti come un leone",
-      "thumbnail": "https://images.open-epg.com/19410.png"
+      "info": "In onda: 19:37 - 19:53\n\nL'appuntamento quotidiano con le principali notizie di cultura, cinema, musica, arte e intrattenimento.\n\nA seguire (19:53): Sky Meteo24",
+      "thumbnail": "https://images.open-epg.com/19411.png"
     },
     {
-      "title": "Sky Uno.it - 17:00 GialappaShow",
+      "title": "Sky Uno.it - 19:40 Cucine da incubo",
       "link": "ignoreme",
-      "info": "In onda: 17:00 - 19:40\n\nS7 Ep8 Gialappashow S.7 Ep.08 - Torna l'irriverente show della Gialappa's Band e del Mago Forest, un appuntamento cult tra comicita' surreale, grandi ospiti e commenti esilaranti alle trasmissioni piu' amate.\n\nA seguire (19:40): Cucine da incubo",
+      "info": "In onda: 19:40 - 20:55\n\nS12 Ep5 La Coppetella, Jesi - La proprietaria del locale\n\nA seguire (20:55): Cucine da incubo",
       "thumbnail": "https://images.open-epg.com/19413.png"
     },
     {
