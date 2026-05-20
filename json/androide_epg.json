@@ -6,174 +6,180 @@
     {
       "title": "Androide - EPG",
       "link": "ignoreme",
-      "info": "Aggiornato: 20/05/2026 20:01"
+      "info": "Aggiornato: 20/05/2026 22:19"
     },
     {
-      "title": "DAZN 2.it - 16:00 Nessun evento in onda",
+      "title": "DAZN 1.it - 22:00 DAZN 1",
       "link": "ignoreme",
-      "info": "In onda: 16:00 - 22:00\n\nDAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (22:00): Nessun evento in onda",
+      "info": "In onda: 22:00 - 04:00\n\nDAZN 1\n\nA seguire (04:00): DAZN 1",
+      "thumbnail": "https://images.open-epg.com/19310.png"
+    },
+    {
+      "title": "DAZN 2.it - 22:00 Nessun evento in onda",
+      "link": "ignoreme",
+      "info": "In onda: 22:00 - 04:00\n\nDAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (04:00): Nessun evento in onda",
       "thumbnail": "https://images.open-epg.com/19311.png"
     },
     {
-      "title": "Sky Arte.it - 19:15 Franco Battiato - Il tributo",
+      "title": "Sky Arte.it - 22:15 33 giri Italian masters",
       "link": "ignoreme",
-      "info": "In onda: 19:15 - 20:15\n\nUno speciale per ricordare Franco Battiato attraverso la voce e la musica dei suoi amici artisti. Nel secondo episodio ripercorriamo la sua originale discografia.\n\nA seguire (20:15): Franco Battiato - Il tributo",
+      "info": "In onda: 22:15 - 23:05\n\nS1 Ep7 Franco Battiato: La voce del padrone - Ci sono album che hanno segnato la storia della musica italiana. Andiamo alla scoperta dei loro segreti. Davanti ai mixer ospiti d'eccezione commenteranno le tracce.\n\nA seguire (23:05): 33 giri Italian masters",
       "thumbnail": "https://images.open-epg.com/19379.png"
     },
     {
-      "title": "Sky Atlantic.it - 19:15 Breaking Bad",
+      "title": "Sky Atlantic.it - 22:10 Rosa Elettrica - In fuga con il nemico",
       "link": "ignoreme",
-      "info": "In onda: 19:15 - 20:10\n\nS4 Ep4 La versione di Skyler - Walt e Skyler fanno credere a Hank e Marie che i loro guadagni provengano dal gioco d'azzardo. Intanto, Hank comincia a subodorare la collusione del chimico in un caso che sta seguendo.\n\nA seguire (20:10): Breaking Bad",
+      "info": "In onda: 22:10 - 23:05\n\nRosa e' decisa a proseguire l'indagine, ma insieme a Cociss deve recuperare un indizio fondamentale. Insieme dovranno superare una missione impossibile.\n\nA seguire (23:05): Euphoria",
       "thumbnail": "https://images.open-epg.com/19381.png"
     },
     {
-      "title": "Sky Cinema Action.it - 19:00 Robin Hood principe dei ladri",
+      "title": "Sky Cinema Action.it - 21:25 Suicide Squad",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 21:25\n\nKevin Costner, Alan Rickman e Morgan Freeman nell'avventuroso cult anni 90. Robin Hood addestra un gruppo di ribelli per sconfiggere la tirannia dello sceriffo di Nottingham (USA 1991)\n\nA seguire (21:25): Suicide Squad",
+      "info": "In onda: 21:25 - 23:35\n\nWill Smith, Margot Robbie, Jared Leto e Viola Davis nel cinecomic premiato con l'Oscar al trucco. Un team di supercriminali viene reclutato dall'Intelligence per una rischiosa missione (USA 2016)\n\nA seguire (23:35): Elephant white",
       "thumbnail": "https://images.open-epg.com/19383.png"
     },
     {
-      "title": "Sky Cinema Comedy.it - 19:00 D.N.A. - Decisamente Non Adatti",
+      "title": "Sky Cinema Comedy.it - 22:10 I delitti del BarLume - Resort Paradiso",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 20:30\n\nEsordio alla regia di Lillo & Greg, star di una commedia degli equivoci con Anna Foglietta e Francesco Mura. Due ex compagni di scuola decidono di scambiarsi i rispettivi codici genetici (ITA 2020)\n\nA seguire (20:30): Bar Sport",
+      "info": "In onda: 22:10 - 23:50\n\nVentesimo capitolo della produzione Sky Original con i protagonisti del BarLume. Fra criminali, omicidi irrisolti e professionisti dell'inganno, un'avventura in cui niente e' come sembra (ITA 2023).\n\nA seguire (23:50): Starsky & Hutch",
       "thumbnail": "https://images.open-epg.com/19384.png"
     },
     {
-      "title": "Sky Cinema Drama.it - 19:00 Julieta",
+      "title": "Sky Cinema Drama.it - 20:45 La stanza accanto",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 20:45\n\nIspirandosi a tre racconti di Alice Munro, Pedro Almodovar dipinge un ritratto femminile. Una donna ripercorre il passato per raccontare alla figlia i segreti della propria vita (ESP 2016)\n\nA seguire (20:45): La stanza accanto",
+      "info": "In onda: 20:45 - 22:35\n\nJulianne Moore e Tilda Swinton nella delicata pellicola di Pedro Almodovar, Leone d'oro a Venezia. Dopo anni senza contatti, due amiche si ritrovano in una situazione commovente (ESP 2024)\n\nA seguire (22:35): The Fabelmans",
       "thumbnail": "https://images.open-epg.com/19385.png"
     },
     {
-      "title": "Sky Cinema Due.it - 19:00 Anora",
+      "title": "Sky Cinema Due.it - 21:20 Giulio Regeni: Tutto il male del mondo",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 21:20\n\n5 Oscar e Palma d'oro a Cannes alla travolgente commedia di Sean Baker con Mikey Madison e Mark Eydelshteyn. Una spogliarellista di New York sposa il figlio miliardario di un oligarca russo, ma i suoceri inviano i loro sgherri negli Stati Uniti per annullare il matrimonio (USA 2024)\n\nA seguire (21:20): Giulio Regeni: Tutto il male del mondo",
+      "info": "In onda: 21:20 - 23:10\n\nIl caso Giulio Regeni raccontato dai suoi genitori: una battaglia lunga anni tra dolore e coraggio alla ricerca di verita' e giustizia (ITA 2025)\n\nA seguire (23:10): Emilia Perez",
       "thumbnail": "https://images.open-epg.com/19387.png"
     },
     {
-      "title": "Sky Cinema Family.it - 19:00 Il cacciatore di giganti",
+      "title": "Sky Cinema Family.it - 21:00 Hop",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 21:00\n\nNicholas Hoult e Ewan McGregor nell'avventura fantasy ispirata alla celebre fiaba. Grazie a dei fagioli magici, un contadino si ritrova in un regno abitato da mostri giganteschi (USA 2013)\n\nA seguire (21:00): Hop",
+      "info": "In onda: 21:00 - 22:35\n\nQuando Fred, investe accidentalmente il coniglio pasquale, non ha la minima idea di quello che dovra' sopportare nei giorni successivi. Per salvare la Pasqua, infatti, dovra' prendersi cura del coniglio e sostituirlo (USA/CAN 2011)\n\nA seguire (22:35): Il giorno piu' bello del mondo",
       "thumbnail": "https://images.open-epg.com/19388.png"
     },
     {
-      "title": "Sky Cinema Romance.it - 19:00 Ufficiale e gentiluomo",
+      "title": "Sky Cinema Romance.it - 21:10 Come fratelli",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 21:10\n\nDue Oscar e due Golden Globe al cult anni 80 che ha lanciato Richard Gere. Il ribelle Zack si iscrive all'accademia per piloti di jet, ma sul suo cammino trova un sadico istruttore (USA 1982)\n\nA seguire (21:10): Come fratelli",
+      "info": "In onda: 21:10 - 22:45\n\nUna commedia agrodolce che a partire da una tragedia racconta la storia di due giovani padri alla riconquista della serenita' (IT 2025)\n\nA seguire (22:45): Il filo nascosto",
       "thumbnail": "https://images.open-epg.com/19389.png"
     },
     {
-      "title": "Sky Cinema Suspense.it - 19:00 French Connection",
+      "title": "Sky Cinema Suspense.it - 21:20 Shining",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 21:20\n\nPallottole e droga nella Marsiglia degli anni 70 in un action con il premio Oscar Jean Dujardin. Un temerario giudice conduce un'ostinata battaglia contro un padrino della malavita (FRA 2014)\n\nA seguire (21:20): Shining",
+      "info": "In onda: 21:20 - 23:25\n\nJack Nicholson nel capolavoro horror di Stanley Kubrick. Dopo averne accettato l'impiego di custode invernale, uno scrittore si trasferisce insieme alla famiglia in un remoto hotel di montagna (USA 1980)\n\nA seguire (23:25): Un giorno di ordinaria follia",
       "thumbnail": "https://images.open-epg.com/19390.png"
     },
     {
-      "title": "Sky Cinema Uno +24.it - 19:15 L'uomo dei ghiacci - The Ice Road",
+      "title": "Sky Cinema Uno +24.it - 21:10 Captain Phillips - Attacco in mare aperto",
       "link": "ignoreme",
-      "info": "In onda: 19:15 - 21:10\n\nMissione impossibile per Liam Neeson in un action con Laurence Fishburne. Per salvare un gruppo di minatori intrappolati, tre camionisti devono attraversare un lago ghiacciato in primavera (USA/CAN 2021)\n\nA seguire (21:10): Captain Phillips - Attacco in mare aperto",
+      "info": "In onda: 21:10 - 23:25\n\nTom Hanks nel film tratto da una storia vera, nominato a 6 premi Oscar. Il capitano di una nave americana assalita dai pirati si offre come ostaggio per salvare il suo equipaggio (USA 2013)\n\nA seguire (23:25): Il diavolo veste Prada",
       "thumbnail": "https://images.open-epg.com/19391.png"
     },
     {
-      "title": "Sky Cinema Uno.it - 19:15 Don't Let Go",
+      "title": "Sky Cinema Uno.it - 21:05 Troy",
       "link": "ignoreme",
-      "info": "In onda: 19:15 - 21:05\n\nThriller soprannaturale della Blumhouse con David Oyelowo. Dopo aver ricevuto una telefonata dalla nipote, appena scomparsa, un detective prova a risolvere il caso con il suo aiuto (USA 2019)\n\nA seguire (21:05): Troy",
+      "info": "In onda: 21:05 - 23:50\n\nBrad Pitt, Eric Bana e Orlando Bloom nel kolossal ispirato al poema omerico. Dopo il rapimento di Elena da parte di Paride, Agamennone guida gli spartani contro i troiani (USA/GBR 2004)\n\nA seguire (23:50): Scordato",
       "thumbnail": "https://images.open-epg.com/19392.png"
     },
     {
-      "title": "Sky Classica.it - 19:25 Merzouki - Zephyr",
+      "title": "Sky Classica.it - 22:15 Almanacco di Bellezza",
       "link": "ignoreme",
-      "info": "In onda: 19:25 - 20:50\n\nUna nuova creazione del coreografo francese Mourad Merzouki - Musica di Armand Amar - Compagnia Kaefig Dancers - con Soirmi Amada, Ethan Cazaux, Wissam Seddiki, Ana Teresa de Jesus (Creteil, Maison des Arts - 2021)\n\nA seguire (20:50): Claudio Abbado: Gala di S.Silvestro - 3",
+      "info": "In onda: 22:15 - 23:00\n\nPiero Maranghi, direttore di Sky Classica, passa in rassegna, anniversari e ricorrenze legati la mondo dell'arte, della cultura, della storia e dello sport. In studio con lui, il collezionista ed esperto d'arte Leonardo Piccinini\n\nA seguire (23:00): Martin Y Soler - L'Arbore di Diana",
       "thumbnail": "https://images.open-epg.com/4100139.png"
     },
     {
-      "title": "Sky Crime.it - 20:00 Profondo Nero Di Carlo Lucarelli",
+      "title": "Sky Crime.it - 21:50 Delitto al Motel",
       "link": "ignoreme",
-      "info": "In onda: 20:00 - 20:55\n\nS3 Ep3 Milena Sutter - Milena Sutter, 13 anni, scompare e il suo corpo viene ritrovato nel mare meno di un mese dopo. Ma qualcuno l'ha strangolata e uccisa, prima di gettarla in acqua.\n\nA seguire (20:55): Delitto al Motel",
+      "info": "In onda: 21:50 - 22:50\n\nS1 Ep2 Spari nella notte - Dopo che diversi ospiti del La Quinta Inn sentono colpi di pistola nel cuore della notte, la polizia arriva al motel e scopre il corpo di una donna.\n\nA seguire (22:50): Delitti",
       "thumbnail": "https://images.open-epg.com/19394.png"
     },
     {
-      "title": "Sky Documentaries +1.it - 19:15 C per Complotto",
+      "title": "Sky Documentaries +1.it - 22:10 Giulio Regeni: Tutto il male del mondo",
       "link": "ignoreme",
-      "info": "In onda: 19:15 - 20:15\n\nNuove prove rivelano i segreti di un programma nazista per la costruzione di una bomba nucleare.\n\nA seguire (20:15): Giulio Regeni: Tutto il male del mondo",
+      "info": "In onda: 22:10 - 00:05\n\nIl caso Giulio Regeni raccontato dai suoi genitori: una battaglia lunga anni tra dolore e coraggio alla ricerca di verita' e giustizia.\n\nA seguire (00:05): Un avvertimento prima di iniziare",
       "thumbnail": "https://images.open-epg.com/nologo.png"
     },
     {
-      "title": "Sky Documentaries.it - 19:15 Giulio Regeni: Tutto il male del mondo",
+      "title": "Sky Documentaries.it - 21:10 Giulio Regeni: Tutto il male del mondo",
       "link": "ignoreme",
-      "info": "In onda: 19:15 - 21:10\n\n... del mondo. - Il caso Giulio Regeni raccontato dai suoi genitori: una battaglia lunga anni tra dolore e coraggio alla ricerca di verita' e giustizia.\n\nA seguire (21:10): Giulio Regeni: Tutto il male del mondo",
+      "info": "In onda: 21:10 - 23:05\n\nIl caso Giulio Regeni raccontato dai suoi genitori: una battaglia lunga anni tra dolore e coraggio alla ricerca di verita' e giustizia.\n\nA seguire (23:05): Un avvertimento prima di iniziare",
       "thumbnail": "https://images.open-epg.com/19396.png"
     },
     {
-      "title": "Sky Investigation.it - 19:15 Delitti in Paradiso",
+      "title": "Sky Investigation.it - 22:05 The Equalizer",
       "link": "ignoreme",
-      "info": "In onda: 19:15 - 20:15\n\nS7 Ep5 Omicidio nel giorno dei morti - La celebrazione del Giorno dei Morti sull'isola di Saint Marie prende un significato letterale quando Daisy Anderson, organizzatrice di un'asta benefica, viene trovata uccisa.\n\nA seguire (20:15): Delitti in Paradiso",
+      "info": "In onda: 22:05 - 22:55\n\nS5 Ep8 Guns and Roses - Dopo che una ragazzina viene ferita in una sparatoria, la squadra cerca di capire se si tratta di una guerra tra gang collegata a un carico di armi rubate.\n\nA seguire (22:55): Law & Order - I due volti della...",
       "thumbnail": "https://images.open-epg.com/19398.png"
     },
     {
-      "title": "Sky Nature.it - 19:15 Cacciatori africani",
+      "title": "Sky Nature.it - 22:05 L'arena dei grandi felini",
       "link": "ignoreme",
-      "info": "In onda: 19:15 - 20:10\n\nS3 Ep5 Avversari mortali - I terreni di caccia di un branco di cani selvatici sono minacciati da un gruppo di iene.\n\nA seguire (20:10): Cacciatori africani",
+      "info": "In onda: 22:05 - 23:05\n\nS1 Ep2 Sopravvivere all'alluvione - Quando le risorse scarseggiano, le lotte e gli incontri imprevisti sono all'ordine del giorno.\n\nA seguire (23:05): Cuccioli selvaggi",
       "thumbnail": "https://images.open-epg.com/19393.png"
     },
     {
-      "title": "Sky News.it - 20:00 The World with Yalda Hakim",
+      "title": "Sky News.it - 22:00 The Wrap With Anna Botting",
       "link": "ignoreme",
-      "info": "In onda: 20:00 - 20:30\n\nEyewitness reports, interviews and analysis on the big stories around the world with Yalda Hakim.\n\nA seguire (20:30): The World with Yalda Hakim",
+      "info": "In onda: 22:00 - 22:30\n\nDebate, analysis and insight on the biggest news stories of the day from the UK and around the world.\n\nA seguire (22:30): The Wrap With Anna Botting",
       "thumbnail": "https://images.open-epg.com/19400.png"
     },
     {
-      "title": "Sky Serie.it - 19:15 Chicago Med 1^TV",
+      "title": "Sky Serie.it - 21:45 Chicago Med",
       "link": "ignoreme",
-      "info": "In onda: 19:15 - 20:05\n\nS11 Ep8 Triple Threat - Il personale sanitario gestisce le conseguenze private e lavorative derivanti dalle decisioni prese durante un'interruzione di corrente. Il blackout ha colpito duramente, siccome ha interessato l'intera citta'.\n\nA seguire (20:05): Chicago Fire 1^TV",
+      "info": "In onda: 21:45 - 22:35\n\nS11 Ep8 Triple Threat - Il personale sanitario gestisce le conseguenze private e lavorative derivanti dalle decisioni prese durante un'interruzione di corrente. Il blackout ha colpito duramente, siccome ha interessato l'intera citta'.\n\nA seguire (22:35): Chicago Fire",
       "thumbnail": "https://images.open-epg.com/19402.png"
     },
     {
-      "title": "Sky Sport 4K.it - 18:55 Friburgo - Aston Villa Finale",
+      "title": "Sky Sport 4K.it - 22:00 Friburgo - Aston Villa Finale",
       "link": "ignoreme",
-      "info": "In onda: 18:55 - 21:00\n\n... Finale UEFA Europa League. - Tedeschi per il primo storico trofeo europeo in 7 partecipazioni. Villans per la seconda volta sul tetto d' Europa dopo la coppa Campioni vinta nel 1982. TC: Gentile-Montolivo\n\nA seguire (21:00): Europa e Conference League Postpartita",
+      "info": "In onda: 22:00 - 00:00\n\n... Europa League. - Tedeschi per il primo storico trofeo europeo in 7 partecipazioni. Villans per la seconda volta sul tetto d' Europa dopo la coppa Campioni vinta nel 1982. TC: Gentile-Montolivo\n\nA seguire (00:00): GP Miami: Gara",
       "thumbnail": "https://images.open-epg.com/19403.png"
     },
     {
-      "title": "Sky Sport Calcio.it - 18:20 Calcio Campionato Italiano Serie C - Ep. 32 - Calcio Serie C 2^ Turno Playoff Nazionale Ritorno Catania/ Lecco 20/05/2026",
+      "title": "Sky Sport Calcio.it - 22:00 Friburgo - Aston Villa Finale",
       "link": "ignoreme",
-      "info": "In onda: 18:20 - 20:30\n\nNegli 8 precedenti a Catania fra serie A e B, i rossazzurri non hanno mai perso con il bilancio di 4 vittorie e 4 pareggi. 0-0 nella gara d'andata. TC: Antonio Nucera\n\nA seguire (20:30): Forti come un leone",
+      "info": "In onda: 22:00 - 00:00\n\n... Europa League. - Tedeschi per il primo storico trofeo europeo in 7 partecipazioni. Villans per la seconda volta sul tetto d' Europa dopo la coppa Campioni vinta nel 1982. TC: Gentile-Montolivo\n\nA seguire (00:00): UEFA Champions League: storia di un sogno",
       "thumbnail": "https://images.open-epg.com/19405.png"
     },
     {
-      "title": "Sky Sport F1.it - 19:10 GP Canada",
+      "title": "Sky Sport F1.it - 22:15 Canada 2019 - F1",
       "link": "ignoreme",
-      "info": "In onda: 19:10 - 20:15\n\nEdizione n.75 del mondiale. 24 gran premi e 20 piloti con un solo obiettivo: dimostrare di essere il piu' veloce. Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero.\n\nA seguire (20:15): Ep.3",
+      "info": "In onda: 22:15 - 23:20\n\nEdizione numero 70 per il mondiale di Formula 1. Ventuno gran premi, venti piloti e un solo obiettivo: diventare il nuovo campione del mondo! Bottas in pole position.\n\nA seguire (23:20): GP Canada",
       "thumbnail": "https://images.open-epg.com/19406.png"
     },
     {
-      "title": "Sky Sport Golf.it - 19:00 Golf Major Us Pga Championship - Ep. 4 - Golf Major Us Pga Championship 2026 4a Giornata 17/05/2026",
+      "title": "Sky Sport Golf.it - 22:05 Giorno 4",
       "link": "ignoreme",
-      "info": "In onda: 19:00 - 22:05\n\n... Golf: DP World Tour. - Dall'Aronimink Golf Club di Newtown Square, Stati Uniti.\n\nA seguire (22:05): Giorno 4",
+      "info": "In onda: 22:05 - 01:05\n\nDall'Augusta National Golf Club di Augusta, Stati Uniti\n\nA seguire (01:05): South African Open Championship, 4a giornata",
       "thumbnail": "https://images.open-epg.com/19407.png"
     },
     {
-      "title": "Sky Sport Max.it - 20:00 Speciale The Boat Show Preliminary...",
+      "title": "Sky Sport Max.it - 20:55 Pro Recco - Hannover",
       "link": "ignoreme",
-      "info": "In onda: 20:00 - 20:10\n\nI preparativi di Luna Rossa verso le regate preliminari della Louis Vuitton America's Cup\n\nA seguire (20:10): Budoni",
+      "info": "In onda: 20:55 - 22:25\n\n... League. - Seguiamo la Coppa dei Campioni della pallanuoto, organizzata dalla Ligue Europeenne de Natation.\n\nA seguire (22:25): Repubblica Ceca",
       "thumbnail": "https://images.open-epg.com/19408.png"
     },
     {
-      "title": "Sky Sport MotoGP.it - 20:00 Catalunya",
+      "title": "Sky Sport MotoGP.it - 22:05 GP Francia: Sprint Race",
       "link": "ignoreme",
-      "info": "In onda: 20:00 - 21:00\n\nLe analisi e gli approfondimenti sul Gran Premio di Catalunya con Cristiana Buonamano e i suoi ospiti in studio e dal circuito\n\nA seguire (21:00): GP Catalogna: Gara",
+      "info": "In onda: 22:05 - 22:55\n\nQuinto appuntamento del mondiale 2026: a Le Mans, in Francia, si accendono i motori per la Sprint della MotoGP. Telecronaca Meda - Sanchini\n\nA seguire (22:55): GP Francia: Gara",
       "thumbnail": "https://images.open-epg.com/19409.png"
     },
     {
-      "title": "Sky Sport Tennis.it - 20:00 Ep.5",
+      "title": "Sky Sport Tennis.it - 21:30 Tennis: ATP & WTA",
       "link": "ignoreme",
-      "info": "In onda: 20:00 - 20:45\n\nLe interviste e le analisi approfondite degli esperti del mondo del tennis.\n\nA seguire (20:45): Tennis Atp Tour This Week 2026 20/05/2026",
+      "info": "In onda: 21:30 - 00:00\n\nTutti i tornei di tennis internazionali del circuito maschile ATP e di quello femminile WTA, con l'attenzione puntata sui tennisti italiani.\n\nA seguire (00:00): Ep.12",
       "thumbnail": "https://images.open-epg.com/19404.png"
     },
     {
-      "title": "Sky Sport Uno.it - 18:55 Friburgo - Aston Villa Finale",
+      "title": "Sky Sport Uno.it - 22:00 Forti come un leone",
       "link": "ignoreme",
-      "info": "In onda: 18:55 - 21:00\n\n... Finale UEFA Europa League. - Tedeschi per il primo storico trofeo europeo in 7 partecipazioni. Villans per la seconda volta sul tetto d' Europa dopo la coppa Campioni vinta nel 1982. TC: Gentile-Montolivo\n\nA seguire (21:00): Europa e Conference League Postpartita",
+      "info": "In onda: 22:00 - 22:45\n\n... Lassu' qualcuno ti ama. - Le origini del Toro di Radice e Pianelli, squadra-famiglia capace di scalare il campionato con un calcio rivoluzionario e un'identita' operaia destinata alla storia.\n\nA seguire (22:45): Generazione Leicester: 10 anni dopo",
       "thumbnail": "https://images.open-epg.com/19410.png"
     },
     {
@@ -183,27 +189,27 @@
       "thumbnail": "https://images.open-epg.com/19382.png"
     },
     {
-      "title": "Sky TG24.it - 20:00 TG24 mezz'ora",
+      "title": "Sky TG24.it - 22:00 Skyline",
       "link": "ignoreme",
-      "info": "In onda: 20:00 - 20:15\n\nTelegiornale in diretta. I giornali di oggi, lo Sport, il Meteo.\n\nA seguire (20:15): TG24 Preview",
+      "info": "In onda: 22:00 - 22:30\n\nCon Skyline, dal lunedi' al venerdi', vi portiamo dentro tutte le notizie della giornata. Una scansione di quanto successo in Italia e nel mondo, con spazio agli ospiti e alle storie.\n\nA seguire (22:30): TG24 Edicola",
       "thumbnail": "https://images.open-epg.com/19411.png"
     },
     {
-      "title": "Sky Uno.it - 19:15 Foodish",
+      "title": "Sky Uno.it - 20:20 GialappaShow",
       "link": "ignoreme",
-      "info": "In onda: 19:15 - 20:20\n\nS2 Ep39 Foodish S.2 Ep.39 - Joe Bastianich ed Eva Grimaldi alla ricerca della pasta e fagioli piu' Foodish di Verona\n\nA seguire (20:20): GialappaShow",
+      "info": "In onda: 20:20 - 23:00\n\nS7 Ep8 Gialappashow - Torna l'irriverente show della Gialappa's Band e del Mago Forest, un appuntamento cult tra comicita' surreale, grandi ospiti e commenti esilaranti alle trasmissioni piu' amate.\n\nA seguire (23:00): Pechino Express",
       "thumbnail": "https://images.open-epg.com/19413.png"
     },
     {
-      "title": "Zona Dazn 2.it - 16:00 Nessun evento in onda",
+      "title": "Zona Dazn 2.it - 22:00 Nessun evento in onda",
       "link": "ignoreme",
-      "info": "In onda: 16:00 - 22:00\n\nDAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (22:00): Nessun evento in onda",
+      "info": "In onda: 22:00 - 22:00\n\nDAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (22:00): Nessun evento in onda",
       "thumbnail": "https://images.open-epg.com/7515553.png"
     },
     {
-      "title": "Zona Dazn.it - 18:30 Programmazione da definire",
+      "title": "Zona Dazn.it - 22:00 DAZN 1",
       "link": "ignoreme",
-      "info": "In onda: 18:30 - 20:20\n\nI palinsesti sono in via di definizione da parte emittente\n\nA seguire (20:20): Giorgia's Secret - Stag. 2026 Ep. 2 - Claudio Marchisio",
+      "info": "In onda: 22:00 - 22:00\n\nDAZN 1\n\nA seguire (22:00): DAZN 1",
       "thumbnail": "https://images.open-epg.com/7515557.png"
     }
   ]
