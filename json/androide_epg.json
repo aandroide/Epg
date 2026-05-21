@@ -6,12 +6,12 @@
     {
       "title": "Androide - EPG",
       "link": "ignoreme",
-      "info": "Aggiornato: 21/05/2026 17:26"
+      "info": "Aggiornato: 21/05/2026 19:43"
     },
     {
-      "title": "DAZN 1.it - 16:00 Genoa - Milan",
+      "title": "DAZN 1.it - 18:30 Atalanta - Bologna",
       "link": "ignoreme",
-      "info": "In onda: 16:00 - 17:55\n\nSerie A - 37a g. Ambizione, tattica e personalita': la stagione riparte con gli allenatori protagonisti, tra ritorni, rivoluzioni e conferme.\n\nA seguire (17:55): BordoCam Inter - Juventus 2025/26",
+      "info": "In onda: 18:30 - 20:25\n\nSerie A - 37a g. Ambizione, tattica e personalita': la stagione riparte con gli allenatori protagonisti, tra ritorni, rivoluzioni e conferme.\n\nA seguire (20:25): 32a g.",
       "thumbnail": "https://images.open-epg.com/19310.png"
     },
     {
@@ -21,82 +21,118 @@
       "thumbnail": "https://images.open-epg.com/19311.png"
     },
     {
-      "title": "Sky Arte.it - 17:05 Indie Jungle",
+      "title": "Sky Arte.it - 19:15 Manierismo. L'arte piu' pazza del mondo",
       "link": "ignoreme",
-      "info": "In onda: 17:05 - 18:05\n\nS3 Ep2 Giorgio Poi - Un viaggio nella musica dal vivo con i protagonisti della scena indie italiana. In questo episodio: Giorgio Poi.\n\nA seguire (19:15): Manierismo. L'arte piu' pazza del mondo",
+      "info": "In onda: 19:15 - 20:20\n\nS1 Ep3 La grande fuga - Tra i movimenti artistici del Periodo degli Antichi Maestri, il piu' bizzarro e il piu' emozionante e' sicuramente il Manierismo..\n\nA seguire (20:20): Tintoretto - Un ribelle a Venezia",
       "thumbnail": "https://images.open-epg.com/19379.png"
     },
     {
-      "title": "Sky Cinema Comedy.it - 16:55 Compagni di scuola",
+      "title": "Sky Atlantic.it - 19:15 S.W.A.T.",
       "link": "ignoreme",
-      "info": "In onda: 16:55 - 19:00\n\nCarlo Verdone dirige e interpreta una memorabile commedia corale con un grande cast. Un gruppo di ex studenti si ritrova per una rimpatriata fra gag spassose e bilanci impietosi (ITA 1988)\n\nA seguire (19:00): Un figlio di nome Erasmus",
+      "info": "In onda: 19:15 - 20:05\n\nS8 Ep19 Piano criminale - Hicks si sta preparando a lasciare la S.W.A.T. quando sei detenuti evadono da una fabbrica durante un permesso di lavoro. Intanto, Hondo non vuole arrendersi al fatto che Hicks se ne vada.\n\nA seguire (20:05): S.W.A.T.",
+      "thumbnail": "https://images.open-epg.com/19381.png"
+    },
+    {
+      "title": "Sky Cinema Action.it - 19:00 The Running Man",
+      "link": "ignoreme",
+      "info": "In onda: 19:00 - 21:15\n\nAction esplosivo di Edgar Wright con Glenn Powell protagonista, dal romanzo di Stephen King. In cerca di soldi per salvare la figlia malata, Ben partecipa a un programma tv mortale (US/GB 2025)\n\nA seguire (21:15): La mummia",
+      "thumbnail": "https://images.open-epg.com/19383.png"
+    },
+    {
+      "title": "Sky Cinema Comedy.it - 19:00 Un figlio di nome Erasmus",
+      "link": "ignoreme",
+      "info": "In onda: 19:00 - 20:50\n\nLe 'Iene' Luca e Paolo in un road movie con Ricky Memphis. A Lisbona per il funerale di una ex fiamma comune, quattro amici scoprono che la donna ha avuto un figlio da uno di loro. Chi? (ITA 2020)\n\nA seguire (20:50): Il sesso degli angeli",
       "thumbnail": "https://images.open-epg.com/19384.png"
     },
     {
-      "title": "Sky Cinema Due.it - 16:45 Le otto montagne",
+      "title": "Sky Cinema Drama.it - 19:00 Una vita in fuga",
       "link": "ignoreme",
-      "info": "In onda: 16:45 - 19:15\n\nMiglior film ai David di Donatello e Premio della giuria a Cannes per la storia di amicizia tra Pietro (Luca Marinelli) e Bruno (Alessandro Borghi) e il loro legame con la montagna (ITA/FRA 2022)\n\nA seguire (19:15): Sentimental Value",
+      "info": "In onda: 19:00 - 20:55\n\nSean Penn dirige e interpreta con la figlia Dylan il biopic su John Vogel. La doppia vita del piu' famoso e inafferrabile truffatore d'America, raccontata dal punto di vista della figlia (USA/CAN 2021)\n\nA seguire (20:55): Soldato Jane",
+      "thumbnail": "https://images.open-epg.com/19385.png"
+    },
+    {
+      "title": "Sky Cinema Due.it - 19:15 Sentimental Value",
+      "link": "ignoreme",
+      "info": "In onda: 19:15 - 21:30\n\nUn Oscar e Gran premio della giuria a Cannes per il film di Joachim Trier. Due sorelle molto unite affrontano il ritorno del padre, regista carismatico ma assente nelle loro vite (GB/DK 2025)\n\nA seguire (21:30): La stanza del figlio",
       "thumbnail": "https://images.open-epg.com/19387.png"
     },
     {
-      "title": "Sky Cinema Romance.it - 16:55 Amore a seconda vista",
+      "title": "Sky Cinema Family.it - 19:00 Moon il panda",
       "link": "ignoreme",
-      "info": "In onda: 16:55 - 19:00\n\nCommedia romantica dal tocco soprannaturale. Un romanziere si risveglia in un mondo parallelo e deve riconquistare Olivia, la donna che ha gia' sposato nella sua vita originale (FRA/BEL 2019)\n\nA seguire (19:00): In amore niente regole",
+      "info": "In onda: 19:00 - 20:45\n\nDopo\n\nA seguire (20:45): Dora e la città perduta",
+      "thumbnail": "https://images.open-epg.com/19388.png"
+    },
+    {
+      "title": "Sky Cinema Romance.it - 19:00 In amore niente regole",
+      "link": "ignoreme",
+      "info": "In onda: 19:00 - 21:00\n\nGeorge Clooney dirige e interpreta una commedia brillante con Renee Zellweger e John Krasinski. 1925: un capitano di football e un giovane fuoriclasse si innamorano della stessa donna (USA 2008)\n\nA seguire (21:00): The Land of Dreams",
       "thumbnail": "https://images.open-epg.com/19389.png"
     },
     {
-      "title": "Sky Cinema Uno +24.it - 17:20 Rosa Elettrica - In fuga con il nemico",
+      "title": "Sky Cinema Suspense.it - 19:00 Un giorno di ordinaria follia",
       "link": "ignoreme",
-      "info": "In onda: 17:20 - 18:20\n\nRosa viene chiamata a prendere una scelta: darsi per vinta e scontare le conseguenze delle sue azioni o credere in se' stessa e andare avanti?\n\nA seguire (18:20): Rosa Elettrica - In fuga con il nemico",
+      "info": "In onda: 19:00 - 20:55\n\nViaggio allucinato nella follia omicida di un uomo qualunque con Michael Douglas. Intrappolato in un ingorgo stradale, un uomo perde la testa e comincia a uccidere chiunque gli capiti a tiro (USA 1993)\n\nA seguire (20:55): Drop: Accetta o rifiuta",
+      "thumbnail": "https://images.open-epg.com/19390.png"
+    },
+    {
+      "title": "Sky Cinema Uno +24.it - 19:15 Don't Let Go",
+      "link": "ignoreme",
+      "info": "In onda: 19:15 - 21:05\n\nThriller soprannaturale della Blumhouse con David Oyelowo. Dopo aver ricevuto una telefonata dalla nipote, appena scomparsa, un detective prova a risolvere il caso con il suo aiuto (USA 2019)\n\nA seguire (21:05): Troy",
       "thumbnail": "https://images.open-epg.com/19391.png"
     },
     {
-      "title": "Sky Classica.it - 15:30 Giordano - Andrea Chenier",
+      "title": "Sky Cinema Uno.it - 19:15 Cattiva coscienza",
       "link": "ignoreme",
-      "info": "In onda: 15:30 - 17:45\n\nOpera in quattro quadri (1896) su libretto di L.Illica, ispirato alla vita del poeta Andre' Chenier - con H.Sandoval, S.Hendricks, N.Fantini - Wiener Symphoniker - U.Schirmer, dir. - K.Warner, reg. (Bregenz, 2011)\n\nA seguire (19:15): Diana Damrau - Diva divina",
+      "info": "In onda: 19:15 - 21:10\n\nDivertente commedia romantica dal tocco fantastico con Francesco Scianna, Filippo Scicchitano, Matilde Gioli. Per salvare le nozze del suo protetto, una coscienza assume fattezze umane (ITA 2023).\n\nA seguire (21:10): Schegge di paura",
+      "thumbnail": "https://images.open-epg.com/19392.png"
+    },
+    {
+      "title": "Sky Classica.it - 19:15 Diana Damrau - Diva divina",
+      "link": "ignoreme",
+      "info": "In onda: 19:15 - 20:15\n\nDocumentario dedicato a Diana Damrau, la piu' grande soprano di coloratura della lirica, nota appunto in tutto il mondo come ''the leading coloratura soprano in the world'' - Beatrix Conrad, reg. (2009)\n\nA seguire (20:15): Barenboim: Le sonate di Schubert - 5",
       "thumbnail": "https://images.open-epg.com/4100139.png"
     },
     {
-      "title": "Sky Crime.it - 16:50 Nel nome del figlio",
+      "title": "Sky Documentaries +1.it - 19:15 C per Complotto",
       "link": "ignoreme",
-      "info": "In onda: 16:50 - 17:55\n\nS1 Ep1 Senza respiro - La notte del 25 settembre 2005, Federico Aldrovandi non rientro' a casa. Era stato ucciso da due poliziotti, e ci volle la determinazione della madre per fargli giustizia.\n\nA seguire (17:55): Nel nome del figlio",
-      "thumbnail": "https://images.open-epg.com/19394.png"
+      "info": "In onda: 19:15 - 20:15\n\nSotto il Parco Nazionale di Yellowstone si trova uno dei vulcani attivi piu' grandi al mondo.\n\nA seguire (20:15): Branson - Le avventure di una vita",
+      "thumbnail": "https://images.open-epg.com/nologo.png"
     },
     {
-      "title": "Sky Documentaries.it - 16:20 Giulio Regeni: Tutto il male del mondo",
+      "title": "Sky Documentaries.it - 19:15 Branson - Le avventure di una vita",
       "link": "ignoreme",
-      "info": "In onda: 16:20 - 18:15\n\nIl caso Giulio Regeni raccontato dai suoi genitori: una battaglia lunga anni tra dolore e coraggio alla ricerca di verita' e giustizia.\n\nA seguire (19:15): Branson - Le avventure di una vita",
+      "info": "In onda: 19:15 - 20:20\n\nS1 Ep1 Words and Music - Il fondatore del Virgin Group Richard Branson racconta dei suoi problemi con la dislessia e della nascita del suo primo business di successo.\n\nA seguire (20:20): Branson - Le avventure di una vita",
       "thumbnail": "https://images.open-epg.com/19396.png"
     },
     {
-      "title": "Sky Investigation.it - 17:05 Delitti ai Tropici",
+      "title": "Sky Investigation.it - 19:15 The Equalizer",
       "link": "ignoreme",
-      "info": "In onda: 17:05 - 18:10\n\nS3 Ep5 La rapina - Investigando sulla morte di un sacerdote, Melissa e Gaelle approfondiscono la storia di una religiosa che si rivela essere un'ex rapinatrice.\n\nA seguire (19:15): The Equalizer",
+      "info": "In onda: 19:15 - 20:05\n\nS5 Ep9 Angelo rubato - McCall e la squadra cercano una donna incinta scomparsa, temendo per la vita del bambino. Nel frattempo, Dante conosce per la prima volta suo fratello James.\n\nA seguire (20:05): The Equalizer",
       "thumbnail": "https://images.open-epg.com/19398.png"
     },
     {
-      "title": "Sky Serie.it - 16:40 Dr. House: Medical Division",
+      "title": "Sky Nature.it - 19:15 L'incanto delle stagioni",
       "link": "ignoreme",
-      "info": "In onda: 16:40 - 17:35\n\nS5 Ep2 Non e' cancro - Gli organi di un unico donatore causano la morte di diversi pazienti. Intanto, il dottor House assume un detective privato per tenere sotto controllo Wilson.\n\nA seguire (19:20): Beverly Hills 90210",
+      "info": "In onda: 19:15 - 20:15\n\nS1 Ep1 Nuova Inghilterra - Una serie spettacolare su come la natura si adatti alle stagioni in alcuni tra i paesaggi piu' mutevoli del pianeta: Svalbard, Okavango e New England.\n\nA seguire (20:15): L'incanto delle stagioni",
+      "thumbnail": "https://images.open-epg.com/19393.png"
+    },
+    {
+      "title": "Sky News.it - 19:30 UK Tonight With Sarah-Jane Mee",
+      "link": "ignoreme",
+      "info": "In onda: 19:30 - 20:00\n\nSarah-Jane Mee has all the latest news from across the UK.\n\nA seguire (20:00): The World with Yalda Hakim",
+      "thumbnail": "https://images.open-epg.com/19400.png"
+    },
+    {
+      "title": "Sky Serie.it - 19:20 Beverly Hills 90210",
+      "link": "ignoreme",
+      "info": "In onda: 19:20 - 20:10\n\nS1 Ep19 Amore e odio - Brandon deve scrivere un articolo su Roger Azarian, il campione di tennis della scuola. Una volta raccolte alcune informazioni, scopre che in realta' Roger ha seri disturbi psicologici.\n\nA seguire (20:10): Beverly Hills 90210",
       "thumbnail": "https://images.open-epg.com/19402.png"
     },
     {
-      "title": "Sky Sport 4K.it - 17:00 GP Miami: Gara",
+      "title": "Sky Sport 4K.it - 19:15 GP Australia: Gara",
       "link": "ignoreme",
-      "info": "In onda: 17:00 - 19:15\n\nIn Florida quarta gara stagionale: nelle prime tre, ben due vittorie di Kimi Antonelli, leader della classifica. Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero.\n\nA seguire (19:15): GP Australia: Gara",
+      "info": "In onda: 19:15 - 21:15\n\nL'attesa e' finita: scopriamo la nuova F1 con le monoposto rivoluzionarie del 2026 impegnate nella prima gara dell'anno. Telecronaca di Carlo Vanzini, Marc Gene' e Roberto Chinchero.\n\nA seguire (21:15): Psg - Bayern Monaco",
       "thumbnail": "https://images.open-epg.com/19403.png"
-    },
-    {
-      "title": "Sky Sport Calcio.it - 16:00 Bournemouth - Manchester City",
-      "link": "ignoreme",
-      "info": "In onda: 16:00 - 18:00\n\n... Premier League. - Il City ha un solo risultato: se non vince l'Arsenal e' campione. Il Bournemouth cerca punti per la qualificazione alla Champions League. Telecronaca di Federico Zancan\n\nA seguire (18:00): Ep.47",
-      "thumbnail": "https://images.open-epg.com/19405.png"
-    },
-    {
-      "title": "Sky Sport F1.it - 17:00 Ep.3",
-      "link": "ignoreme",
-      "info": "In onda: 17:00 - 17:30\n\nAlle origini del nuovo talento italiano della F1: il legame con la famiglia, le amicizie speciali e il mito di Senna. In questo episodio Antonelli ci svela le sue passioni e ci apre le porte di casa.\n\nA seguire (17:30): F1 Conf. Stampa Piloti",
-      "thumbnail": "https://images.open-epg.com/19406.png"
     },
     {
       "title": "Sky Sport Golf.it - 17:00 1a giornata, Soudal Open",
@@ -105,15 +141,15 @@
       "thumbnail": "https://images.open-epg.com/19407.png"
     },
     {
-      "title": "Sky Sport Max.it - 15:45 Italia - Svizzera",
+      "title": "Sky Sport Max.it - 18:30 Buenos Aires P1: Finale Maschile",
       "link": "ignoreme",
-      "info": "In onda: 15:45 - 17:30\n\n... Campionato mondiale di pallamano maschile. - Le partite di qualificazione al Campionato mondiale di pallamano maschile 2026.\n\nA seguire (17:30): Bermuda",
+      "info": "In onda: 18:30 - 19:45\n\n... Premier Padel. - Seguiamo le gare del Premier Padel Major.\n\nA seguire (19:45): Ep.5",
       "thumbnail": "https://images.open-epg.com/19408.png"
     },
     {
-      "title": "Sky Sport MotoGP.it - 16:45 GP Spagna: Gara",
+      "title": "Sky Sport MotoGP.it - 19:00 GP Stati Uniti: Sprint Race",
       "link": "ignoreme",
-      "info": "In onda: 16:45 - 17:45\n\nQuarto appuntamento del mondiale 2026: a Jerez, in Spagna, si accendono i motori per la gara della MotoGP. Telecronaca Meda - Sanchini\n\nA seguire (17:45): All On Red",
+      "info": "In onda: 19:00 - 19:45\n\nTerzo appuntamento del mondiale 2026: a Austin, in Texas, si accendono i motori per la Sprint della MotoGP. Telecronaca Meda - Sanchini\n\nA seguire (19:45): GP Stati Uniti: Gara",
       "thumbnail": "https://images.open-epg.com/19409.png"
     },
     {
@@ -129,15 +165,15 @@
       "thumbnail": "https://images.open-epg.com/19410.png"
     },
     {
-      "title": "Sky TG24.it - 17:13 TG24 mondo",
+      "title": "Sky TG24.it - 19:37 Wow",
       "link": "ignoreme",
-      "info": "In onda: 17:13 - 17:55\n\nOgni giorno il giro del mondo. Come cambiano gli equilibri internazionali, dove stiamo andando e quali sono i problemi dei popoli che ci circondano.\n\nA seguire (17:56): TG24 Preview",
+      "info": "In onda: 19:37 - 19:53\n\nL'appuntamento quotidiano con le principali notizie di cultura, cinema, musica, arte e intrattenimento.\n\nA seguire (19:53): Sky Meteo24",
       "thumbnail": "https://images.open-epg.com/19411.png"
     },
     {
-      "title": "Sky Uno.it - 16:40 Alessandro Borghese - 4 Ristoranti",
+      "title": "Sky Uno.it - 19:15 Money Road: Ogni tentazione ha... 1^TV",
       "link": "ignoreme",
-      "info": "In onda: 16:40 - 18:00\n\nS9 Ep14 Mantova - Alessandro Borghese e' alla ricerca del miglior ristorante contemporaneo di Mantova. Vera e propria citta' museo, e' una dei principali centri del Rinascimento italiano ed europeo.\n\nA seguire (18:00): Cucine da incubo",
+      "info": "In onda: 19:15 - 21:00\n\n... un prezzo. L'esperimento sociale guidato da Fabio Caressa riapre i battenti: la giungla selvaggia accoglie 12 nuovi partecipanti.\n\nA seguire (21:00): Money Road: Ogni tentazione ha un prezzo",
       "thumbnail": "https://images.open-epg.com/19413.png"
     },
     {
