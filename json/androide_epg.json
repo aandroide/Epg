@@ -6,18 +6,24 @@
     {
       "title": "Androide - EPG",
       "link": "ignoreme",
-      "info": "Aggiornato: 05/07/2026 19:02"
+      "info": "Aggiornato: 05/07/2026 21:52"
     },
     {
-      "title": "Zona Dazn 2.it - 22:00 Nessun evento in onda",
+      "title": "Sky Sport.it - 11:30 7a giornata",
       "link": "ignoreme",
-      "info": "In onda: 22:00 - 22:00\n\nDAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (22:00): Nessun evento in onda",
+      "info": "In onda: 11:30 - 23:30\n\nWimbledon 7a giornata: PEGULA - JOVIC (Boschetto - Reggi)",
+      "thumbnail": "https://images.open-epg.com/19382.png"
+    },
+    {
+      "title": "Zona Dazn 2.it - 16:00 Nessun evento in onda",
+      "link": "ignoreme",
+      "info": "In onda: 16:00 - 22:00\n\nDAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (22:00): Nessun evento in onda",
       "thumbnail": "https://images.open-epg.com/7515553.png"
     },
     {
-      "title": "Zona Dazn.it - 00:30 DAZN 1",
+      "title": "Zona Dazn.it - 21:29 Le grandi rivalità Gianluigi Buffon",
       "link": "ignoreme",
-      "info": "In onda: 00:30 - 22:30\n\nDAZN 1\n\nA seguire (22:30): DAZN 1",
+      "info": "In onda: 21:29 - 22:30\n\nLe grandi rivalita' Gianluigi Buffon - Giovanni Barsotti, Omar Aamoum e Hernanes ci portano alla scoperta delle grandi rivalita' con l'ospite Gianluigi Buffon nella prima puntata della serie con gli oggetti collezionati dal grande campione.\n\nA seguire (22:30): DAZN 1",
       "thumbnail": "https://images.open-epg.com/7515557.png"
     }
   ]
