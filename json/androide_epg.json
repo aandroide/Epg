@@ -6,18 +6,24 @@
     {
       "title": "Androide - EPG",
       "link": "ignoreme",
-      "info": "Aggiornato: 11/07/2026 18:45"
+      "info": "Aggiornato: 11/07/2026 21:39"
     },
     {
-      "title": "Zona Dazn 2.it - 22:00 Nessun evento in onda",
+      "title": "Sky Sport.it - 11:30 Wimbledon",
       "link": "ignoreme",
-      "info": "In onda: 22:00 - 22:00\n\nDAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (22:00): Nessun evento in onda",
+      "info": "In onda: 11:30 - 22:00\n\n13a giornata Wimbledon: HEWETT/REID-FERNANDEZ/ODA, (Girls) SUN - PUSHKAREVA, (Boys) MIGUEL/SESKO-ANTONIUS/JOHNSON",
+      "thumbnail": "https://images.open-epg.com/19382.png"
+    },
+    {
+      "title": "Zona Dazn 2.it - 16:00 Nessun evento in onda",
+      "link": "ignoreme",
+      "info": "In onda: 16:00 - 22:00\n\nDAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (22:00): Nessun evento in onda",
       "thumbnail": "https://images.open-epg.com/7515553.png"
     },
     {
-      "title": "Zona Dazn.it - 22:30 DAZN 1",
+      "title": "Zona Dazn.it - 18:41 Bostik: La Bodega de D10S",
       "link": "ignoreme",
-      "info": "In onda: 22:30 - 22:30\n\nDAZN 1\n\nA seguire (22:30): DAZN 1",
+      "info": "In onda: 18:41 - 22:30\n\nLa storia di Antonio Esposito, noto come 'Bostik' nei Quartieri Spagnoli di Napoli che negli anni '90 fece realizzare un murales in onore del Pibe de Oro. Oggi la piazza dell'opera e' meta turistica.\n\nA seguire (22:30): DAZN 1",
       "thumbnail": "https://images.open-epg.com/7515557.png"
     }
   ]
