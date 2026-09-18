@@ -6,12 +6,18 @@
     {
       "title": "Androide - EPG",
       "link": "ignoreme",
-      "info": "Aggiornato: 18/09/2026 17:57"
+      "info": "Aggiornato: 18/09/2026 20:23"
     },
     {
-      "title": "Zona Dazn.it - 17:03 Italia: un lavoro di squadra",
+      "title": "Zona Dazn 2.it - 16:00 Nessun evento in onda",
       "link": "ignoreme",
-      "info": "In onda: 17:03 - 18:50\n\nIl presidente della FIGC Giovanni Malago' affronta le principali sfide del calcio italiano. Dai giovani al rilancio della Nazionale, il ruolo di Paolo Maldini, la Serie A e il calcio femminile.\n\nA seguire (18:50): Italia - Slovenia",
+      "info": "In onda: 16:00 - 22:00\n\nDAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (22:00): Nessun evento in onda",
+      "thumbnail": "https://images.open-epg.com/7515553.png"
+    },
+    {
+      "title": "Zona Dazn.it - 18:45 Espanyol - Elche",
+      "link": "ignoreme",
+      "info": "In onda: 18:45 - 20:53\n\nLiga - 7a g. Dal trionfo in New Jersey al ritorno del calcio in Spagna: e' LaLiga EA Sports dei campioni del mondo.\n\nA seguire (20:53): Cult - Collezionali tutti! 2026 - Stag. 2026 Ep. 8 - L'attimo fuggente Filippo Tortu",
       "thumbnail": "https://images.open-epg.com/7515557.png"
     }
   ]
