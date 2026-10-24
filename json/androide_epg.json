@@ -6,7 +6,7 @@
     {
       "title": "Androide - EPG",
       "link": "ignoreme",
-      "info": "Aggiornato: 24/10/2026 21:58"
+      "info": "Aggiornato: 25/10/2026 00:47"
     },
     {
       "title": "DAZN 1.it - Nessun programma disponibile",
@@ -201,9 +201,9 @@
       "thumbnail": "https://images.open-epg.com/19413.png"
     },
     {
-      "title": "Zona Dazn 2.it - 18:00 Nessun evento in onda",
+      "title": "Zona Dazn 2.it - 00:00 Nessun evento in onda",
       "link": "ignoreme",
-      "info": "In onda: 18:00 - 00:00\n\nDAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (00:00): Nessun evento in onda",
+      "info": "In onda: 00:00 - 23:00\n\nDAZN 2 si attivera' in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (23:00): Nessun evento in onda",
       "thumbnail": "https://images.open-epg.com/7515553.png"
     },
     {
@@ -213,9 +213,9 @@
       "thumbnail": "https://images.open-epg.com/1700.png"
     },
     {
-      "title": "Zona Dazn.it - 20:52 Atletico Madrid - Deportivo La Coruna",
+      "title": "Zona Dazn.it - 00:30 DAZN 1",
       "link": "ignoreme",
-      "info": "In onda: 20:52 - 23:01\n\nLiga - 10a g. Dal trionfo in New Jersey al ritorno del calcio in Spagna: e' LaLiga EA Sports dei campioni del mondo.\n\nA seguire (23:01): Davide Frattesi",
+      "info": "In onda: 00:30 - 23:30\n\nDAZN 1\n\nA seguire (23:30): DAZN 1",
       "thumbnail": "https://images.open-epg.com/7515557.png"
     }
   ]
